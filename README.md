@@ -1,4 +1,4 @@
-# Project Description
+# Our Big Goal
 We seek to transform practices around technology, product and procurement in the Alaska Department of Health and Social Services (DHSS) _so that_ the department can more successfully administer the various benefit programs (Medicaid, Foodstamps (SNAP), Temporary assistance (TANF) etc.) for which they are responsible.
 
 # The Challenge
