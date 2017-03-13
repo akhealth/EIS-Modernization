@@ -1,5 +1,5 @@
 # Welcome!
-This repo contains documentation describing the Alaska Department of Health and Social Services (DHSS) modernization project. It is intended to be a place where project participants can keep track of the overall project goals, progress and learnings as we work. It is also intended to be a project 'home page' where members can access important and up-to-date project information.
+This repo contains documentation describing the Alaska Department of Health and Social Services (DHSS) modernization project. It is intended to be a place where project participants can keep track of the overall project goals, decision framework, progress to date and learnings as we work. It is also intended to be a project 'home page' where members can access important and up-to-date project information.
 
 ## Our Big Goal
 We seek to transform practices around technology, product and procurement in the DHSS _so that_ the department can more successfully administer the various benefit programs (Medicaid, Foodstamps (SNAP), Temporary assistance (TANF) etc.) for which they are responsible.
