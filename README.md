@@ -11,7 +11,7 @@ ARIES has arguably also caused a _significant decrease in worker productivity_ a
 # Our Hypothesis
 We want to move away from a legacy "Big Bang" waterfall acquisitions process to a more modular approach, emphasizing user centered design, agile product development, and DevOps practices. This will incrementally improve the current situation in a measurable and sustainable way, and eventually allow the continued migration of programs away from the EIS system and onto something more modern, flexible and maintainable.
 
-We will know we are successful, if we can increase worker productivity and morale, among other things, and if benefits are being provided in a timely manner to those who are eligible. We are currently focused on getting a win in this direction fairly soon that we can show State workers and the Legislature that we are moving in the right direction.
+We will know we are successful, if we can increase worker productivity and morale, among other things, and if benefits are being provided in a timely manner to those who are eligible. We are currently focused on getting a win here fairly soon that we can show State workers and the Legislature that we are moving in the right direction.
 
 # Near-term Milestones
 1. Identify product owner and team - Done 2/28/17
