@@ -15,8 +15,8 @@ We will know we are successful, if we can increase worker productivity and moral
 
 # Near-term Milestones
 1. Identify product owner and team - Done 2/28/17
-2. Identify first candidate for acquisition - Done 3/2/17
-3. Prototype to de-risk/validate the first buy - Doing
+2. Identify where to start - Done 3/2/17
+3. Validate starting point - Doing
 4. Acquire a vendor - To Do
 5. First acquisition - To Do
 
