@@ -27,6 +27,7 @@ We will know we are successful, if we can increase worker productivity and moral
 * [Project Trello Board](https://trello.com/b/siAFtoWJ/alaska-medicaid-eligibility-information-system-replacement-eis-r-project)
 * [MURAL of workshop findings](https://app.mural.ly/t/gsa6/m/gsa6/1488927409455/view/3842912505)
 * [Project Folder](https://drive.google.com/drive/u/0/folders/0B4B0xeCMEaFyYmE0VFhTR3lTSms)
+* [Research Synthesis]
 
 ## Related projects
 * [CMS project]
