@@ -2,7 +2,7 @@
 This repo contains documentation describing the Alaska Department of Health and Social Services (DHSS) modernization project. It is intended to be a place where project participants can keep track of the overall project goals, the decision framework, progress to date and learnings as we work. It is also intended to be a project 'home page' where members can access important and up-to-date project information that exists somewhere else.
 
 ## Our Big Goal
-We seek to transform practices around technology, product and procurement in the Alaska DHSS _so that_ it can more successfully administer the various benefit programs (Medicaid, Foodstamps (SNAP), Temporary assistance (TANF) etc.) for which it is responsible.
+We seek to transform practices around technology, product and procurement in the Alaska DHSS _so that_ it can more successfully administer the various benefit programs (Medicaid, Food Stamps (SNAP), Temporary assistance (TANF) etc.) for which it is responsible.
 
 ## The Challenge
 The challenge is rooted in the need for Alaska to migrate these programs off of their "old legacy" eligibility system, EIS, to something that costs less to operate and is more flexible to change. The EIS system does what it does well, but it is built in a old technology (COBOL on a mainframe) that is difficult to change. It is also expensive to host, and as other agencies in Alaska migrate away from the system, DHSS will be responsible for more and more of this cost. Further, expertise for this type of technology is aging out, so it will be harder and harder to support it going forward. Moving away from this system is the ultimate goal.
