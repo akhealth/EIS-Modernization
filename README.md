@@ -16,6 +16,9 @@ We want to move away from a legacy "Big Bang" waterfall acquisitions process to 
 
 We will know we are successful, if we can increase worker productivity and morale, among other things, and if benefits are being provided in a timely manner to those who are eligible. We are currently focused on getting a win here fairly soon so that we can show State workers and the Legislature that we are moving in the right direction.
 
+## Risks
+* We won't be able to find enough vendors that understand our approach to building
+
 ## Near-term Milestones
 1. Identify product owner and team - Done 2/28/17
 2. Identify where to start - Done 3/2/17 (Search API and UI to support)
