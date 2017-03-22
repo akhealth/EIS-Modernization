@@ -17,14 +17,16 @@ We want to move away from a legacy "Big Bang" waterfall acquisitions process to 
 We will know we are successful, if we can increase worker productivity and morale, among other things, and if benefits are being provided in a timely manner to those who are eligible. We are currently focused on getting a win here fairly soon so that we can show State workers and the Legislature that we are moving in the right direction.
 
 ## Risks
-* We won't be able to find enough vendors that understand our approach to building
+* The depth of the vendor pool available that understands agile delivery and can do modular procurement might be limited, at least in the early phases of the project.
+* The LOE required to access data across multiple environments (ARIES database, staging table, MCI, Mainframe) is not well understood yet.
+* The availability of appropriate platforms within the state technology environment for deploying prototypes is not yet well known.
 
 ## Near-term Milestones
-1. Identify product owner and team - Done 2/28/17
-2. Identify where to start - Done 3/2/17 (Search API and UI to support)
-3. Validate starting point - Doing
-4. Acquire a vendor - To Do
-5. First acquisition - To Do
+- [x] Identify product owner and team - Done 2/28/17
+- [x] Identify where to start - Done 3/2/17 (Search API and UI to support)
+- [ ] Validate starting point - In Progress
+- [ ] Acquire a vendor - To Do
+- [ ] First acquisition - To Do
 
 ## Important Resources
 * [Alaska organizational chart](http://mur.al/vzV3BEBJ)
