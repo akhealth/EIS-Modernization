@@ -39,7 +39,7 @@ We will know we are successful, if we can increase worker productivity and moral
 ## Related projects
 * [CMS project]
 * [MO MMIS Modernization]
-* [Protype]
+* [Prototype]
 
 ## Contributing to this repo
 * Read the [CONTRIBUTING](CONTRIBUTING.md) Policy
