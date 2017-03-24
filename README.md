@@ -18,8 +18,8 @@ We will know we are successful, if we can increase worker productivity and moral
 
 ## Risks
 * The depth of the vendor pool available that understands agile delivery and can do modular procurement might be limited, at least in the early phases of the project.
-* The LOE required to access data across multiple environments (ARIES database, staging table, MCI, Mainframe) is not well understood yet.
-* The availability of appropriate platforms within the state technology environment for deploying prototypes is not yet well known.
+* The LOE required to access data across multiple environments (ARIES database, staging table, MCI, Mainframe) is not well known yet.
+* The availability of appropriate platforms within the state technology environment for deploying prototypes is not well understood yet.
 
 ## Near-term Milestones
 - [x] Identify product owner and team - Done 2/28/17
