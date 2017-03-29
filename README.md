@@ -37,6 +37,11 @@ We will know we are successful, if we can increase worker productivity and moral
 * [Project Folder](https://drive.google.com/drive/u/0/folders/0B4B0xeCMEaFyYmE0VFhTR3lTSms)
 * [Research Synthesis]
 
+
+## System Information (User account must be granted by the State of Alaska)
+* Link to the SSP: https://uat.aries.alaska.gov 
+* Link to the Worker Portal: https://uat.myaries.alaska.gov 
+
 ## Related projects
 * [CMS project]
 * [MO MMIS Modernization]
