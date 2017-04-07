@@ -1,4 +1,4 @@
-# Product design strategy
+# Modular product design strategy
 
 Alaska is shifting development of the ARIES system to a more fully modular approach.
 
