@@ -29,8 +29,28 @@ We will know we are successful, if we can increase worker productivity and moral
 - [ ] Acquire a vendor - To Do
 - [ ] First acquisition - To Do
 
-## Strategy materials
-- [Modular product experience](modular-experience.md)
+## Product Vision & Strategy
+
+**Product vision**
+
+- [ ] Define product vision
+
+**Strategy**
+
+- [ ] Data considerations
+   - Ontology - [definition](https://en.wikipedia.org/wiki/Ontology_(information_science))
+- [ ] DevOp
+   - Infrastructure, process
+- [ ] Communications
+   - Internal
+   - External
+- [ ] High-level navigation/IA scheme
+   - Generalize it so that vendors can concentrate on the specific thing they were asked to do, and not step all over each other
+- [ ] Alignment with CMS
+   - APD
+   - Interoperability
+- [ ] Procurement approach
+- [x] [Modular product experience and transformation](modular-experience.md)
 
 ## Important Resources
 * [Alaska organizational chart](http://mur.al/vzV3BEBJ)
