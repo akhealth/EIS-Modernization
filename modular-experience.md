@@ -1,14 +1,14 @@
-# User experience guidelines
+# Product design strategy
 
 Alaska is shifting development of the ARIES system to a more fully modular approach.
 
 Beyond technical modularity, which was begun with the initial ARIES development, **we’ll also be utilizing modular procurement and modular product design techniques.**
 
-### Modular procurement
+### Implications of modular procurement
 
 We will be soliciting vendors through a **series of modular contracts** to develop components to improve and extend the functionality of the ARIES system.
 
-We believe this approach will reduce risk, be a better value to Alaskans, deliver important features to users faster, and increase opportunities for the vendor community to participate. We have greater confidence that we will get working code from vendors into users' hands faster than with a single, traditional, big contract.
+We believe this approach will reduce risk, be a better value to Alaskans, deliver important features to users faster, and increase opportunities for the vendor community to participate. We have greater confidence that we will get working code from vendors into users' hands faster through modular procurements than with a single, traditional, big contract.
 
 But it also introduces challenges from a product design perspective. How do we keep moving ARIES forward without imposing the burden of maintaining/building upon legacy code on new vendors? How do we incorporate the work of multiple teams into a cohesive overall product architecture?
 
