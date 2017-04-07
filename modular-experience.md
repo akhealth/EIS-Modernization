@@ -18,7 +18,9 @@ We'll do this through an incremental transition to a more modular product archit
 
 To facilitate this modular approach to system development, we will be incrementally shifting toward a modular product architecture. New development will be "loosely coupled" to the existing product. We'll then incrementally shift responsibilities to the new modules.
 
-**We've illustrated the strategy in this presentation: ["Incrementally shifting toward a modular experience" presentation](https://github.com/18F/acq-alaska-dhss-modernization/raw/master/modular-experience.pdf).**
+**We've illustrated the strategy in this presentation: ["Incrementally shifting toward a modular experience" presentation](https://github.com/18F/acq-alaska-dhss-modernization/raw/master/assets/modular-experience.pdf).**
+
+[![Screenshot of presentation](assets/modular-experience-deck.jpg)](https://github.com/18F/acq-alaska-dhss-modernization/raw/master/assets/modular-experience.pdf)
 
 ### Product architecture
 
@@ -33,6 +35,8 @@ These constraints are:
 - Shared identity across the system
 
 **We have developed a [demonstration website](http://federalist.18f.gov.s3-website-us-east-1.amazonaws.com/site/18f/united/portal.html) that illustrates these patterns.**
+
+[![Screenshot of demonstration website ](assets/product-architecture-demo.jpg)](http://federalist.18f.gov.s3-website-us-east-1.amazonaws.com/site/18f/united/portal.html)
 
 Each module will adopt a global header design comprised of the ARIES logo, breadcrumb navigation, link to search, the user's name and office, and logout button. All modules would use responsive web design methods. The homepage, which is included in the demonstration website, is a module itself and will be developed in the future. Module teams are not responsible for user interface elements outside of their module.
 
