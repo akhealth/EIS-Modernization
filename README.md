@@ -28,13 +28,15 @@ We will know we are successful, if we can increase worker productivity and moral
 - [ ] Acquire a vendor - To Do
 - [ ] First acquisition - To Do
 
+## Strategy materials
+- [Modular product experience](modular-experience.md)
+
 ## Important Resources
 * [Alaska organizational chart](http://mur.al/vzV3BEBJ)
 * [Project Trello Board](https://trello.com/b/siAFtoWJ/alaska-medicaid-eligibility-information-system-replacement-eis-r-project)
 * [2/28/17-3/2/17 Workshop findings](https://app.mural.ly/t/gsa6/m/gsa6/1488927409455/view/3842912505)
 * [Diagrams for first prototype](https://app.mural.ly/invitation/mural/gsa6/1489619780239?sender=michaeltorres&key=1026750817)
 * [Project Folder](https://drive.google.com/drive/u/0/folders/0B4B0xeCMEaFyYmE0VFhTR3lTSms)
-* [Modular transformation: Incrementally shifting toward a modular experience](modular-experience.pdf)
 * [Research Synthesis]
 
 ## Related projects
