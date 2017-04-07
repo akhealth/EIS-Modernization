@@ -50,7 +50,7 @@ We will know we are successful, if we can increase worker productivity and moral
    - APD
    - Interoperability
 - [ ] Procurement approach
-- [x] [Modular product experience and transformation](modular-experience.md)
+- [x] [Modular product design strategy](modular-experience.md)
 
 ## Important Resources
 * [Alaska organizational chart](http://mur.al/vzV3BEBJ)
