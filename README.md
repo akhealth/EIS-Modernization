@@ -17,9 +17,10 @@ We want to move away from a legacy "Big Bang" waterfall acquisitions process to 
 We will know we are successful, if we can increase worker productivity and morale, among other things, and if benefits are being provided in a timely manner to those who are eligible. We are currently focused on getting a win here fairly soon so that we can show State workers and the Legislature that we are moving in the right direction.
 
 ## Risks
-* The depth of the vendor pool available that understands agile delivery and can do modular procurement might be limited, at least in the early phases of the project.
-* The LOE required to access data across multiple environments (ARIES database, staging table, MCI, Mainframe) is not well known yet.
-* The availability of appropriate platforms within the state technology environment for deploying prototypes is not well understood yet.
+* The depth of the vendor pool available that understands agile delivery and can do modular procurement might be limited, at least in the early phases of the project. We continue to investigate the existence of these vendors.
+* The level of effort required to access data across multiple environments (ARIES database, staging table, MCI, Mainframe) is not well known yet. We are de-risking this via prototyping
+* The availability of appropriate platforms within the state technology environment for deploying prototypes is not well understood yet. We are de-risking this via prototyping.
+* There is a landscape of existing solutions that could potentially be leveraged instead of building from scratch. We need to constantly keep an eye out for this and advise vendors accordingly.
 
 ## Near-term Milestones
 - [x] Identify product owner and team - Done 2/28/17
@@ -38,6 +39,11 @@ We will know we are successful, if we can increase worker productivity and moral
 * [Diagrams for first prototype](https://app.mural.ly/invitation/mural/gsa6/1489619780239?sender=michaeltorres&key=1026750817)
 * [Project Folder](https://drive.google.com/drive/u/0/folders/0B4B0xeCMEaFyYmE0VFhTR3lTSms)
 * [Research Synthesis]
+
+
+## System Information (User account must be granted by the State of Alaska)
+* Link to the SSP: https://uat.aries.alaska.gov 
+* Link to the Worker Portal: https://uat.myaries.alaska.gov 
 
 ## Related projects
 * [CMS project]
