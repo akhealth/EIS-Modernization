@@ -53,12 +53,28 @@ We will know we are successful, if we can increase worker productivity and moral
 - [x] [Modular product design strategy](modular-experience.md)
 
 ## Important Resources
+
+Alaska team
 * [Alaska organizational chart](http://mur.al/vzV3BEBJ)
-* [Project Trello Board](https://trello.com/b/siAFtoWJ/alaska-medicaid-eligibility-information-system-replacement-eis-r-project)
-* [2/28/17-3/2/17 Workshop findings](https://app.mural.ly/t/gsa6/m/gsa6/1488927409455/view/3842912505)
-* [Diagrams for first prototype](https://app.mural.ly/invitation/mural/gsa6/1489619780239?sender=michaeltorres&key=1026750817)
-* [Project Folder](https://drive.google.com/drive/u/0/folders/0B4B0xeCMEaFyYmE0VFhTR3lTSms)
+
+EIS-R project management
+* This repo - This repository serves as the overarching umbrella repo for the EIS-R project
+* [Slack channel](https://gsa-tts.slack.com/messages/C3SM6SLGM/convo/C3M933336-1488211534.000271/) (Private)
+* [Project Trello board](https://trello.com/b/siAFtoWJ/alaska-medicaid-eligibility-information-system-replacement-eis-r-project) (Private for now)
+* [18F Project Folder](https://drive.google.com/drive/u/0/folders/0B4B0xeCMEaFyYmE0VFhTR3lTSms) (Private)
+
+Key documents
+
+* [2/28/17-3/2/17 Initial workshop findings](https://app.mural.ly/t/gsa6/m/gsa6/1488927409455/view/3842912505) (Private)
 * [Research Synthesis]
+
+Search module - API & UI 
+* Technical prototype
+    * [Diagrams for first prototype](https://app.mural.ly/invitation/mural/gsa6/1489619780239?sender=michaeltorres&key=1026750817)
+    * [Trello board](https://trello.com/b/qiQq7T53/acq-ak-prototype-1) (Private for now)
+    * [Design prototype](http://gsa.invisionapp.com/share/QDAZYEJPZ)
+    * Prototype repo (TBD)
+* Vendor solicitation (Coming)
 
 
 ## System Information (User account must be granted by the State of Alaska)
