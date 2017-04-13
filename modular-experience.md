@@ -22,11 +22,11 @@ To facilitate this modular approach to system development, we will be incrementa
 
 [![Screenshot of presentation](assets/modular-experience-deck.jpg)](assets/modular-experience.pdf)
 
-### Product architecture
+### Unified product design
 
 With multiple parties working on different modules, we want to **provide just enough guidance to free each team to focus on the desired outcomes and user needs pertinent to their module**, not global product design concerns. We also want to explain how their modules will fit within the larger whole.
 
-At the heart of this strategy is a product architecture approach that establishes a limited number of design constraints that tie the loosely coupled modules together.
+At the heart of this strategy is an approach that establishes a limited number of design constraints that tie the loosely coupled modules together.
 
 These constraints are:
 
