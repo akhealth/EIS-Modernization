@@ -1,3 +1,4 @@
+```
 AIRES : Alaska Resource for Integrated Eligibility Services
 DHSS  : Department of Health and Social Services
 DPA   : Division of Public Assistance
@@ -12,3 +13,4 @@ PPACA : Patient Protection and Affordable Care Act
 SCHIP : State Children's Health Insurance Program
 SNAP  : Supplemental Nutrition Assistance Program
 TANF  : Temporary Assistance for Needy Families
+```
