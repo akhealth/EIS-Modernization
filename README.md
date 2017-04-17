@@ -20,7 +20,9 @@ We will know we are successful, if we can increase worker productivity and moral
 * The depth of the vendor pool available that understands agile delivery and can do modular procurement might be limited, at least in the early phases of the project. We continue to investigate the existence of these vendors.
 * The level of effort required to read or write data across multiple environments (ARIES database, staging table, MCI, Mainframe) is not well known yet. We will de-risk this via prototyping
 * The quality/consistency of the data may be a blocker to goals we have around reporting and analysis. We will de-risk via prototyping and product work to normalize the data.
+* The ability to guide the end-user through large search result scenarios in a responsive way may create blockers to the value of improved search.  We will de-risk this via prototyping.
 * The availability of appropriate platforms within the state technology environment for deploying prototypes is not well understood yet. We will de-risk this via prototyping.
+* The fixed and saturation-based network latency in different locations may create performance issues for web applications that load data asynchronously or via multiple requests.  We will de-risk this via prototyping.
 * There is a risk that we won't be able to deploy to production frequently enough that we can work in an agile fashion. We will de-risk this via prototyping and through developing a DevOps strategy with the State of Alaska.
 * There is a risk that vendors won't be able to easily work with the legacy ARIES code and existing authentication methods. We will de-risk this via prototyping.
 * There is a landscape of existing solutions that could potentially be leveraged instead of building from scratch. We need to constantly keep an eye out for this and advise vendors accordingly.
