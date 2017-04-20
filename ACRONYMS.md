@@ -5,6 +5,7 @@ DPA   : Division of Public Assistance
 EIS   : Eligibility Information System
 EIS-R : Eligibility Information System Replacement
 ETS   : Enterprise Technology Services
+FDSH  : Federal Data Services Hub
 FFM   : Federal Federated Marketplace
 MCI   : Master Client Index
 MITA  : Medicaid Information Technology Architecture
