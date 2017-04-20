@@ -6,7 +6,7 @@ EIS   : Eligibility Information System
 EIS-R : Eligibility Information System Replacement
 ETS   : Enterprise Technology Services
 FFM   : Federal Federated Marketplace
-MCI   :
+MCI   : Master CLient Index
 MITA  : Medicaid Information Technology Architecture
 MMIS  : Medicaid Management Information Systems
 PPACA : Patient Protection and Affordable Care Act
