@@ -83,8 +83,8 @@ Search module - API & UI
 
 
 ## System Information (User account must be granted by the State of Alaska)
-* Link to the SSP: https://uat.aries.alaska.gov 
-* Link to the Worker Portal: https://uat.myaries.alaska.gov 
+* Link to the SSP User Acceptance Testing Environment: https://uat.aries.alaska.gov 
+* Link to the Worker Portal User Acceptance Testing Environment: https://uat.myaries.alaska.gov 
 
 ## Related projects
 * [CMS project]
