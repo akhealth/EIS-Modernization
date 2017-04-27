@@ -89,7 +89,7 @@ Search module - API & UI
 ## Related projects
 * [CMS project]
 * [MO MMIS Modernization]
-* [Prototype]
+* [Multi-benefit application and enrollment prototype](https://usds.github.io/benefits-enrollment-prototype/) by [CMS](https://github.com/CMSgov)/[USDS](https://github.com/usds)/[18F](https://github.com/18F) | [repo](https://github.com/usds/benefits-enrollment-prototype)
 
 ## Contributing to this repo
 * Read the [CONTRIBUTING](CONTRIBUTING.md) Policy
