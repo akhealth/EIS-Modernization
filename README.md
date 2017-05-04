@@ -51,7 +51,7 @@ We will know we are successful, if we can increase worker productivity and moral
    - External
 - [ ] High-level navigation/IA scheme
    - Generalize it so that vendors can concentrate on the specific thing they were asked to do, and not step all over each other
-- [ ] Alignment with CMS
+- [ ] Alignment with CMS, FNS, and other Federal Partners
    - APD
    - Interoperability
 - [ ] Procurement approach
