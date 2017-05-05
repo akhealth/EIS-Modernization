@@ -4,6 +4,30 @@ This repo contains documentation describing the Alaska Department of Health and 
 ## Our Big Vision
 Alaska Department of Health & Social Services (DHSS) is developing a modern, integrated eligibility system that enables staff to more efficiently issue correct and timely benefits to Alaskan’s who need help meeting their basic needs.  Utilizing agile development and modular procurements, DHSS has the goal of implementing an eligibility system that not only meets state and federal standards, but is user friendly for our clients, our eligibility staff, and our technical staff.
 
+## Value Statements
+Low income Alaskans
+* We want to create an environment where needy Alaskans feel supported by a system that provides timely and accurate benefits along with self-service access to status of applications.
+Division of Public Assistance (DPA) Field Staff
+* We want to create an environment where DPA Field staff can be productive and feel fulfilled by giving them efficient tools and processes and timely access to the information that they need in order to serve low income Alaskans.
+DPA Systems Operations Staff
+* We want to create an environment where Sys Ops workers feel confident about maintaining the systems and supporting DPA field staff in their work.
+Department of Health and Social Services (DHSS) Financial and Management Services – Information Technology Services (FMS-IT) Staff
+* We want to create an environment where FMS-IT workers feel confident and empowered to rapidly meet DPA field staff and Sys Ops needs while preserving and extending DPA’s return on investment.
+DHSS Leadership
+* We want to create an environment where system capability and stability free department leadership to make directional decisions based on accurate and timely data, and show value for system investments.
+Department of Administration (DOA) Enterprise Technology Services (ETS) Staff
+* We want to create an environment where ETS can rely upon clearly defined and agreed upon support procedures and responsibilities to efficiently deliver service to DHSS.
+Federal Partners
+* We want to create an environment where our Federal partners can count on the State to act quickly on Federal mandates and requests, and that they can quickly and easily get accurate information from their State partner when they need it.
+Tribal Organizations
+* We want to create an environment where tribal organizations can easily access information about their members and be able to assist them in getting the benefits they are eligible for in an automated fashion.
+Hospitals
+* We want to create an environment where hospitals can input patient information and receive instant eligibility determination, including issuance of the benefit, without DPA intervention.
+State Agency Partners
+* We want to create an environment where our state agencies can trade information seamlessly, timely, and effortlessly. This two way transfer of information should be immediate and automatic, using established standards based data structures
+General Public
+* We want to create an environment where DHSS can demonstrate that public monies invested in information technology and public assistance delivery efficiently provide positive outcomes.
+
 ## The Challenge
 The challenge is rooted in the need for Alaska to migrate these programs off of their "old legacy" eligibility system, EIS, to something that costs less to operate and is more flexible to change. The EIS system does what it does well, but it is built in a old technology (COBOL on a mainframe) that is difficult to change. It is also expensive to host, and as other agencies in Alaska migrate away from the system, DHSS will be responsible for more and more of this cost. Further, expertise for this type of technology is aging out, so it will be harder and harder to support it going forward. Moving away from this system is the ultimate goal.
 
