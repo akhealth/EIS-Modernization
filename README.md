@@ -1,10 +1,11 @@
 # Welcome!
 This repo contains documentation describing the Alaska Department of Health and Social Services (DHSS) modernization project. It is intended to be a place where project participants can keep track of the overall project goals, the decision framework, progress to date and learnings as we work. It is also intended to be a project 'home page' where members can access important and up-to-date project information that exists somewhere else.
 
-## Our Big Vision
-Alaska Department of Health & Social Services (DHSS) is developing a modern, integrated eligibility system that enables staff to more efficiently issue correct and timely benefits to Alaskan’s who need help meeting their basic needs.  Utilizing agile development and modular procurements, DHSS has the goal of implementing an eligibility system that not only meets state and federal standards, but is user friendly for our clients, our eligibility staff, and our technical staff.
+## Vision
+Alaska Department of Health & Social Services (DHSS) is developing a modern, integrated eligibility system that enables staff to more efficiently issue correct and timely benefits to Alaskans who need help meeting their basic needs.  Utilizing agile development and modular procurements, DHSS has the goal of implementing an eligibility system that not only meets state and federal standards, but is user friendly for our clients, our eligibility staff, and our technical staff.
 
-## Value Statements
+### Value Statements
+
 #### Low income Alaskans
 * We want to create an environment where needy Alaskans feel supported by a system that provides timely and accurate benefits along with self-service access to status of applications.
 
@@ -37,6 +38,13 @@ Alaska Department of Health & Social Services (DHSS) is developing a modern, int
 
 #### General Public
 * We want to create an environment where DHSS can demonstrate that public monies invested in information technology and public assistance delivery efficiently provide positive outcomes.
+
+### Mission Model Canvas
+We have visualized the various areas of concern with respect to the overall vision into a Mission Model Canvas. Our product strategy will pay attention to these areas of concern and their relationships in order to ensure that the right thing is being delivered to the right beneficiaries. It will evolve over time as needed.
+
+[**View the canvas**](assets/mission-model-canvas.png)
+
+[![View the canvas](assets/mission-model-canvas.png)](assets/mission-model-canvas.png)
 
 ## The Challenge
 The challenge is rooted in the need for Alaska to migrate these programs off of their "old legacy" eligibility system, EIS, to something that costs less to operate and is more flexible to change. The EIS system does what it does well, but it is built in a old technology (COBOL on a mainframe) that is difficult to change. It is also expensive to host, and as other agencies in Alaska migrate away from the system, DHSS will be responsible for more and more of this cost. Further, expertise for this type of technology is aging out, so it will be harder and harder to support it going forward. Moving away from this system is the ultimate goal.
