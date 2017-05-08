@@ -28,6 +28,7 @@ We want to create a MVP that demonstrates basic DevOps concepts and practice
 ## People Support
 
 We must help all sorts of people feel the benefits of, and _believe_ in our DevOps mission.
+We don't know everything our stakeholders care about.  We will make some assumptions to get started, and will continually improve our understanding by engaging with stakeholders.
 
 1. Create short, high-level briefing/overview containing AK opportunities and distribute
 2. Generate initial list of challenges/risks.  Brainstorm antidotes
