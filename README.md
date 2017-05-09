@@ -42,7 +42,7 @@ Alaska Department of Health & Social Services (DHSS) is developing a modern, int
 ### Mission Model Canvas
 We have visualized the various areas of concern with respect to the overall vision into a Mission Model Canvas. Our product strategy will pay attention to these areas of concern and their relationships in order to ensure that the right thing is being delivered to the right beneficiaries. It will evolve over time as needed.
 
-[**View the canvas**](https://app.mural.ly/invitation/mural/gsa6/1493395570501?sender=michaeltorres&key=3907485181)
+[**View the canvas**](https://app.mural.ly/t/gsa6/m/gsa6/1493395570501/view/3003071571)
 
 ## The Challenge
 The challenge is rooted in the need for Alaska to migrate these programs off of their "old legacy" eligibility system, EIS, to something that costs less to operate and is more flexible to change. The EIS system does what it does well, but it is built in a old technology (COBOL on a mainframe) that is difficult to change. It is also expensive to host, and as other agencies in Alaska migrate away from the system, DHSS will be responsible for more and more of this cost. Further, expertise for this type of technology is aging out, so it will be harder and harder to support it going forward. Moving away from this system is the ultimate goal.
