@@ -31,6 +31,6 @@ We must help all sorts of people feel the benefits of, and _believe_ in our DevO
 
 1. Create short, high-level briefing/overview containing AK opportunities and distribute
 2. Generate initial list of challenges/risks.  Brainstorm antidotes
-3. Initive ITS stakeholders to join our sprints as team members so they can contribute to and refine risks, requirements, barriers.
+3. Invite ITS stakeholders to join our sprints as team members so they can contribute to and refine risks, requirements, barriers.
 4. **Road Show**: Bring our DevOps MVP to groups of stakeholders and gather feedback from shows
 5. Find an effective, easy way to send out continuous status briefings to people. 
