@@ -68,34 +68,28 @@ We will know we are successful, if we can increase worker productivity and moral
 * There is a landscape of existing solutions that could potentially be leveraged instead of building from scratch. We need to constantly keep an eye out for this and advise vendors accordingly.
 
 ## Near-term Milestones
+
 - [x] Identify product owner and team - Done 2/28/17
 - [x] Identify where to start - Done 3/2/17 (Search API and UI to support)
-- [ ] Validate starting point - In Progress
+- [ ] Foundational work - in progress
+  - [x] Product vision - Done 5/8/17
+  - [ ] Product roadmap - in progress
+  - [ ] Funding strategy - in progress
+  - [ ] Acquisition strategy - in progress
+  - [ ] DevOps MVP - in progress
+  - [ ] Technical prototyping - To Do
+- [ ] First solicitation - To Do
 - [ ] Acquire a vendor - To Do
 - [ ] First acquisition - To Do
 
-## Product Vision & Strategy
-
-**Product vision**
-
-- [ ] Define product vision
-
-**Strategy**
-
-- [ ] Data considerations
-   - Ontology - [definition](https://en.wikipedia.org/wiki/Ontology_(information_science))
-- [ ] DevOp
-   - Infrastructure, process
-- [ ] Communications
-   - Internal
-   - External
-- [ ] High-level navigation/IA scheme
-   - Generalize it so that vendors can concentrate on the specific thing they were asked to do, and not step all over each other
-- [ ] Alignment with CMS, FNS, and other Federal Partners
-   - APD
-   - Interoperability
-- [ ] Procurement approach
-- [x] [Modular product design strategy](modular-experience.md)
+## Ongoing Strategic Concerns
+* Data normalization
+* Communication (external and internal)
+* System integration (of the various modules)
+* DevOps and continuous delivery
+* Support and maintenance
+* Documentation
+* Alignment with CMS, FNS, and other Federal Partners
 
 ## Important Resources
 
@@ -111,6 +105,7 @@ EIS-R project management
 Key documents
 
 * [2/28/17-3/2/17 Initial workshop findings](https://app.mural.ly/t/gsa6/m/gsa6/1488927409455/view/3842912505) (Private)
+* [Modular product design strategy](modular-experience.md)
 * [Research Synthesis]
 
 Search module - API & UI 
