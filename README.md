@@ -110,7 +110,7 @@ Key documents
 
 Search module - API & UI 
 * Technical prototype
-    * [Diagrams for first prototype](https://app.mural.ly/invitation/mural/gsa6/1489619780239?sender=michaeltorres&key=1026750817)
+    * [Diagrams for first prototype](https://app.mural.ly/t/gsa6/m/gsa6/1489619780239/view/4116522087)
     * [Trello board](https://trello.com/b/qiQq7T53/acq-ak-prototype-1) (Private for now)
     * [Design prototype](http://gsa.invisionapp.com/share/QDAZYEJPZ)
     * Prototype repo (TBD)
