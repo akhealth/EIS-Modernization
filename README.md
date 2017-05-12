@@ -94,7 +94,7 @@ We will know we are successful, if we can increase worker productivity and moral
 ## Important Resources
 
 Alaska team
-* [Alaska organizational chart](http://mur.al/vzV3BEBJ)
+* [Alaska organizational chart](https://app.mural.ly/t/gsa6/m/gsa6/1484752765306/view/2023119235)
 
 EIS-R project management
 * This repo - This repository serves as the overarching umbrella repo for the EIS-R project
