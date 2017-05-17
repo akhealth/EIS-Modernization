@@ -14,7 +14,7 @@ We intend this public GitHub repository to be the source of information as we mo
 
 ### So, what’s next?
 
-On Wednesday, May 17, 2017, we posted an RFI using Alaska’s [Vendor Self Service system](https://iris-vss.alaska.gov/webapp/PRDVSS1X1/AltSelfService).  We request responses from interested vendors by May 31, 2017 at 4:00 PM Alaska Prevailing Time - and ask for some very basic information and an indication of their interest.  However, we see this _vendor-info_ folder in our repo as an active environment in which vendors and others can continue to keep track of what’s going on as Alaska makes strategy decisions and releases future RFPs.
+On Wednesday, May 17, 2017, we posted an RFI using Alaska’s [Vendor Self Service system](https://iris-vss.alaska.gov/webapp/PRDVSS1X1/AltSelfService).  We request responses from interested vendors by May 31, 2017 at 4:00 PM Alaska Prevailing Time - and ask for some very basic information and an indication of their interest.  However, we see this [folder](https://github.com/18F/acq-alaska-dhss-modernization/tree/master/assets) in our repo as an active environment in which vendors and others can continue to keep track of what’s going on as Alaska makes strategy decisions and releases future RFPs.
 
 We are looking for firms that are excited about working in new ways with government:
 * User-centered research and design
