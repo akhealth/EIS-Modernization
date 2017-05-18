@@ -66,6 +66,7 @@ We will know we are successful, if we can increase worker productivity and moral
 * There is a risk that we won't be able to deploy to production frequently enough that we can work in an agile fashion. We will de-risk this via prototyping and through developing a DevOps strategy with the State of Alaska.
 * There is a risk that vendors won't be able to easily work with the legacy ARIES code and existing authentication methods. We will de-risk this via prototyping.
 * There is a landscape of existing solutions that could potentially be leveraged instead of building from scratch. We need to constantly keep an eye out for this and advise vendors accordingly.
+* There is a risk that the ATO process will prevent us from being able to deploy continuously to a production environment. We plan to mitigate this risk by understanding the path to ATO and compensating with negotiating release cycles on the existing production environment that are as small as possible until we are able to authorize the new environment.
 
 ## Near-term Milestones
 
