@@ -136,3 +136,4 @@ Search module - API & UI
 * Read the [CONTRIBUTING](CONTRIBUTING.md) Policy
 * Questions or suggestions? Open a [new issue](https://github.com/18F/alaska-dhss-modernization/issues) to ask or suggest.
 * Want to send us a change? Create a [new pull request](https://help.github.com/articles/creating-a-pull-request/).
+
