@@ -45,7 +45,7 @@ We have visualized the various areas of concern with respect to the overall visi
 [**View the canvas**](https://app.mural.ly/t/gsa6/m/gsa6/1493395570501/view/3003071571)
 
 ### The Product Roadmap
-This is where we work out and communicate our delivery plan in the context of our strategy. The first colum contains some background information about our beneficiaries, stakeholders, partners, teams and activities. The second column contains a set of milestones ordered from top to bottom according to the team's current priorities. They are geared towards delivering a set of outcomes via a series of acquisitions. In each increment, you will see the affected user/stakeholder groups, some detail about the work, and an indication of which teams/what kind of activity is involved. The final column contains all unscheduled work as we know it.
+This is where we work out and communicate our delivery plan in the context of our strategy. The first colum contains some background information about our beneficiaries, stakeholders, partners, teams and activities. The second column contains a set of milestones ordered from top to bottom according to the team's current priorities. Each milestone contains a set of increments designed to deliver the desired outcome. In each increment, you will see the affected user/stakeholder groups, some detail about the work, and an indication of which teams/what kind of activity is involved. The final column contains all unscheduled work as we know it.
 
 [**View the roadmap**](https://app.mural.ly/t/gsa6/m/gsa6/1493828126408/view/2807948360)
 
