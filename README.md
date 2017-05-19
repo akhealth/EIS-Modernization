@@ -77,6 +77,7 @@ We will know we are successful, if we can increase worker productivity and moral
   - [x] Product vision - Done 5/8/17
   - [ ] Product roadmap - in progress
   - [ ] Funding strategy - in progress
+  - [ ] Market research and vendor outreach - in progress
   - [ ] Acquisition strategy - in progress
   - [ ] DevOps MVP - in progress
   - [ ] Technical prototyping - To Do
