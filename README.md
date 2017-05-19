@@ -116,7 +116,7 @@ Search module - API & UI
     * [Trello board](https://trello.com/b/qiQq7T53/acq-ak-prototype-1) (Private for now)
     * [Design prototype](http://gsa.invisionapp.com/share/QDAZYEJPZ)
     * High level technical overview](https://github.com/18F/acq-alaska-dhss-modernization/blob/master/assets/search-prototype-high-level-technical-overview.pdf) 
-    * [Prototype repo](https://alaskadhssba.visualstudio.com/DPA%20Experiments/_git/ProtoWebApi)
+    * [Prototype repo](https://alaskadhssba.visualstudio.com/DPA%20Experiments/_git/ProtoWebApi) (Private for now)
 * Vendor solicitation (Coming)
 
 
