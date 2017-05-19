@@ -79,7 +79,7 @@ We will know we are successful, if we can increase worker productivity and moral
 - [x] Identify where to start - Done 3/2/17 (Search API and UI to support)
 - [ ] Foundational work - in progress
   - [x] Product vision - Done 5/8/17
-  - [ ] Product roadmap - in progress
+  - [x] Product roadmap - Initial roadmap created 5/22/17
   - [ ] Funding strategy - in progress
   - [ ] Acquisition strategy - in progress
   - [ ] DevOps MVP - in progress
