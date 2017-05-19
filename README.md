@@ -79,7 +79,7 @@ We will know we are successful, if we can increase worker productivity and moral
   - [ ] Funding strategy - in progress
   - [ ] Acquisition strategy - in progress
   - [ ] DevOps MVP - in progress
-  - [ ] Technical prototyping - To Do
+  - [ ] Technical prototyping - in progress
 - [ ] First solicitation - To Do
 - [ ] Acquire a vendor - To Do
 - [ ] First acquisition - To Do
@@ -115,7 +115,8 @@ Search module - API & UI
     * [Diagrams for first prototype](https://app.mural.ly/t/gsa6/m/gsa6/1489619780239/view/4116522087)
     * [Trello board](https://trello.com/b/qiQq7T53/acq-ak-prototype-1) (Private for now)
     * [Design prototype](http://gsa.invisionapp.com/share/QDAZYEJPZ)
-    * Prototype repo (TBD)
+    * High level technical overview](https://github.com/18F/acq-alaska-dhss-modernization/blob/master/assets/search-prototype-high-level-technical-overview.pdf) 
+    * [Prototype repo](https://alaskadhssba.visualstudio.com/DPA%20Experiments/_git/ProtoWebApi)
 * Vendor solicitation (Coming)
 
 
