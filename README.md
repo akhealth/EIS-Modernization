@@ -44,6 +44,11 @@ We have visualized the various areas of concern with respect to the overall visi
 
 [**View the canvas**](https://app.mural.ly/t/gsa6/m/gsa6/1493395570501/view/3003071571)
 
+### The Product Roadmap
+This is where we work out and communicate our delivery plan in the context of our strategy. The first colum contains some background information about our beneficiaries, stakeholders, partners, teams and activities. The second column contains a set of milestones ordered from top to bottom according to the team's current priorities. Each milestone contains a set of increments designed to deliver the desired outcome. In each increment, you will see the affected user/stakeholder groups, some detail about the work, and an indication of which teams/what kind of activity is involved. The final column contains all unscheduled work as we know it.
+
+[**View the roadmap**](https://app.mural.ly/t/gsa6/m/gsa6/1493828126408/view/2807948360)
+
 ## The Challenge
 The challenge is rooted in the need for Alaska to migrate these programs off of their "old legacy" eligibility system, EIS, to something that costs less to operate and is more flexible to change. The EIS system does what it does well, but it is built in a old technology (COBOL on a mainframe) that is difficult to change. It is also expensive to host, and as other agencies in Alaska migrate away from the system, DHSS will be responsible for more and more of this cost. Further, expertise for this type of technology is aging out, so it will be harder and harder to support it going forward. Moving away from this system is the ultimate goal.
 
@@ -75,7 +80,7 @@ We will know we are successful, if we can increase worker productivity and moral
 - [x] Identify where to start - Done 3/2/17 (Search API and UI to support)
 - [ ] Foundational work - in progress
   - [x] Product vision - Done 5/8/17
-  - [ ] Product roadmap - in progress
+  - [x] Product roadmap - Initial roadmap created 5/22/17
   - [ ] Funding strategy - in progress
   - [ ] Market research and vendor outreach - in progress
   - [ ] Acquisition strategy - in progress
@@ -134,3 +139,4 @@ Search module - API & UI
 * Read the [CONTRIBUTING](CONTRIBUTING.md) Policy
 * Questions or suggestions? Open a [new issue](https://github.com/18F/alaska-dhss-modernization/issues) to ask or suggest.
 * Want to send us a change? Create a [new pull request](https://help.github.com/articles/creating-a-pull-request/).
+
