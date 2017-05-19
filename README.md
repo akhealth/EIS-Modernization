@@ -67,6 +67,7 @@ We will know we are successful, if we can increase worker productivity and moral
 * There is a risk that vendors won't be able to easily work with the legacy ARIES code and existing authentication methods. We will de-risk this via prototyping.
 * There is a landscape of existing solutions that could potentially be leveraged instead of building from scratch. We need to constantly keep an eye out for this and advise vendors accordingly.
 * There is a risk that the ATO process will prevent us from being able to deploy continuously to a production environment. We plan to mitigate this risk by understanding the path to ATO and compensating with negotiating release cycles on the existing production environment that are as small as possible until we are able to authorize the new environment.
+* There is a risk that by having multiple vendors contributing to the same codebase, we increase the complexity of integration. There could be problems that arise specifically from the logisitics and timing of multiple contributors. We plan to de-risk this by working transparently, and using shared tools and processes that assist with preventing conflicts and automating testing.
 
 ## Near-term Milestones
 
