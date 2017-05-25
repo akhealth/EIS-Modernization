@@ -1,16 +1,17 @@
 ## Technical Prototyping
 In working with legacy systems, it's especially important to test technical assumptions *before* scoping any kind of procurement, because there are likely unknown hazzards that could put your procurement at risk, and these hazzards can't be known unless you start building something. 
 
-Prototyping a small end-to-end user flow is something that we can do quickly before writing an RFP, and should help identify any hazzards in the code, the deployment process or any other technical aspect of a project. This will help us scope the procurement and build out a reasonable RFP based on this documentation. This documentation will also be extremely valuable to vendors who actually end up doing the work because they'll have some sort of guidance already. Prototyping will be done continuously as we acquire the various pieces of the future system, so this is a practice, not a one time thing. 
+Unlike most kinds of prototypes, technical prototypes are not focused on user experience, but rather on the mechanics behind the user's experience. They test things like "Can we really access the data we think we need?", or "How does this external API actually work?", so, they are pretty bare bones. They show *just enough* of the user facing functionality to verify some kind of technical implementation. Practically, the prototype follows some user on a 'happy path' user flow through that implementation.
+
+Prototyping a small end-to-end user flow is something that teams can do quickly before writing an RFP, and should help identify any hazzards in the code, the deployment process or any other technical aspect of a project. This will help teams properly scope the procurement and build out a reasonable RFP with some useful documentation for buyers and for vendors. 
 
 ## The Alaska DHSS Modernization Project
-
-
+Throughout this project we will be using technical prototyping whenever we are faced some question about integration with existing systems, the nature of existin data sources, or any other existing technical process that we plan to leverage as part of our planned acquisition. We may change direction at times, based on what we learn through prototyping. We may decide to pursue a completely different implementation, or even a different set of features entirely. Best case is that we can proceed with the original plan, only now with much more information that will help ensure the success of the acquisition.
 
 ## Our first prototype
 For our first procurement we are dealing with updating a new legacy code base (ARIES) that is very complex and not particularly well understood, a deployment process that is even less clear, and on top of that, we want to create new connections between legacy systems ARIES and EIS. The unknowns involved with this work are risky enough that we can't be confident that vendors will be able to deliver anything without more guidance. 
 
-We have begun the prototyping process and have been focusing on the following:
+Before we write this first RFP, we want to spend time prototyping so we can mitigate the following identified risks:
 
 1. Creating a development and deployment pipeline that will allow vendors to deliver code that can be automatically evaluated and pushed to a staging environment - in progress
 2. Creating a process to get the delivered code into a production environment on a continuous basis - in progress
@@ -24,5 +25,5 @@ Here are some documents:
 * [High level technical overview](https://github.com/18F/acq-alaska-dhss-modernization/blob/master/assets/search-prototype-high-level-technical-overview.pdf) 
 * [Conceptual Diagram](https://app.mural.ly/t/gsa6/m/gsa6/1489619780239/view/4116522087)
 * [Interactive mock](http://gsa.invisionapp.com/share/QDAZYEJPZ)
-* [Trello board](https://trello.com/b/qiQq7T53/acq-ak-prototype-1) (Private for now)
+* [Trello board](https://trello.com/b/qiQq7T53/acq-ak-prototype-1) (Private for now
 
