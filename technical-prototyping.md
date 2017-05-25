@@ -9,7 +9,7 @@ Prototyping a small end-to-end user flow is something that teams can do quickly 
 Throughout this project we will be using technical prototyping whenever we are faced some question about integration with existing systems, the nature of existing data sources, or any other existing technical process that we plan to leverage as part of our planned acquisition. We may change direction at times, based on what we learn through prototyping. We may decide to pursue a completely different implementation, or even a different set of features entirely. Best case is that we can proceed with the original plan, only now with much more information that will help ensure the success of the acquisition.
 
 ## Our first prototype
-For our first procurement we are dealing with updating a new legacy code base (ARIES) that is very complex and not particularly well understood, a deployment process that is even less clear — and on top of that, we want to create new connections between legacy systems ARIES and EIS. The unknowns involved with this work are risky enough that we can't be confident that vendors will be able to deliver anything without more guidance.
+For our first procurement we are dealing with updating a new legacy code base (ARIES) that is very complex and difficult to understand, a deployment process that is opaque — and on top of that, we want to create new connections between legacy systems ARIES and EIS. The unknowns involved with this work are risky enough that we can't be confident that vendors will be able to deliver anything without more guidance.
 
 Before we write this first RFP, we want to spend time prototyping so we can mitigate the following identified risks:
 
