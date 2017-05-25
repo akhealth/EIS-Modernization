@@ -21,9 +21,9 @@ Before we write this first RFP, we want to spend time prototyping so we can miti
 6. Validating that the data coming from multiple systems is potentially reconcileable - not yet started
 7. Deploying existing ARIES code to production - not yet started
 
-Here are some documents:
+Prototype documentation:
 * [High level technical overview](https://github.com/18F/acq-alaska-dhss-modernization/blob/master/assets/search-prototype-high-level-technical-overview.pdf) 
 * [Conceptual Diagram](https://app.mural.ly/t/gsa6/m/gsa6/1489619780239/view/4116522087)
 * [Interactive mock](http://gsa.invisionapp.com/share/QDAZYEJPZ)
-* [Trello board](https://trello.com/b/qiQq7T53/acq-ak-prototype-1) (Private for now
+* [Trello board](https://trello.com/b/qiQq7T53/acq-ak-prototype-1) (Private for now)
 
