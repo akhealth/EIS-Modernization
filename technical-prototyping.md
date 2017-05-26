@@ -11,6 +11,8 @@ Throughout this project we will be using technical prototyping whenever we are f
 ## Our first prototype
 For our first procurement we are dealing with updating a new legacy code base (ARIES) that is very complex and difficult to understand, a deployment process that is opaque — and on top of that, we want to create new connections between legacy systems ARIES and EIS. The unknowns involved with this work are risky enough that we can't be confident that vendors will be able to deliver anything without more guidance.
 
+As this is our first prototype, we will be testing out some of the more foundational things, like a vendor development environment and deploy process, that will apply to all buys, as well as setting up the lines of communication with internal technical staff that will be necessary throughout the project. 
+
 Before we write this first RFP, we want to spend time prototyping so we can mitigate the following identified risks:
 
 1. Creating a development and deployment pipeline that will allow vendors to deliver code that can be automatically evaluated and pushed to a staging environment — in progress
