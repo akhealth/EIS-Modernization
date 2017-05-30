@@ -85,7 +85,7 @@ We will know we are successful, if we can increase worker productivity and moral
   - [ ] Market research and vendor outreach - in progress
   - [ ] Acquisition strategy - in progress
   - [ ] DevOps MVP - in progress
-  - [ ] Technical prototyping - in progress
+  - [ ] [Technical prototyping](technical-prototyping.md) - in progress
 - [ ] First solicitation - To Do
 - [ ] Acquire a vendor - To Do
 - [ ] First acquisition - To Do
@@ -115,14 +115,6 @@ Key documents
 * [2/28/17-3/2/17 Initial workshop findings](https://app.mural.ly/t/gsa6/m/gsa6/1488927409455/view/3842912505) (Private)
 * [Modular product design strategy](modular-experience.md)
 * [Research Synthesis]
-
-Search module - API & UI 
-* Technical prototype
-    * [Diagrams for first prototype](https://app.mural.ly/t/gsa6/m/gsa6/1489619780239/view/4116522087)
-    * [Trello board](https://trello.com/b/qiQq7T53/acq-ak-prototype-1) (Private for now)
-    * [Design prototype](http://gsa.invisionapp.com/share/QDAZYEJPZ)
-    * High level technical overview](https://github.com/18F/acq-alaska-dhss-modernization/blob/master/assets/search-prototype-high-level-technical-overview.pdf) 
-    * [Prototype repo](https://alaskadhssba.visualstudio.com/DPA%20Experiments/_git/ProtoWebApi) (Private for now)
 * Vendor solicitation (Coming)
 
 
