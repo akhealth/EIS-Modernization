@@ -84,11 +84,11 @@ The Contractor shall provide the following services:
     with the overall experience
 
 -   All software code delivered under this order shall comply with the
-    [18F open source policy] (https:/github.com/18F/open-source-policy/) in 
+    [18F open source policy](https:/github.com/18F/open-source-policy/) in 
     effect as of the date of award.
 
 -   All software code delivered under this order shall comply with the
-    [18F accessibility guidelines] (https://pages.18f.gov/accessibility/)
+    [18F accessibility guidelines](https://pages.18f.gov/accessibility/)
     in effect as of the date of award.
     
 -   APIs should comply with the [18F API standards](https://github.com/18F/api-standards)
@@ -259,36 +259,15 @@ artifacts, and create new user stories based on each sprint.
 
 ##### 5.6.4. Quality Assurance
 
-??
+[Specify AK Quality Assurance requirements]
 
 #### 5.7 Personnel
 
+[Specify personnel from vendor]
+
 ##### 5.7.1. Desired Skills and Knowledge
 
-The contractor shall provide personnel at the skill levels with the
-requisite knowledge and experience commensurate with the description
-in the applicable Government Contract to accomplish the tasks as
-delineated in this PWS.
-
-Contractor personnel shall have:
-
-A strong technical background in the following:
-
-–   Building a static site that can be deployed with a single run
-    script.
-
--   Using one or more front-end JavaScript frameworks to build a
-    front-end of a website.
-
--   Incorporating data from a publically hosted JSON or CSV flat file
-    into a website front-end via a client-side request.
-
--   Ability to utilize existing design and user experience assets from
-    US Web Design Standards.
-
--   Programming fluency in JavaScript, Hypertext Text Markdown Language
-    (HTML), Cascading Style Sheets (CSS) or HTML and/or JavaScript
-    templating language.
+[Specify any technology requirements]
 
 ##### 5.7.2 Key Personnel
 
@@ -534,7 +513,6 @@ U.S. Code, Section 552a and applicable agency rules and regulations.
 
 #### 6.8 Government Furnished Items (VALIDATE WITH TECH TEAM - RELEASE AS MUCH AS POSSIBLE)
 
-
 The Government will furnish the data and scripts needed at time of
 award. No other hardware or software will be provided by the Government.
 
@@ -604,25 +582,17 @@ system.
 
 The following Points of Contact (POC) are applicable to this order:
 
-Contracting Officer Representative (COR): Esther Kim GSA, Office of
-Citizen Services and Innovative Technologies (OCSIT) - 18F
-<esther.kim@gsa.gov> (202) 826-7232
+Contracting Officer Representative (COR): ?
 
-Alternative Contracting Officer Representative (ACOR): Joshua Bailes
-GSA, Office of Citizen Services and Innovative Technologies (OCSIT) -
-18F <joshua.bailes@gsa.gov> (202) 550-6659
+Alternative Contracting Officer Representative (ACOR): ?
 
-18F Product Manager Jessie Posilkin GSA, Office of Citizen Services and
-Innovative Technologies (OCSIT) - 18F <jessie.posilkin@gsa.gov> (202)
-406-4689
+Alaska Product Manager: 
 
-GSA FedRamp Product Owner: To Be Determined
+Alaska Product Owner: Monica Windom <monica.windom@alaska.gov>
 
-GSA Procurement Project Manager: Kit Lee GSA, Assisted Acquisition
-Services (AAS) <kit.lee@gsa.gov> (415) 436-8730
+Alaska Procurement Project Manager: ?
 
-GSA Contracting Officer: Lynda Luo GSA, Acquisition Operations
-Division <lynda.luo@gsa.gov> (415) 522-4633
+Alaska Contracting Officer: ?
 
 ### 7.0 INVOICING/ PROCEDURES FOR PAYMENT (WILL NEED UPDATES WITH AK SPECIFICS)
 
