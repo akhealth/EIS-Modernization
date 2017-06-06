@@ -129,10 +129,10 @@ Product Owner (as determined by 18F and the State of Alaska), and an 18F Product
 Manager. Refer to Attachment 2, for Government Roles and
 Responsibilities.
 
-#### 5.2 Impact Reports
+#### 5.2 Impact Reports (THIS WILL BE REVISED WITH ALASKA-SPECIFICS)
 
 The contractor shall be responsible for providing notification to the
-COR, 18F Product Manager, and Product Owner when activities or issues
+Alaska Product Manager and Contracting Officer when activities or issues
 outside of the contractor’s control, which directly impact the
 contractor’s performance. This notification shall be provided in
 writing or via email within 24 hours of the anticipated or known
@@ -369,7 +369,7 @@ Technical Lead is at the Offeror's discretion.
 
 #### 5.9 Additional Considerations 
 
-##### 5.9.1 Potential Organizational Conflicts 
+##### 5.9.1 Potential Organizational Conflicts (ALASKA HAS SIMILAR CLAUSE)
 
 Offerors shall provide a signed Organizational Conflict of Interest
 statement with their quotation submission, if applicable, which
@@ -410,17 +410,16 @@ subject to negotiation.
 
 #### 6.1 Type of Contract
 
-This is a Firm Fixed Price order using the Agile BPA terms and
-conditions.
+This is a Labor Hour Contract.
 
-#### 6.2 Period of Performance (POP)
+#### 6.2 Period of Performance (POP) (WILL BE UPDATED)
 
 The period performance for this task order is delivery of the final
 product 60 calendar days after the Post Award Conference. The Period of
 Performance begins on the date of the Post Award Conference and ends 60
 calendar days after the Post Award Conference.
 
-###6.3 Place and Hours of Performance
+### 6.3 Place and Hours of Performance (UPDATE WITH AK SPECIFICS)
 
 The primary place of performance will be at the contractor’s facility.
 Work may be performed at GSA Headquarters at 1800 F St. NW, Washington,
@@ -434,7 +433,7 @@ on Government work days.
 
 #### 6.4 Special Terms and Conditions
 
-##### 6.4.1 Section 508 Compliance Requirement 
+##### 6.4.1 Section 508 Compliance Requirement (CONFIRM 508 APPLIES TO AK)
 
 The contractor shall support the Government in its conformance with
 Section 508 throughout the development and implementation of the work
@@ -465,8 +464,8 @@ information:
 
 #### 6.5 Post Award Orientation Conference
 
-The Alaska team, Contracting Officer, and COR shall hold a Kick-Off
-meeting/Post-Award Conference in Washington, DC or virtually with
+The Alaska team and Contracting Officer shall hold a Kick-Off
+meeting/Post-Award Conference in Anchorage, AK or virtually with
 contractor’s team and other relevant Government staff to review and
 clarify the project’s objectives, expectations from the Government,
 and address any questions the Contractor may have. Discussion topics
@@ -478,7 +477,7 @@ discussion of specific needs.
 The Kick-Off meeting/Post-Award Conference will take place within 10
 days from award.
 
-#### 6.5 Non-Personal Services
+#### 6.5 Non-Personal Services (SEE IF ALASKA HAS SIMILAR REQ)
 
 This task order is not being used to procure personal services
 prohibited by FAR 37.104, Personal services contract.
@@ -527,18 +526,19 @@ adhere to the following guidelines in the performance of the task:
     contractor personnel are only to travel as directed by their
     contract management.
 
-#### 6.7 Privacy Act
+#### 6.7 Privacy Act (CONFIRM WHETHER THIS APPLIES FOR STATES)
 
 Work on this project may require that personnel have access to Privacy
 Information. Personnel shall adhere to the Privacy Act, Title 5 of the
 U.S. Code, Section 552a and applicable agency rules and regulations.
 
-#### 6.8 Government Furnished Items
+#### 6.8 Government Furnished Items (VALIDATE WITH TECH TEAM - RELEASE AS MUCH AS POSSIBLE)
+
 
 The Government will furnish the data and scripts needed at time of
 award. No other hardware or software will be provided by the Government.
 
-#### 6.9 18F Transparency Policy
+#### 6.9 18F Transparency Policy (18F Specific, but Alaska can use if interested)
 
 Vendors are advised that 18F will publish on a publicly available
 website documents associated with this requirement, including any
@@ -556,11 +556,11 @@ metrics), and top-line spending data.
 
 #### 6.10 Data Rights and Ownership of Deliverables
 
-It is 18F's intent that any data or deliverable created as a result of
+It is Alaska's intent that any data or deliverable created as a result of
 the work performed under the task order be committed to the public
 domain.
 
-It is the intention of 18F to commit the following, but not limited
+It is the intention of Alaska to commit the following, but not limited
 to, items to the public domain: all data, documents, graphics and code
 created under this task order including but not limited to, plans,
 reports, schedules, schemas, metadata, architecture designs, and the
@@ -577,10 +577,10 @@ GPL, Creative Commons 0) the license(s) shall be clearly listed in the
 documentation.
 
 If the contractor needs to use work that does not have an open source
-license, the contractor is required to request permission from 18F, in
-writing, before utilizing that work in any way in connection with the
+license, the contractor is required to request permission from Alaska, 
+in writing, before utilizing that work in any way in connection with the
 order. If approved, all licenses shall be clearly set forth in a
-conspicuous place when work is delivered to 18F.
+conspicuous place when work is delivered to Alaska.
 
 If an open source license provides implementation guidance, the
 contractor shall ensure compliance with that guidance. If implementation
@@ -589,7 +589,7 @@ license within the work itself. Examples of this include code comments
 at the beginning of a file or contained in a license file within a
 software repository.
 
-#### 6.11 GSA AAS Business Systems (AASBS) Web Portal
+#### 6.11 GSA AAS Business Systems (AASBS) Web Portal (WILL NEED UPDATE)
 
 The GSA AASBS (Assisted Acquisition Services Business Systems also known
 as IT Solutions Shop (ITSS)) web portal will be accessible to the
@@ -600,7 +600,7 @@ upload status reports, deliverables, invoices, and to respond to
 inquiries. The contractor shall maintain a current account on this
 system.
 
-#### 6.12 Contract Administration
+#### 6.12 Contract Administration (WILL NEED UPDATES WITH AK SPECIFICS)
 
 The following Points of Contact (POC) are applicable to this order:
 
@@ -624,7 +624,7 @@ Services (AAS) <kit.lee@gsa.gov> (415) 436-8730
 GSA Contracting Officer: Lynda Luo GSA, Acquisition Operations
 Division <lynda.luo@gsa.gov> (415) 522-4633
 
-### 7.0 INVOICING/ PROCEDURES FOR PAYMENT
+### 7.0 INVOICING/ PROCEDURES FOR PAYMENT (WILL NEED UPDATES WITH AK SPECIFICS)
 
 The period of performance for each invoice shall be for one calendar
 month. The contractor shall submit only one invoice per month per
@@ -634,7 +634,7 @@ NOTE: The Government reserves the right to audit, thus; the contractor
 shall keep on file all backup support documentation for travels as
 applicable.
 
-#### 7.1 Content of Invoice
+#### 7.1 Content of Invoice (WILL NEED UPDATES WITH AK SPECIFICS)
 
 The contractor’s invoice will be submitted monthly for work performed
 the prior month. The contractor may invoice only for the hours, travel
@@ -670,7 +670,7 @@ following information at a minimum.
 -   Supporting documentation for travel including travel approval and
     receipts (if applicable)
 
-#### 7.2 Invoice Submission
+#### 7.2 Invoice Submission (WILL NEED UPDATES WITH AK SPECIFICS)
 
 All invoicing shall be done electronically. Password and electronic
 invoice access may be obtained through the AASBS web portal. The
