@@ -18,16 +18,18 @@ Alaska DHSS goals for the person search are as follows:
 
 -   Decreased burden on DPA field staff as they process incoming applications for program benefits
 
--   Get a better sense of the nature of pending work by revealing all unworked applications for a given person
+-   Get a better sense of the nature of pending work by revealing all unworked applications for a given person or household
 
 -   Increase the number of applications processed per worker, per day, so that potential beneficiaries can get their benefits sooner
 
 -   Build the foundation for a performant and flexible search API that can be reused throughout the application for any view
 
+-   Decrease time necessary for DPA field staff to get critical information on outstanding applications or ongoing assistance cases
+
 
 ### 3.0 SCOPE
 
-The scope of this task order is for the Contractor to continuously deliver iterations of a search tool that finds information for a given person across multiple systems (EIS, ARIES) and returns search results to workers that accurately reflect the status of all program applications for a given person. The search tool will be used in production so that workers can give feedback as early and frequently as possible. At the end of the engagement, the search tool will already be in use by DPA workers.
+The scope of this contract is for the Contractor to continuously deliver iterations of a search tool that finds information for a given person across multiple systems (EIS, ARIES) and returns search results to workers that accurately reflect the status of all program applications for a given person or household. The search tool will be used in production so that workers can give feedback as early and frequently as possible. At the end of the engagement, the search tool will already be in use by DPA workers.
 
 The State of Alaska will provide documentation on how to access data sources, how to interact with existing authentication systems, and how to continuously deploy work to a staging environment.
 
@@ -50,9 +52,12 @@ The Contractor shall provide the following services:
 
 -   Contractor shall review user research and conduct additional user research 
     in order to provide data views that are most useful.
+    
+-   Contractor shall ensure that DPA field staff can search for needed information
+    using a variety of search inputs, individually and in combination.
 
 -   Contractor shall ensure that DPA field staff can get a comprehensive view 
-    across systems (EIS, ARIES) of relevant and useful data in a single search.
+    across systems (EIS, ARIES) of relevant and useful data in a single search result.
 
 -   Contractor shall provide DPA field staff with the ability to refine 
     search results by filtering
@@ -62,26 +67,27 @@ The Contractor shall provide the following services:
 
 -   Contractor shall ensure that DPA field staff can easily get to the search tool 
     from within the ARIES system, and get to where they where they need to go 
-    from search result
+    from search result using Single Sign On (SSO) or current authentication scheme
 
 -   Contractor shall continuously deliver working software for use in the Alaska 
     production environment
 
 -   Contractor shall gather feedback from DPA workers after the software is delivered, and
-    incorporate that feedback into future iterations
+    incorporate feedback as approved by the Alaska product team
 
 
 ### Additional requirements:
 
--   Contractor shall use open source libraries that are well supported and 
-    documented so that future vendors can contribute more easily
+-   Contractor shall use proven open source libraries that are well supported and 
+    documented so that future vendors can contribute more easily. Before any libraries
+    are chosen, we will evaluate them to determine if they meet these conditions.
     
--   Contractor shall abide by best practices around unit and integration
-    testing for both front-end and back-end components
+-   Contractor shall abide by best practices around unit and integration testing 
+    for both front-end and back-end components.
     
 -   Contractor shall ensure the design is [modular](/modular-experience.md) 
     from the beginning so that future vendors can integrate more easily 
-    with the overall experience
+    with the overall experience.
 
 -   All software code delivered under this order shall comply with the
     [18F open source policy](https:/github.com/18F/open-source-policy/) in 
@@ -216,9 +222,9 @@ the COR within two weeks of the COR’s request.
 | REQUIRED DELIVERABLES/REPORTS | DUE DATES | DESCRIPTION OF DELIVERABLE CONTENT |
 |-------------------------------|-----------|------------------------------------|
 | Status Reports                | 1 business day after each sprint  | A report of progress throughout each sprint  |
-| Code Repository of Product    | End of task order                 | Version-controlled Open Source repository of code that comprises the search tool  |
+| Code Repository of Product    | End of contract                   | Version-controlled Open Source repository of code that comprises the search tool  |
 | Working software              | End of second sprint, and every sprint thereafter | Working software containing search features to be deployed to production |
-| Transition plan               | 3 business days after the conclusion  of the second-to-last sprint | See Section 5.5.1 of the PWS |
+| Transition plan               | 3 business days after the conclusion of the second-to-last sprint | See Section 5.5.1 of the PWS |
 
 
 ##### 5.6.1 Delivery Instructions
