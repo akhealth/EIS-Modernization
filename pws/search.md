@@ -150,7 +150,7 @@ In lieu of a typical status report, the following are required to
 document progress over the course of the period of performance for
 each sprint:
 
--   Links to the Github branch
+-   Links to relevant Github branches, pull requests, and/or commits
 
 -   Screenshots of any available visualization (as appropriate)
 
@@ -193,10 +193,7 @@ b)  Two weeks prior to task order conclusion, provide a brief Transition
 
 c)  Coordinate with the COR and potentially another vendor, and
     implement the Transition Plan according to the COR’s direction.
-
-d)  Provide assistance to the COR, Alaska Product Manager, and potentially
-    other State staff to stand-up the application.
-
+    
 ##### 5.5.2 Transition Activities
 
 During the transition to the State of Alaska and/or a new contractor, the
@@ -273,7 +270,23 @@ artifacts, and create new user stories based on each sprint.
 
 ##### 5.7.1. Desired Skills and Knowledge
 
-[Specify any technology requirements]
+The Contractor shall have knowledge and skills in the following areas
+
+Microsoft Technology:
+- ASP.NET web applications
+- .NET Core framework
+- C# language
+- SQL Server
+
+General Technology:
+- HTML, CSS
+- Javascript
+- Responsive design
+- SQL (language)
+- Git
+- Service-based architecture
+- API creation and usage
+- Automated unit and integration testing
 
 ##### 5.7.2 Key Personnel
 
