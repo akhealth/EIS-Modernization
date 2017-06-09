@@ -22,9 +22,9 @@ Alaska DHSS goals for the person search are as follows:
 
 -   Increase the number of applications processed per worker, per day, so that potential beneficiaries can get their benefits sooner
 
--   Build the foundation for a performant and flexible search API that can be reused throughout the application for any view
-
 -   Decrease time necessary for DPA field staff to get critical information on outstanding applications or ongoing assistance cases
+
+-   Build the foundation for a performant and flexible search API that can be reused throughout the application for any view
 
 
 ### 3.0 SCOPE
@@ -124,21 +124,15 @@ Vendor will not be required to handle any of the following tasks:
 #### 5.1 Project Management
 
 The contractor shall provide a Project Manager point of contact for
-the government’s program office for problem resolution, Program
+the Alaska product team for problem resolution, Program
 Management reporting in accordance with Program Management
 methodologies, and staffing requirements. Sprint plans will be
 developed collaboratively with the Product Owner and 18F.
 
-As per Agile Development requirements, the Contracting Officer’s
-Representative (COR) and contractor will be expected to work with the
-Product Owner (as determined by 18F and the State of Alaska), and an 18F Product
-Manager. Refer to Attachment 2, for Government Roles and
-Responsibilities.
-
 #### 5.2 Impact Reports (THIS WILL BE REVISED WITH ALASKA-SPECIFICS)
 
 The contractor shall be responsible for providing notification to the
-Alaska Product Manager and Contracting Officer when activities or issues
+Alaska product team when there are activities or issues
 outside of the contractor’s control, which directly impact the
 contractor’s performance. This notification shall be provided in
 writing or via email within 24 hours of the anticipated or known
@@ -164,8 +158,8 @@ each sprint:
 
 #### 5.4 Daily Operations
 
-Daily operations will be managed by the Contractor’s Project Manager,
-but coordinated to and communicated with the Alaska Product Manager. They
+Daily operations will be managed by the contractor’s project manager,
+but coordinated to and communicated with the Alaska product team. They
 may include:
 
 -   Daily standup via video
@@ -175,9 +169,10 @@ may include:
 -   Manage and update user stories + workflow tasks in shared project
     management platform
 
+
 #### 5.5 Transition
 
-##### 5.5.1 Transition Plan
+##### 5.5.1 Transition Plan [TO BE UPDATED ONCE PM REQUIREMENTS ARE SET]
 
 The Contractor shall:
 
@@ -194,7 +189,7 @@ b)  Two weeks prior to task order conclusion, provide a brief Transition
 c)  Coordinate with the COR and potentially another vendor, and
     implement the Transition Plan according to the COR’s direction.
     
-##### 5.5.2 Transition Activities
+##### 5.5.2 Transition Activities [TO BE UPDATED ONCE PM REQUIREMENTS ARE SET]
 
 During the transition to the State of Alaska and/or a new contractor, the
 Contractor shall perform all necessary transition activities,
@@ -221,7 +216,7 @@ the COR within two weeks of the COR’s request.
 | Status Reports                | 1 business day after each sprint  | A report of progress throughout each sprint  |
 | Code Repository of Product    | End of contract                   | Version-controlled Open Source repository of code that comprises the search tool  |
 | Working software              | End of second sprint, and every sprint thereafter | Working software containing search features to be deployed to production |
-| Transition plan               | 3 business days after the conclusion of the second-to-last sprint | See Section 5.5.1 of the PWS |
+| Transition plan [TO BE UPDATED AFTER PM REQUIREMENTS ARE SET]              | 3 business days after the conclusion of the second-to-last sprint | See Section 5.5.1 of the PWS |
 
 
 ##### 5.6.1 Delivery Instructions
