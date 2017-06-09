@@ -210,13 +210,16 @@ the COR within two weeks of the COR’s request.
 ####5.6 Deliverables
 
 ##### Table 1 List of Deliverables
+**Deliverable** | **Due Date** | **Description**
+--- | --- | ---
+Code & Status Reports | 1 business day after each sprint | Demonstration of progress throughout each sprint.
+Code Repository of Product | End of call order | Version-controlled Open Source repository of code that comprises prototype.
+Research | A research plan shall be delivered during the first sprint. Research-related records shall be delivered at the end of the second sprint and every applicable sprint. thereafter | A summary of research conducted and results found. If applicable, next steps or recommendations based on research.
+Design Deliverables | End of every applicable sprint | Mock ups and/or design files if applicable, or design changes reflected in the Development Prototype.
+Development Prototype | End of second sprint and every sprint thereafter | In-progress development prototype, accessible on the web via staging server / development server.
+Transition Plan | To be worked on no later than the second to last sprint of the initial Period of Performance | Work with HUD and TTS team to make sure there is a clear plan for handing off the code repository.
 
-| REQUIRED DELIVERABLES/REPORTS | DUE DATES | DESCRIPTION OF DELIVERABLE CONTENT |
-|-------------------------------|-----------|------------------------------------|
-| Status Reports                | 1 business day after each sprint  | A report of progress throughout each sprint  |
-| Code Repository of Product    | End of contract                   | Version-controlled Open Source repository of code that comprises the search tool  |
-| Working software              | End of second sprint, and every sprint thereafter | Working software containing search features to be deployed to production |
-| Transition plan [TO BE UPDATED AFTER PM REQUIREMENTS ARE SET]              | 3 business days after the conclusion of the second-to-last sprint | See Section 5.5.1 of the PWS |
+The contractor shall submit all deliverables to COR/ACOR, TTS Product Lead, and Product Owner.
 
 
 ##### 5.6.1 Delivery Instructions
