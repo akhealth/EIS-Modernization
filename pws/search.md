@@ -240,12 +240,12 @@ artifacts, and create new user stories based on each sprint.
 
 #### 5.7 Personnel
 
-Project manager
-Technical lead
-Developers (Front-end, Back-end or full stack)
-Researcher
-User experience designer
-Visual designer
+- Project manager
+- Technical lead
+- Developers (Front-end, Back-end or full stack)
+- Researcher
+- User experience designer
+- Visual designer
 
 ##### 5.7.1. Desired Skills and Knowledge
 
