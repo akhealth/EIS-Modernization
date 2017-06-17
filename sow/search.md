@@ -223,6 +223,7 @@ days of the conclusion of each sprint.
 Only the Alaska product team has the authority to
 inspect, accept, or reject all deliverables. 
 
+Acceptance of services and deliverables will be based on the criteria laid out in the quality acceptance plan.
 ##### 5.6.3 System Documentation
 
 The Contractor shall consult with the Alaska product team to determine what is
@@ -234,9 +235,9 @@ use of descriptive commit messages, issue tracking, pull requests,
 etc.), and as appropriate, in separate documentation, provide
 artifacts, and create new user stories based on each sprint.
 
-##### 5.6.4. Quality Assurance [defer to Nick]
+##### 5.6.4. Quality Assurance
 
-[Specify AK Quality Assurance requirements]
+The Contractor shall comply with the acceptable quality levels (AQL) in the attached quality assurance plan (QAP) (update link to QAP on Github)
 
 #### 5.7 Personnel
 
