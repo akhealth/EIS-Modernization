@@ -12,7 +12,7 @@ With that said, Alaska envisions a transparent procurement process in which smal
 
 We intend this public GitHub repository to be the source of information as we move forward in our planning and implementation of this new vision.  We will do our best to keep this repo updated as decisions are made or if we need to pivot in our plans as we learn.  We also want to hear from the vendor community if you have any comments or questions - we will update this with specific instructions on how best to do that in the coming days.  We’ll do our best to respond to your questions as they arrive, but we also can’t guarantee we can answer every question.  
 
-### So, what’s next?
+### What's happened so far?
 
 On Wednesday, May 17, 2017, we posted an RFI using Alaska’s [Vendor Self Service system](https://iris-vss.alaska.gov/webapp/PRDVSS1X1/AltSelfService).  We request responses from interested vendors by June 5, 2017 at 4:00 PM Alaska Prevailing Time - and ask for some very basic information and an indication of their interest.  However, we see this [folder](https://github.com/18F/acq-alaska-dhss-modernization/tree/master/vendor-info) in our repo as an active environment in which vendors and others can continue to keep track of what’s going on as Alaska makes strategy decisions and releases future RFPs.
 
@@ -23,6 +23,12 @@ We are looking for firms that are excited about working in new ways with governm
 * Delivery over documentation (although we still need the code to be well-documented, you’ll see that in our RFPs)
 * OK with smaller dollar contracts - with an understanding that successful delivery will help in future module procurements
 * Most important, knowing how to _deliver great products_ over knowing how to _sell_.  We want vendors that put their engineers, designers, and developers first, vs. their business development.  Because the procurements will be smaller, we don’t intend to have 125 page RFP’s with 1000 “shall statements” that require enormous proposal efforts.  We are going to experiment with ways to make the buying process easier for both Alaska and interested vendors.
+
+We received responses from a number of firms that fit the bill.  They also asked a ton of great questions that we responded to on as [GitHub Issues](https://github.com/18F/acq-alaska-dhss-modernization/issues).  We attempted to categorize them with different labels to help vendors as they sort through our answers.  If there are any other questions, we encourage you to post them as new issues.  
+
+### What's next?
+
+We're going to post different drafts of documents related to the first procurement, including a statement of work that describes the scope and a Quality Assurance Plan that describes Alaska's approach to working with the selected vendor.  Our product teams will continue to post more information about the progress being made during the initial prototype and other overarching efforts going on to prepare Alaska to begin working with vendors on the first module.
 
 ### Thanks again!
 We hope you’ll join us in this.  If you’re interested, please send an e-mail to our contracting officer, Jon Geselle, on [jon.geselle@alaska.gov](mailto:jon.geselle@alaska.gov).  Better yet, get engaged by [adding an issue](https://github.com/18F/acq-alaska-dhss-modernization/issues) in our GitHub repo.  
