@@ -1,4 +1,4 @@
-## Information for Interested Vendors
+## Information for Interested Vendors (Updated June 22, 2017)
 
 ### We’re glad you’re interested in our project!
 
