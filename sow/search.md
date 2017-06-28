@@ -54,7 +54,7 @@ The Contractor shall provide the following services:
     identify potential unworked applications for the same family or individual
 
 -   Contractor shall ensure that DPA field staff can easily get to the search tool 
-    from within the ARIES system, and get to where they where they need to go 
+    from within the ARIES system, and get to where they need to go 
     from search result using Single Sign On (SSO) or current authentication scheme
 
 -   Contractor shall continuously deliver working software for use in the Alaska 
@@ -92,7 +92,7 @@ The Contractor shall provide the following services:
     reviewed at the end of each sprint for acceptability before
     moving on.
     
--   Contractor shall ensure that sytem documentation is as automated as possible so 
+-   Contractor shall ensure that system documentation is as automated as possible so 
     that it does not have to be updated manually
     
 -   Contractor shall work with the State of Alaska to ensure that support and operations
