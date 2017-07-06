@@ -1,12 +1,12 @@
 ```
-AIRES : Alaska Resource for Integrated Eligibility Services
+ARIES : Alaska Resource for Integrated Eligibility Services
 DHSS  : Department of Health and Social Services
 DPA   : Division of Public Assistance
 EIS   : Eligibility Information System
 EIS-R : Eligibility Information System Replacement
 ETS   : Enterprise Technology Services
 FDSH  : Federal Data Services Hub
-FFM   : Federal Federated Marketplace
+FFM   : Federal Facilitated Marketplace
 MCI   : Master Client Index
 MITA  : Medicaid Information Technology Architecture
 MMIS  : Medicaid Management Information Systems
