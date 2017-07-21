@@ -1,6 +1,18 @@
 # Welcome!
 This repo contains documentation describing the Alaska Department of Health and Social Services (DHSS) modernization project. It is intended to be a place where project participants can keep track of the overall project goals, the decision framework, progress to date and learnings as we work. It is also intended to be a project 'home page' where members can access important and up-to-date project information that exists somewhere else.
 
+# Contents
+* [Vision](#vision)
+* [The Challenge](#the-challenge)
+* [Our Hypothesis](#our-hypothesis)
+* [Risks](#risks)
+* [Near-term Milestones](#near-term-milestones)
+* [Ongoing Strategic Concerns](#ongoing-strategic-concerns)
+* [Important Resources](#important-resources)
+* [System Information](#system-information-user-account-must-be-granted-by-the-state-of-alaska)
+* [Related projects](#related-projects)
+* [Contributing](#contributing-to-this-repo)
+
 ## Vision
 Alaska Department of Health & Social Services (DHSS) is developing a modern, integrated eligibility system that enables staff to more efficiently issue correct and timely benefits to Alaskans who need help meeting their basic needs.  Utilizing agile development and modular procurements, DHSS has the goal of implementing an eligibility system that not only meets state and federal standards, but is user friendly for our clients, our eligibility staff, and our technical staff.
 
