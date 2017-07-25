@@ -39,7 +39,9 @@ The State of Alaska will provide documentation on how to access data sources, ho
 The Contractor shall provide the following services:
 
 -   Contractor shall review existing research artifacts and conduct additional user research 
-    in order to determine user needs, define and test usability of solutions, and provide interfaces/data views that are most useful.
+    in order to determine user needs in order to provide interfaces/data views that are most useful.
+     
+-   Contractor shall conduct usability testing and gather feedback from DPA workers on an ongoing basis as solutions are explored and software is delivered, and incorporate feedback.
     
 -   Contractor shall ensure that DPA field staff can search for needed information
     using a variety of search inputs, individually and in combination.
@@ -48,20 +50,17 @@ The Contractor shall provide the following services:
     across systems (EIS, ARIES) of relevant and useful data in a single search result.
 
 -   Contractor shall provide DPA field staff with the ability to refine 
-    search results by filtering
+    search results by filtering.
 
 -   Contractor shall ensure that the search results help DPA field staff reliably 
-    identify potential unworked applications for the same family or individual
+    identify potential unworked applications for the same family or individual.
 
 -   Contractor shall ensure that DPA field staff can easily get to the search tool 
     from within the existing ARIES system, and get to where they need to go 
-    from search result using Single Sign On (SSO) or current authentication scheme
+    from search result using Single Sign On (SSO) or current authentication scheme.
 
 -   Contractor shall continuously deliver working software for use in the Alaska 
-    production environment
-
--   Contractor shall gather feedback from DPA workers after the software is delivered, and
-    incorporate feedback as approved by the Alaska product team
+    production environment.
 
 
 ### Additional requirements:
