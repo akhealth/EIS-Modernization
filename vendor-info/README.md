@@ -1,4 +1,8 @@
-## Information for Interested Vendors (Updated June 22, 2017)
+## Information for Interested Vendors 
+
+## Get the latest project updates
+
+Make sure to check out the [project wiki](https://github.com/18F/acq-alaska-dhss-modernization/wiki) for the latest updates on our progress.
 
 ### We’re glad you’re interested in our project!
 
