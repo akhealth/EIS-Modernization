@@ -39,7 +39,7 @@ The State of Alaska will provide documentation on how to access data sources, ho
 The Contractor shall provide the following services:
 
 -   Contractor shall review existing research artifacts and conduct additional user research 
-    in order to determine user needs in order to provide interfaces/data views that are most useful.
+    in order to determine user needs so that interfaces/data views that are most useful can be provided.
      
 -   Contractor shall conduct usability testing and gather feedback from DPA workers on an ongoing basis as solutions are explored and software is delivered, and incorporate feedback.
     
