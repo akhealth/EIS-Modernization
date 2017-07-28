@@ -38,8 +38,9 @@ The State of Alaska will provide documentation on how to access data sources, ho
 
 The Contractor shall provide the following services:
 
--   Contractor shall review user research and conduct additional user research 
-    in order to provide data views that are most useful.
+-   Contractor shall review existing research artifacts and conduct additional user research in order to determine user needs so that the contractor can design and deliver interfaces/data views that are most useful.
+     
+-   Contractor shall conduct usability testing and gather feedback from DPA workers on an ongoing basis as solutions are explored and software is delivered, and incorporate feedback.
     
 -   Contractor shall ensure that DPA field staff can search for needed information
     using a variety of search inputs, individually and in combination.
@@ -48,20 +49,17 @@ The Contractor shall provide the following services:
     across systems (EIS, ARIES) of relevant and useful data in a single search result.
 
 -   Contractor shall provide DPA field staff with the ability to refine 
-    search results by filtering
+    search results by filtering.
 
 -   Contractor shall ensure that the search results help DPA field staff reliably 
-    identify potential unworked applications for the same family or individual
+    identify potential unworked applications for the same family or individual.
 
 -   Contractor shall ensure that DPA field staff can easily get to the search tool 
-    from within the ARIES system, and get to where they need to go 
-    from search result using Single Sign On (SSO) or current authentication scheme
+    from within the existing ARIES system, and get to where they need to go 
+    from search result using Single Sign On (SSO) or current authentication scheme.
 
 -   Contractor shall continuously deliver working software for use in the Alaska 
-    production environment
-
--   Contractor shall gather feedback from DPA workers after the software is delivered, and
-    incorporate feedback as approved by the Alaska product team
+    production environment.
 
 
 ### Additional requirements:
@@ -73,9 +71,11 @@ The Contractor shall provide the following services:
 -   Contractor shall abide by best practices around unit and integration testing 
     for both front-end and back-end components.
     
--   Contractor shall ensure the design is [modular](/modular-experience.md) 
+-   Contractor shall ensure the design aligns with the [modular product design strategy](/modular-experience.md) 
     from the beginning so that future vendors can integrate more easily 
     with the overall experience.
+    
+-   Contractor shall ensure pages load efficiently across geographies and display/function properly on different device types and using various modern and necessary browsers.
 
 -   All software code delivered under this order shall comply with the
     [18F open source policy](https:/github.com/18F/open-source-policy/) in 
@@ -87,10 +87,7 @@ The Contractor shall provide the following services:
     
 -   APIs should comply with the [18F API standards](https://github.com/18F/api-standards)
 
--   As part of this being purchased off of the Agile Blanket Purchase
-    Agreement (BPA), work will be conducted in two-week sprints and
-    reviewed at the end of each sprint for acceptability before
-    moving on.
+-   Work will be conducted in two-week sprints and reviewed at the end of each sprint for acceptability before moving on.
     
 -   Contractor shall ensure that system documentation is as automated as possible so 
     that it does not have to be updated manually
