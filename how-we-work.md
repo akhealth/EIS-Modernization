@@ -150,7 +150,7 @@ We use our [Visual Studio Team Services](https://alaskadhssba.visualstudio.com/)
 #### Slack
 We use the [TTS Slack](https://gsa-tts.slack.com/) for communication that falls outside of the structure of Trello or GitHub, but that doesn’t rise to the level of email, or for communication that it’s helpful for everybody else to be able to observe.
 
-##Processes
+## Processes
 
 #### DevOps
 We rely on [DevOps](https://github.com/dhssalaska/acq-alaska-dhss-modernization/blob/master/DevOps.md) for automation and monitoring of code integration, testing, and deployment. Our DevOps pipeline is built atop VSTS (not GitHub) for deployment to Azure. We practice continuous integration, continuous deployment, and continuous testing (including security testing). All new code has tests developed simultaneously, with cumulative test coverage of not less than 90%. See “Accepting Vendor Work” for more.
