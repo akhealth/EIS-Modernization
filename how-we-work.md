@@ -43,8 +43,8 @@ So that we can work more efficiently and be confident in the quality of the work
 * for delivering a user story to the product team
   * The delivered functionality should match the acceptance criteria of the user story
   * All tests must pass in the staging environment (unit, integration, feature)
-  * Test coverage must be greater than xx% as measured by ___
-  * The delivered functionality should be 508 compliant as measured by ___
+  * Test coverage must be greater than the percentage described in the Quality Assurance Plan
+  * The delivered functionality should be 508 compliant
   * Security requirements must be met 
   * All documentation must be up to date (diagrams, training documentation, API documentation, help text, etc)
   * The delivered functionality should be compatible with the latest versions of IE, Firefox, Chrome and Safari 
