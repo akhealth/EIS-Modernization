@@ -28,16 +28,25 @@ With multiple parties working on different modules, we want to **provide just en
 
 At the heart of this strategy is an approach that establishes a limited number of design constraints that tie the loosely coupled modules together.
 
-These constraints are:
+Moving forward we plan to:
 
-- Using a hub-and-spoke global navigation scheme (where the modules are the spokes)
-- Treating the homepage and search as the primary means of navigation across the system
-- Shared identity across the system
+- Adopt a hub-and-spoke global navigation scheme, where the homepage is the hub and modules are the spokes.
+- Share identity/authentication across the system for fluid user movement between pages/modules
+- Treat the homepage and search as primary means of navigation across the system
 
-**We have developed a [demonstration website](http://federalist.18f.gov.s3-website-us-east-1.amazonaws.com/site/18f/united/portal.html) that illustrates these patterns.**
+**We have developed a [demonstration website](http://federalist.18f.gov.s3-website-us-east-1.amazonaws.com/site/18f/united/portal.html) that illustrates these patterns.** 
 
 [![Screenshot of demonstration website ](assets/product-architecture-demo.jpg)](http://federalist.18f.gov.s3-website-us-east-1.amazonaws.com/site/18f/united/portal.html)
 
-Each module will adopt a global header design comprised of the ARIES logo, breadcrumb navigation, link to search, the user's name and office, and logout button. All modules would use responsive web design methods. The homepage, which is included in the demonstration website, is a module itself and will be developed in the future. Module teams are not responsible for user interface elements outside of their module.
+Each module will adopt a global header design comprised of the ARIES logo/link to home, breadcrumb navigation, link to search start screen, the user's name and office, and logout button. All modules would load efficiently across geographies and display/function properly on different device types and using various modern and necessary browsers. The homepage, as illustrated in the demonstration website, would be considered a module itself and will be developed in the future. Module teams are not responsible for user interface elements outside of their module.
 
 We anticipate eventual efforts to create greater user interface consistency between modules and teams, but do not want to prematurely optimize these patterns. We expect those activities to be emergent, surfacing when it’s expedient for teams to collaborate through pattern libraries, shared code repositories, or other means.
+
+**Current expectations for contractors delivering new modules**
+
+- New modules must meet the needs of their users. As such, contractors should introduce UI patterns that best allow their users to accomplish their tasks. 
+- Contractors are not expected to adhere to the existing user interface styles or patterns, but recognize that users will be moving between the existing ARIES experience and new module experiences constantly throughout their day.
+- Over time, we anticipate shared UI patterns will emerge and shared libraries may be developed. At this time, we do not want to prematurely optimize for that future state.
+- The one prescriptive design choice imposed on new modules is that they should institute a global header design including the ARIES logo/link to home, breadcrumb navigation, link to search home, the user's name and office, and logout button.
+- For subsequent modules, Alaska will reevaluate this approach and may adjust course as needed.
+
