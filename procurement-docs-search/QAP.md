@@ -1,0 +1,1 @@
+This is where the Quality Assurance Plan will be posted.  Once posted, we'll need to make sure there's no duplication or discrepancies between the QAP and the deliverables/acceptance section of the Statement of Work.
