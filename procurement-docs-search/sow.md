@@ -1,7 +1,7 @@
 [DRAFT] STATEMENT OF WORK (SOW) FOR ALASKA DHSS SEARCH TOOL
 =========================================
 
-#### June 6, 2017
+#### NOTE: This is a draft statement of work that will be updated as we prepare the final RFP.
 
 ### 1.0 BACKGROUND
 The background for this project as a whole is detailed in the project [README](/README.md). 
@@ -14,9 +14,9 @@ later on.
 
 ### 2.0 OBJECTIVES
 
-Alaska DHSS goals for the person search are as follows:
+Alaska Department of Health and Social Services (DHSS) goals for the person search are as follows:
 
--   Decreased burden on DPA field staff as they process incoming applications for program benefits
+-   Decreased burden on Division of Public Assistance (DPA) field staff as they process incoming applications for program benefits
 
 -   Get a better sense of the nature of pending work by revealing all unworked applications for a given person or household
 
@@ -66,7 +66,7 @@ The Contractor shall provide the following services:
 
 -   Contractor shall use proven open source libraries that are well supported and 
     documented so that future vendors can contribute more easily. Before any libraries
-    are chosen, we will evaluate them to determine if they meet these conditions.
+    are chosen, the Alaska product team will evaluate them to determine if they meet these conditions.
     
 -   Contractor shall abide by best practices around unit and integration testing 
     for both front-end and back-end components.
@@ -90,10 +90,10 @@ The Contractor shall provide the following services:
 -   Work will be conducted in two-week sprints and reviewed at the end of each sprint for acceptability before moving on.
     
 -   Contractor shall ensure that system documentation is as automated as possible so 
-    that it does not have to be updated manually
+    that it does not have to be updated manually.
     
 -   Contractor shall work with the State of Alaska to ensure that support and operations
-    teams are trained
+    teams are trained.
 
 ### Note the following tasks are not required:
 
@@ -112,7 +112,7 @@ The contractor shall provide a Project Manager point of contact for
 the Alaska product team for problem resolution, Program
 Management reporting in accordance with Program Management
 methodologies, and staffing requirements. Sprint plans will be
-developed collaboratively with the Product Owner and 18F.
+developed collaboratively with the Alaska product team and 18F.
 
 #### 5.2 Impact Reports
 
@@ -138,7 +138,7 @@ each sprint:
     number and percentage of completed sprint tasks (e.g. percentage of
     tasks completed)
 
--   Access to the contractor’s project management tool to view
+-   Ongoing access to the contractor’s project management tool to view
     development status
 
 #### 5.4 Daily Operations
@@ -169,26 +169,26 @@ a)  Ensure and agree that all deliverables, products, licenses, designs,
 
 b)  Two weeks prior to contract conclusion, provide a brief Transition
     Plan for all deliverables, products, and materials in coordination
-    with the COR, Alaska Product Manager and Product Owner from Alaska.
+    with the Alaska product team.
 
-c)  Coordinate with the COR and potentially another vendor, and
-    implement the Transition Plan according to the COR’s direction.
+c)  Coordinate with the Alaska product team and potentially another vendor, and
+    implement the Transition Plan according to the Alaska product team's direction.
     
 ##### 5.5.2 Transition Activities [TO BE UPDATED ONCE PM REQUIREMENTS ARE SET]
 
 During the transition to the State of Alaska and/or a new contractor, the
 Contractor shall perform all necessary transition activities,
 including, but not limited to, continued full services to 18F and
-other customers; participation, at discretion of COR, meetings with
-the State of Alaska or new contractor to effect a smooth transition and
-provide detailed information on the operation of all deliverables;
+other customers; participation, at discretion of Alaska product team, in 
+meetings with the State of Alaska or new contractor to effect a smooth 
+transition and provide detailed information on the operation of all deliverables;
 training of new personnel (contractor or State) during transition
 period, appropriate close-out of outstanding technical and related
 work.
 
 Final report shall include list of sprint tasks completed,
 documentation, and link to code repository. Should
-the Contractor be terminated prior to the end of the period of
+the Contract be terminated prior to the end of the period of
 performance, the Contractor shall transfer all project materials to
 the COR within two weeks of the COR’s request.
 
@@ -293,14 +293,14 @@ skills/experience for the Project Manager include:
     -   Proven knowledge of industry standards.
     
 The *Technical Lead* must have a full understanding of the technical
-approach discussed in the interview and is responsible for ensuring that 
-the contractor follows the proposed approach.
+approach discussed in the proposal / interview and is responsible for ensuring that 
+the contractor follows the proposed approach.  
 
 #### 5.8 Additional Considerations 
 
 ##### 5.8.1 Potential Organizational Conflicts (ALASKA HAS SIMILAR CLAUSE)
 
-[Add Alaska language]
+[Add Alaska language - or delete this if the OCI is included in the RFP document]
 
 #### 5.9 OTHER REQUIREMENTS
 
@@ -358,8 +358,8 @@ award. No other hardware or software will be provided by the Government.
 
 Vendors are advised that Alaska will publish on a publicly available
 website documents associated with this requirement, including any
-Requests for Quotation (including amendments), Question and Answer
-exchanges with vendors (source-identifying information removed), and
+Requests for Proposal (including amendments), Question and Answer
+exchanges with vendors, and
 other relevant information that is not confidential/proprietary in
 nature or source selection sensitive information that would otherwise
 implicate procurement integrity concerns. During the performance of
