@@ -24,9 +24,11 @@ To facilitate this modular approach to system development, we will be incrementa
 
 ### Unified product design
 
-With multiple parties working on different modules, we want to **provide just enough guidance to free each team to focus on the desired outcomes and user needs pertinent to their module**, not global product design concerns. We also want to explain how their modules will fit within the larger whole.
+With multiple parties working on different modules, we want to **provide just enough guidance to free each team to focus on the desired outcomes and user needs pertinent to their module**, not global product design concerns. We want to explain how their modules will fit within the larger whole. At the same time, we are cautious about optimizing too early, or being overly prescriptive at this stage.
 
-At the heart of this strategy is an approach that establishes a limited number of design constraints that tie the loosely coupled modules together.
+In the long run, we intend to have a unified, shared UI pattern library that will provide a consistent user experience across modules and provide a means for system-wide UI changes. However, we don't want the creation of that library to be overly speculative or delay progress in other areas. It will take work over time, likely through multiple module projects, for those patterns to be identified. 
+
+Our solution at this point establishes a limited number of design constraints that will tie the loosely coupled modules together. This will incur some acceptable technical debt, but it will allow forward progress and can be paid down at the appropriate point in the future as patterns are established through module-based work. We anticipate reassessing this approach as we learn from each module and our users.
 
 Moving forward we plan to:
 
@@ -38,9 +40,7 @@ Moving forward we plan to:
 
 [![Screenshot of demonstration website ](assets/product-architecture-demo.jpg)](http://federalist.18f.gov.s3-website-us-east-1.amazonaws.com/site/18f/united/portal.html)
 
-Each module will adopt a global header design comprised of the ARIES logo/link to home, breadcrumb navigation, link to search start screen, the user's name and office, and logout button. All modules would load efficiently across geographies and display/function properly on different device types and using various modern and necessary browsers. The homepage, as illustrated in the demonstration website, would be considered a module itself and will be developed in the future. Module teams are not responsible for user interface elements outside of their module.
-
-We anticipate eventual efforts to create greater user interface consistency between modules and teams, but do not want to prematurely optimize these patterns. We expect those activities to be emergent, surfacing when it’s expedient for teams to collaborate through pattern libraries, shared code repositories, or other means.
+For new modules being developed, each will adopt a global header comprised of the ARIES logo/link to home, breadcrumb navigation, link to search start screen, the user's name and office, and logout button. All modules would load efficiently across geographies and display/function properly on different device types and using various modern and necessary browsers. Module teams are not responsible for user interface elements outside of their module.
 
 **Current expectations for contractors delivering new modules**
 
