@@ -98,9 +98,10 @@ We will know we are successful, if we can increase worker productivity and moral
   - [ ] Acquisition strategy - in progress
   - [ ] DevOps MVP - in progress
   - [ ] [Technical prototyping](technical-prototyping.md) - in progress
+- [ ] [Draft solicitation documents and vendor outreach](https://github.com/AlaskaDHSS/acq-alaska-dhss-modernization/tree/master/vendor-info) - in progress
 - [ ] First solicitation - To Do
-- [ ] Acquire a vendor - To Do
-- [ ] First acquisition - To Do
+- [ ] Award first contract - To Do
+- [ ] Subsequent acquisition(s) - To Do
 
 ## Ongoing Strategic Concerns
 * Data normalization
