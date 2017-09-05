@@ -18,8 +18,8 @@ Before we write this first RFP, we want to spend time prototyping so we can miti
 1. Creating a development and deployment pipeline that will allow vendors to deliver code that can be automatically evaluated and pushed to a staging environment — in progress
 2. Creating a process to get the delivered code into a production environment on a continuous basis - in progress
 3. Verifying that the existing identity service can be used for user authentication/authorization - in progress
-4. Accessing data from the legacy EIS system to show in search results - blocked
-5. Accessing data from the ARIES system and staging table to show in search results - not yet started
+4. Accessing data from the legacy EIS system to show in search results - in progress
+5. Accessing data from the ARIES system and staging table to show in search results - in progress
 6. Validating that the data coming from multiple systems is potentially reconcileable - not yet started
 7. Deploying existing ARIES code to production - not yet started
 
