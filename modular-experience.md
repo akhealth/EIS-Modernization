@@ -34,7 +34,7 @@ These constraints are:
 - Treating the homepage and search as the primary means of navigation across the system
 - Shared identity across the system
 
-**We have developed a [demonstration website](http://federalist.18f.gov.s3-website-us-east-1.amazonaws.com/site/18f/united/portal.html) that illustrates these patterns.**
+**We have developed a [demonstration website](https://federalist-proxy.app.cloud.gov/site/18f/united/portal.html) that illustrates these patterns.**
 
 [![Screenshot of demonstration website ](assets/product-architecture-demo.jpg)](https://federalist-proxy.app.cloud.gov/site/18f/united/portal.html)
 
