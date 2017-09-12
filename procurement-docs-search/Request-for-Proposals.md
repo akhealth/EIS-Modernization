@@ -881,7 +881,7 @@ provide examples of how to calculate the preferences are available at
 the **Department of Administration, Division of General Service’s** web
 site:
 
-> [http://doa.alaska.gov/dgs/pdf/pref1.pdf](http://doa.alaska.gov/dgs/pdf/pref1.pdf)
+[http://doa.alaska.gov/dgs/pdf/pref1.pdf](http://doa.alaska.gov/dgs/pdf/pref1.pdf)
 
 -   Alaska Products Preference - AS 36.30.332
 
@@ -1946,92 +1946,92 @@ unauthorized activity.
 BA shall provide a yearly report to CE that lists the names of all
 individuals with technical or physical access to CE’s PHI and the
 scope of that access.
->
-> m\. *Restrictions and Confidential Communications*: Within 10 business
-> days of notice by CE of a restriction upon use or disclosure or request
-> for confidential communications pursuant to 45 C.F.R.164.522, BA shall
-> restrict the use or disclosure of an individual’s PHI. BA may not
-> respond directly to an individual’s request to restrict the use or
-> disclosure of PHI or to send all communication of PHI to an alternate
-> address. BA shall refer such requests to the CE so that the CE can
-> coordinate and prepare a timely response to the requesting individual
-> and provide direction to the BA.
->
-> n\. *Indemnification*: BA shall indemnify and hold harmless CE for any
-> civil or criminal monetary penalty imposed on CE or monetary settlement
-> reached by CE for acts or omissions in violation of HIPAA, the HITECH
-> Act, or the Privacy or Security Rule that are committed by BA, a member
-> of its workforce, its agent, or its subcontractor.
->
-> 4\. *Obligations of CE*. CE will be responsible for using legally
-> appropriate safeguards to maintain and ensure the confidentiality,
-> privacy and security of PHI transmitted to BA under the BAA until the
-> PHI is received by BA. CE will not request BA to use or disclose PHI in
-> any manner that would not be permissible under HIPAA, the HITECH Act or
-> the Privacy and Security Rule if done by CE.
->
-> 5\. *Termination*.
->
-> a\. *Breach*: A breach of a material term of the BAA by BA that is not
-> cured within a reasonable period of time will provide grounds for the
-> immediate termination of the contract.
->
-> b\. *Reasonable Steps to Cure*: In accordance with 45 C.F.R.
-> 164.504(e)(1)(ii), CE and BA agree that, if it knows of a pattern of
-> activity or practice of the other party that constitutes a material
-> breach or violation of the other party’s obligation under the BAA, the
-> nonbreaching party will take reasonable steps to get the breaching party
-> to cure the breach or end the violation and, if the steps taken are
-> unsuccessful, terminate the BAA if feasible, and if not feasible, report
-> the problem to the Secretary of the U.S. Department of Health and Human
-> Services.
->
-> c\. *Effect of Termination*: Upon termination of the contract, BA will,
-> at the direction of the CE, either return or destroy all PHI received
-> from CE or created, maintained, or transmitted on CE’s behalf by BA in
-> any form. Unless otherwise directed, BA is prohibited from retaining any
-> copies of PHI received from CE or created, maintained, or transmitted by
-> BA on behalf of CE. If destruction or return of PHI is not feasible, BA
-> must continue to extend the protections of this BAA to PHI and limit the
-> further use and disclosure of the PHI. The obligations in this BAA shall
-> continue until all of the PHI provided by CE to BA is either destroyed
-> or returned to CE.
->
-> 6\. *Amendment*. The parties acknowledge that state and federal laws
-> relating to electronic data security and privacy are evolving, and that
-> the parties may be required to further amend this BAA to ensure
-> compliance with applicable changes in law. Upon receipt of a
-> notification from CE that an applicable change in law affecting this BAA
-> has occurred, BA will promptly agree to enter into negotiations with CE
-> to amend this BAA to ensure compliance with changes in law.
->
-> 7\. *Ownership of PHI*. For purposes of this BAA, CE owns the data that
-> contains the PHI it transmits to BA or that BA receives, creates,
-> maintains or transmits on behalf of CE.
->
-> 8\. *Litigation Assistance*.  Except when it would constitute a direct
-> conflict of interest for BA, BA will make itself available to assist CE
-> in any administrative or judicial proceeding by testifying as witness as
-> to an alleged violation of HIPAA, the HITECH Act, the Privacy or
-> Security Rule, or other law relating to security or privacy.
->
-> 9\. *Regulatory References*. Any reference in this BAA to federal or
-> state law means the section that is in effect or as amended.
->
-> 10.*Interpretation*. This BAA shall be interpreted as broadly as
-> necessary to implement and comply with HIPAA, the HITECH Act, the
-> Privacy and Security Rule and applicable state and federal laws. The
-> parties agree that any ambiguity in BAA will be resolved in favor of a
-> meaning that permits the CE to comply with and be consistent with
-> HIPAA, the HITECH Act, and the Privacy and Security Rule. The parties
-> further agree that where this BAA conflicts with a contemporaneously
-> executed confidentiality agreement between the parties, this BAA
-> controls.
->
-> 11.*No Private Right of Action Created.* This BAA does not create any
-> right of action or benefits for individuals whose PHI is disclosed in
-> violation of HIPAA, the HITECH Act, the Privacy and Security Rule or
-> other law relating to security or privacy.
+
+m\. *Restrictions and Confidential Communications*: Within 10 business
+days of notice by CE of a restriction upon use or disclosure or request
+for confidential communications pursuant to 45 C.F.R.164.522, BA shall
+restrict the use or disclosure of an individual’s PHI. BA may not
+respond directly to an individual’s request to restrict the use or
+disclosure of PHI or to send all communication of PHI to an alternate
+address. BA shall refer such requests to the CE so that the CE can
+coordinate and prepare a timely response to the requesting individual
+and provide direction to the BA.
+
+n\. *Indemnification*: BA shall indemnify and hold harmless CE for any
+civil or criminal monetary penalty imposed on CE or monetary settlement
+reached by CE for acts or omissions in violation of HIPAA, the HITECH
+Act, or the Privacy or Security Rule that are committed by BA, a member
+of its workforce, its agent, or its subcontractor.
+
+4\. *Obligations of CE*. CE will be responsible for using legally
+appropriate safeguards to maintain and ensure the confidentiality,
+privacy and security of PHI transmitted to BA under the BAA until the
+PHI is received by BA. CE will not request BA to use or disclose PHI in
+any manner that would not be permissible under HIPAA, the HITECH Act or
+the Privacy and Security Rule if done by CE.
+
+5\. *Termination*.
+
+a\. *Breach*: A breach of a material term of the BAA by BA that is not
+cured within a reasonable period of time will provide grounds for the
+immediate termination of the contract.
+
+b\. *Reasonable Steps to Cure*: In accordance with 45 C.F.R.
+164.504(e)(1)(ii), CE and BA agree that, if it knows of a pattern of
+activity or practice of the other party that constitutes a material
+breach or violation of the other party’s obligation under the BAA, the
+nonbreaching party will take reasonable steps to get the breaching party
+to cure the breach or end the violation and, if the steps taken are
+unsuccessful, terminate the BAA if feasible, and if not feasible, report
+the problem to the Secretary of the U.S. Department of Health and Human
+Services.
+
+c\. *Effect of Termination*: Upon termination of the contract, BA will,
+at the direction of the CE, either return or destroy all PHI received
+from CE or created, maintained, or transmitted on CE’s behalf by BA in
+any form. Unless otherwise directed, BA is prohibited from retaining any
+copies of PHI received from CE or created, maintained, or transmitted by
+BA on behalf of CE. If destruction or return of PHI is not feasible, BA
+must continue to extend the protections of this BAA to PHI and limit the
+further use and disclosure of the PHI. The obligations in this BAA shall
+continue until all of the PHI provided by CE to BA is either destroyed
+or returned to CE.
+
+6\. *Amendment*. The parties acknowledge that state and federal laws
+relating to electronic data security and privacy are evolving, and that
+the parties may be required to further amend this BAA to ensure
+compliance with applicable changes in law. Upon receipt of a
+notification from CE that an applicable change in law affecting this BAA
+has occurred, BA will promptly agree to enter into negotiations with CE
+to amend this BAA to ensure compliance with changes in law.
+
+7\. *Ownership of PHI*. For purposes of this BAA, CE owns the data that
+contains the PHI it transmits to BA or that BA receives, creates,
+maintains or transmits on behalf of CE.
+
+8\. *Litigation Assistance*.  Except when it would constitute a direct
+conflict of interest for BA, BA will make itself available to assist CE
+in any administrative or judicial proceeding by testifying as witness as
+to an alleged violation of HIPAA, the HITECH Act, the Privacy or
+Security Rule, or other law relating to security or privacy.
+
+9\. *Regulatory References*. Any reference in this BAA to federal or
+state law means the section that is in effect or as amended.
+
+10\. *Interpretation*. This BAA shall be interpreted as broadly as
+necessary to implement and comply with HIPAA, the HITECH Act, the
+Privacy and Security Rule and applicable state and federal laws. The
+parties agree that any ambiguity in BAA will be resolved in favor of a
+meaning that permits the CE to comply with and be consistent with
+HIPAA, the HITECH Act, and the Privacy and Security Rule. The parties
+further agree that where this BAA conflicts with a contemporaneously
+executed confidentiality agreement between the parties, this BAA
+controls.
+
+11\. *No Private Right of Action Created.* This BAA does not create any
+right of action or benefits for individuals whose PHI is disclosed in
+violation of HIPAA, the HITECH Act, the Privacy and Security Rule or
+other law relating to security or privacy.
 
 **In witness thereof,** the parties hereto have duly executed this BAA
 as of the effective date.
