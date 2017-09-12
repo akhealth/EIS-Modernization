@@ -299,11 +299,13 @@ approval of the project director.
 
 ### Background Information
 
-**PROVIDE PERTINENT BACKGROUND INFORMATION.**
+**PROVIDE PERTINENT BACKGROUND INFORMATION.  THIS WILL BE PULLED FROM THE [STATEMENT OF WORK](https://github.com/AlaskaDHSS/acq-alaska-dhss-modernization/blob/master/procurement-docs-search/Statement-of-Work.md)**
 
 ## SCOPE OF WORK & Contract Information
 
 ### 1.  Scope of Work
+
+**THIS WILL BE PULLED FROM THE [STATEMENT OF WORK](https://github.com/AlaskaDHSS/acq-alaska-dhss-modernization/blob/master/procurement-docs-search/Statement-of-Work.md)**
 
 The Department of **<NAME>**, Division of **NAME**, **is soliciting
 proposals for **WHAT KIND** of services.
@@ -325,6 +327,8 @@ The goal of this project is to **WHAT**.
 The length of the contract will be from the date of award, approximately **DATE**, for approximately **NUMBER days / months / years** until completion, approximately **DATE**.
 
 ### Deliverables
+
+**THIS WILL BE PULLED FROM THE [STATEMENT OF WORK](https://github.com/AlaskaDHSS/acq-alaska-dhss-modernization/blob/master/procurement-docs-search/Statement-of-Work.md)**
 
 The contractor will be required to provide the following deliverables:
 
