@@ -1,5 +1,4 @@
-![](media/image1.png){width="2.3020833333333335in"
-height="2.3020833333333335in"}
+![The Seal of the State of Alaska](seal.png)
 
 # STATE OF ALASKA REQUEST FOR PROPOSALS
 
@@ -135,7 +134,7 @@ Approval or continuation of a contract resulting from this is contingent upon le
 
 ### <a name="1.03"></a>Sec. 1.03 Deadline for Receipt of Proposals
 
-Proposals must be received no later than **TIME>** prevailing Alaska Time on **DATE**. Faxed, emailed, and oral proposals are not acceptable.
+Proposals must be received no later than **TIME** prevailing Alaska Time on **DATE**. Faxed, emailed, and oral proposals are not acceptable.
 
 ### <a name="1.04"></a>Sec. 1.04 Minimum Responsiveness
 
@@ -1515,10 +1514,7 @@ NOTES:
 
 ### Exhibit 4. Standard Agreement Form (With Appendices)
 
-![G:\\Professional Services Contracts\\Contract Forms and Solicitation
-Boilerplates\\RFP Templates\\Standard Agreement - for use in
-solicitations.jpg](media/image2.jpg){width="5.816666666666666in"
-height="7.808333333333334in"}
+![Standard Agreement Form for Professional Services](standard-agreement-form.png)
 
 ## APPENDIX A: GENERAL PROVISIONS
 
