@@ -1728,7 +1728,7 @@ required; inability to secure materials, machinery, equipment or labor
 because of priority, allocation or other regulations of any governmental
 authorities.
 
-## APPENDIX B^2^: INDEMNITY AND INSURANCE
+## APPENDIX B: INDEMNITY AND INSURANCE
 
 ### Article 1. Indemnification
 
