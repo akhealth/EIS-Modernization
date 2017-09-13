@@ -12,6 +12,7 @@ Issued DATE
 BRIEF HIGH-LEVEL SUMMARY OF THE RFP PURPOSE.
 
 ------------------------------------------------------------------
+
 ISSUED BY:
 Department of Health And Social Services   
 Division of Public Assistance              
@@ -26,7 +27,7 @@ jon.geselle@alaska.gov
 
 ## TABLE OF CONTENTS
 
-### INTRODUCTION AND INSTRUCTIONS
+### Section 1. INTRODUCTION AND INSTRUCTIONS
 - [Sec. 1.01	Purpose of the RFP](#1.01)
 - [Sec. 1.02	Budget](#1.02)
 - [Sec. 1.03	Deadline for Receipt of Proposals](#1.03)
@@ -42,6 +43,7 @@ jon.geselle@alaska.gov
 - [Sec. 1.13	Pre-proposal Conference](#1.13)
 - [Sec. 1.14	Alternate Proposals](#1.14)
 - [Sec. 1.15	News Releases](#1.15)
+
 ### Section 2.	BACKGROUND INFORMATION
 - [Sec. 2.01	Background Information](#2.01)
 
@@ -62,6 +64,7 @@ jon.geselle@alaska.gov
 - [Sec. 3.14	Nondisclosure and Confidentiality](#3.14)
 - [Sec. 3.15	Insurance Requirements](#3.15)
 - [Sec. 3.16	Termination for Default](#3.16)
+
 ### Section 4. PROPOSAL FORMAT AND CONTENT
 - [Sec. 4.01	Proposal Format and Content](#4.01)
 - [Sec. 4.02	Introduction](#4.02)
@@ -71,6 +74,7 @@ jon.geselle@alaska.gov
 - [Sec. 4.06	Experience and Qualifications](#4.06)
 - [Sec. 4.07	Cost Proposal](#4.07)
 - [Sec. 4.08	Evaluation Criteria](#4.08)
+
 ### Section 5.	EVALUATION CRITERIA AND CONTRACTOR SELECTION	17
 - [Sec. 5.01	Understanding of the Project (5%)](#5.01)
 - [Sec. 5.02	Methodology Used for the Project (5%)](#5.02)
