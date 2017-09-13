@@ -12,14 +12,14 @@ BRIEF HIGH-LEVEL SUMMARY OF THE RFP PURPOSE.
 
 ------------------------------------------------------------------
 
-ISSUED BY:
-Department of Health And Social Services   
+ISSUED BY:<br>
+Department of Health And Social Services<br>
 Division of Public Assistance              
 
-PRIMARY CONTACT:
-Jon Geselle
-Procurement Officer
-jon.geselle@alaska.gov
+PRIMARY CONTACT:<br>
+Jon Geselle<br>
+Procurement Officer<br>
+jon.geselle@alaska.gov<br>
 (907) 465-6264                                             
 
 ------------------------------------------------------------------
@@ -30,7 +30,7 @@ jon.geselle@alaska.gov
 - [Sec. 1.01	Purpose of the RFP](#1.01)
 - [Sec. 1.02	Budget](#1.02)
 - [Sec. 1.03	Deadline for Receipt of Proposals](#1.03)
-- [Sec. 1.04	minimum responsiveness](#1.04)
+- [Sec. 1.04	Minimum Responsiveness](#1.04)
 - [Sec. 1.05	Required Review](#1.05)
 - [Sec. 1.06	Questions Prior to Deadline for Receipt of Proposals](#1.06)
 - [Sec. 1.07	Return Instructions](#1.07)
@@ -199,10 +199,8 @@ Questions may also be submitted in writing to the Procurement Officer,
 who will post them as issues with the BPA GitHub repository listed
 above.
 
-PROCUREMENT OFFICER: **<span style="font-variant:small-caps;">Jon
-Geselle</span>** – PHONE **<span
-style="font-variant:small-caps;">907-465-6264</span>** – EMAIL **<span
-style="font-variant:small-caps;">JON.GESELLE@ALASKA.GOV</span>**
+PROCUREMENT OFFICER: **Jon
+Geselle** – PHONE **907-465-6264** – EMAIL **JON.GESELLE@ALASKA.GOV**
 
 ### <a name="1.07"></a>Sec. 1.07 Return Instructions
 
@@ -226,24 +224,29 @@ the package must be sealed separately from the rest of the proposal and
 must be clearly identified. The sealed proposal package(s) must be
 addressed as follows:
 
-Department of Health & Social Services***\
-***Division of Finance & Management Services***\
-***Attention: Jon Geselle
+<center>
+***Department of Health & Social Services***<br>
+***Division of Finance & Management Services***<br>
+***Attention: Jon Geselle***
 
-Request for Proposal (RFP) Number: **<span
-style="font-variant:small-caps;">NUMBER</span>**
+Request for Proposal (RFP) Number: **NUMBER**
 
-RFP Title: **<span style="font-variant:small-caps;">NAME</span>**
+RFP Title: **NAME**
+</center>
 
 If using *U.S. mail*, please use the following address:
 
-**<span style="font-variant:small-caps;">PO BOX 110650\
-JUNEAU, AK 99811-0650</span>**
+<center>
+**PO BOX 11065<br>
+JUNEAU, AK 99811-0650**
+</center>
 
 If using a *delivery service*, please use the following address:
 
-**<span style="font-variant:small-caps;">333 WILLOUGHBY AVE., ROOM 760\
-JUNEAU, AK 99801</span>**
+<center>
+**333 WILLOUGHBY AVE., ROOM 760<br>
+JUNEAU, AK 99801**
+</center>
 
 An offeror’s failure to submit its proposal prior to the deadline will
 cause the proposal to be disqualified. Late proposals or amendments will
@@ -349,25 +352,19 @@ estimate of the schedule that will be followed. If a component of this
 schedule, such as the deadline for receipt of proposals, is delayed, the
 rest of the schedule may be shifted by the same number of days.
 
--   Issue RFP **<span style="font-variant:small-caps;">DATE</span>**,
+-   Issue RFP **DATE**,
 
--   Deadline for receipt of questions **<span
-    style="font-variant:small-caps;">DATE</span>**,
+-   Deadline for receipt of questions **DATE**,
 
--   Deadline for receipt of proposals **<span
-    style="font-variant:small-caps;">DATE</span>**,
+-   Deadline for receipt of proposals **DATE**,
 
--   Interviews conducted with qualifying offerors on **<span
-    style="font-variant:small-caps;">DATE</span>**,
+-   Interviews conducted with qualifying offerors on **DATE**,
 
--   Proposal Evaluation Committee complete evaluation by **<span
-    style="font-variant:small-caps;">DATE</span>**,
+-   Proposal Evaluation Committee complete evaluation by **DATE**,
 
--   State of Alaska issues Notice of Intent to Award a contract **<span
-    style="font-variant:small-caps;">DATE</span>**,
+-   State of Alaska issues Notice of Intent to Award a contract **DATE**,
 
--   State of Alaska issues contract **<span
-    style="font-variant:small-caps;">DATE</span>**.
+-   State of Alaska issues contract **DATE**.
 
 This RFP does not, by itself, obligate the state. The state's obligation
 will commence when the contract is approved by the Commissioner of the
@@ -1112,10 +1109,10 @@ The reason they receive that amount is because the lowest cost proposal,
 in this case $40,000, receives the maximum number of points allocated
 to cost, 40 points.
 
-##### Offeror \#2 receives 37.4 points.
+##### Offeror #2 receives 37.4 points.
 
 *$40,000 lowest cost x 40 maximum points for cost = 1,600,000 ÷
-$42,750 cost of Offeror #2’s proposal = **37.4***
+$42,750 cost of Offeror #2’s proposal =* **37.4**
 
 **Offeror #3 receives 33.7 points.**
 
@@ -1283,7 +1280,7 @@ terms and provisions will not be affected; and, the rights and
 obligations of the parties will be construed and enforced as if the
 contract did not contain the particular provision held to be invalid.
 
-### <a name="7.11"></a>Sec. 7.11 Supplemental Terms and Conditions</span>**
+### <a name="7.11"></a>Sec. 7.11 Supplemental Terms and Conditions
 
 Proposals must comply with SECTION 1.12 Right of Rejection.
 However, if the state fails to identify or detect supplemental terms or
