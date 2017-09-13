@@ -26,23 +26,30 @@ jon.geselle@alaska.gov
 
 ## TABLE OF CONTENTS
 
+### INTRODUCTION AND INSTRUCTIONS
+- [Sec. 1.01	Purpose of the RFP](#1.01)- [Sec. 1.02	Budget](#1.02)- [Sec. 1.03	Deadline for Receipt of Proposals](#1.03)- [Sec. 1.04	minimum responsiveness](#1.04)- [Sec. 1.05	Required Review](#1.05)- [Sec. 1.06	Questions Prior to Deadline for Receipt of Proposals](#1.06)- [Sec. 1.07	Return Instructions](#1.07)- [Sec. 1.08	Proposal Contents](#1.08)- [Sec. 1.09	Assistance to Offerors with a Disability](#1.09)- [Sec. 1.10	Amendments to Proposals](#1.10)- [Sec. 1.11	Amendments to the RFP](#1.11)- [Sec. 1.12	RFP Schedule](#1.12)- [Sec. 1.13	Pre-proposal Conference](#1.13)- [Sec. 1.14	Alternate Proposals](#1.14)- [Sec. 1.15	News Releases](#1.15)
+### Section 2.	BACKGROUND INFORMATION- [Sec. 2.01	Background Information](#2.01)### Section 3.	SCOPE OF WORK & Contract Information- [Sec. 3.01	Scope of Work](#3.01)- [Sec. 3.02	Contract Term and Work Schedule](#3.02)- [Sec. 3.03	Deliverables](#3.03)- [Sec. 3.04	Contract Type](#3.04)- [Sec. 3.05	Proposed Payment Procedures](#3.05)- [Sec. 3.06	Prompt Payment For State Purchases](#3.06)- [Sec. 3.07	Contract Payment](#3.07)- [Sec. 3.08	Location of Work](#3.08)- [Sec. 3.09	Subcontractors](#3.09)- [Sec. 3.10	Joint Ventures](#3.10)- [Sec. 3.11	Contract Personnel](#3.11)- [Sec. 3.12	Inspection & Modification - Reimbursement for Unacceptable Deliverables](#3.12)- [Sec. 3.13	Contract Changes - Unanticipated Amendments](#3.13)- [Sec. 3.14	Nondisclosure and Confidentiality](#3.14)- [Sec. 3.15	Insurance Requirements](#3.15)- [Sec. 3.16	Termination for Default](#3.16)
+### Section 4. PROPOSAL FORMAT AND CONTENT- [Sec. 4.01	Proposal Format and Content](#4.01)- [Sec. 4.02	Introduction](#4.02)- [Sec. 4.03	Understanding of the Project](#4.03)- [Sec. 4.04	Methodology Used for the Project](#4.04)- [Sec. 4.05	Management Plan for the Project](#4.05)- [Sec. 4.06	Experience and Qualifications](#4.06)- [Sec. 4.07	Cost Proposal](#4.07)- [Sec. 4.08	Evaluation Criteria](#4.08)
+### Section 5.	EVALUATION CRITERIA AND CONTRACTOR SELECTION	17- [Sec. 5.01	Understanding of the Project (5%)](#5.01)- [Sec. 5.02	Methodology Used for the Project (5%)](#5.02)- [Sec. 5.03	Management Plan for the Project (5%)](#5.03)- [Sec. 5.04	Experience and Qualifications (5%)](#5.04)- [Sec. 5.05	Contract Cost (40%)](#5.05)- [Sec. 5.06	Alaska Offeror Preference (10%)](#5.06)### Section 6.	GENERAL PROCESS INFORMATION- [Sec. 6.01	Informal Debriefing](#6.01)- [Sec. 6.02	Alaska Business License and Other Required Licenses](#6.02)- [Sec. 6.03	Clarification of Offers](#6.03)- [Sec. 6.04	Discussions with Offerors](#6.04)- [Sec. 6.05	Evaluation of Proposals](#6.05)- [Sec. 6.06	Contract Negotiation](#6.06)- [Sec. 6.07	Failure to Negotiate](#6.07)- [Sec. 6.08	Offeror Notification of Selection](#6.08)- [Sec. 6.09	Protest](#6.09)- [Sec. 6.10	Application of Preferences](#6.10)- [Sec. 6.11	Alaska Bidder Preference](#6.11)- [Sec. 6.12	Alaska Veteran Preference](#6.12)- [Sec. 6.13	Alaska Offeror Preference](#6.13)- [Sec. 6.14	Formula Used to Convert Cost to Points](#6.14)- [Sec. 6.15	Examples: Converting Cost to Points & Applying Preferences](#6.15)
+### Section 7.	General Legal Information- [Sec. 7.01	Standard Contract Provisions](#7.01)- [Sec. 7.02	Proposal as a Part of the Contract](#7.02)- [Sec. 7.03	Additional Terms and Conditions](#7.03)- [Sec. 7.04	Human Trafficking](#7.04)- [Sec. 7.05	Right of Rejection](#7.05)- [Sec. 7.06	State Not Responsible for Preparation Costs](#7.06)- [Sec. 7.07	Disclosure of Proposal Contents](#7.07)- [Sec. 7.08	Assignment](#7.08)- [Sec. 7.09	Disputes](#7.09)- [Sec. 7.10	Severability](#7.10)- [Sec. 7.11	Supplemental Terms and Conditions](#7.11)- [Sec. 7.12	Contract Invalidation](#7.12)- [Sec. 7.13	Solicitation Advertising](#7.13)### Section 8. Exhibits- [Exhibit 1. Cost Proposal](#8.1)- [Exhibit 2. Certification Regarding Debarment](#8.2)- [Exhibit 3. Proposal Evaluation Form](#8.3)- [Exhibit 4. Standard Agreement Form (With Appendices)](#8.4)
+
 ## INTRODUCTION AND INSTRUCTIONS
 
-### Sec 1.01 Purpose of the RFP
+### Sec. 1.01 Purpose of the RFP
 
 The Department of Health and Social Services, Division of Public Assistance, is soliciting proposals for **INSERT A BRIEF DESCRIPTION OF THE PURPOSE OF THE RFP CONSISTENT WITH COVER PAGE; A MORE DETAILED DESCRIPTION INCLUDING SCOPE OF WORK IS TO BE PROVIDED in Section 3.**
 
-### Budget
+### Sec. 1.02 Budget
 
 Department of Health and Social Services, Division of Public Assistance, estimates a budget of $300,000 dollars for completion of this project. Proposals priced at more than this amount will be considered non-responsive.
 
 Approval or continuation of a contract resulting from this is contingent upon legislative appropriation.
 
-### Deadline for Receipt of Proposals
+### Sec. 1.03 Deadline for Receipt of Proposals
 
 Proposals must be received no later than **TIME>** prevailing Alaska Time on **DATE**. Faxed, emailed, and oral proposals are not acceptable.
 
-### Minimum Responsiveness
+### Sec. 1.04 Minimum Responsiveness
 
 In order for offers to be considered responsive offerors must meet the following minimum requirements:
 
@@ -77,7 +84,7 @@ In order for offers to be considered responsive offerors must meet the following
 
 An offeror's failure to meet these minimum requirements may cause their proposal to be considered non-responsive and their proposal may be rejected.
 
-### Required Review
+### Sec. 1.05 Required Review
 
 Offerors should carefully review this solicitation for defects and
 questionable or objectionable material. Comments concerning defects and
@@ -91,7 +98,7 @@ of the solicitation, will be disallowed if these faults have not been
 brought to the attention of the procurement officer, in writing, at
 least ten days before the deadline for receipt of proposals.
 
-### Questions Prior to Deadline for Receipt of Proposals
+### Sec. 1.06 Questions Prior to Deadline for Receipt of Proposals
 
 Questions or comments regarding this RFQ shall be submitted as issues
 within the BPA GitHub repository at &lt;insert link&gt; no later than
@@ -110,7 +117,7 @@ Geselle</span>** – PHONE **<span
 style="font-variant:small-caps;">907-465-6264</span>** – EMAIL **<span
 style="font-variant:small-caps;">JON.GESELLE@ALASKA.GOV</span>**
 
-### Return Instructions
+### Sec. 1.07 Return Instructions
 
 It is preferred that vendors submit responses directly through the State
 of Alaska IRIS Vendor Self-Service (VSS) Portal, located here:
@@ -155,18 +162,18 @@ An offeror’s failure to submit its proposal prior to the deadline will
 cause the proposal to be disqualified. Late proposals or amendments will
 not be opened or accepted for evaluation.
 
-### Proposal Contents
+### Sec. 1.08 Proposal Contents
 
 The following information must be included in all proposals:
 
-#### Authorized Signature
+#### (a) Authorized Signature
 
 All proposals must be signed by an individual authorized to bind the
 offeror to the provisions of the RFP. Proposals must remain open and
 valid for at least 90-days from the date set as the deadline for receipt
 of proposals.
 
-#### Offeror's Certification
+#### (b) Offeror's Certification
 
 By signature on the proposal, offerors certify that they comply with the
 following:
@@ -197,12 +204,12 @@ If any offeror fails to comply with \[a\] through \[h\] of this
 paragraph, the state reserves the right to disregard the proposal,
 terminate the contract, or consider the contractor in default.
 
-#### Vendor Tax ID
+#### (c) Vendor Tax ID
 
 A valid Vendor Tax ID must be submitted to the issuing office with the
 proposal or within five days of the state's request.
 
-#### Conflict of Interest
+#### (d) Conflict of Interest
 
 Each proposal shall include a statement indicating whether or not the
 firm or any individuals working on the contract has a possible conflict
@@ -216,24 +223,24 @@ or cause speculation as to the objectivity of the program to be
 developed by the offeror. The Commissioner's determination regarding any
 questions of conflict of interest shall be final.
 
-#### Federal Requirements
+#### (e) Federal Requirements
 
 The offeror must identify all known federal requirements that apply to
 the proposal, the evaluation, or the contract.
 
-#### Certification Regarding Debarment, Suspension, Ineligibility and Voluntary Exclusion Lower Tier Covered Transactions
+#### (f) Certification Regarding Debarment, Suspension, Ineligibility and Voluntary Exclusion Lower Tier Covered Transactions
 
 Each proposal must include a signed certification form, see SECTION 8
 EXHIBITS.
 
-### Assistance to Offerors with a Disability
+### Sec. 1.09 Assistance to Offerors with a Disability
 
 Offerors with a disability may receive accommodation regarding the means
 of communicating this RFP or participating in the procurement process.
 For more information, contact the procurement officer no later than ten
 days prior to the deadline for receipt of proposals.
 
-### Amendments to Proposals
+### Sec. 1.10 Amendments to Proposals
 
 Amendments to or withdrawals of proposals will only be allowed if
 acceptable requests are received prior to the deadline that is set for
@@ -241,14 +248,14 @@ receipt of proposals. No amendments or withdrawals will be accepted
 after the deadline unless they are in response to the state's request in
 accordance with 2 AAC 12.290.
 
-### Amendments to the RFP
+### Sec. 1.11 Amendments to the RFP
 
 If an amendment is issued, it will be provided to all who were mailed a
 copy of the RFP and to those who have registered with the procurement
 officer after receiving the RFP from the State of Alaska Online Public
 Notice web site.
 
-### RFP Schedule
+### Sec. 1.12 RFP Schedule
 
 The RFP schedule set out herein represents the State of Alaska’s best
 estimate of the schedule that will be followed. If a component of this
@@ -283,27 +290,27 @@ different starting date for the contract. The state will not be
 responsible for any work done by the contractor, even work done in good
 faith, if it occurs prior to the contract start date set by the state.
 
-### Alternate Proposals
+### Sec. 1.13 Alternate Proposals
 
 Offerors may only submit one proposal for evaluation.
 
 In accordance with 2 AAC 12.830 alternate proposals (proposals that
 offer something different than what is asked for) will be rejected.
 
-### News Releases
+### Sec. 1.14 News Releases
 
 News releases related to this RFP will not be made without prior
 approval of the project director.
 
-## BACKGROUND INFORMATION
+## Section 2. BACKGROUND INFORMATION
 
-### Background Information
+### Sec. 2.01 Background Information
 
 **PROVIDE PERTINENT BACKGROUND INFORMATION.  THIS WILL BE PULLED FROM THE [STATEMENT OF WORK](https://github.com/AlaskaDHSS/acq-alaska-dhss-modernization/blob/master/procurement-docs-search/Statement-of-Work.md)**
 
-## SCOPE OF WORK & Contract Information
+## Section 3. SCOPE OF WORK & Contract Information
 
-### 1.  Scope of Work
+### Sec. 3.01  Scope of Work
 
 **THIS WILL BE PULLED FROM THE [STATEMENT OF WORK](https://github.com/AlaskaDHSS/acq-alaska-dhss-modernization/blob/master/procurement-docs-search/Statement-of-Work.md)**
 
@@ -322,11 +329,11 @@ consultant includes **WHAT**.
 
 The goal of this project is to **WHAT**.
 
-### Contract Term and Work Schedule
+### Sec. 3.02 Contract Term and Work Schedule
 
 The length of the contract will be from the date of award, approximately **DATE**, for approximately **NUMBER days / months / years** until completion, approximately **DATE**.
 
-### Deliverables
+### Sec. 3.03 Deliverables
 
 **THIS WILL BE PULLED FROM THE [STATEMENT OF WORK](https://github.com/AlaskaDHSS/acq-alaska-dhss-modernization/blob/master/procurement-docs-search/Statement-of-Work.md)**
 
@@ -344,22 +351,22 @@ E.  **WHAT**
 
 F.  **WHAT**
 
-### Contract Type
+### Sec. 3.04 Contract Type
 
 This contract is a time and materials contract with a not to exceed
 amount.
 
-### Proposed Payment Procedures
+### Sec. 3.05 Proposed Payment Procedures
 
 The state will make payments based on a negotiated payment schedule.
 Each billing must consist of an invoice and progress report. No payment will be made until the progress report and invoice has been approved by the project director.
 
-### Prompt Payment For State Purchases
+### Sec. 3.06 Prompt Payment For State Purchases
 
 The state is eligible to receive a 5% discount for all invoices
 paid within 15 business days from the date of receipt of the commodities or services and/or a correct invoice, whichever is later. The discount shall be taken on the full invoice amount. The state shall consider payment being made as either the date a printed warrant is issued or the date an electronic funds transfer (EFT) is initiated.
 
-### Contract Payment
+### Sec. 3.07 Contract Payment
 
 No payment will be made until the contract is approved by the
 Commissioner of the Department of Health and Social Services or the
@@ -369,7 +376,7 @@ for the payment of any interest charges associated with the cost of the contract
 The state is not responsible for and will not pay local, state, or
 federal taxes. All costs associated with the contract must be stated in U.S. currency.
 
-### Location of Work
+### Sec. 3.08 Location of Work
 
 The location(s) the work is to be performed, completed and managed is at the discretion of the contractor.
 
@@ -389,13 +396,12 @@ the reason the waiver is necessary.
 
 Failure to comply with these requirements may cause the state to reject the proposal as non-responsive, or cancel the contract.
 
-### Subcontractors
+### Sec. 3.09 Subcontractors
 
 Subcontractors may be used to perform work under this contract. If an
 offeror intends to use subcontractors, the offeror must identify in the proposal the names of the subcontractors and the portions of the work the subcontractors will perform.
 
-Subcontractor experience shall be considered in determining whether the offeror meets the requirements set forth in SECTION 1.04 MINIMUM
-RESPONSIVENESS.
+Subcontractor experience shall be considered in determining whether the offeror meets the requirements set forth in SECTION 1.04 MINIMUM RESPONSIVENESS.
 
 If a proposal with subcontractors is selected, the offeror must provide the following information concerning each prospective subcontractor within five working days from the date of the state's request:
 
@@ -417,22 +423,22 @@ If a proposal with subcontractors is selected, the offeror must provide the foll
 An offeror's failure to provide this information, within the time set,
 may cause the state to consider their proposal non-responsive and reject it. The substitution of one subcontractor for another may be made only at the discretion and prior written approval of the project director.
 
-### Joint Ventures
+### Sec. 3.10 Joint Ventures
 
 Joint ventures will not be allowed.
 
-### Contract Personnel
+### Sec. 3.11 Contract Personnel
 
 Any change to the key personnel, as identified during project kick-off, must be approved, in advance and in writing, by the project director. Personnel changes that are not approved by the state may be grounds for the state to terminate the contract.
 
-### Inspection & Modification - Reimbursement for Unacceptable Deliverables
+### Sec. 3.12 Inspection & Modification - Reimbursement for Unacceptable Deliverables
 
 The contractor is responsible for the completion of all work set out in the contract. All work is subject to inspection, evaluation, and
 approval by the project director. The Quality Assurance Plan, attached
 separately, provides additional information regarding the deliverable
 acceptance process.
 
-### Contract Changes - Unanticipated Amendments
+### Sec. 3.13 Contract Changes - Unanticipated Amendments
 
 During the course of this contract, the contractor may be required to
 perform additional work. That work will be within the general scope of
@@ -447,7 +453,7 @@ amendment and issued a written contract amendment, approved by the
 Commissioner of the Department of Health and Social Services or the
 Commissioner's designee.
 
-### Nondisclosure and Confidentiality
+### Sec. 3.14 Nondisclosure and Confidentiality
 
 Contractor agrees that all confidential information shall be used only
 for purposes of providing the deliverables and performing the services
@@ -470,7 +476,7 @@ disclosure of the confidential information is required under applicable state or
 The following information shall not be considered confidential
 information: information previously known to be public information when received from the other party; information freely available to the general public; information which now is or hereafter becomes publicly known by other than a breach of confidentiality hereof; or information which is disclosed by a party pursuant to subpoena or other legal process and which as a result becomes lawfully obtainable by the general public.
 
-### Insurance Requirements
+### Sec. 3.15 Insurance Requirements
 
 The successful offeror must provide proof of workers' compensation
 insurance prior to contract approval.
@@ -483,7 +489,7 @@ grounds for withdrawal of the award or termination of the contract.
 
 Offerors must review form APPENDIX B1 / APPENDIX B2, included in the Standard Agreement Form in SECTION 8 EXHIBITS, for details on required coverage. No alteration of these requirements will be permitted without prior written approval from the Department of Administration, Division of Risk Management. Objections to any of the requirements in APPENDIX B1 / APPENDIX B2 must be set out in the offeror’s proposal.
 
-### Termination for Default
+### Sec. 3.16 Termination for Default
 
 If the project director determines that the contractor has refused to
 perform the work or has failed to perform the work with such diligence
@@ -495,14 +501,14 @@ This clause does not restrict the state's termination rights under the
 contract provisions of the Standard Agreement Form, attached in <span
 style="font-variant:small-caps;">SECTION 8 EXHIBITS</span>.
 
-## PROPOSAL FORMAT AND CONTENT
+## Section 4. PROPOSAL FORMAT AND CONTENT
 
-### Proposal Format
+### Sec. 4.01 Proposal Format
 
 The state discourages overly lengthy and costly proposals, with
 proposals of seven (7) or fewer pages encouraged. In order for the state to evaluate proposals fairly and completely, offerors must follow the format set out in this RFP and provide all information requested.
 
-### Introduction
+### Sec. 4.02 Introduction
 
 Proposals must include the complete name and address of offeror’s firm
 and the name, mailing address, and telephone number of the person the
@@ -510,11 +516,11 @@ state should contact regarding the proposal.
 
 Proposals must confirm that the offeror will comply with all provisions in this RFP; and, if applicable, provide notice that the firm qualifies as an Alaskan bidder. Proposals must be signed by a company officer empowered to bind the company. An offeror's failure to include these items in the proposals may cause the proposal to be determined to be non-responsive and the proposal may be rejected. See SECTION 1.08 PROPOSAL CONTENTS for more information.
 
-### Technical Understanding And Approach
+### Sec. 4.03 Technical Understanding And Approach
 
 Succinctly describe level of knowledge, technical expertise and overall understanding of the requirement as set forth in the SOW. Technical understanding and approach description is included as part of your seven-page limitation.
 
-### Staffing Plan
+### Sec. 4.04 Staffing Plan
 
 Provide a Staffing Plan that describes your understanding of the
 requirements and details the number of personnel by skill level/labor
@@ -531,7 +537,7 @@ ii. A breakdown of labor categories, including the title, number of personnel, a
 
 iii. A list of Key Personnel by name, title, contact information, proposed duties and roles, and resumes for each proposed Key Personnel in accordance with Personnel section of the SOW. Resumes should include a description of the experience and capability for all Key Personnel proposed for the offeror’s project team. Resumes should also address the individual’s technical background, education, work experience, and accomplishments related to the activities described in the attached SOW. The proposal of any key personnel not currently employed by the offeror or teaming partners shall be accompanied by letters of intent signed by proposed Key Personnel in accordance with the SOW.
 
-### Similar Experience and Qualifications
+### Sec. 4.05 Similar Experience and Qualifications
 
 Provide two examples of open source, web-based work you’ve produced for
 previous clients. One of the two examples must reflect aspects of data
@@ -551,7 +557,7 @@ i.  Recent and similar technical scope is past experience with building usable, 
 
 ii. The summary shall include links to the public Git repository that includes the source code that was developed and accepted for the project. Actual access to a publicly available Git repository is strongly encouraged over screenshots of private repositories. The summary should also include live links of the final product or current staging environment. If live links are not available, screenshots can be provided, along with a brief explanation as to why the project is no longer live. Note that screenshots will not be counted towards your 7-page limitation; please provide screenshots as attachments. The projects should be recent and similar to the size and technical scope of this requirement.
 
-### Verbal Presentation
+### Sec. 4.06 Verbal Presentation
 
 Offerors will be invited to participate in a verbal presentation to be evaluated. The verbal presentation will consist of an unstructured question and answer session. The entire verbal presentation will take place remotely via video chat and/or teleconference.
 
@@ -616,7 +622,7 @@ task.
 After the presentations, vendors must email the meeting organizers the
 names of everyone who attended.
 
-### Cost Proposal
+### Sec. 4.07 Cost Proposal
 
 Cost proposals must include an itemized list of all direct and indirect
 costs associated with the performance of the contract, including, but
@@ -625,17 +631,17 @@ expenses, payroll, supplies, overhead assigned to each person working on
 the project, percentage of each person's time devoted to the project,
 and profit.
 
-### Evaluation Criteria
+### Sec. 4.08 Evaluation Criteria
 
 All proposals will be reviewed to determine if they are responsive. Proposals determined to be responsive will be evaluated using the criterion that is set out in Section 5 EVALUATION CRITERIA AND CONTRACTOR SELECTION.
 
 An evaluation may not be based on discrimination due to the race, religion, color, national origin, sex, age, marital status, pregnancy, parenthood, disability, or political affiliation of the offeror.
 
-## EVALUATION CRITERIA AND CONTRACTOR SELECTION
+## Section 5. EVALUATION CRITERIA AND CONTRACTOR SELECTION
 
 **THE TOTAL NUMBER OF POINTS USED TO SCORE THIS PROPOSAL IS 1,000**
 
-### Technical Understanding And Approach (5%)
+### Sec. 5.01 Technical Understanding And Approach (5%)
 
 The State will evaluate the offeror’s technical approach: level of
 knowledge, technical expertise, and overall understanding of the
@@ -643,28 +649,26 @@ requirement. The State will also evaluate the offeror’s skills with open
 source software development, human-centered design, and continuous
 deployment methods.
 
-### Staffing Plan (5%)
+### Sec. 5.02 Staffing Plan (5%)
 
 The Government will evaluate the offeror’s proposed staffing methodology
 and skill levels/labor categories as well as the availability and
-relevant work experience demonstrated by Key Personnel.[]{#_nmf14n
-.anchor}
+relevant work experience demonstrated by Key Personnel.
 
-### Similar Experiences (5%)
+### Sec. 5.03 Similar Experiences (5%)
 
 The State will evaluate the offeror’s experience in performing projects
 of similar scope and complexity. The State will also evaluate the
 offeror’s experience with open source software development,
-human-centered design, and continuous deployment methods.[]{#_1mrcu09
-.anchor}
+human-centered design, and continuous deployment methods.
 
-### Verbal Presentation (35%)
+### Sec. 5.04 Verbal Presentation (35%)
 
 The State will evaluate the offeror’s response to questions regarding
 the technical aspects of the proposal as discussed during the verbal
 presentation.
 
-### Contract Cost (40%)
+### Sec. 5.05 Contract Cost (40%)
 
 Overall, a minimum of 40%
 of the total evaluation points will be assigned to cost. The cost amount
@@ -677,19 +681,19 @@ The lowest cost proposal will receive the maximum number of points
 allocated to cost. The point allocations for cost on the other proposals
 will be determined through the method set out in Section 6.14.
 
-### Alaska Offeror Preference (10%)
+### Sec. 5.06 Alaska Offeror Preference (10%)
 
 If an offeror qualifies for the Alaska Bidder Preference, the offeror will receive an Alaska Offeror Preference. The preference will be 10% of the total available points. This amount will be added to the overall evaluation score of each Alaskan offeror.
 
-## GENERAL PROCESS INFORMATION
+## Section 6. GENERAL PROCESS INFORMATION
 
-### Informal Debriefing
+### Sec. 6.01 Informal Debriefing
 
 When the contract is completed, an informal debriefing may be performed
 at the discretion of the project director. If performed, the scope of
 the debriefing will be limited to the work performed by the contractor.
 
-### Alaska Business License and Other Required Licenses
+### Sec. 6.02 Alaska Business License and Other Required Licenses
 
 Prior to the award of a contract, an offeror must hold a valid Alaska
 business license. However, in order to receive the Alaska Bidder
@@ -735,7 +739,7 @@ Prior the deadline for receipt of proposals, all offerors must hold any
 other necessary applicable professional licenses required by Alaska
 Statute.
 
-### Clarification of Offers
+### Sec. 6.04 Clarification of Offers
 
 In order to determine if a proposal is reasonably susceptible for award,
 communications by the procurement officer or the proposal evaluation
@@ -745,7 +749,7 @@ Clarifications may not result in a material or substantive change to the
 proposal. The evaluation by the procurement officer or the PEC may be
 adjusted as a result of a clarification under this section.
 
-### Discussions with Offerors
+### Sec. 6.05 Discussions with Offerors
 
 The state may conduct discussions with offerors in accordance with AS
 36.30.240 and 2 AAC 12.290. The purpose of these discussions will be to
@@ -770,7 +774,7 @@ procurement officer prior to the date set for discussions so that
 reasonable accommodation can be made. Any oral modification of a
 proposal must be reduced to writing by the offeror.
 
-### Evaluation of Proposals
+### Sec. 6.05 Evaluation of Proposals
 
 The procurement officer, or an evaluation committee made up of at least
 three state employees or public officials, will evaluate proposals. The
@@ -785,7 +789,7 @@ a new date and time established for new or amended proposals.
 Evaluations may be adjusted as a result of receiving new or amended
 proposals.
 
-### Contract Negotiation
+### Sec. 6.06 Contract Negotiation
 
 After final evaluation, the procurement officer may negotiate with the
 offeror of the highest-ranked proposal. Negotiations, if held, shall be
@@ -796,7 +800,7 @@ negotiations in a timely manner, or fails to negotiate in good faith,
 the state may terminate negotiations and negotiate with the offeror of
 the next highest-ranked proposal.
 
-### Failure to Negotiate
+### Sec. 6.07 Failure to Negotiate
 
 If the selected offeror
 
@@ -814,14 +818,14 @@ If the selected offeror
 the state may terminate negotiations with the offeror initially selected
 and commence negotiations with the next highest ranked offeror.
 
-### Offeror Notification of Selection
+### Sec. 6.08 Offeror Notification of Selection
 
 After the completion of contract negotiation the procurement officer
 will issue a written Notice of Intent to Award (NIA) and send copies to
 all offerors. The NIA will set out the names of all offerors and
 identify the proposal selected for award.
 
-### Protest
+### Sec. 6.09 Protest
 
 AS 36.30.560 provides that an interested party may protest the content
 of the RFP.
@@ -873,7 +877,7 @@ decisions of the procurement officer, appeals, and hearings, will be
 conducted in accordance with the State Procurement Code (AS 36.30),
 Article 8 "Legal and Contractual Remedies.”
 
-### Application of Preferences
+### Sec. 6.10 Application of Preferences
 
 Certain preferences apply to all contracts for professional services,
 regardless of their dollar value. The Alaska Bidder, Alaska Veteran, and
@@ -912,7 +916,7 @@ certification letter to the proposal. **An offeror's failure to provide
 this certification letter with their proposal will cause the state to
 disallow the preference.**
 
-### Alaska Bidder Preference
+### Sec. 6.11 Alaska Bidder Preference
 
 An Alaska Bidder Preference of 5% will be applied to the price in the
 proposal. The preference will be given to an offeror who:
@@ -954,9 +958,9 @@ each member or partner of each LLC or partnership that is included in
 the joint venture and include a statement certifying that all of those
 members or partners are residents of the state.
 
-### Alaska Veteran Preference
+### Sec. 6.12 Alaska Veteran Preference
 
-An Alaska Veteran Preference of 5%, not to exceed \$5,000, will be
+An Alaska Veteran Preference of 5%, not to exceed $5,000, will be
 applied to the price in the proposal. The preference will be given to an
 offeror who qualifies under AS 36.30.990(2) as an Alaska bidder and is
 a:
@@ -978,7 +982,7 @@ In order to receive the Alaska Veteran Preference, the proposal must
 include a statement certifying that the offeror is eligible to receive
 the Alaska Veteran Preference.
 
-### Alaska Offeror Preference
+### Sec. 6.13 Alaska Offeror Preference
 
 2 AAC 12.260(e) provides Alaska offerors a 10% overall evaluation point
 preference. Alaska bidders, as defined in AS 36.30.990(2), are eligible
@@ -986,7 +990,7 @@ for the preference. An Alaska offeror will receive 10 percent of the
 total available points added to their overall evaluation score as a
 preference.
 
-### Formula Used to Convert Cost to Points
+### Sec. 6.14 Formula Used to Convert Cost to Points
 
 The distribution of points based on cost will be determined as set out
 in 2 AAC 12.260(c). The lowest cost proposal will receive the maximum
@@ -996,7 +1000,7 @@ the other proposals will be determined using the formula:
 *\[(Price of Lowest Cost Proposal) x (Maximum Points for Cost)\] ÷ (Cost
 of Each Higher Priced Proposal)*
 
-### Examples: Converting Cost to Points & Applying Preferences
+### Sec. 6.15 Examples: Converting Cost to Points & Applying Preferences
 
 #### (a) Formula Used to Convert Cost to Points
 
@@ -1030,9 +1034,9 @@ $42,750 cost of Offeror #2’s proposal = **37.4***
 
 *$40,000 lowest cost x 40 maximum points for cost = 1,600,000 ÷ $47,500 cost of Offeror #3’s proposal* = **33.7**
 
-### Alaska Offeror Preference
+#### (b) Alaska Offeror Preference
 
-#### Step 1
+##### Step 1
 
 Determine the number of points available to qualifying offerors under
 this preference.
@@ -1040,7 +1044,7 @@ this preference.
 100 Total Points Available in RFP x 10% Alaska offerors preference = 10
 Points for the Preference
 
-#### Step 2
+##### Step 2
 
 Determine which offerors qualify as Alaska bidders and thus, are
 eligible for the Alaska offerors preference. For the purpose of this
@@ -1054,7 +1058,7 @@ this point are:
 | Offeror #2 | 74 points | Alaska Offerors Preference | 10 points |
 | Offeror #3 | 80 points | Alaska Offerors Preference | 10 points |
 
-#### Step 3
+##### Step 3
 
 Add the applicable Alaska offerors preference amounts to the offeror’s scores:
 
@@ -1064,13 +1068,13 @@ Add the applicable Alaska offerors preference amounts to the offeror’s scores:
 | Offeror #2 | 84 points | (74 points + 10 points) |
 | **Offeror #3** | **90 points** | **(80 points + 10 points)** |
 
-#### Step 4
+##### Step 4
 
 **Offeror #3** is the highest scoring offeror and would get the award, provided their proposal is responsible and responsive.
 
-## General Legal Information
+## Section 7. General Legal Information
 
-### Standard Contract Provisions
+### Sec. 7.01 Standard Contract Provisions
 
 The contractor will be required to sign and submit the State's Standard
 Agreement Form for Professional Services Contracts (form 02-093/Appendix
@@ -1080,18 +1084,18 @@ attachment. No alteration of these provisions will be permitted without
 prior written approval from the Department of Law. Objections to any of
 the provisions in Appendix A must be set out in the offeror’s proposal.
 
-### Proposal as a Part of the Contract
+### Sec. 7.02 Proposal as a Part of the Contract
 
 Part or all of this RFP and the successful proposal may be incorporated
 into the contract.
 
-### Additional Terms and Conditions
+### Sec. 7.03 Additional Terms and Conditions
 
 The state reserves the right to add terms and conditions during contract
 negotiations. These terms and conditions will be within the scope of the
 RFP and will not affect the proposal evaluations.
 
-### Human Trafficking
+### Sec. 7.04 Human Trafficking
 
 By signature on their proposal, the offeror certifies that the offeror
 is not established and headquartered or incorporated and headquartered
@@ -1105,7 +1109,7 @@ Persons Report can be found at the following website:
 Failure to comply with this requirement will cause the state to reject
 the proposal as non-responsive, or cancel the contract.
 
-### Right of Rejection
+### Sec. 7.05 Right of Rejection
 
 Offerors must comply with all of the terms of the RFP, the State
 Procurement Code (AS 36.30), and all applicable local, state, and
@@ -1143,12 +1147,12 @@ determines that to be in its best interest.
 
 **A proposal from a debarred or suspended offeror shall be rejected.**
 
-### State Not Responsible for Preparation Costs
+### Sec. 7.06 State Not Responsible for Preparation Costs
 
 The state will not pay any cost associated with the preparation,
 submittal, presentation, or evaluation of any proposal.
 
-### Disclosure of Proposal Contents
+### Sec. 7.07 Disclosure of Proposal Contents
 
 All proposals and other material submitted become the property of the
 State of Alaska and may be returned only at the state's option. AS
@@ -1168,13 +1172,13 @@ confidentiality. Unless the procurement officer agrees in writing to
 hold the requested information confidential, that information will also
 become public after the Notice of Intent to Award is issued.
 
-### Assignment
+### Sec. 7.08 Assignment
 
 Per 2 AAC 12.480, the contractor may not transfer or assign any portion
 of the contract without prior written approval from the procurement
 officer.
 
-### Disputes
+### Sec. 7.09 Disputes
 
 A contract resulting from this RFP is governed by the laws of the State
 of Alaska. If the contractor has a claim arising in connection with the
@@ -1184,7 +1188,7 @@ AS 36.30.620 – AS 36.30.632. To the extent not otherwise governed by the
 preceding, the claim shall be brought only in the Superior Court of the
 State of Alaska and not elsewhere.
 
-### Severability
+### Sec. 7.10 Severability
 
 If any provision of the contract or agreement is declared by a court to
 be illegal or in conflict with any law, the validity of the remaining
@@ -1192,7 +1196,7 @@ terms and provisions will not be affected; and, the rights and
 obligations of the parties will be construed and enforced as if the
 contract did not contain the particular provision held to be invalid.
 
-### Supplemental Terms and Conditions</span>**
+### Sec. 7.11 Supplemental Terms and Conditions</span>**
 
 Proposals must comply with SECTION 1.12 Right of Rejection.
 However, if the state fails to identify or detect supplemental terms or
@@ -1209,32 +1213,27 @@ award of contract:
     of a supplemental term or condition included in the proposal, the
     supplemental term or condition will be considered null and void.
 
-### Contract Invalidation
+### Sec. 7.12 Contract Invalidation
 
 If any provision of this contract is found to be invalid, such
 invalidation will not be construed to invalidate the entire contract.
 
-### Solicitation Advertising
+### Sec. 7.13 Solicitation Advertising
 
 Public notice has been provided in accordance with 2 AAC 12.220.
 
-## Exhibits
+## Section 8. Exhibits
 
 1.  Cost Proposal
-
-1.  Certification Regarding Debarment
-
-1.  Proposal Evaluation Form
-
-1.  Standard Agreement Form - Appendices A – E
+2.  Certification Regarding Debarment
+3.  Proposal Evaluation Form
+4.  Standard Agreement Form - Appendices A–E
 
 Attached separately:
 
 1.  Quality Assurance Plan
-
-1.  DHSS Project Management Requirements
-
-1.  DHSS IT Requirements
+2.  DHSS Project Management Requirements
+3.  DHSS IT Requirements
 
 ### Exhibit 1. Cost Proposal
 
@@ -1748,9 +1747,9 @@ amended from time to time;
 **Therefore,** in consideration of mutual promises below and the
 exchange of information pursuant to the BAA, CE and BA agree as follows:
 
-1\. *Definitions*.
+1. *Definitions*.
 
-a\. *General*: As used in this BAA, the terms "Protected Health
+a. *General*: As used in this BAA, the terms "Protected Health
 Information," "Health Care Operations," and other capitalized terms have
 the same meaning given to those terms by HIPAA, the HITECH Act and the
 Privacy and Security Rule. In the event of any conflict between the
@@ -1762,34 +1761,34 @@ Privacy and Security Rule but are nonetheless permitted by HIPAA, the
 HITECH Act or the Privacy and Security Rule, the provisions of the BAA
 shall control.
 
-b\. *Specific*:
+b. *Specific*:
 
-1\) *Business Associate*: “Business Associate” or “BA” shall generally
+1) *Business Associate*: “Business Associate” or “BA” shall generally
 have the same meaning as the term “business associate” at 45 C.F.R.
 160.103.
 
-2\) *Covered Entity*: “Covered Entity” or “CE” shall have the same
+2) *Covered Entity*: “Covered Entity” or “CE” shall have the same
 meaning as the term “covered entity” at 45 C.F.R. 160.103.
 
-3\) *Privacy and Security Rule:* “Privacy and Security Rule” shall mean
+3) *Privacy and Security Rule:* “Privacy and Security Rule” shall mean
 the Privacy, Security, Breach Notification, and Enforcement Rules at 45
 C.F.R. Part 160 and Part 164.
 
-2\. *Permitted Uses and Disclosures by Business Associate*.
+2. *Permitted Uses and Disclosures by Business Associate*.
 
-a\. BA may only use or disclose PHI for the following purposes: in the
+a. BA may only use or disclose PHI for the following purposes: in the
 rendering of services as described in Appendix C of this document.
 
-b\. BA may use or disclose PHI as required by law.
+b. BA may use or disclose PHI as required by law.
 
-c\. BA agrees to make uses and disclosures and requests for PHI
+c. BA agrees to make uses and disclosures and requests for PHI
 consistent with CE’s minimum necessary policies and procedures.
 
-d\. BA may not use or disclose PHI in a manner that would violate Subpart
+d. BA may not use or disclose PHI in a manner that would violate Subpart
 E of 45 C.F.R. Part 164 if done by CE, except for the specific uses and
 disclosures set out below.
 
-e\. BA may disclose PHI for the proper management and administration of
+e. BA may disclose PHI for the proper management and administration of
 BA or to carry out the legal responsibilities of BA, provided the
 disclosures are required by law, or BA obtains reasonable assurances
 from the person to whom the information is disclosed that the
@@ -1798,10 +1797,10 @@ as required by law or for the purposes for which it was disclosed to the
 person, and the person notified BA of any instances of which it is aware
 in which the confidentiality of the information has been breached.
 
-f\. BA may provide data aggregation services related to the health care
+f. BA may provide data aggregation services related to the health care
 operations of CE.
 
-3\. *Obligations of Business Associate*.
+3. *Obligations of Business Associate*.
 
 a.  *Permitted uses and disclosures*: BA may only use and disclose PHI
     owned by the CE that it creates, receives, maintains, or transmits
@@ -1820,7 +1819,7 @@ information; and (2) an agreement from the subcontractor to notify BA
 of any Breach of confidentiality, or security incident, within two
 business days of when it becomes aware of such Breach or incident.
 
-a.  *Safeguards*: 45 C.F.R. 164.308 (administrative safeguards), 164.310
+a. *Safeguards*: 45 C.F.R. 164.308 (administrative safeguards), 164.310
     (physical safeguards), 164.312 (technical safeguards), and 164.316
     (policies, procedures and documentation requirements) shall apply to
     BA in the same manner that such sections apply to CE, and shall be
@@ -1848,7 +1847,7 @@ weeks of the release of any patch. BA shall keep its antivirus and
 antimalware installed and active. BA shall limit its use of
 administrative accounts for IT operations only.
 
-c\. *Reporting Unauthorized Disclosures and Breaches*: During the term of
+c. *Reporting Unauthorized Disclosures and Breaches*: During the term of
 this BAA, BA shall notify CE within 24 hours of discovering a Breach of
 security; intrusion; or unauthorized acquisition, access, use or
 disclosure of CE’s PHI in violation of any applicable federal or state
@@ -1873,9 +1872,9 @@ involves only Secured PHI, BA shall notify CE within 10 days of
 discovering the Breach but is not required to notify CE of the names
 of the individuals affected.
 
-d\. BA is not an agent of CE.
+d. BA is not an agent of CE.
 
-e\. *BA’s Agents*: If BA uses a subcontractor or agent to provide
+e. *BA’s Agents*: If BA uses a subcontractor or agent to provide
 services under this BAA, and the subcontractor or agent creates,
 receives, maintains, or transmits CE’s PHI, the subcontractor or agent
 shall sign an agreement with BA containing substantially the same
@@ -1885,12 +1884,12 @@ subcontractor or agent in the event of any violation of the
 subcontractor or agent agreement. BA shall mitigate the effects of any
 violation of that agreement.
 
-f\. *Availability of Information to CE*: Within 15 days after the date of
+f. *Availability of Information to CE*: Within 15 days after the date of
 a written request by CE, BA shall provide any information necessary to
 fulfill CE's obligations to provide access to PHI under HIPAA, the
 HITECH Act, or the Privacy and Security Rule.
 
-g\. *Accountability of Disclosures*: If BA is required by HIPAA, the
+g. *Accountability of Disclosures*: If BA is required by HIPAA, the
 HITECH Act, or the Privacy or Security Rule to document a disclosure of
 PHI, BA shall make that documentation. If CE is required to document a
 disclosure of PHI made by BA, BA shall assist CE in documenting
@@ -1903,30 +1902,30 @@ description of the PHI disclosed and the purpose of the disclosure.
 Within 15 days of a written request by CE, BA shall make the accounting
 record available to CE.
 
-h\. *Amendment of PHI*: Within 30 days of a written request by CE or an
+h. *Amendment of PHI*: Within 30 days of a written request by CE or an
 individual, BA shall amend PHI maintained, transmitted, created or
 received by BA on behalf of CE as directed by CE or the individual when
 required by HIPAA, the HITECH Act or the Privacy and Security Rule, or
 take other measures as necessary to satisfy CE’s obligations under 45
 C.F.R. 164.526.
 
-i\. *Internal Practices*: BA shall make its internal practices, books and
+i. *Internal Practices*: BA shall make its internal practices, books and
 records relating to the use and disclosure of CE's PHI available to CE
 and all appropriate federal agencies to determine CE's and BA's
 compliance with HIPAA, the HITECH Act and the Privacy and Security Rule.
 
-j\. *Risk Assessment*: BA shall biennially conduct a thorough assessment
+j. *Risk Assessment*: BA shall biennially conduct a thorough assessment
 of the potential risks to and vulnerabilities of the confidentiality,
 integrity, and availability of CE’s PHI that BA receives, stores,
 transmits, or has access to, and shall provide CE with a written report
 detailing the results of the assessment within 60 days of completing it.
 
-k\. To the extent BA is to carry out one or more of CE’s obligations
+k. To the extent BA is to carry out one or more of CE’s obligations
 under Subpart E of 45 C.F.R. Part 164, BA must comply with the
 requirements of that Subpart that apply to CE in the performance of such
 obligations.
 
-*l.* *Audits, Inspection and Enforcement*: CE may, after providing
+l. *Audits, Inspection and Enforcement*: CE may, after providing
 reasonable notice to the BA, conduct an inspection of the facilities,
 systems, books, logs and records of BA that relate to BA’s use of CE’s
 PHI, including inspecting logs showing the creation, modification,
@@ -1951,7 +1950,7 @@ BA shall provide a yearly report to CE that lists the names of all
 individuals with technical or physical access to CE’s PHI and the
 scope of that access.
 
-m\. *Restrictions and Confidential Communications*: Within 10 business
+m. *Restrictions and Confidential Communications*: Within 10 business
 days of notice by CE of a restriction upon use or disclosure or request
 for confidential communications pursuant to 45 C.F.R.164.522, BA shall
 restrict the use or disclosure of an individual’s PHI. BA may not
@@ -1961,26 +1960,26 @@ address. BA shall refer such requests to the CE so that the CE can
 coordinate and prepare a timely response to the requesting individual
 and provide direction to the BA.
 
-n\. *Indemnification*: BA shall indemnify and hold harmless CE for any
+n. *Indemnification*: BA shall indemnify and hold harmless CE for any
 civil or criminal monetary penalty imposed on CE or monetary settlement
 reached by CE for acts or omissions in violation of HIPAA, the HITECH
 Act, or the Privacy or Security Rule that are committed by BA, a member
 of its workforce, its agent, or its subcontractor.
 
-4\. *Obligations of CE*. CE will be responsible for using legally
+4. *Obligations of CE*. CE will be responsible for using legally
 appropriate safeguards to maintain and ensure the confidentiality,
 privacy and security of PHI transmitted to BA under the BAA until the
 PHI is received by BA. CE will not request BA to use or disclose PHI in
 any manner that would not be permissible under HIPAA, the HITECH Act or
 the Privacy and Security Rule if done by CE.
 
-5\. *Termination*.
+5. *Termination*.
 
-a\. *Breach*: A breach of a material term of the BAA by BA that is not
+a. *Breach*: A breach of a material term of the BAA by BA that is not
 cured within a reasonable period of time will provide grounds for the
 immediate termination of the contract.
 
-b\. *Reasonable Steps to Cure*: In accordance with 45 C.F.R.
+b. *Reasonable Steps to Cure*: In accordance with 45 C.F.R.
 164.504(e)(1)(ii), CE and BA agree that, if it knows of a pattern of
 activity or practice of the other party that constitutes a material
 breach or violation of the other party’s obligation under the BAA, the
@@ -1990,7 +1989,7 @@ unsuccessful, terminate the BAA if feasible, and if not feasible, report
 the problem to the Secretary of the U.S. Department of Health and Human
 Services.
 
-c\. *Effect of Termination*: Upon termination of the contract, BA will,
+c. *Effect of Termination*: Upon termination of the contract, BA will,
 at the direction of the CE, either return or destroy all PHI received
 from CE or created, maintained, or transmitted on CE’s behalf by BA in
 any form. Unless otherwise directed, BA is prohibited from retaining any
@@ -2001,7 +2000,7 @@ further use and disclosure of the PHI. The obligations in this BAA shall
 continue until all of the PHI provided by CE to BA is either destroyed
 or returned to CE.
 
-6\. *Amendment*. The parties acknowledge that state and federal laws
+6. *Amendment*. The parties acknowledge that state and federal laws
 relating to electronic data security and privacy are evolving, and that
 the parties may be required to further amend this BAA to ensure
 compliance with applicable changes in law. Upon receipt of a
@@ -2009,20 +2008,20 @@ notification from CE that an applicable change in law affecting this BAA
 has occurred, BA will promptly agree to enter into negotiations with CE
 to amend this BAA to ensure compliance with changes in law.
 
-7\. *Ownership of PHI*. For purposes of this BAA, CE owns the data that
+7. *Ownership of PHI*. For purposes of this BAA, CE owns the data that
 contains the PHI it transmits to BA or that BA receives, creates,
 maintains or transmits on behalf of CE.
 
-8\. *Litigation Assistance*.  Except when it would constitute a direct
+8. *Litigation Assistance*.  Except when it would constitute a direct
 conflict of interest for BA, BA will make itself available to assist CE
 in any administrative or judicial proceeding by testifying as witness as
 to an alleged violation of HIPAA, the HITECH Act, the Privacy or
 Security Rule, or other law relating to security or privacy.
 
-9\. *Regulatory References*. Any reference in this BAA to federal or
+9. *Regulatory References*. Any reference in this BAA to federal or
 state law means the section that is in effect or as amended.
 
-10\. *Interpretation*. This BAA shall be interpreted as broadly as
+10. *Interpretation*. This BAA shall be interpreted as broadly as
 necessary to implement and comply with HIPAA, the HITECH Act, the
 Privacy and Security Rule and applicable state and federal laws. The
 parties agree that any ambiguity in BAA will be resolved in favor of a
@@ -2032,7 +2031,7 @@ further agree that where this BAA conflicts with a contemporaneously
 executed confidentiality agreement between the parties, this BAA
 controls.
 
-11\. *No Private Right of Action Created.* This BAA does not create any
+11. *No Private Right of Action Created.* This BAA does not create any
 right of action or benefits for individuals whose PHI is disclosed in
 violation of HIPAA, the HITECH Act, the Privacy and Security Rule or
 other law relating to security or privacy.
