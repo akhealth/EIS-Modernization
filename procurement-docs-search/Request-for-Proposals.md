@@ -1833,7 +1833,7 @@ exchange of information pursuant to the BAA, CE and BA agree as follows:
 
 1. *Definitions*.
 
-a. *General*: As used in this BAA, the terms "Protected Health
+	a. *General*: As used in this BAA, the terms "Protected Health
 Information," "Health Care Operations," and other capitalized terms have
 the same meaning given to those terms by HIPAA, the HITECH Act and the
 Privacy and Security Rule. In the event of any conflict between the
@@ -1845,34 +1845,29 @@ Privacy and Security Rule but are nonetheless permitted by HIPAA, the
 HITECH Act or the Privacy and Security Rule, the provisions of the BAA
 shall control.
 
-b. *Specific*:
+	b. *Specific*:
+	
+		1) *Business Associate*: “Business Associate” or “BA” shall generally have the same meaning as the term “business associate” at 45 C.F.R. 160.103.
 
-1) *Business Associate*: “Business Associate” or “BA” shall generally
-have the same meaning as the term “business associate” at 45 C.F.R.
-160.103.
+		2) *Covered Entity*: “Covered Entity” or “CE” shall have the same meaning as the term “covered entity” at 45 C.F.R. 160.103.
 
-2) *Covered Entity*: “Covered Entity” or “CE” shall have the same
-meaning as the term “covered entity” at 45 C.F.R. 160.103.
-
-3) *Privacy and Security Rule:* “Privacy and Security Rule” shall mean
-the Privacy, Security, Breach Notification, and Enforcement Rules at 45
-C.F.R. Part 160 and Part 164.
+		3) *Privacy and Security Rule:* “Privacy and Security Rule” shall mean the Privacy, Security, Breach Notification, and Enforcement Rules at 45 C.F.R. Part 160 and Part 164.
 
 2. *Permitted Uses and Disclosures by Business Associate*.
 
-a. BA may only use or disclose PHI for the following purposes: in the
+	a. BA may only use or disclose PHI for the following purposes: in the
 rendering of services as described in Appendix C of this document.
 
-b. BA may use or disclose PHI as required by law.
+	b. BA may use or disclose PHI as required by law.
 
-c. BA agrees to make uses and disclosures and requests for PHI
+	c. BA agrees to make uses and disclosures and requests for PHI
 consistent with CE’s minimum necessary policies and procedures.
 
-d. BA may not use or disclose PHI in a manner that would violate Subpart
+	d. BA may not use or disclose PHI in a manner that would violate Subpart
 E of 45 C.F.R. Part 164 if done by CE, except for the specific uses and
 disclosures set out below.
 
-e. BA may disclose PHI for the proper management and administration of
+	e. BA may disclose PHI for the proper management and administration of
 BA or to carry out the legal responsibilities of BA, provided the
 disclosures are required by law, or BA obtains reasonable assurances
 from the person to whom the information is disclosed that the
@@ -1881,21 +1876,14 @@ as required by law or for the purposes for which it was disclosed to the
 person, and the person notified BA of any instances of which it is aware
 in which the confidentiality of the information has been breached.
 
-f. BA may provide data aggregation services related to the health care
+	f. BA may provide data aggregation services related to the health care
 operations of CE.
 
 3. *Obligations of Business Associate*.
 
-a.  *Permitted uses and disclosures*: BA may only use and disclose PHI
-    owned by the CE that it creates, receives, maintains, or transmits
-    if the use or disclosure is in compliance with each applicable
-    requirement of 45 C.F.R. 164.504(e) of the Privacy Rule or this BAA.
-    The additional requirements of Subtitle D of the HITECH Act
-    contained in Public Law 111-5 that relate to privacy and that are
-    made applicable with respect to Covered Entities shall also be
-    applicable to BA and are incorporated into this BAA.
+	a. *Permitted uses and disclosures*: BA may only use and disclose PHI owned by the CE that it creates, receives, maintains, or transmits if the use or disclosure is in compliance with each applicable requirement of 45 C.F.R. 164.504(e) of the Privacy Rule or this BAA. The additional requirements of Subtitle D of the HITECH Act contained in Public Law 111-5 that relate to privacy and that are made applicable with respect to Covered Entities shall also be applicable to BA and are incorporated into this BAA.
 
-To the extent that BA discloses CE’s PHI to a subcontractor, BA must
+	To the extent that BA discloses CE’s PHI to a subcontractor, BA must
 obtain, prior to making any such disclosure: (1) reasonable assurances
 from the subcontractor that it will agree to the same restrictions,
 conditions, and requirements that apply to the BA with respect to such
@@ -1903,7 +1891,7 @@ information; and (2) an agreement from the subcontractor to notify BA
 of any Breach of confidentiality, or security incident, within two
 business days of when it becomes aware of such Breach or incident.
 
-a. *Safeguards*: 45 C.F.R. 164.308 (administrative safeguards), 164.310
+	b. *Safeguards*: 45 C.F.R. 164.308 (administrative safeguards), 164.310
     (physical safeguards), 164.312 (technical safeguards), and 164.316
     (policies, procedures and documentation requirements) shall apply to
     BA in the same manner that such sections apply to CE, and shall be
@@ -1913,7 +1901,7 @@ a. *Safeguards*: 45 C.F.R. 164.308 (administrative safeguards), 164.310
     security and that are made applicable to Covered Entities shall also
     apply to BA and are incorporated into this BAA.
 
-Unless CE agrees in writing that this requirement is infeasible with
+	Unless CE agrees in writing that this requirement is infeasible with
 respect to certain data, BA shall secure all paper and electronic PHI
 by encryption or destruction such that the PHI is rendered unusable,
 unreadable or indecipherable to unauthorized individuals; or secure
@@ -1926,39 +1914,15 @@ under Section 3002(b)(2)(B)(vi) of the Public Health Service Act, as
 added by Section 13101 of the HITECH Act contained in Public Law
 111-5.
 
-BA shall patch its operating system and all applications within two
-weeks of the release of any patch. BA shall keep its antivirus and
-antimalware installed and active. BA shall limit its use of
-administrative accounts for IT operations only.
+	BA shall patch its operating system and all applications within two weeks of the release of any patch. BA shall keep its antivirus and antimalware installed and active. BA shall limit its use of administrative accounts for IT operations only.
 
-c. *Reporting Unauthorized Disclosures and Breaches*: During the term of
-this BAA, BA shall notify CE within 24 hours of discovering a Breach of
-security; intrusion; or unauthorized acquisition, access, use or
-disclosure of CE’s PHI in violation of any applicable federal or state
-law, including security incidents. BA shall identify for the CE the
-individuals whose unsecured PHI has been, or is reasonably believed to
-have been, Breached so that CE can comply with any notification
-requirements if necessary. BA shall also indicate whether the PHI
-subject to the Breach; intrusion; or unauthorized acquisition, access,
-use or disclosure was encrypted or destroyed at the time. BA shall take
-prompt corrective action to cure any deficiencies that result in
-Breaches of security; intrusion; or unauthorized acquisition, access,
-use, and disclosure. BA shall fulfill all breach notice requirements
-unless CE notifies BA that CE will take over the notice requirements. BA
-shall reimburse CE for all costs incurred by CE that are associated with
-any mitigation, investigation and notice of Breach CE undertakes or
-provides under HIPAA, HITECH Act, and the Privacy and Security Rule as a
-result of a Breach of CE’s PHI caused by BA or BA’s subcontractor or
-agent.
+	c. *Reporting Unauthorized Disclosures and Breaches*: During the term of this BAA, BA shall notify CE within 24 hours of discovering a Breach of security; intrusion; or unauthorized acquisition, access, use or disclosure of CE’s PHI in violation of any applicable federal or state law, including security incidents. BA shall identify for the CE the individuals whose unsecured PHI has been, or is reasonably believed to have been, Breached so that CE can comply with any notification requirements if necessary. BA shall also indicate whether the PHI subject to the Breach; intrusion; or unauthorized acquisition, access, use or disclosure was encrypted or destroyed at the time. BA shall take prompt corrective action to cure any deficiencies that result in Breaches of security; intrusion; or unauthorized acquisition, access, use, and disclosure. BA shall fulfill all breach notice requirements unless CE notifies BA that CE will take over the notice requirements. BA shall reimburse CE for all costs incurred by CE that are associated with any mitigation, investigation and notice of Breach CE undertakes or provides under HIPAA, HITECH Act, and the Privacy and Security Rule as a result of a Breach of CE’s PHI caused by BA or BA’s subcontractor or agent.
 
-If the unauthorized acquisition, access, use or disclosure of CE’s PHI
-involves only Secured PHI, BA shall notify CE within 10 days of
-discovering the Breach but is not required to notify CE of the names
-of the individuals affected.
+	If the unauthorized acquisition, access, use or disclosure of CE’s PHI involves only Secured PHI, BA shall notify CE within 10 days of discovering the Breach but is not required to notify CE of the names of the individuals affected.
 
-d. BA is not an agent of CE.
+	d. BA is not an agent of CE.
 
-e. *BA’s Agents*: If BA uses a subcontractor or agent to provide
+	e. *BA’s Agents*: If BA uses a subcontractor or agent to provide
 services under this BAA, and the subcontractor or agent creates,
 receives, maintains, or transmits CE’s PHI, the subcontractor or agent
 shall sign an agreement with BA containing substantially the same
@@ -1968,12 +1932,12 @@ subcontractor or agent in the event of any violation of the
 subcontractor or agent agreement. BA shall mitigate the effects of any
 violation of that agreement.
 
-f. *Availability of Information to CE*: Within 15 days after the date of
+	f. *Availability of Information to CE*: Within 15 days after the date of
 a written request by CE, BA shall provide any information necessary to
 fulfill CE's obligations to provide access to PHI under HIPAA, the
 HITECH Act, or the Privacy and Security Rule.
 
-g. *Accountability of Disclosures*: If BA is required by HIPAA, the
+	g. *Accountability of Disclosures*: If BA is required by HIPAA, the
 HITECH Act, or the Privacy or Security Rule to document a disclosure of
 PHI, BA shall make that documentation. If CE is required to document a
 disclosure of PHI made by BA, BA shall assist CE in documenting
@@ -1986,30 +1950,30 @@ description of the PHI disclosed and the purpose of the disclosure.
 Within 15 days of a written request by CE, BA shall make the accounting
 record available to CE.
 
-h. *Amendment of PHI*: Within 30 days of a written request by CE or an
+	h. *Amendment of PHI*: Within 30 days of a written request by CE or an
 individual, BA shall amend PHI maintained, transmitted, created or
 received by BA on behalf of CE as directed by CE or the individual when
 required by HIPAA, the HITECH Act or the Privacy and Security Rule, or
 take other measures as necessary to satisfy CE’s obligations under 45
 C.F.R. 164.526.
 
-i. *Internal Practices*: BA shall make its internal practices, books and
+	i. *Internal Practices*: BA shall make its internal practices, books and
 records relating to the use and disclosure of CE's PHI available to CE
 and all appropriate federal agencies to determine CE's and BA's
 compliance with HIPAA, the HITECH Act and the Privacy and Security Rule.
 
-j. *Risk Assessment*: BA shall biennially conduct a thorough assessment
+	j. *Risk Assessment*: BA shall biennially conduct a thorough assessment
 of the potential risks to and vulnerabilities of the confidentiality,
 integrity, and availability of CE’s PHI that BA receives, stores,
 transmits, or has access to, and shall provide CE with a written report
 detailing the results of the assessment within 60 days of completing it.
 
-k. To the extent BA is to carry out one or more of CE’s obligations
+	k. To the extent BA is to carry out one or more of CE’s obligations
 under Subpart E of 45 C.F.R. Part 164, BA must comply with the
 requirements of that Subpart that apply to CE in the performance of such
 obligations.
 
-l. *Audits, Inspection and Enforcement*: CE may, after providing
+	l. *Audits, Inspection and Enforcement*: CE may, after providing
 reasonable notice to the BA, conduct an inspection of the facilities,
 systems, books, logs and records of BA that relate to BA’s use of CE’s
 PHI, including inspecting logs showing the creation, modification,
@@ -2019,7 +1983,7 @@ responsibility to comply with this BAA. CE's failure to detect or
 failure to require remediation does not constitute acceptance of any
 practice or waive any rights of CE to enforce this BAA.
 
-Notwithstanding BA’s obligation to report under paragraph 3.c of this
+	Notwithstanding BA’s obligation to report under paragraph 3.c of this
 BAA, BA shall provide a monthly report to CE detailing the
 unauthorized, or reasonable belief of unauthorized, acquisition,
 access, use, or disclosure of CE’s PHI, including any unauthorized
@@ -2030,11 +1994,11 @@ privileged account. BA shall also indicate whether CE’s PHI subject to
 unauthorized activity was encrypted or destroyed at the time of the
 unauthorized activity.
 
-BA shall provide a yearly report to CE that lists the names of all
+	BA shall provide a yearly report to CE that lists the names of all
 individuals with technical or physical access to CE’s PHI and the
 scope of that access.
 
-m. *Restrictions and Confidential Communications*: Within 10 business
+	m. *Restrictions and Confidential Communications*: Within 10 business
 days of notice by CE of a restriction upon use or disclosure or request
 for confidential communications pursuant to 45 C.F.R.164.522, BA shall
 restrict the use or disclosure of an individual’s PHI. BA may not
@@ -2044,7 +2008,7 @@ address. BA shall refer such requests to the CE so that the CE can
 coordinate and prepare a timely response to the requesting individual
 and provide direction to the BA.
 
-n. *Indemnification*: BA shall indemnify and hold harmless CE for any
+	n. *Indemnification*: BA shall indemnify and hold harmless CE for any
 civil or criminal monetary penalty imposed on CE or monetary settlement
 reached by CE for acts or omissions in violation of HIPAA, the HITECH
 Act, or the Privacy or Security Rule that are committed by BA, a member
@@ -2059,11 +2023,11 @@ the Privacy and Security Rule if done by CE.
 
 5. *Termination*.
 
-a. *Breach*: A breach of a material term of the BAA by BA that is not
+	a. *Breach*: A breach of a material term of the BAA by BA that is not
 cured within a reasonable period of time will provide grounds for the
 immediate termination of the contract.
 
-b. *Reasonable Steps to Cure*: In accordance with 45 C.F.R.
+	b. *Reasonable Steps to Cure*: In accordance with 45 C.F.R.
 164.504(e)(1)(ii), CE and BA agree that, if it knows of a pattern of
 activity or practice of the other party that constitutes a material
 breach or violation of the other party’s obligation under the BAA, the
@@ -2073,7 +2037,7 @@ unsuccessful, terminate the BAA if feasible, and if not feasible, report
 the problem to the Secretary of the U.S. Department of Health and Human
 Services.
 
-c. *Effect of Termination*: Upon termination of the contract, BA will,
+	c. *Effect of Termination*: Upon termination of the contract, BA will,
 at the direction of the CE, either return or destroy all PHI received
 from CE or created, maintained, or transmitted on CE’s behalf by BA in
 any form. Unless otherwise directed, BA is prohibited from retaining any
