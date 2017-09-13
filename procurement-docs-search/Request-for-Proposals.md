@@ -1847,11 +1847,11 @@ shall control.
 
 	b. *Specific*:
 	
-		1) *Business Associate*: “Business Associate” or “BA” shall generally have the same meaning as the term “business associate” at 45 C.F.R. 160.103.
+	1) *Business Associate*: “Business Associate” or “BA” shall generally have the same meaning as the term “business associate” at 45 C.F.R. 160.103.
 
-		2) *Covered Entity*: “Covered Entity” or “CE” shall have the same meaning as the term “covered entity” at 45 C.F.R. 160.103.
+	2) *Covered Entity*: “Covered Entity” or “CE” shall have the same meaning as the term “covered entity” at 45 C.F.R. 160.103.
 
-		3) *Privacy and Security Rule:* “Privacy and Security Rule” shall mean the Privacy, Security, Breach Notification, and Enforcement Rules at 45 C.F.R. Part 160 and Part 164.
+	3) *Privacy and Security Rule:* “Privacy and Security Rule” shall mean the Privacy, Security, Breach Notification, and Enforcement Rules at 45 C.F.R. Part 160 and Part 164.
 
 2. *Permitted Uses and Disclosures by Business Associate*.
 
