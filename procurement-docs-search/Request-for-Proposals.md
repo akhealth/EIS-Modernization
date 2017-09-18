@@ -1,5 +1,7 @@
 ![The Seal of the State of Alaska](seal.png)
 
+**Note - this is a _working draft_ Request for Proposals and is meant for vendor feedback. We plan to update this document as we learn more from our prototyping and nail down our scope of work for the first procurement.  Please submit questions or feedback [as an Issue](https://github.com/AlaskaDHSS/acq-alaska-dhss-modernization/issues)
+
 # STATE OF ALASKA REQUEST FOR PROPOSALS
 
 ##TITLE OF RFP##
@@ -140,7 +142,7 @@ Proposals must be received no later than **TIME** prevailing Alaska Time on **DA
 
 In order for offers to be considered responsive offerors must meet the following minimum requirements:
 
--   The offeror must provide two examples of open source, web-based data platforms. One of the two examples must reflect aspects of datasecurity and access administration best practices. And one of the two examples must demonstrate experience displaying geographic data on a map. The project must have been delivered by either a) the offeror itself or, alternatively, b) a teaming partner that is proposed in response to this RFP, or, alternatively, c) any Key Personnel that is being proposed in response to this RFP. In the project summary, be sure to identify how the offeror’s team was involved in the development. At a minimum, provide:
+-   The offeror must provide two examples of open source, **UPDATE WITH SCOPE THAT IS RELEVANT TO THE FIRST BUY**. One of the two examples must reflect **UPDATE WITH SCOPE THAT IS RELEVANT TO THE FIRST BUY**. And one of the two examples must demonstrate **UPDATE WITH SCOPE THAT IS RELEVANT TO THE FIRST BUY**. The project must have been delivered by either a) the offeror itself or, alternatively, b) a teaming partner that is proposed in response to this RFP, or, alternatively, c) any Key Personnel that is being proposed in response to this RFP. In the project summary, be sure to identify how the offeror’s team was involved in the development. At a minimum, provide:
 
     -   Recent and similar technical scope is past experience with
         building usable, responsive, consumer facing website built
@@ -154,7 +156,7 @@ In order for offers to be considered responsive offerors must meet the following
         final product or current staging environment. If live links are
         not available, screenshots can be provided, along with a brief
         explanation as to why the project is no longer live. Note that
-        screenshots will not be counted towards your 5-page limitation;
+        screenshots will not be counted towards your 7-page limitation;
         please provide screenshots as attachments. The projects should
         be recent and similar to the size and technical scope of this
         requirement.
