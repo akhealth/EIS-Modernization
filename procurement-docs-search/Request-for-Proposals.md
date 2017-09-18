@@ -2,6 +2,8 @@
 
 # STATE OF ALASKA REQUEST FOR PROPOSALS
 
+**Note - this is a _working draft_ Request for Proposals and is meant for vendor feedback. We plan to update this document as we learn more from our prototyping and nail down our scope of work for the first procurement.  Please submit questions or feedback [as an Issue](https://github.com/AlaskaDHSS/acq-alaska-dhss-modernization/issues)**
+
 ##TITLE OF RFP##
 
 RFP **NUMBER**
