@@ -9,7 +9,7 @@ In short, for this first acquisition, we want to focus on something that is rela
 straightforward, while still providing value to our beneficiaries and constituents. 
 The product team has decided that building a robust person search would create a positive
 impact in a way that introduces the least risk to existing systems. We will learn a lot
-during this first acquisition that will help us tackle more invasive and risky acquisitions
+during this first acquisition that will help us tackle more expansive and complex acquisitions
 later on.
 
 ### 2.0 OBJECTIVES
@@ -198,9 +198,9 @@ the COR within two weeks of the COR’s request.
 **Deliverable** | **Due Date** | **Description**
 --- | --- | ---
 Code & Status Reports | 1 business day after each sprint | Demonstration of progress throughout each sprint.
-Code Repository of Product | End of call order | Version-controlled Open Source repository of code that comprises prototype.
+Code Repository of Product | End of call order | Version-controlled Open Source repository of code that comprises the application.
 Research | A research plan shall be delivered during the first sprint. Research-related records shall be delivered at the end of the second sprint and every applicable sprint. thereafter | A summary of research conducted and results found. If applicable, next steps or recommendations based on research.
-Design Deliverables | End of every applicable sprint | Mock ups and/or design files if applicable, or design changes reflected in the Development Prototype.
+Design Deliverables | End of every applicable sprint | Mock ups and/or design files if applicable, or design changes reflected in the application.
 Development View | End of second sprint and every sprint thereafter | In-progress development view, accessible on the web via staging server / development server.
 Transition Plan | To be worked on no later than the second to last sprint of the initial Period of Performance | Work with the Alaska product team to make sure there is a clear plan for handing off the code repository.
 
@@ -220,7 +220,7 @@ days of the conclusion of each sprint.
 Only the Alaska product team has the authority to
 inspect, accept, or reject all deliverables. 
 
-Acceptance of services and deliverables will be based on the criteria laid out in the quality acceptance plan.
+Acceptance of services and deliverables will be based on the criteria laid out in the [quality acceptance plan](QAP.md).
 ##### 5.6.3 System Documentation
 
 The Contractor shall consult with the Alaska product team to determine what is
@@ -234,7 +234,7 @@ artifacts, and create new user stories based on each sprint.
 
 ##### 5.6.4. Quality Assurance
 
-The Contractor shall comply with the acceptable quality levels (AQL) in the attached quality assurance plan (QAP) (update link to QAP on Github)
+The Contractor shall comply with the acceptable quality levels (AQL) in the attached [quality assurance plan](QAP.md) (QAP).
 
 #### 5.7 Personnel
 
@@ -250,6 +250,7 @@ The Contractor shall comply with the acceptable quality levels (AQL) in the atta
 The Contractor shall have knowledge and skills in the following areas
 
 Microsoft Technology:
+- Azure cloud platform
 - ASP.NET web applications
 - .NET Core framework
 - C# language
@@ -261,9 +262,10 @@ General Technology:
 - Responsive design
 - SQL (language)
 - Git
+- Experience working with SOAP APIs and using / building REST APIs
 - Service-based architecture
-- API creation and usage
 - Automated unit and integration testing
+- Continuous integration and continuous delivery 
 
 ##### 5.7.2 Key Personnel
 
@@ -310,7 +312,7 @@ This is a Labor Hour Contract not to exceed budget ceiling.
 
 ##### 5.9.2 Period of Performance (POP) (WILL BE UPDATED)
 
-The period performance for this contract is delivery of the final
+The period of performance for this contract is delivery of the final
 product *[TBD]* calendar days after the award. 
 
 ##### 5.9.3 Place and Hours of Performance (UPDATE WITH AK SPECIFICS)
