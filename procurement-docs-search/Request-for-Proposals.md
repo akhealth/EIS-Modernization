@@ -77,10 +77,10 @@ jon.geselle@alaska.gov<br>
 - [Sec. 4.08	Evaluation Criteria](#4.08)
 
 ### Section 5.	EVALUATION CRITERIA AND CONTRACTOR SELECTION	17
-- [Sec. 5.01	Understanding of the Project (5%)](#5.01)
-- [Sec. 5.02	Methodology Used for the Project (5%)](#5.02)
-- [Sec. 5.03	Management Plan for the Project (5%)](#5.03)
-- [Sec. 5.04	Experience and Qualifications (5%)](#5.04)
+- [Sec. 5.01	Technical Understanding and Approach (5%)](#5.01)
+- [Sec. 5.02	Staffing Plan (5%)](#5.02)
+- [Sec. 5.03	Similar Experience (5%)](#5.03)
+- [Sec. 5.04	Verbal Presentation (35%)](#5.04)
 - [Sec. 5.05	Contract Cost (40%)](#5.05)
 - [Sec. 5.06	Alaska Offeror Preference (10%)](#5.06)
 
@@ -741,7 +741,7 @@ The Government will evaluate the offeror’s proposed staffing methodology
 and skill levels/labor categories as well as the availability and
 relevant work experience demonstrated by Key Personnel.
 
-### <a name="5.03"></a>Sec. 5.03 Similar Experiences (5%)
+### <a name="5.03"></a>Sec. 5.03 Similar Experience (5%)
 
 The State will evaluate the offeror’s experience in performing projects
 of similar scope and complexity. The State will also evaluate the
