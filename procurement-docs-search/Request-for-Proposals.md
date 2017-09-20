@@ -50,21 +50,24 @@ jon.geselle@alaska.gov<br>
 
 ### Section 3.	SCOPE OF WORK & Contract Information
 - [Sec. 3.01	Scope of Work](#3.01)
-- [Sec. 3.02	Contract Term and Work Schedule](#3.02)
-- [Sec. 3.03	Deliverables](#3.03)
-- [Sec. 3.04	Contract Type](#3.04)
-- [Sec. 3.05	Proposed Payment Procedures](#3.05)
-- [Sec. 3.06	Prompt Payment For State Purchases](#3.06)
-- [Sec. 3.07	Contract Payment](#3.07)
-- [Sec. 3.08	Location of Work](#3.08)
-- [Sec. 3.09	Subcontractors](#3.09)
-- [Sec. 3.10	Joint Ventures](#3.10)
-- [Sec. 3.11	Contract Personnel](#3.11)
-- [Sec. 3.12	Inspection & Modification - Reimbursement for Unacceptable Deliverables](#3.12)
-- [Sec. 3.13	Contract Changes - Unanticipated Amendments](#3.13)
-- [Sec. 3.14	Nondisclosure and Confidentiality](#3.14)
-- [Sec. 3.15	Insurance Requirements](#3.15)
-- [Sec. 3.16	Termination for Default](#3.16)
+- [Sec. 3.02	Requirements](#3.02)
+- [Sec. 3.03	Project Management Requirements](#3.03)
+- [Sec. 3.04	Transition Requirements](#3.04)
+- [Sec. 3.05	Contract Term and Work Schedule](#3.05)
+- [Sec. 3.06	Deliverables](#3.06)
+- [Sec. 3.07	Contract Type](#3.07)
+- [Sec. 3.08	Proposed Payment Procedures](#3.08)
+- [Sec. 3.09	Prompt Payment For State Purchases](#3.09)
+- [Sec. 3.10	Contract Payment](#3.10)
+- [Sec. 3.11	Location of Work](#3.11)
+- [Sec. 3.12	Subcontractors](#3.12)
+- [Sec. 3.13	Joint Ventures](#3.13)
+- [Sec. 3.14	Contract Personnel](#3.14)
+- [Sec. 3.15	Inspection & Modification - Reimbursement for Unacceptable Deliverables](#3.15)
+- [Sec. 3.16	Contract Changes - Unanticipated Amendments](#3.16)
+- [Sec. 3.17	Nondisclosure and Confidentiality](#3.17)
+- [Sec. 3.18	Insurance Requirements](#3.18)
+- [Sec. 3.19	Termination for Default](#3.19)
 
 ### Section 4. PROPOSAL FORMAT AND CONTENT
 - [Sec. 4.01	Proposal Format and Content](#4.01)
@@ -126,7 +129,7 @@ jon.geselle@alaska.gov<br>
 
 ### <a name="1.01"></a>Sec. 1.01 Purpose of the RFP
 
-The Department of Health and Social Services, Division of Public Assistance, is soliciting proposals for **INSERT A BRIEF DESCRIPTION OF THE PURPOSE OF THE RFP CONSISTENT WITH COVER PAGE; A MORE DETAILED DESCRIPTION INCLUDING SCOPE OF WORK IS TO BE PROVIDED in Section 3.**
+The Department of Health and Social Services, Division of Public Assistance, is soliciting proposals for a Contractor to continuously deliver iterations of a search tool that finds information for a given person across multiple systems (EIS, ARIES) and returns search results to workers that accurately reflect the status of all program applications for a given person or household.  More detailed information about the project can be found in our [Scope of Work](#3.01)
 
 ### <a name="1.02"></a>Sec. 1.02 Budget
 
@@ -142,7 +145,7 @@ Proposals must be received no later than **TIME** prevailing Alaska Time on **DA
 
 In order for offers to be considered responsive offerors must meet the following minimum requirements:
 
--   The offeror must provide two examples of open source, web-based data platforms. One of the two examples must reflect aspects of datasecurity and access administration best practices. And one of the two examples must demonstrate experience displaying geographic data on a map. The project must have been delivered by either a) the offeror itself or, alternatively, b) a teaming partner that is proposed in response to this RFP, or, alternatively, c) any Key Personnel that is being proposed in response to this RFP. In the project summary, be sure to identify how the offeror’s team was involved in the development. At a minimum, provide:
+-   The offeror must provide two examples of open source, web-based data platforms. **THIS SECTION WILL BE UPDATED One of the two examples must reflect aspects of datasecurity and access administration best practices. And one of the two examples must demonstrate experience displaying geographic data on a map.** The project must have been delivered by either a) the offeror itself or, alternatively, b) a teaming partner that is proposed in response to this RFP, or, alternatively, c) any Key Personnel that is being proposed in response to this RFP. In the project summary, be sure to identify how the offeror’s team was involved in the development. At a minimum, provide:
 
     -   Recent and similar technical scope is past experience with
         building usable, responsive, consumer facing website built
@@ -392,67 +395,197 @@ approval of the project director.
 
 ### <a name="2.01"></a>Sec. 2.01 Background Information
 
-**PROVIDE PERTINENT BACKGROUND INFORMATION.  THIS WILL BE PULLED FROM THE [STATEMENT OF WORK](https://github.com/AlaskaDHSS/acq-alaska-dhss-modernization/blob/master/procurement-docs-search/Statement-of-Work.md)**
+BACKGROUND
+
+The background for this project as a whole is detailed in the project README. In short, for this first acquisition, we want to focus on something that is relatively straightforward, while still providing value to our beneficiaries and constituents. The product team has decided that building a robust person search would create a positive impact in a way that introduces the least risk to existing systems. We will learn a lot during this first acquisition that will help us tackle more invasive and risky acquisitions later on.
+
+OBJECTIVES
+
+Alaska Department of Health and Social Services (DHSS) goals for the person search are as follows:
+
+Decreased burden on Division of Public Assistance (DPA) field staff as they process incoming applications for program benefits
+
+Get a better sense of the nature of pending work by revealing all unworked applications for a given person or household
+
+Increase the number of applications processed per worker, per day, so that potential beneficiaries can get their benefits sooner
+
+Decrease time necessary for DPA field staff to get critical information on outstanding applications or ongoing assistance cases
+
+Build the foundation for a performant and flexible search API that can be reused throughout the application for any view
 
 ## Section 3. SCOPE OF WORK & Contract Information
 
 ### <a name="3.01"></a>Sec. 3.01  Scope of Work
 
-**THIS WILL BE PULLED FROM THE [STATEMENT OF WORK](https://github.com/AlaskaDHSS/acq-alaska-dhss-modernization/blob/master/procurement-docs-search/Statement-of-Work.md)**
+The scope of this contract is for the Contractor to continuously deliver iterations of a search tool that finds information for a given person across multiple systems (EIS, ARIES) and returns search results to workers that accurately reflect the status of all program applications for a given person or household. The search tool will be used in production so that workers can give feedback as early and frequently as possible. At the end of the engagement, the search tool will already be in use by DPA workers.
 
-The Department of **<NAME>**, Division of **NAME**, **is soliciting
-proposals for **WHAT KIND** of services.
+The State of Alaska will provide documentation on how to access data sources, how to interact with existing authentication systems, and how to continuously deploy work to a staging environment.
 
-The Department wants assistance to do **WHAT**.
+### <a name="3.02"></a>Sec. 3.02 Requirements
 
-The consultant will do **WHAT**.
+The Contractor shall provide the following services:
 
-The types of staff in state agencies that the contractor must interview
-are **<span style="font-variant:small-caps;">WHO</span>*.***
+Contractor shall review existing research artifacts and conduct additional user research in order to determine user needs so that the contractor can design and deliver interfaces/data views that are most useful.
 
-Other helpful informational material that can be provided to the
-consultant includes **WHAT**.
+Contractor shall conduct usability testing and gather feedback from DPA workers on an ongoing basis as solutions are explored and software is delivered, and incorporate feedback.
 
-The goal of this project is to **WHAT**.
+Contractor shall ensure that DPA field staff can search for needed information using a variety of search inputs, individually and in combination.
 
-### <a name="3.02"></a>Sec. 3.02 Contract Term and Work Schedule
+Contractor shall ensure that DPA field staff can get a comprehensive view across systems (EIS, ARIES) of relevant and useful data in a single search result.
+
+Contractor shall provide DPA field staff with the ability to refine search results by filtering.
+
+Contractor shall ensure that the search results help DPA field staff reliably identify potential unworked applications for the same family or individual.
+
+Contractor shall ensure that DPA field staff can easily get to the search tool from within the existing ARIES system, and get to where they need to go from search result using Single Sign On (SSO) or current authentication scheme.
+
+Contractor shall continuously deliver working software for use in the Alaska production environment.
+
+**Additional requirements:**
+
+Contractor shall use proven open source libraries that are well supported and documented so that future vendors can contribute more easily. Before any libraries are chosen, the Alaska product team will evaluate them to determine if they meet these conditions.
+
+Contractor shall abide by best practices around unit and integration testing for both front-end and back-end components.
+
+Contractor shall ensure the design aligns with the modular product design strategy from the beginning so that future vendors can integrate more easily with the overall experience.
+
+Contractor shall ensure pages load efficiently across geographies and display/function properly on different device types and using various modern and necessary browsers.
+
+All software code delivered under this order shall comply with the 18F open source policy in effect as of the date of award.
+
+All software code delivered under this order shall comply with the 18F accessibility guidelines in effect as of the date of award.
+
+APIs should comply with the 18F API standards
+
+Work will be conducted in two-week sprints and reviewed at the end of each sprint for acceptability before moving on.
+
+Contractor shall ensure that system documentation is as automated as possible so that it does not have to be updated manually.
+
+Contractor shall work with the State of Alaska to ensure that support and operations teams are trained.
+
+Note the following tasks are not required:
+
+Vendor will not be required to handle any of the following tasks:
+
+Provide or configure hosting of the data or the site
+
+Directly create, update, or delete the data
+
+### <a name="3.03"></a>Sec. 3.03 Project Management Requirements
+
+**Project Management**
+
+The contractor shall provide a Project Manager point of contact for the Alaska product team for problem resolution, Program Management reporting in accordance with Program Management methodologies, and staffing requirements. Sprint plans will be developed collaboratively with the Alaska product team and 18F.
+
+**Impact Reports**
+
+The contractor shall be responsible for providing notification to the Alaska product team when there are activities or issues outside of the contractor’s control, which directly impact the contractor’s performance. This notification shall be provided in writing or via email within 24 hours of the anticipated or known impact.
+
+**Status Reports**
+
+In lieu of a typical status report, the following are required to document progress over the course of the period of performance for each sprint:
+
+Links to relevant Github branches, pull requests, and/or commits
+
+Screenshots of any available visualization (as appropriate)
+
+Screenshot, links, or other documentation from the contractor’s project management system reflecting completed features, including number and percentage of completed sprint tasks (e.g. percentage of tasks completed)
+
+Ongoing access to the contractor’s project management tool to view development status
+
+**Daily Operations**
+
+Daily operations will be managed by the contractor’s project manager, but coordinated to and communicated with the Alaska product team. They may include:
+
+Daily standup via video
+
+Chat operations via Slack
+
+Manage and update user stories + workflow tasks in shared project management platform
+
+### <a name="3.04"></a>Sec. 3.04 Transition Requirements
+
+**Transition Plan** [TO BE UPDATED ONCE PM REQUIREMENTS ARE SET]
+
+The Contractor shall:
+
+a) Ensure and agree that all deliverables, products, licenses, designs, data, documentation, tests, user research notes, source code, configuration settings and files, and materials developed throughout this contract will be the property of the State of Alaska and in the public domain.
+
+b) Two weeks prior to contract conclusion, provide a brief Transition Plan for all deliverables, products, and materials in coordination with the Alaska product team.
+
+c) Coordinate with the Alaska product team and potentially another vendor, and implement the Transition Plan according to the Alaska product team's direction.
+
+**Transition Activities** [TO BE UPDATED ONCE PM REQUIREMENTS ARE SET]
+
+During the transition to the State of Alaska and/or a new contractor, the Contractor shall perform all necessary transition activities, including, but not limited to, continued full services to 18F and other customers; participation, at discretion of Alaska product team, in meetings with the State of Alaska or new contractor to effect a smooth transition and provide detailed information on the operation of all deliverables; training of new personnel (contractor or State) during transition period, appropriate close-out of outstanding technical and related work.
+
+Final report shall include list of sprint tasks completed, documentation, and link to code repository. Should the Contract be terminated prior to the end of the period of performance, the Contractor shall transfer all project materials to the COR within two weeks of the COR’s request.
+
+### <a name="3.05"></a>Sec. 3.05 Contract Term and Work Schedule
 
 The length of the contract will be from the date of award, approximately **DATE**, for approximately **NUMBER days / months / years** until completion, approximately **DATE**.
 
-### <a name="3.03"></a>Sec. 3.03 Deliverables
+### <a name="3.06"></a>Sec. 3.06 Deliverables
 
-**THIS WILL BE PULLED FROM THE [STATEMENT OF WORK](https://github.com/AlaskaDHSS/acq-alaska-dhss-modernization/blob/master/procurement-docs-search/Statement-of-Work.md)**
+##### Table 1 List of Deliverables
+**Deliverable** | **Due Date** | **Description**
+--- | --- | ---
+Code & Status Reports | 1 business day after each sprint | Demonstration of progress throughout each sprint.
+Code Repository of Product | End of call order | Version-controlled Open Source repository of code that comprises prototype.
+Research | A research plan shall be delivered during the first sprint. Research-related records shall be delivered at the end of the second sprint and every applicable sprint. thereafter | A summary of research conducted and results found. If applicable, next steps or recommendations based on research.
+Design Deliverables | End of every applicable sprint | Mock ups and/or design files if applicable, or design changes reflected in the Development Prototype.
+Development View | End of second sprint and every sprint thereafter | In-progress development view, accessible on the web via staging server / development server.
+Transition Plan | To be worked on no later than the second to last sprint of the initial Period of Performance | Work with the Alaska product team to make sure there is a clear plan for handing off the code repository.
 
-The contractor will be required to provide the following deliverables:
+The contractor shall submit all deliverables to the Alaska product team.
 
-A.  **WHAT**
+**Delivery Instructions** [Defer to Nick/Simon]
 
-B.  **WHAT**
+Code deliverables shall be submitted via the Github repository. A copy
+of any document deliverables shall be submitted to the Alaska product team.
 
-C.  **WHAT**
+**Inspection and Acceptance of Services** [Defer to Nick/Simon]
 
-D.  **WHAT**
+All periodic reports and task deliverables shall be inspected, tested
+(where applicable), reviewed, and accepted by the Alaska product team within 5
+days of the conclusion of each sprint.
 
-E.  **WHAT**
+Only the Alaska product team has the authority to
+inspect, accept, or reject all deliverables. 
 
-F.  **WHAT**
+Acceptance of services and deliverables will be based on the criteria laid out in the quality acceptance plan.
 
-### <a name="3.04"></a>Sec. 3.04 Contract Type
+**System Documentation**
+
+The Contractor shall consult with the Alaska product team to determine what is
+appropriate, effective, and essential for system documentation. The
+State requires, at a minimum, that the contractor will generate
+comprehensive and complete documentation, both within the code itself,
+within the source code version control system (e.g., through proper
+use of descriptive commit messages, issue tracking, pull requests,
+etc.), and as appropriate, in separate documentation, provide
+artifacts, and create new user stories based on each sprint.
+
+**Quality Assurance**
+
+The Contractor shall comply with the acceptable quality levels (AQL) in the attached quality assurance plan (QAP) (update link to QAP on Github)
+
+### <a name="3.07"></a>Sec. 3.07 Contract Type
 
 This contract is a time and materials contract with a not to exceed
 amount.
 
-### <a name="3.05"></a>Sec. 3.05 Proposed Payment Procedures
+### <a name="3.08"></a>Sec. 3.08 Proposed Payment Procedures
 
 The state will make payments based on a negotiated payment schedule.
 Each billing must consist of an invoice and progress report. No payment will be made until the progress report and invoice has been approved by the project director.
 
-### <a name="3.06"></a>Sec. 3.06 Prompt Payment For State Purchases
+### <a name="3.09"></a>Sec. 3.09 Prompt Payment For State Purchases
 
 The state is eligible to receive a 5% discount for all invoices
 paid within 15 business days from the date of receipt of the commodities or services and/or a correct invoice, whichever is later. The discount shall be taken on the full invoice amount. The state shall consider payment being made as either the date a printed warrant is issued or the date an electronic funds transfer (EFT) is initiated.
 
-### <a name="3.07"></a>Sec. 3.07 Contract Payment
+### <a name="3.10"></a>Sec. 3.10 Contract Payment
 
 No payment will be made until the contract is approved by the
 Commissioner of the Department of Health and Social Services or the
@@ -462,7 +595,7 @@ for the payment of any interest charges associated with the cost of the contract
 The state is not responsible for and will not pay local, state, or
 federal taxes. All costs associated with the contract must be stated in U.S. currency.
 
-### <a name="3.08"></a>Sec. 3.08 Location of Work
+### <a name="3.11"></a>Sec. 3.11 Location of Work
 
 The location(s) the work is to be performed, completed and managed is at the discretion of the contractor.
 
@@ -482,12 +615,12 @@ the reason the waiver is necessary.
 
 Failure to comply with these requirements may cause the state to reject the proposal as non-responsive, or cancel the contract.
 
-### <a name="3.09"></a>Sec. 3.09 Subcontractors
+### <a name="3.12"></a>Sec. 3.12 Subcontractors
 
 Subcontractors may be used to perform work under this contract. If an
 offeror intends to use subcontractors, the offeror must identify in the proposal the names of the subcontractors and the portions of the work the subcontractors will perform.
 
-Subcontractor experience shall be considered in determining whether the offeror meets the requirements set forth in SECTION 1.04 MINIMUM RESPONSIVENESS.
+Subcontractor experience shall be considered in determining whether the offeror meets the requirements set forth in [Section 1.04 - Minimum Responsiveness](#1.04)
 
 If a proposal with subcontractors is selected, the offeror must provide the following information concerning each prospective subcontractor within five working days from the date of the state's request:
 
@@ -509,22 +642,22 @@ If a proposal with subcontractors is selected, the offeror must provide the foll
 An offeror's failure to provide this information, within the time set,
 may cause the state to consider their proposal non-responsive and reject it. The substitution of one subcontractor for another may be made only at the discretion and prior written approval of the project director.
 
-### <a name="3.10"></a>Sec. 3.10 Joint Ventures
+### <a name="3.13"></a>Sec. 3.13 Joint Ventures
 
 Joint ventures will not be allowed.
 
-### <a name="3.11"></a>Sec. 3.11 Contract Personnel
+### <a name="3.14"></a>Sec. 3.14 Contract Personnel
 
 Any change to the key personnel, as identified during project kick-off, must be approved, in advance and in writing, by the project director. Personnel changes that are not approved by the state may be grounds for the state to terminate the contract.
 
-### <a name="3.12"></a>Sec. 3.12 Inspection & Modification - Reimbursement for Unacceptable Deliverables
+### <a name="3.15"></a>Sec. 3.15 Inspection & Modification - Reimbursement for Unacceptable Deliverables
 
 The contractor is responsible for the completion of all work set out in the contract. All work is subject to inspection, evaluation, and
 approval by the project director. The Quality Assurance Plan, attached
 separately, provides additional information regarding the deliverable
 acceptance process.
 
-### <a name="3.13"></a>Sec. 3.13 Contract Changes - Unanticipated Amendments
+### <a name="3.16"></a>Sec. 3.16 Contract Changes - Unanticipated Amendments
 
 During the course of this contract, the contractor may be required to
 perform additional work. That work will be within the general scope of
@@ -539,7 +672,7 @@ amendment and issued a written contract amendment, approved by the
 Commissioner of the Department of Health and Social Services or the
 Commissioner's designee.
 
-### <a name="3.14"></a>Sec. 3.14 Nondisclosure and Confidentiality
+### <a name="3.17"></a>Sec. 3.17 Nondisclosure and Confidentiality
 
 Contractor agrees that all confidential information shall be used only
 for purposes of providing the deliverables and performing the services
@@ -562,7 +695,7 @@ disclosure of the confidential information is required under applicable state or
 The following information shall not be considered confidential
 information: information previously known to be public information when received from the other party; information freely available to the general public; information which now is or hereafter becomes publicly known by other than a breach of confidentiality hereof; or information which is disclosed by a party pursuant to subpoena or other legal process and which as a result becomes lawfully obtainable by the general public.
 
-### <a name="3.15"></a>Sec. 3.15 Insurance Requirements
+### <a name="3.18"></a>Sec. 3.18 Insurance Requirements
 
 The successful offeror must provide proof of workers' compensation
 insurance prior to contract approval.
@@ -575,7 +708,7 @@ grounds for withdrawal of the award or termination of the contract.
 
 Offerors must review form APPENDIX B1 / APPENDIX B2, included in the Standard Agreement Form in SECTION 8 EXHIBITS, for details on required coverage. No alteration of these requirements will be permitted without prior written approval from the Department of Administration, Division of Risk Management. Objections to any of the requirements in APPENDIX B1 / APPENDIX B2 must be set out in the offeror’s proposal.
 
-### <a name="3.16"></a>Sec. 3.16 Termination for Default
+### <a name="3.19"></a>Sec. 3.19 Termination for Default
 
 If the project director determines that the contractor has refused to
 perform the work or has failed to perform the work with such diligence
