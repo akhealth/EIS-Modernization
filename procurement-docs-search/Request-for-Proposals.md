@@ -53,21 +53,22 @@ jon.geselle@alaska.gov<br>
 - [Sec. 3.02	Requirements](#3.02)
 - [Sec. 3.03	Project Management Requirements](#3.03)
 - [Sec. 3.04	Transition Requirements](#3.04)
-- [Sec. 3.05	Contract Term and Work Schedule](#3.05)
-- [Sec. 3.06	Deliverables](#3.06)
-- [Sec. 3.07	Contract Type](#3.07)
-- [Sec. 3.08	Proposed Payment Procedures](#3.08)
-- [Sec. 3.09	Prompt Payment For State Purchases](#3.09)
-- [Sec. 3.10	Contract Payment](#3.10)
-- [Sec. 3.11	Location of Work](#3.11)
-- [Sec. 3.12	Subcontractors](#3.12)
-- [Sec. 3.13	Joint Ventures](#3.13)
-- [Sec. 3.14	Contract Personnel](#3.14)
-- [Sec. 3.15	Inspection & Modification - Reimbursement for Unacceptable Deliverables](#3.15)
-- [Sec. 3.16	Contract Changes - Unanticipated Amendments](#3.16)
-- [Sec. 3.17	Nondisclosure and Confidentiality](#3.17)
-- [Sec. 3.18	Insurance Requirements](#3.18)
-- [Sec. 3.19	Termination for Default](#3.19)
+- [Sec. 3.05	Personnel](#3.05)
+- [Sec. 3.06	Contract Term and Work Schedule](#3.06)
+- [Sec. 3.07	Deliverables](#3.07)
+- [Sec. 3.08	Contract Type](#3.08)
+- [Sec. 3.09	Proposed Payment Procedures](#3.09)
+- [Sec. 3.10	Prompt Payment For State Purchases](#3.10)
+- [Sec. 3.11	Contract Payment](#3.11)
+- [Sec. 3.12	Location of Work](#3.12)
+- [Sec. 3.13	Subcontractors](#3.13)
+- [Sec. 3.14	Joint Ventures](#3.14)
+- [Sec. 3.15	Contract Personnel](#3.15)
+- [Sec. 3.16	Inspection & Modification - Reimbursement for Unacceptable Deliverables](#3.16)
+- [Sec. 3.17	Contract Changes - Unanticipated Amendments](#3.17)
+- [Sec. 3.18	Nondisclosure and Confidentiality](#3.18)
+- [Sec. 3.19	Insurance Requirements](#3.19)
+- [Sec. 3.20	Termination for Default](#3.20)
 
 ### Section 4. PROPOSAL FORMAT AND CONTENT
 - [Sec. 4.01	Proposal Format and Content](#4.01)
@@ -118,6 +119,7 @@ jon.geselle@alaska.gov<br>
 - [Sec. 7.11	Supplemental Terms and Conditions](#7.11)
 - [Sec. 7.12	Contract Invalidation](#7.12)
 - [Sec. 7.13	Solicitation Advertising](#7.13)
+- [Sec. 7.14	Section 508 Compliance](#7.14)
 
 ### Section 8. Exhibits
 - [Exhibit 1. Cost Proposal](#8.1)
@@ -521,11 +523,74 @@ During the transition to the State of Alaska and/or a new contractor, the Contra
 
 Final report shall include list of sprint tasks completed, documentation, and link to code repository. Should the Contract be terminated prior to the end of the period of performance, the Contractor shall transfer all project materials to the COR within two weeks of the COR’s request.
 
-### <a name="3.05"></a>Sec. 3.05 Contract Term and Work Schedule
+### <a name="3.05"></a>Sec. 3.05 Personnel
+
+Alaska envisions the need for the following skillsets as part of the Contractors' team:
+
+- Project manager
+- Technical lead
+- Developers (Front-end, Back-end or full stack)
+- Researcher
+- User experience designer
+- Visual designer
+
+**Desired Skills and Knowledge
+
+The Contractor team shall have knowledge and skills in the following areas:
+
+Microsoft Technology:
+- Azure cloud platform
+- ASP.NET web applications
+- .NET Core framework
+- C# language
+- SQL Server
+
+General Technology:
+- HTML, CSS
+- Javascript
+- Responsive design
+- SQL (language)
+- Git
+- Experience working with SOAP APIs and using / building REST APIs
+- Service-based architecture
+- Automated unit and integration testing
+- Continuous integration and continuous delivery 
+
+**Key Personnel
+
+The following requirements related to personnel must be met:
+
+a)  The Contractor shall assign to perform this contract those persons
+    whose résumés are submitted with its quotation and who are
+    identified in the Contractor’s quotation as Key Personnel.
+
+b)  At a minimum, a Project Manager and a Technical Lead must be
+    identified and designated as Key Personnel.
+    
+*The Project Manager* will be a direct liaison to the Alaska product team. The Project Manager is responsible for the supervision and management of the Contractor’s personnel, technical assistance, and interface. Desired
+skills/experience for the Project Manager include:
+    
+- Experience in technical leadership.
+    
+- Ability to rapidly prioritize competing requirements.
+    
+- Ability to understand and simplify customer requirements.
+    
+- Ability to communicate end user feedback to technical and design leads.
+        
+- Strong communication skills.
+    
+- Proven knowledge of industry standards.
+    
+The *Technical Lead* must have a full understanding of the technical
+approach discussed in the proposal / interview and is responsible for ensuring that 
+the contractor follows the proposed approach.  
+
+### <a name="3.06"></a>Sec. 3.06 Contract Term and Work Schedule
 
 The length of the contract will be from the date of award, approximately **DATE**, for approximately **NUMBER days / months / years** until completion, approximately **DATE**.
 
-### <a name="3.06"></a>Sec. 3.06 Deliverables
+### <a name="3.07"></a>Sec. 3.07 Deliverables
 
 ##### Table 1 List of Deliverables
 **Deliverable** | **Due Date** | **Description**
@@ -570,22 +635,22 @@ artifacts, and create new user stories based on each sprint.
 
 The Contractor shall comply with the acceptable quality levels (AQL) in the attached quality assurance plan (QAP) (update link to QAP on Github)
 
-### <a name="3.07"></a>Sec. 3.07 Contract Type
+### <a name="3.08"></a>Sec. 3.08 Contract Type
 
 This contract is a time and materials contract with a not to exceed
 amount.
 
-### <a name="3.08"></a>Sec. 3.08 Proposed Payment Procedures
+### <a name="3.09"></a>Sec. 3.09 Proposed Payment Procedures
 
 The state will make payments based on a negotiated payment schedule.
 Each billing must consist of an invoice and progress report. No payment will be made until the progress report and invoice has been approved by the project director.
 
-### <a name="3.09"></a>Sec. 3.09 Prompt Payment For State Purchases
+### <a name="3.10"></a>Sec. 3.10 Prompt Payment For State Purchases
 
 The state is eligible to receive a 5% discount for all invoices
 paid within 15 business days from the date of receipt of the commodities or services and/or a correct invoice, whichever is later. The discount shall be taken on the full invoice amount. The state shall consider payment being made as either the date a printed warrant is issued or the date an electronic funds transfer (EFT) is initiated.
 
-### <a name="3.10"></a>Sec. 3.10 Contract Payment
+### <a name="3.11"></a>Sec. 3.11 Contract Payment
 
 No payment will be made until the contract is approved by the
 Commissioner of the Department of Health and Social Services or the
@@ -595,7 +660,7 @@ for the payment of any interest charges associated with the cost of the contract
 The state is not responsible for and will not pay local, state, or
 federal taxes. All costs associated with the contract must be stated in U.S. currency.
 
-### <a name="3.11"></a>Sec. 3.11 Location of Work
+### <a name="3.12"></a>Sec. 3.12 Location of Work
 
 The location(s) the work is to be performed, completed and managed is at the discretion of the contractor.
 
@@ -615,7 +680,7 @@ the reason the waiver is necessary.
 
 Failure to comply with these requirements may cause the state to reject the proposal as non-responsive, or cancel the contract.
 
-### <a name="3.12"></a>Sec. 3.12 Subcontractors
+### <a name="3.13"></a>Sec. 3.13 Subcontractors
 
 Subcontractors may be used to perform work under this contract. If an
 offeror intends to use subcontractors, the offeror must identify in the proposal the names of the subcontractors and the portions of the work the subcontractors will perform.
@@ -642,22 +707,22 @@ If a proposal with subcontractors is selected, the offeror must provide the foll
 An offeror's failure to provide this information, within the time set,
 may cause the state to consider their proposal non-responsive and reject it. The substitution of one subcontractor for another may be made only at the discretion and prior written approval of the project director.
 
-### <a name="3.13"></a>Sec. 3.13 Joint Ventures
+### <a name="3.14"></a>Sec. 3.14 Joint Ventures
 
 Joint ventures will not be allowed.
 
-### <a name="3.14"></a>Sec. 3.14 Contract Personnel
+### <a name="3.15"></a>Sec. 3.15 Contract Personnel
 
 Any change to the key personnel, as identified during project kick-off, must be approved, in advance and in writing, by the project director. Personnel changes that are not approved by the state may be grounds for the state to terminate the contract.
 
-### <a name="3.15"></a>Sec. 3.15 Inspection & Modification - Reimbursement for Unacceptable Deliverables
+### <a name="3.16"></a>Sec. 3.16 Inspection & Modification - Reimbursement for Unacceptable Deliverables
 
 The contractor is responsible for the completion of all work set out in the contract. All work is subject to inspection, evaluation, and
 approval by the project director. The Quality Assurance Plan, attached
 separately, provides additional information regarding the deliverable
 acceptance process.
 
-### <a name="3.16"></a>Sec. 3.16 Contract Changes - Unanticipated Amendments
+### <a name="3.17"></a>Sec. 3.17 Contract Changes - Unanticipated Amendments
 
 During the course of this contract, the contractor may be required to
 perform additional work. That work will be within the general scope of
@@ -672,7 +737,7 @@ amendment and issued a written contract amendment, approved by the
 Commissioner of the Department of Health and Social Services or the
 Commissioner's designee.
 
-### <a name="3.17"></a>Sec. 3.17 Nondisclosure and Confidentiality
+### <a name="3.18"></a>Sec. 3.18 Nondisclosure and Confidentiality
 
 Contractor agrees that all confidential information shall be used only
 for purposes of providing the deliverables and performing the services
@@ -695,7 +760,7 @@ disclosure of the confidential information is required under applicable state or
 The following information shall not be considered confidential
 information: information previously known to be public information when received from the other party; information freely available to the general public; information which now is or hereafter becomes publicly known by other than a breach of confidentiality hereof; or information which is disclosed by a party pursuant to subpoena or other legal process and which as a result becomes lawfully obtainable by the general public.
 
-### <a name="3.18"></a>Sec. 3.18 Insurance Requirements
+### <a name="3.19"></a>Sec. 3.19 Insurance Requirements
 
 The successful offeror must provide proof of workers' compensation
 insurance prior to contract approval.
@@ -708,7 +773,7 @@ grounds for withdrawal of the award or termination of the contract.
 
 Offerors must review form APPENDIX B1 / APPENDIX B2, included in the Standard Agreement Form in SECTION 8 EXHIBITS, for details on required coverage. No alteration of these requirements will be permitted without prior written approval from the Department of Administration, Division of Risk Management. Objections to any of the requirements in APPENDIX B1 / APPENDIX B2 must be set out in the offeror’s proposal.
 
-### <a name="3.19"></a>Sec. 3.19 Termination for Default
+### <a name="3.20"></a>Sec. 3.20 Termination for Default
 
 If the project director determines that the contractor has refused to
 perform the work or has failed to perform the work with such diligence
@@ -733,7 +798,7 @@ Proposals must include the complete name and address of offeror’s firm
 and the name, mailing address, and telephone number of the person the
 state should contact regarding the proposal.
 
-Proposals must confirm that the offeror will comply with all provisions in this RFP; and, if applicable, provide notice that the firm qualifies as an Alaskan bidder. Proposals must be signed by a company officer empowered to bind the company. An offeror's failure to include these items in the proposals may cause the proposal to be determined to be non-responsive and the proposal may be rejected. See SECTION 1.08 PROPOSAL CONTENTS for more information.
+Proposals must confirm that the offeror will comply with all provisions in this RFP; and, if applicable, provide notice that the firm qualifies as an Alaskan bidder. Proposals must be signed by a company officer empowered to bind the company. An offeror's failure to include these items in the proposals may cause the proposal to be determined to be non-responsive and the proposal may be rejected. See [Section 1.08 Proposal Contents](#1.08) for more information.
 
 ### <a name="4.03"></a>Sec. 4.03 Technical Understanding And Approach
 
@@ -1440,6 +1505,35 @@ invalidation will not be construed to invalidate the entire contract.
 ### <a name="7.13"></a>Sec. 7.13 Solicitation Advertising
 
 Public notice has been provided in accordance with 2 AAC 12.220.
+
+### <a name="7.14"></a>Sec. 7.14 Section 508 Compliance
+
+The contractor shall support the Government in its conformance with
+Section 508 throughout the development and implementation of the work
+to be performed.
+
+Section 508 of the Rehabilitation Act of 1973, as amended (29 U.S.C.
+794d) requires that when Federal agencies develop, procure, maintain,
+or use electronic information technology, Federal employees with
+disabilities have access to and use of information and data that is
+comparable to the access and use by Federal employees who do not have
+disabilities, unless an undue burden would be imposed on the agency.
+Section 508 also requires that individuals with disabilities, who are
+members of the public seeking information or services from a Federal
+agency, have access to and use of information and data that is
+comparable to that provided to the public who are not individuals with
+disabilities, unless an undue burden would be imposed on the agency.
+
+The following standard is applicable for compliance:
+
+   1194.22 Web-based Intranet and Internet Information and Applications.
+
+The contractor should review the following websites for additional 508
+information:
+[http://www.section508.gov/index.cfm?FuseAction=Content&ID=12](http://www.section508.gov/index.cfm?FuseAction=Content&amp;ID=12)
+<http://www.access-board.gov/508.htm>
+
+<http://www.w3.org/WAI/Resources>
 
 ## Section 8. Exhibits
 
