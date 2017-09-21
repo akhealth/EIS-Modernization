@@ -298,30 +298,9 @@ The *Technical Lead* must have a full understanding of the technical
 approach discussed in the proposal / interview and is responsible for ensuring that 
 the contractor follows the proposed approach.  
 
-#### 5.8 Additional Considerations 
+#### 5.8 OTHER REQUIREMENTS
 
-##### 5.8.1 Potential Organizational Conflicts (ALASKA HAS SIMILAR CLAUSE)
-
-[Add Alaska language - or delete this if the OCI is included in the RFP document]
-
-#### 5.9 OTHER REQUIREMENTS
-
-##### 5.9.1 Type of Contract
-
-This is a Labor Hour Contract not to exceed budget ceiling.
-
-##### 5.9.2 Period of Performance (POP) (WILL BE UPDATED)
-
-The period of performance for this contract is delivery of the final
-product *[TBD]* calendar days after the award. 
-
-##### 5.9.3 Place and Hours of Performance (UPDATE WITH AK SPECIFICS)
-
-[Add Alaska language]
-
-##### 5.9.4 Special Terms and Conditions
-
-###### 5.9.4.1 Section 508 Compliance Requirement (CONFIRM 508 APPLIES TO AK)
+##### 5.8.1 Section 508 Compliance Requirement
 
 The contractor shall support the Government in its conformance with
 Section 508 throughout the development and implementation of the work
@@ -351,12 +330,12 @@ information:
 <http://www.w3.org/WAI/Resources>
 
 
-#### 6.0 Government Furnished Items (VALIDATE WITH TECH TEAM - RELEASE AS MUCH AS POSSIBLE)
+#### 5.9 Government Furnished Items (VALIDATE WITH TECH TEAM - RELEASE AS MUCH AS POSSIBLE)
 
 The Government will furnish the data and scripts needed at time of
 award. No other hardware or software will be provided by the Government.
 
-#### 6.1 Transparency Policy
+#### 6.0 Transparency Policy
 
 Vendors are advised that Alaska will publish on a publicly available
 website documents associated with this requirement, including any
@@ -369,7 +348,7 @@ this contract, Alaska will similarly publish source code, data related
 to project management (e.g., user stories, milestones, and performance
 metrics), and top-line spending data.
 
-#### 6.2 Data Rights and Ownership of Deliverables
+#### 6.1 Data Rights and Ownership of Deliverables
 
 It is Alaska's intent that any data or deliverable created as a result of
 the work performed under the contract be committed to the public
