@@ -76,7 +76,7 @@ We will know we are successful, if we can increase worker productivity and moral
 ## Risks
 
 
-| Description  | Criticality (1 - 5) | Status  |
+| Description  | Criticality (1 - 5) <sup>*</sup> | Status  |
 |:---|:---:|:---:|
 | The depth of the vendor pool available that understands agile delivery and can do modular procurement might be limited, at least in the early phases of the project  | 2  | Derisked  |
 | The level of effort required to read or write data across multiple environments (ARIES database, staging table, MCI, Mainframe) is not well known yet. (Note - for the initial prototype and first procurement, we’ve only focused on reads from legacy systems, not writes.)  | 2  |  In progress |
@@ -90,6 +90,7 @@ We will know we are successful, if we can increase worker productivity and moral
 | There is a risk that the ATO process will prevent us from being able to deploy continuously to a production environment.  | 2  | Derisked  |
 | There is a risk that by having multiple vendors contributing to the same codebase, we increase the complexity of integration. There could be problems that arise specifically from the logistics and timing of multiple contributors.   | 2  |  Derisked |
 
+ \* 1 = low criticality; 5 = high criticality
 
 ## Near-term Milestones
 
