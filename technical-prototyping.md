@@ -13,6 +13,7 @@ For our first procurement we are dealing with updating a new legacy code base (A
 
 As this is our first prototype, we will be testing out some of the more foundational things, like a vendor development environment and deploy process, that will apply to all buys, as well as setting up the lines of communication with internal technical staff that will be necessary throughout the project. 
 
+## Risks
 Before we write this first RFP, we want to spend time prototyping so we can mitigate the following identified risks:
 
 | Description  |  Criticality (1 - 5) | Status  |
