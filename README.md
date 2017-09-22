@@ -74,17 +74,23 @@ We want to move away from a legacy "Big Bang" waterfall acquisitions process to 
 We will know we are successful, if we can increase worker productivity and morale, among other things, and if benefits are being provided in a timely manner to those who are eligible. We are currently focused on getting a win here fairly soon so that we can show State workers and the Legislature that we are moving in the right direction.
 
 ## Risks
-* The depth of the vendor pool available that understands agile delivery and can do modular procurement might be limited, at least in the early phases of the project. We continue to investigate the existence of these vendors.
-* The level of effort required to read or write data across multiple environments (ARIES database, staging table, MCI, Mainframe) is not well known yet. We will de-risk this via prototyping
-* The quality/consistency of the data may be a blocker to goals we have around reporting and analysis. We will de-risk via prototyping and product work to normalize the data.
-* The ability to guide the end-user through large search result scenarios in a responsive way may create blockers to the value of improved search.  We will de-risk this via prototyping.
-* The availability of appropriate platforms within the state technology environment for deploying prototypes is not well understood yet. We will de-risk this via prototyping.
-* The fixed and saturation-based network latency in different locations may create performance issues for web applications that load data asynchronously or via multiple requests.  We will de-risk this via prototyping.
-* There is a risk that we won't be able to deploy to production frequently enough that we can work in an agile fashion. We will de-risk this via prototyping and through developing a DevOps strategy with the State of Alaska.
-* There is a risk that vendors won't be able to easily work with the legacy ARIES code and existing authentication methods. We will de-risk this via prototyping.
-* There is a landscape of existing solutions that could potentially be leveraged instead of building from scratch. We need to constantly keep an eye out for this and advise vendors accordingly.
-* There is a risk that the ATO process will prevent us from being able to deploy continuously to a production environment. We plan to mitigate this risk by understanding the path to ATO and compensating with negotiating release cycles on the existing production environment that are as small as possible until we are able to authorize the new environment.
-* There is a risk that by having multiple vendors contributing to the same codebase, we increase the complexity of integration. There could be problems that arise specifically from the logisitics and timing of multiple contributors. We plan to de-risk this by working transparently, and using shared tools and processes that assist with preventing conflicts and automating testing.
+
+
+| Description  | Criticality (1 - 5) <sup>*</sup> | Status  |
+|:---|:---:|:---:|
+| The depth of the vendor pool available that understands agile delivery and can do modular procurement might be limited, at least in the early phases of the project  | 2  | Derisked  |
+| The level of effort required to read or write data across multiple environments (ARIES database, staging table, MCI, Mainframe) is not well known yet. (Note - for the initial prototype and first procurement, we’ve only focused on reads from legacy systems, not writes.)  | 2  |  In progress |
+| The quality/consistency of the data may be a blocker to goals we have around reporting and analysis.  | 4  | In progress  |
+| The ability to guide the end-user through large search result scenarios in a responsive way may create blockers to the value of improved search  |  4 |  In progress |
+| The availability of appropriate platforms within the state technology environment for deploying prototypes is not well understood yet.   | 2  | Derisked  |
+| The fixed and saturation-based network latency in different locations may create performance issues for web applications that load data asynchronously or via multiple requests.  |  4 |  Not started |
+| There is a risk that we won't be able to deploy to production frequently enough that we can work in an agile fashion.  | 2  | Derisked  |
+| There is a risk that vendors won't be able to easily work with the legacy ARIES code and existing authentication methods. | 5  | Not started  |
+| There is a landscape of existing solutions that could potentially be leveraged instead of building from scratch.  |  2 |  Not started |
+| There is a risk that the ATO process will prevent us from being able to deploy continuously to a production environment.  | 2  | Derisked  |
+| There is a risk that by having multiple vendors contributing to the same codebase, we increase the complexity of integration. There could be problems that arise specifically from the logistics and timing of multiple contributors.   | 2  |  Derisked |
+
+ \* 1 = low criticality; 5 = high criticality
 
 ## Near-term Milestones
 
