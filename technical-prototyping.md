@@ -16,7 +16,7 @@ As this is our first prototype, we will be testing out some of the more foundati
 ## Risks
 Before we write this first RFP, we want to spend time prototyping so we can mitigate the following identified risks:
 
-| Description  |  Criticality (1 - 5) | Status  |
+| Description  |  Criticality (1 - 5)<sup>*</sup> | Status  |
 |---|:---:|:---:|
 | Creating a development and deployment pipeline that will allow vendors to deliver code that can be automatically evaluated and pushed to a staging environment  | 2  |  In progress. See [DevSecOps Strategy](https://github.com/AlaskaDHSS/DevSecOpsMvp). |
 | Creating a process to get the delivered code into a production environment on a continuous basis  | 5  | In progress. See [DevSecOps Strategy](https://github.com/AlaskaDHSS/DevSecOpsMvp).  |
@@ -25,6 +25,8 @@ Before we write this first RFP, we want to spend time prototyping so we can miti
 | Accessing data from the ARIES system and staging table to show in search results  | 2  | In progress.  | 
 | Validating that the data coming from multiple systems is potentially reconcilable  | 4   | Not started.  | 
 | Deploying existing ARIES code to production  | 5  |  Not started. | 
+
+ \* 1 = low criticality; 5 = high criticality
 
 Prototype documentation:
 * [High-level technical overview](https://github.com/18F/acq-alaska-dhss-modernization/blob/master/assets/search-prototype-high-level-technical-overview.pdf) 
