@@ -150,7 +150,7 @@ In order for offers to be considered responsive offerors must meet the following
 -   The offeror must provide two examples of open source, web-based data platforms. **THIS SECTION WILL BE UPDATED One of the two examples must reflect aspects of datasecurity and access administration best practices. And one of the two examples must demonstrate experience displaying geographic data on a map.** The project must have been delivered by either a) the offeror itself or, alternatively, b) a teaming partner that is proposed in response to this RFP, or, alternatively, c) any Key Personnel that is being proposed in response to this RFP. In the project summary, be sure to identify how the offeror’s team was involved in the development. At a minimum, provide:
 
     -   Recent and similar technical scope is past experience with
-        building usable, responsive, consumer facing website built
+        building usable, responsive, consumer-facing websites,
         within the past three (3) years.
 
     -   The summary shall include links to the public Git repository
