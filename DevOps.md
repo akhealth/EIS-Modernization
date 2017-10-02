@@ -1,6 +1,6 @@
 # DevOps
 
-Note - this document represents our early work on DevOps for thi project, and is a good example of how to bootstrap a DevOps MVP in an environment where this aproach is new. For a fuller description of our DevOps tools and practives, see our [DevSecOps repo](https://github.com/AlaskaDHSS/DevSecOpsMvp).
+Note - this document represents our early DevOps work for this project. It is a good example of how to bootstrap a DevOps MVP in an environment where this approach is new. For a more complete description of our DevOps learnings, tools, and practices, see our [DevSecOps repo](https://github.com/AlaskaDHSS/DevSecOpsMvp).
 
 ## Environment
 
