@@ -71,12 +71,12 @@ jon.geselle@alaska.gov<br>
 - [Sec. 3.20	Termination for Default](#3.20)
 
 ### Section 4. PROPOSAL FORMAT AND CONTENT
-- [Sec. 4.01	Proposal Format and Content](#4.01)
+- [Sec. 4.01	Proposal Format](#4.01)
 - [Sec. 4.02	Introduction](#4.02)
-- [Sec. 4.03	Understanding of the Project](#4.03)
-- [Sec. 4.04	Methodology Used for the Project](#4.04)
-- [Sec. 4.05	Management Plan for the Project](#4.05)
-- [Sec. 4.06	Experience and Qualifications](#4.06)
+- [Sec. 4.03	Technical Understanding and Approach](#4.03)
+- [Sec. 4.04	Staffing Plan](#4.04)
+- [Sec. 4.05	Similar Experience and Qualifications](#4.05)
+- [Sec. 4.06	Verbal Presentation](#4.06)
 - [Sec. 4.07	Cost Proposal](#4.07)
 - [Sec. 4.08	Evaluation Criteria](#4.08)
 
@@ -588,7 +588,7 @@ the contractor follows the proposed approach.
 
 ### <a name="3.06"></a>Sec. 3.06 Contract Term and Work Schedule
 
-The length of the contract will be from the date of award, approximately **DATE**, for approximately **NUMBER days / months / years** until completion, approximately **DATE**.
+The length of the contract will be from the date of award, approximately November 15, 2017 for approximately 4 months until completion, approximately March 15, 2018.
 
 ### <a name="3.07"></a>Sec. 3.07 Deliverables
 
@@ -1530,8 +1530,7 @@ The following standard is applicable for compliance:
 
 The contractor should review the following websites for additional 508
 information:
-[http://www.section508.gov/index.cfm?FuseAction=Content&ID=12](http://www.section508.gov/index.cfm?FuseAction=Content&amp;ID=12)
-<http://www.access-board.gov/508.htm>
+[https://www.section508.gov/](https://www.section508.gov/)
 
 <http://www.w3.org/WAI/Resources>
 
