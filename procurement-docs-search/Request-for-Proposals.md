@@ -1551,21 +1551,29 @@ Attached separately:
 
 **COST PROPOSAL**
 
-Note: The purpose of the cost formula is to provide a mechanism for
-offerors to submit costs for project personnel in a manner that DHSS can
-evaluate and score and then use to establish billing rates for the
-resultant contract. While total project cost is non-negotiable, DHSS may
-choose to reallocate the project funds based on the ongoing project
-needs.
+Note: The purpose of the cost proposal is to provide a mechanism for offerors to submit their estimated level of effort and hourly rates so that DHSS can evaluate and score and then use to establish billing rates for the resultant contract. While total project cost is non-negotiable, DHSS may choose to reallocate the project funds based on the ongoing project needs.
+Please provide your estimated cost for completion of all project roles and all related expenses required to fulfill the project requirements using the following format:
 
-Please provide your cost for completion of *all* project roles required
-to fulfill the project requirements using the following format:
+<table>
+<thead>
+<tr>
+<th>Role (please provide a separate line for every role required for project completion)</th><th>Hourly Rate</th><th>Estimated Hours for Project Completion</th><th>Total Cost for Role</th>
+<tr>
+</thead>
+<tbody>
+<tr><td>&nbsp;</td><td></td><td></td><td></td></tr>
+<tr><td>&nbsp;</td><td></td><td></td><td></td></tr>
+<tr><td>&nbsp;</td><td></td><td></td><td></td></tr>
+<tr><td>&nbsp;</td><td></td><td></td><td></td></tr>
+<tr><td>&nbsp;</td><td></td><td></td><td></td></tr>
+<tr><td>Materials, Travel, and all other non-personnel project costs (please itemize into categories)</td><td style="background-color: #999"></td><td style="background-color: #999"></td><td></td></tr>
+<tr><td>&nbsp;</td><td style="background-color: #999"></td><td style="background-color: #999"></td><td></td></tr>
+<tr><td>&nbsp;</td><td style="background-color: #999"></td><td style="background-color: #999"></td><td></td></tr>
+<tr><td>TOTAL PROJECT BUDGET (not to exceed $300,000)</td><td style="background-color: #999"></td><td style="background-color: #999"></td><td></td></tr>
+</tbody>
+</table>
 
-(PROJECT ROLE) x (RATE PER HOUR) x (HOURS ON PROJECT) = (TOTAL COST FOR
-ROLE)
-
-**Should we ask them to also provide costs for travel, materials, and
-other associated costs?**
+** Note that the estimated level of effort and roles must align with the Staffing Plan included in your technical proposal.
 
 ### Exhibit 2. Certification Regarding Debarment
 
