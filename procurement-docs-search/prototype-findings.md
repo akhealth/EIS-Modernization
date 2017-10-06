@@ -83,7 +83,7 @@ delivered through the State of Alaska’s RFP.
  repository in Github. There you will find much more information about
  The AppService PaaS and the associated HybridConnection: gotchas,
  limitations, code, and other documentation. In general the AppService
- and HybridConneciton are simple to create, configure, and operate.
+ and HybridConnection are simple to create, configure, and operate.
  Limitations we’ve found so far (i.e. SQL Server only supports SQL
  Server Authentication over the Hybrid Connection) have not turned into
  blockers.
@@ -112,13 +112,13 @@ delivered through the State of Alaska’s RFP.
 (note, this repo is populated by our VSTS-based continuous
 integration pipeline. Access to git repos in VSTS, which may
 contain additional prototype code, will be provided to the
-selected vendor.
+selected vendor.)
 
 * A list of [general project
 risks](https://github.com/AlaskaDHSS/acq-alaska-dhss-modernization#risks)
 identified early in the project by the product team.
 
-* An summary of our [prototyping
+* A summary of our [prototyping
 philosophy](https://github.com/AlaskaDHSS/acq-alaska-dhss-modernization/blob/master/technical-prototyping.md).
 
 * A high-level overview of the [technical
@@ -145,12 +145,12 @@ prototype, which isolates access to various backend systems in separate
 calls to a proxy service.
 
 Legacy data schemas are complex and may be inconsistent across different
-system. We obtained a better understanding of the legacy data sources
+systems. We obtained a better understanding of the legacy data sources
 through our prototyping process, completely mapping these schemas and
 reconciling them feel beyond the scope of this work. Identifying which
 data elements to return in a search solution and linking data in
 different systems will be an important aspect of the search application
-and be closely tied to user research activities.
+and will be closely tied to user research activities.
 
 A requirement of the project is that new modules and features be
 integrated into the state’s existing authentication and authorization
