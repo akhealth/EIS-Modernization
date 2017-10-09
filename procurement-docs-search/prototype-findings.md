@@ -138,7 +138,7 @@ selected vendor).
 One of the [risks we identified early in this
 project](https://github.com/AlaskaDHSS/acq-alaska-dhss-modernization#risks)
 was around network latency in DPA field offices in different locations
-around the State of Alaska. This risk what not thoroughly explored
+around the State of Alaska. This risk was not thoroughly explored
 during the prototype phase because of limited time. High latency might
 require a different technical design than the one used for our
 prototype, which isolates access to various backend systems in separate
@@ -146,8 +146,8 @@ calls to a proxy service.
 
 Legacy data schemas are complex and may be inconsistent across different
 systems. We obtained a better understanding of the legacy data sources
-through our prototyping process, completely mapping these schemas and
-reconciling them feel beyond the scope of this work. Identifying which
+through our prototyping process.  However, completely mapping these schemas and
+reconciling them was beyond the scope of this work. Identifying which
 data elements to return in a search solution and linking data in
 different systems will be an important aspect of the search application
 and will be closely tied to user research activities.
