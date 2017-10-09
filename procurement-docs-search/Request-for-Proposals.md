@@ -161,7 +161,7 @@ In order for offers to be considered responsive offerors must meet the following
         final product or current staging environment. If live links are
         not available, screenshots can be provided, along with a brief
         explanation as to why the project is no longer live. Note that
-        screenshots will not be counted towards your 5-page limitation;
+        screenshots will not be counted towards your 7-page limitation;
         please provide screenshots as attachments. The projects should
         be recent and similar to the size and technical scope of this
         requirement.
