@@ -421,7 +421,7 @@ Build the foundation for a performant and flexible search API that can be reused
 
 The scope of this contract is for the Contractor to continuously deliver iterations of a search tool that finds information for a given person across multiple systems (EIS, ARIES) and returns search results to workers that accurately reflect the status of all program applications for a given person or household. The search tool will be used in production so that workers can give feedback as early and frequently as possible. At the end of the engagement, the search tool will already be in use by DPA workers.
 
-The State of Alaska will provide documentation on how to access data sources, how to interact with existing authentication systems, and how to continuously deploy work to a staging environment.
+The State of Alaska [will provide documentation](prototype-findings.md) on how to access data sources, describe existing authentication systems, and discuss how to continuously deploy work to a staging environment.
 
 ### <a name="3.02"></a>Sec. 3.02 Requirements
 
@@ -1552,12 +1552,16 @@ Attached separately:
 **COST PROPOSAL**
 
 Note: The purpose of the cost proposal is to provide a mechanism for offerors to submit their estimated level of effort and hourly rates so that DHSS can evaluate and score and then use to establish billing rates for the resultant contract. While total project cost is non-negotiable, DHSS may choose to reallocate the project funds based on the ongoing project needs.
-Please provide your estimated cost for completion of all project roles and all related expenses required to fulfill the project requirements using the following format:
+
+Please provide your estimated cost for completion of all project roles and all related expenses required to fulfill the project requirements using the following format:
 
 <table>
 <thead>
 <tr>
-<th>Role (please provide a separate line for every role required for project completion)</th><th>Hourly Rate</th><th>Estimated Hours for Project Completion</th><th>Total Cost for Role</th>
+<th>Role (please provide a separate line for every role required for project completion)</th>
+<th>Hourly Rate</th>
+<th>Estimated Hours for Project Completion</th>
+<th>Total Cost for Role</th>
 <tr>
 </thead>
 <tbody>
