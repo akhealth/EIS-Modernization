@@ -590,7 +590,7 @@ The length of the contract will be from the date of award, approximately Novembe
 **Deliverable** | **Due Date** | **Description**
 --- | --- | ---
 Code & Status Reports | 1 business day after each sprint | Demonstration of progress throughout each sprint.
-Code Repository of Product | End of call order | Version-controlled Open Source repository of code that comprises prototype.
+Code Repository of Product | End of contract | Version-controlled Open Source repository of code that comprises prototype.
 Research | A research plan shall be delivered during the first sprint. Research-related records shall be delivered at the end of the second sprint and every applicable sprint. thereafter | A summary of research conducted and results found. If applicable, next steps or recommendations based on research.
 Design Deliverables | End of every applicable sprint | Mock ups and/or design files if applicable, or design changes reflected in the Development Prototype.
 Development View | End of second sprint and every sprint thereafter | In-progress development view, accessible on the web via staging server / development server.
