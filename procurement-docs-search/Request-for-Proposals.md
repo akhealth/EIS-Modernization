@@ -507,21 +507,15 @@ Manage and update user stories + workflow tasks in shared project management pla
 
 ### <a name="3.04"></a>Sec. 3.04 Transition Requirements
 
-**Transition Plan** [TO BE UPDATED ONCE PM REQUIREMENTS ARE SET]
+**Transition Activities**
 
 The Contractor shall:
 
 a) Ensure and agree that all deliverables, products, licenses, designs, data, documentation, tests, user research notes, source code, configuration settings and files, and materials developed throughout this contract will be the property of the State of Alaska and in the public domain.
 
-b) Two weeks prior to contract conclusion, provide a brief Transition Plan for all deliverables, products, and materials in coordination with the Alaska product team.
+b) During the transition to the State of Alaska and/or a new contractor, the Contractor shall perform all necessary transition activities, including, but not limited to, continued full services to 18F and other customers; participation, at discretion of Alaska product team, in meetings with the State of Alaska or new contractor to effect a smooth transition and provide detailed information on the operation of all deliverables; training of new personnel (contractor or State) during transition period, appropriate close-out of outstanding technical and related work.
 
-c) Coordinate with the Alaska product team and potentially another vendor, and implement the Transition Plan according to the Alaska product team's direction.
-
-**Transition Activities** [TO BE UPDATED ONCE PM REQUIREMENTS ARE SET]
-
-During the transition to the State of Alaska and/or a new contractor, the Contractor shall perform all necessary transition activities, including, but not limited to, continued full services to 18F and other customers; participation, at discretion of Alaska product team, in meetings with the State of Alaska or new contractor to effect a smooth transition and provide detailed information on the operation of all deliverables; training of new personnel (contractor or State) during transition period, appropriate close-out of outstanding technical and related work.
-
-Final report shall include list of sprint tasks completed, documentation, and link to code repository. Should the Contract be terminated prior to the end of the period of performance, the Contractor shall transfer all project materials to the COR within two weeks of the COR’s request.
+c) Deliver a final report that shall include list of sprint tasks completed, documentation, and link to code repository. Should the Contract be terminated prior to the end of the period of performance, the Contractor shall transfer all project materials to the COR within two weeks of the COR’s request.
 
 ### <a name="3.05"></a>Sec. 3.05 Personnel
 
