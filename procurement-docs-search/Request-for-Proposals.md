@@ -594,7 +594,6 @@ Code Repository of Product | End of contract | Version-controlled Open Source re
 Research | A research plan shall be delivered during the first sprint. Research-related records shall be delivered at the end of the second sprint and every applicable sprint. thereafter | A summary of research conducted and results found. If applicable, next steps or recommendations based on research.
 Design Deliverables | End of every applicable sprint | Mock ups and/or design files if applicable, or design changes reflected in the Development Prototype.
 Development View | End of second sprint and every sprint thereafter | In-progress development view, accessible on the web via staging server / development server.
-Transition Plan | To be worked on no later than the second to last sprint of the initial Period of Performance | Work with the Alaska product team to make sure there is a clear plan for handing off the code repository.
 
 The contractor shall submit all deliverables to the Alaska product team.
 
