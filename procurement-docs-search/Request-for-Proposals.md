@@ -816,17 +816,7 @@ iii. A list of Key Personnel by name, title, contact information, proposed dutie
 
 ### <a name="4.05"></a>Sec. 4.05 Similar Experience and Qualifications
 
-Provide two examples of open source, web-based work you’ve produced for
-previous clients. One of the two examples must reflect aspects of *update 
-with experience that is related to the scope of work for this buy*. And one 
-of the two examples must demonstrate experience *updated with experience 
-that is related to the scope of work for this buy*. The project must have 
-been delivered by either a) the offeror itself or, alternatively, b) a 
-teaming partner that is proposed in response to this RFQ, or, alternatively, 
-c) any Key Personnel that is being proposed in response to this RFQ. In the 
-project summary, be sure to identify how the offeror’s team was involved in 
-the development. The project(s) submitted for Similar Experience is included 
-as part of your seven-page limitation, unless noted otherwise below.
+The offeror must provide two examples of web-based platforms. While not required, we strongly prefer that at least one of these projects have been developed and released using open source principles and licensing. The examples provided must reflect aspects of data security, and should show aspects of strong user driven design in a web application. The project must have been delivered by either a) the offeror itself or, alternatively, b) a teaming partner that is proposed in response to this RFQ, or, alternatively, c) any Key Personnel that is being proposed in response to this RFQ. In the project summary, be sure to identify how the offeror’s team was involved in the development. The project(s) submitted for Similar Experience is included as part of your seven-page limitation, unless noted otherwise below.
 
 At a minimum, provide:
 
