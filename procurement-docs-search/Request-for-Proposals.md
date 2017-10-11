@@ -147,7 +147,7 @@ Proposals must be received no later than **TIME** prevailing Alaska Time on **DA
 
 In order for offers to be considered responsive offerors must meet the following minimum requirements:
 
--   The offeror must provide two examples of web-based platforms. One of the two examples must reflect aspects of data security and one must show aspects of strong user driven design in a web application.** The project must have been delivered by either a) the offeror itself or, alternatively, b) a teaming partner that is proposed in response to this RFP, or, alternatively, c) any Key Personnel that is being proposed in response to this RFP. In the project summary, be sure to identify how the offeror’s team was involved in the development. At a minimum, provide:
+-   The offeror must provide two examples of web-based platforms. While not required, we strongly prefer that at least one of these projects have been developed and released using open source principles and licensing. The examples provided must reflect aspects of data security, and should show aspects of strong user driven design in a web application.** The projects must have been delivered by either a) the offeror itself or, alternatively, b) a teaming partner that is proposed in response to this RFP, or, alternatively, c) any Key Personnel that is being proposed in response to this RFP. In the project summary, be sure to identify how the offeror’s team was involved in the development. At a minimum, provide:
 
     -   Recent and similar technical scope is past experience with
         building usable, responsive, user-facing web applications,
