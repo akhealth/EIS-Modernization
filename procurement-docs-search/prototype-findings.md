@@ -25,11 +25,7 @@ prescriptive in nature - we expect vendors to use their best judgement,
 experience and technical expertise to design and deliver great software.
 Vendors should use this report and associated materials (contained
 within public Github repos) as a supplement to the
-[RFP](https://github.com/AlaskaDHSS/acq-alaska-dhss-modernization/blob/master/procurement-docs-search/Request-for-Proposals.md)
-and
-[SOW](https://github.com/AlaskaDHSS/acq-alaska-dhss-modernization/blob/master/procurement-docs-search/Statement-of-Work.md),
-to better understand the technical requirements of the solution to be
-delivered through the State of Alaska’s RFP.
+[RFP](https://github.com/AlaskaDHSS/acq-alaska-dhss-modernization/blob/master/procurement-docs-search/Request-for-Proposals.md).
 
 ## Description
 
