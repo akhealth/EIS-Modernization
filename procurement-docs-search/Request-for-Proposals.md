@@ -399,15 +399,17 @@ approval of the project director.
 
 BACKGROUND
 
-The background for this project as a whole is detailed in the project README. In short, for this first acquisition, we want to focus on something that is relatively straightforward, while still providing value to our beneficiaries and constituents. The product team has decided that building a robust person search would create a positive impact in a way that introduces the least risk to existing systems. We will learn a lot during this first acquisition that will help us tackle more invasive and risky acquisitions later on.
+The background for this project as a whole is detailed in the project README. In short, for this first acquisition, we want to focus on  providing value to our beneficiaries and constituents. The product team has decided that building a robust person search would create a positive impact in a way that introduces the least risk to existing systems. We will learn a lot during this first acquisition that will help us tackle more invasive and risky acquisitions later on.
 
 OBJECTIVES
 
 Alaska Department of Health and Social Services (DHSS) goals for the person search are as follows:
 
+Provide a single view of a client or applicant between the two places that information currently resides
+
 Decreased burden on Division of Public Assistance (DPA) field staff as they process incoming applications for program benefits
 
-Get a better sense of the nature of pending work by revealing all unworked applications for a given person or household
+Give DPA Field Staff a better sense of the nature of pending work by revealing all unworked applications for a given person or household
 
 Increase the number of applications processed per worker, per day, so that potential beneficiaries can get their benefits sooner
 
