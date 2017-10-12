@@ -4,13 +4,13 @@
 
 **Note - this is a _working draft_ Request for Proposals and is meant for vendor feedback. We plan to update this document as we learn more from our prototyping and nail down our scope of work for the first procurement.  Please submit questions or feedback [as an Issue](https://github.com/AlaskaDHSS/acq-alaska-dhss-modernization/issues)**
 
-##TITLE OF RFP##
+##ELIGIBILITY INFORMATION SYSTEM - ENHANCED SEARCH TOOL##
 
 RFP **NUMBER**
 
-Issued DATE
+Issued October 26, 2017
 
-BRIEF HIGH-LEVEL SUMMARY OF THE RFP PURPOSE.
+The Department of Health and Social Services, Division of Public Assistance, is soliciting proposals for a Contractor to continuously deliver iterations of a search tool that finds information for a given person across multiple systems (EIS, ARIES) and returns search results to workers that accurately reflect the status of all program applications for a given person or household.
 
 ------------------------------------------------------------------
 
@@ -141,7 +141,7 @@ Approval or continuation of a contract resulting from this is contingent upon le
 
 ### <a name="1.03"></a>Sec. 1.03 Deadline for Receipt of Proposals
 
-Proposals must be received no later than **TIME** prevailing Alaska Time on **DATE**. Faxed, emailed, and oral proposals are not acceptable.
+Proposals must be received no later than 4:00 PM prevailing Alaska Time on November 16, 2017. Faxed, emailed, and oral proposals are not acceptable.
 
 ### <a name="1.04"></a>Sec. 1.04 Minimum Responsiveness
 
@@ -196,7 +196,7 @@ least ten days before the deadline for receipt of proposals.
 
 Questions or comments regarding this RFQ shall be submitted as issues
 within the BPA GitHub repository at &lt;insert link&gt; no later than
-&lt;Date&gt; at X:00 PM (Alaska Prevailing time), to allow the
+5:00 PM (Alaska Prevailing time) on November 7, 2017, to allow the
 Government sufficient time to respond. All questions and comments will
 be publicly available. Please subscribe to the repository if your firm
 would like updates about changes and comments. Questions or comments
