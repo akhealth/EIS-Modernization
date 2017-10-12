@@ -327,8 +327,8 @@ the proposal, the evaluation, or the contract.
 
 #### (f) Certification Regarding Debarment, Suspension, Ineligibility and Voluntary Exclusion Lower Tier Covered Transactions
 
-Each proposal must include a signed certification form, see SECTION 8
-EXHIBITS.
+Each proposal must include a signed certification form, see [SECTION 8
+EXHIBITS](#8.2).
 
 ### <a name="1.09"></a>Sec. 1.09 Assistance to Offerors with a Disability
 
