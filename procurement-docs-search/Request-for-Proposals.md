@@ -4,9 +4,9 @@
 
 **Note - this is a _working draft_ Request for Proposals and is meant for vendor feedback. We plan to update this document as we learn more from our prototyping and nail down our scope of work for the first procurement.  Please submit questions or feedback [as an Issue](https://github.com/AlaskaDHSS/acq-alaska-dhss-modernization/issues)**
 
-##ELIGIBILITY INFORMATION SYSTEM - ENHANCED SEARCH TOOL##
+**ELIGIBILITY INFORMATION SYSTEM - ENHANCED SEARCH TOOL**
 
-RFP **NUMBER**
+RFP 180000022
 
 Issued October 26, 2017
 
@@ -232,27 +232,27 @@ must be clearly identified. The sealed proposal package(s) must be
 addressed as follows:
 
 <center>
-***Department of Health & Social Services***<br>
-***Division of Finance & Management Services***<br>
-***Attention: Jon Geselle***
+Department of Health & Social Services<br>
+Division of Finance & Management Services<br>
+Attention: Jon Geselle
 
-Request for Proposal (RFP) Number: **NUMBER**
+Request for Proposal (RFP) Number: 180000022
 
-RFP Title: **NAME**
+RFP Title: Eligibility Information System - Enhanced Search Tool
 </center>
 
 If using *U.S. mail*, please use the following address:
 
 <center>
-**PO BOX 11065<br>
-JUNEAU, AK 99811-0650**
+PO BOX 11065<br>
+JUNEAU, AK 99811-0650
 </center>
 
 If using a *delivery service*, please use the following address:
 
 <center>
-**333 WILLOUGHBY AVE., ROOM 760<br>
-JUNEAU, AK 99801**
+333 WILLOUGHBY AVE., ROOM 760<br>
+JUNEAU, AK 99801
 </center>
 
 An offeror’s failure to submit its proposal prior to the deadline will
@@ -582,7 +582,7 @@ the contractor follows the proposed approach.
 
 ### <a name="3.06"></a>Sec. 3.06 Contract Term and Work Schedule
 
-The length of the contract will be from the date of award, approximately November 15, 2017 for approximately 4 months until completion, approximately March 15, 2018.
+The length of the contract will be from the date of award, approximately December 4, 2017 for approximately 4 months until completion, approximately March 31, 2018.
 
 ### <a name="3.07"></a>Sec. 3.07 Deliverables
 
