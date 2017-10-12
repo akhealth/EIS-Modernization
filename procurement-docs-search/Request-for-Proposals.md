@@ -223,7 +223,7 @@ Vendor Self-Service (VSS) Portal will generate a confirmation email sent
 to the individual registered as the point of contact for the vendor.
 
 **If submitting a response through IRIS VSS, that response is
-sufficient, and you may disregard the following return instructions. **
+sufficient, and you may disregard the following return instructions.**
 
 Offerors must submit one hard copy of their proposal, in writing, to the
 procurement officer in a sealed package. The cost proposal included with
@@ -528,7 +528,7 @@ Alaska envisions the need for the following skillsets as part of the Contractors
 - User experience designer
 - Visual designer
 
-**Desired Skills and Knowledge
+**Desired Skills and Knowledge**
 
 The Contractor team shall have knowledge and skills in the following areas:
 
@@ -550,7 +550,7 @@ General Technology:
 - Automated unit and integration testing
 - Continuous integration and continuous delivery 
 
-**Key Personnel
+**Key Personnel**
 
 The following requirements related to personnel must be met:
 
