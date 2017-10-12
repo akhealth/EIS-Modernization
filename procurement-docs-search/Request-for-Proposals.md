@@ -359,19 +359,19 @@ estimate of the schedule that will be followed. If a component of this
 schedule, such as the deadline for receipt of proposals, is delayed, the
 rest of the schedule may be shifted by the same number of days.
 
--   Issue RFP **DATE**,
+-   Issue RFP on October 26, 2017,
 
--   Deadline for receipt of questions **DATE**,
+-   Deadline for receipt of questions by November 7, 2017,
 
--   Deadline for receipt of proposals **DATE**,
+-   Deadline for receipt of proposals on November 16, 2017,
 
--   Interviews conducted with qualifying offerors on **DATE**,
+-   Interviews conducted with qualifying offerors on November 20-21, 2017,
 
--   Proposal Evaluation Committee complete evaluation by **DATE**,
+-   Proposal Evaluation Committee complete evaluation by November 22, 2017,
 
--   State of Alaska issues Notice of Intent to Award a contract **DATE**,
+-   State of Alaska issues Notice of Intent to Award a contract on November 22, 2017,
 
--   State of Alaska issues contract **DATE**.
+-   State of Alaska issues contract on December 4, 2017.
 
 This RFP does not, by itself, obligate the state. The state's obligation
 will commence when the contract is approved by the Commissioner of the
