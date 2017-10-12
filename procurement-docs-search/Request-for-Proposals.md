@@ -1562,7 +1562,7 @@ Please provide your estimated cost for completion of all project roles and all r
 
 ** Note that the estimated level of effort and roles must align with the Staffing Plan included in your technical proposal.
 
-### Exhibit 2. Certification Regarding Debarment
+### <a name="8.2"></a>Exhibit 2. Certification Regarding Debarment
 
 **CERTIFICATION REGARDING DEBARMENT, SUSPENSION, INELIGIBILITY AND
 VOLUNTARY EXCLUSION LOWER TIER COVERED TRANSACTIONS**
@@ -1669,7 +1669,7 @@ Signature Date
     available to the Federal Government, the DOL may pursue available
     remedies, including suspension and/or debarment
 
-### Exhibit 3. PROPOSAL EVALUATION FORM
+### <a name="8.3"></a>Exhibit 3. PROPOSAL EVALUATION FORM
 
 All proposals will be reviewed for responsiveness and then evaluated
 using the criteria set out herein.
@@ -1732,7 +1732,7 @@ NOTES:
 **EVALUATOR'S COMBINED POINT TOTAL FOR ALL EVALUATED SECTIONS:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-### Exhibit 4. Standard Agreement Form (With Appendices)
+### <a name="8.4"></a>Exhibit 4. Standard Agreement Form (With Appendices)
 
 ![Standard Agreement Form for Professional Services](standard-agreement-form.png)
 
