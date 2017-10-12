@@ -1530,7 +1530,7 @@ Attached separately:
 2.  DHSS Project Management Requirements
 3.  DHSS IT Requirements
 
-### Exhibit 1. Cost Proposal
+### <a name="8.1"></a>Exhibit 1. Cost Proposal
 
 **COST PROPOSAL**
 
