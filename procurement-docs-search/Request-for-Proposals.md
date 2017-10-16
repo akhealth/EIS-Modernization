@@ -327,8 +327,8 @@ the proposal, the evaluation, or the contract.
 
 #### (f) Certification Regarding Debarment, Suspension, Ineligibility and Voluntary Exclusion Lower Tier Covered Transactions
 
-Each proposal must include a signed certification form, see SECTION 8
-EXHIBITS.
+Each proposal must include a signed certification form, see [SECTION 8
+EXHIBITS](#8.2).
 
 ### <a name="1.09"></a>Sec. 1.09 Assistance to Offerors with a Disability
 
@@ -766,7 +766,7 @@ Administration Division of Risk Management. An offeror's failure to
 provide evidence of such insurance coverage is a material breach and
 grounds for withdrawal of the award or termination of the contract.
 
-Offerors must review form APPENDIX B1 / APPENDIX B2, included in the Standard Agreement Form in SECTION 8 EXHIBITS, for details on required coverage. No alteration of these requirements will be permitted without prior written approval from the Department of Administration, Division of Risk Management. Objections to any of the requirements in APPENDIX B1 / APPENDIX B2 must be set out in the offeror’s proposal.
+Offerors must review form APPENDIX B1 / APPENDIX B2, included in the Standard Agreement Form in SECTION 8 [EXHIBITS](#8.4), for details on required coverage. No alteration of these requirements will be permitted without prior written approval from the Department of Administration, Division of Risk Management. Objections to any of the requirements in APPENDIX B1 / APPENDIX B2 must be set out in the offeror’s proposal.
 
 ### <a name="3.20"></a>Sec. 3.20 Termination for Default
 
@@ -777,8 +777,7 @@ providing written notice to the contractor, terminate the contractor's
 right to proceed with part or all of the remaining work.
 
 This clause does not restrict the state's termination rights under the
-contract provisions of the Standard Agreement Form, attached in <span
-style="font-variant:small-caps;">SECTION 8 EXHIBITS</span>.
+contract provisions of the Standard Agreement Form, attached in SECTION 8 [EXHIBITS](#8.4).
 
 ## Section 4. PROPOSAL FORMAT AND CONTENT
 
@@ -902,7 +901,7 @@ and profit.
 
 ### <a name="4.08"></a>Sec. 4.08 Evaluation Criteria
 
-All proposals will be reviewed to determine if they are responsive. Proposals determined to be responsive will be evaluated using the criterion that is set out in Section 5 EVALUATION CRITERIA AND CONTRACTOR SELECTION.
+All proposals will be reviewed to determine if they are responsive. Proposals determined to be responsive will be evaluated using the criterion that is set out in Section 5 [EVALUATION CRITERIA AND CONTRACTOR SELECTION](#5.01).
 
 An evaluation may not be based on discrimination due to the race, religion, color, national origin, sex, age, marital status, pregnancy, parenthood, disability, or political affiliation of the offeror.
 
@@ -948,7 +947,7 @@ referenced under Section 6.12.
 
 The lowest cost proposal will receive the maximum number of points
 allocated to cost. The point allocations for cost on the other proposals
-will be determined through the method set out in Section 6.14.
+will be determined through the method set out in [Section 6.14](#6.14).
 
 ### <a name="5.06"></a>Sec. 5.06 Alaska Offeror Preference (10%)
 
@@ -1048,8 +1047,8 @@ proposal must be reduced to writing by the offeror.
 The procurement officer, or an evaluation committee made up of at least
 three state employees or public officials, will evaluate proposals. The
 evaluation will be based solely on the evaluation factors set out in
-SECTION 5 EVALUATION CRITERIA AND
-CONTRACTOR SELECTION.
+SECTION 5 [EVALUATION CRITERIA AND
+CONTRACTOR SELECTION](#5.01).
 
 After receipt of proposals, if there is a need for any substantial
 clarification or material change in the RFP, an amendment will be
@@ -1347,7 +1346,7 @@ Add the applicable Alaska offerors preference amounts to the offeror’s scores:
 
 The contractor will be required to sign and submit the State's Standard
 Agreement Form for Professional Services Contracts (form 02-093/Appendix
-A). This form is attached in SECTION 8 EXHIBITS for your review. The
+A). This form is attached in SECTION 8 [EXHIBITS](#8.4) for your review. The
 contractor must comply with the contract provisions set out in this
 attachment. No alteration of these provisions will be permitted without
 prior written approval from the Department of Law. Objections to any of
@@ -1467,7 +1466,7 @@ contract did not contain the particular provision held to be invalid.
 
 ### <a name="7.11"></a>Sec. 7.11 Supplemental Terms and Conditions
 
-Proposals must comply with SECTION 1.12 Right of Rejection.
+Proposals must comply with SECTION 1.12 [Right of Rejection](#1.12).
 However, if the state fails to identify or detect supplemental terms or
 conditions that conflict with those contained in this RFP or that
 diminish the state's rights under any contract resulting from the RFP,
@@ -1532,7 +1531,7 @@ Attached separately:
 2.  DHSS Project Management Requirements
 3.  DHSS IT Requirements
 
-### Exhibit 1. Cost Proposal
+### <a name="8.1"></a>Exhibit 1. Cost Proposal
 
 **COST PROPOSAL**
 
@@ -1564,7 +1563,7 @@ Please provide your estimated cost for completion of all project roles and all r
 
 ** Note that the estimated level of effort and roles must align with the Staffing Plan included in your technical proposal.
 
-### Exhibit 2. Certification Regarding Debarment
+### <a name="8.2"></a>Exhibit 2. Certification Regarding Debarment
 
 **CERTIFICATION REGARDING DEBARMENT, SUSPENSION, INELIGIBILITY AND
 VOLUNTARY EXCLUSION LOWER TIER COVERED TRANSACTIONS**
@@ -1671,7 +1670,7 @@ Signature Date
     available to the Federal Government, the DOL may pursue available
     remedies, including suspension and/or debarment
 
-### Exhibit 3. PROPOSAL EVALUATION FORM
+### <a name="8.3"></a>Exhibit 3. PROPOSAL EVALUATION FORM
 
 All proposals will be reviewed for responsiveness and then evaluated
 using the criteria set out herein.
@@ -1734,7 +1733,7 @@ NOTES:
 **EVALUATOR'S COMBINED POINT TOTAL FOR ALL EVALUATED SECTIONS:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-### Exhibit 4. Standard Agreement Form (With Appendices)
+### <a name="8.4"></a>Exhibit 4. Standard Agreement Form (With Appendices)
 
 ![Standard Agreement Form for Professional Services](standard-agreement-form.png)
 
