@@ -592,10 +592,10 @@ The length of the contract will be from the date of award, approximately Decembe
 **Deliverable** | **Due Date** | **Description**
 --- | --- | ---
 Code & Status Reports | 1 business day after each sprint | Demonstration of progress throughout each sprint.
-Code Repository of Product | End of contract | Version-controlled Open Source repository of code that comprises prototype.
+Code Repository of Product | Continuously delivered throughout contract | Version-controlled Open Source repository of code that comprises product. Any incomplete code will be delivered at end of contract.
 Research | A research plan shall be delivered during the first sprint. Research-related records shall be delivered at the end of the second sprint and every applicable sprint. thereafter | A summary of research conducted and results found. If applicable, next steps or recommendations based on research.
 Design Deliverables | End of every applicable sprint | Mock ups and/or design files if applicable, or design changes reflected in the Development Prototype.
-Development View | End of second sprint and every sprint thereafter | In-progress development view, accessible on the web via staging server / development server.
+
 
 The contractor shall submit all deliverables to the Alaska product team.
 
@@ -604,11 +604,9 @@ The contractor shall submit all deliverables to the Alaska product team.
 Code deliverables shall be submitted via Git PRs to the VSTS repository. A copy
 of any document deliverables shall be submitted to the Alaska product team.
 
-**Inspection and Acceptance of Services** [Defer to Nick/Simon]
+**Inspection and Acceptance of Services** 
 
-All periodic reports and task deliverables shall be inspected, tested
-(where applicable), reviewed, and accepted by the Alaska product team within 5
-days of the conclusion of each sprint.
+All periodic reports and deliverables shall be inspected, tested (where applicable), reviewed, and accepted by the Alaska product team, prior to sprint conclusion and deployment to the staging and production environments. 
 
 Only the Alaska product team has the authority to
 inspect, accept, or reject all deliverables. 
