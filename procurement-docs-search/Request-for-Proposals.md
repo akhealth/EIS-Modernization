@@ -131,7 +131,7 @@ jon.geselle@alaska.gov<br>
 
 ### <a name="1.01"></a>Sec. 1.01 Purpose of the RFP
 
-The Department of Health and Social Services, Division of Public Assistance, is soliciting proposals for a Contractor to continuously deliver iterations of a search tool that finds information for a given person across multiple systems (EIS, ARIES) and returns search results to workers that accurately reflect the status of all program applications for a given person or household.  More detailed information about the project can be found in our [Scope of Work](#3.01)
+The Department of Health and Social Services, Division of Public Assistance, is soliciting proposals for a Contractor to continuously deliver iterations of a search tool that finds information for a given person across multiple systems (EIS, ARIES) and returns search results to workers that accurately reflect the status of all program applications for a given person or household.  More detailed information about the project can be found in [SECTION 3.01 Scope of Work](#3.01).
 
 ### <a name="1.02"></a>Sec. 1.02 Budget
 
@@ -678,7 +678,7 @@ Failure to comply with these requirements may cause the state to reject the prop
 Subcontractors may be used to perform work under this contract. If an
 offeror intends to use subcontractors, the offeror must identify in the proposal the names of the subcontractors and the portions of the work the subcontractors will perform.
 
-Subcontractor experience shall be considered in determining whether the offeror meets the requirements set forth in [Section 1.04 - Minimum Responsiveness](#1.04)
+Subcontractor experience shall be considered in determining whether the offeror meets the requirements set forth in [SECTION 1.04 - Minimum Responsiveness](#1.04)
 
 If a proposal with subcontractors is selected, the offeror must provide the following information concerning each prospective subcontractor within five working days from the date of the state's request:
 
@@ -764,7 +764,7 @@ Administration Division of Risk Management. An offeror's failure to
 provide evidence of such insurance coverage is a material breach and
 grounds for withdrawal of the award or termination of the contract.
 
-Offerors must review form APPENDIX B1 / APPENDIX B2, included in the Standard Agreement Form in SECTION 8 [EXHIBITS](#8.4), for details on required coverage. No alteration of these requirements will be permitted without prior written approval from the Department of Administration, Division of Risk Management. Objections to any of the requirements in APPENDIX B1 / APPENDIX B2 must be set out in the offeror’s proposal.
+Offerors must review form APPENDIX B1 / APPENDIX B2, included in the Standard Agreement Form in [SECTION 8 EXHIBITS](#8.4), for details on required coverage. No alteration of these requirements will be permitted without prior written approval from the Department of Administration, Division of Risk Management. Objections to any of the requirements in APPENDIX B1 / APPENDIX B2 must be set out in the offeror’s proposal.
 
 ### <a name="3.20"></a>Sec. 3.20 Termination for Default
 
@@ -775,7 +775,7 @@ providing written notice to the contractor, terminate the contractor's
 right to proceed with part or all of the remaining work.
 
 This clause does not restrict the state's termination rights under the
-contract provisions of the Standard Agreement Form, attached in SECTION 8 [EXHIBITS](#8.4).
+contract provisions of the Standard Agreement Form, attached in [SECTION 8 EXHIBITS](#8.4).
 
 ## Section 4. PROPOSAL FORMAT AND CONTENT
 
@@ -790,15 +790,15 @@ Proposals must include the complete name and address of offeror’s firm
 and the name, mailing address, and telephone number of the person the
 state should contact regarding the proposal.
 
-Proposals must confirm that the offeror will comply with all provisions in this RFP; and, if applicable, provide notice that the firm qualifies as an Alaskan bidder. Proposals must be signed by a company officer empowered to bind the company. An offeror's failure to include these items in the proposals may cause the proposal to be determined to be non-responsive and the proposal may be rejected. See [Section 1.08 Proposal Contents](#1.08) for more information.
+Proposals must confirm that the offeror will comply with all provisions in this RFP; and, if applicable, provide notice that the firm qualifies as an Alaskan bidder. Proposals must be signed by a company officer empowered to bind the company. An offeror's failure to include these items in the proposals may cause the proposal to be determined to be non-responsive and the proposal may be rejected. See [SECTION 1.08 Proposal Contents](#1.08) for more information.
 
 ### <a name="4.03"></a>Sec. 4.03 Technical Understanding And Approach
 
-Succinctly describe level of knowledge, technical expertise and overall understanding of the requirement as set forth in [Section 3 Scope of Work](#3). Technical understanding and approach description is included as part of your seven-page limitation.
+Succinctly describe level of knowledge, technical expertise and overall understanding of the requirement as set forth in [SECTION 3 SCOPE OF WORK & CONTRACT INFORMATION](#3). Technical understanding and approach description is included as part of your seven-page limitation.
 
 ### <a name="4.04"></a>Sec. 4.04 Staffing Plan
 
-Provide a Staffing Plan that describes your understanding of the requirements and details the number of personnel by skill level/labor category needed to satisfy the objectives and requirements in [Section 3 Scope of Work](#3). The Staffing plan is included as part of your seven-page limitation. Resumes and letters of intent are not included as part of your seven-page limitation.
+Provide a Staffing Plan that describes your understanding of the requirements and details the number of personnel by skill level/labor category needed to satisfy the objectives and requirements in [SECTION 3 SCOPE OF WORK & CONTRACT INFORMATION](#3). The Staffing plan is included as part of your seven-page limitation. Resumes and letters of intent are not included as part of your seven-page limitation.
 
 At a minimum, provide:
 
@@ -806,11 +806,11 @@ i.  Description of your staffing methodology based on your understanding of the 
 
 ii. A breakdown of labor categories, including the title, number of personnel, and hours; and
 
-iii. A list of Key Personnel by name, title, contact information, proposed duties and roles, and resumes for each proposed Key Personnel in accordance with Personnel section of the SOW. Resumes should include a description of the experience and capability for all Key Personnel proposed for the offeror’s project team. Resumes should also address the individual’s technical background, education, work experience, and accomplishments related to the activities described in the attached SOW. The proposal of any key personnel not currently employed by the offeror or teaming partners shall be accompanied by letters of intent signed by proposed Key Personnel in accordance with the SOW.
+iii. A list of Key Personnel by name, title, contact information, proposed duties and roles, and resumes for each proposed Key Personnel in accordance with [SECTION 3.05 Personnel](#3.05). Resumes should include a description of the experience and capability for all Key Personnel proposed for the offeror’s project team. Resumes should also address the individual’s technical background, education, work experience, and accomplishments related to the activities described in this RFP. The proposal of any key personnel not currently employed by the offeror or teaming partners shall be accompanied by letters of intent signed by proposed Key Personnel.
 
 ### <a name="4.05"></a>Sec. 4.05 Similar Experience and Qualifications
 
-The offeror must provide two examples of web-based platforms. While not required, we strongly prefer that at least one of these projects have been developed and released using open source principles and licensing. The examples provided must reflect aspects of data security, and should show aspects of strong user driven design in a web application. The project must have been delivered by either a) the offeror itself or, alternatively, b) a teaming partner that is proposed in response to this RFQ, or, alternatively, c) any Key Personnel that is being proposed in response to this RFQ. In the project summary, be sure to identify how the offeror’s team was involved in the development. The project(s) submitted for Similar Experience is included as part of your seven-page limitation, unless noted otherwise below.
+The offeror must provide two examples of web-based platforms. While not required, we strongly prefer that at least one of these projects have been developed and released using open source principles and licensing. The examples provided must reflect aspects of data security, and should show aspects of strong user driven design in a web application. The project must have been delivered by either a) the offeror itself or, alternatively, b) a teaming partner that is proposed in response to this RFP, or, alternatively, c) any Key Personnel that is being proposed in response to this RFP. In the project summary, be sure to identify how the offeror’s team was involved in the development. The project(s) submitted for Similar Experience is included as part of your seven-page limitation, unless noted otherwise below.
 
 At a minimum, provide:
 
@@ -894,7 +894,7 @@ and profit.
 
 ### <a name="4.08"></a>Sec. 4.08 Evaluation Criteria
 
-All proposals will be reviewed to determine if they are responsive. Proposals determined to be responsive will be evaluated using the criterion that is set out in Section 5 [EVALUATION CRITERIA AND CONTRACTOR SELECTION](#5.01).
+All proposals will be reviewed to determine if they are responsive. Proposals determined to be responsive will be evaluated using the criterion that is set out in [SECTION 5 EVALUATION CRITERIA AND CONTRACTOR SELECTION](#5.01).
 
 An evaluation may not be based on discrimination due to the race, religion, color, national origin, sex, age, marital status, pregnancy, parenthood, disability, or political affiliation of the offeror.
 
@@ -934,13 +934,13 @@ presentation.
 Overall, a minimum of 40%
 of the total evaluation points will be assigned to cost. The cost amount
 used for evaluation may be affected by one or more of the preferences
-referenced under Section 6.12.
+referenced under [SECTION 6.12 Alaska Veteran Preference](#6.12).
 
 #### Converting Cost to Points
 
 The lowest cost proposal will receive the maximum number of points
 allocated to cost. The point allocations for cost on the other proposals
-will be determined through the method set out in [Section 6.14](#6.14).
+will be determined through the method set out in [SECTION 6.14 Formula Used to Convert Cost to Points](#6.14).
 
 ### <a name="5.06"></a>Sec. 5.06 Alaska Offeror Preference (10%)
 
@@ -1040,7 +1040,7 @@ proposal must be reduced to writing by the offeror.
 The procurement officer, or an evaluation committee made up of at least
 three state employees or public officials, will evaluate proposals. The
 evaluation will be based solely on the evaluation factors set out in
-SECTION 5 [EVALUATION CRITERIA AND
+[SECTION 5 EVALUATION CRITERIA AND
 CONTRACTOR SELECTION](#5.01).
 
 After receipt of proposals, if there is a need for any substantial
@@ -1339,7 +1339,7 @@ Add the applicable Alaska offerors preference amounts to the offeror’s scores:
 
 The contractor will be required to sign and submit the State's Standard
 Agreement Form for Professional Services Contracts (form 02-093/Appendix
-A). This form is attached in SECTION 8 [EXHIBITS](#8.4) for your review. The
+A). This form is attached in [SECTION 8 EXHIBITS](#8.4) for your review. The
 contractor must comply with the contract provisions set out in this
 attachment. No alteration of these provisions will be permitted without
 prior written approval from the Department of Law. Objections to any of
@@ -1459,7 +1459,7 @@ contract did not contain the particular provision held to be invalid.
 
 ### <a name="7.11"></a>Sec. 7.11 Supplemental Terms and Conditions
 
-Proposals must comply with SECTION 1.12 [Right of Rejection](#1.12).
+Proposals must comply with [SECTION 1.12 Right of Rejection](#1.12).
 However, if the state fails to identify or detect supplemental terms or
 conditions that conflict with those contained in this RFP or that
 diminish the state's rights under any contract resulting from the RFP,
