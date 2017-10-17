@@ -800,8 +800,7 @@ Succinctly describe level of knowledge, technical expertise and overall understa
 
 ### <a name="4.04"></a>Sec. 4.04 Staffing Plan
 
-Provide a Staffing Plan that describes your understanding of the requirements and details the number of personnel by skill level/labor
-category needed to satisfy the objectives and requirements in [Section 3 Scope of Work](#3). The Staffing plan is included as part of your seven-page limitation. Resumes and letters of intent are not included as part of your seven-page limitation.
+Provide a Staffing Plan that describes your understanding of the requirements and details the number of personnel by skill level/labor category needed to satisfy the objectives and requirements in [Section 3 Scope of Work](#3). The Staffing plan is included as part of your seven-page limitation. Resumes and letters of intent are not included as part of your seven-page limitation.
 
 At a minimum, provide:
 
