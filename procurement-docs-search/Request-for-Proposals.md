@@ -48,7 +48,7 @@ jon.geselle@alaska.gov<br>
 ### Section 2.	BACKGROUND INFORMATION
 - [Sec. 2.01	Background Information](#2.01)
 
-### Section 3.	SCOPE OF WORK & Contract Information
+### Section 3.	SCOPE OF WORK & CONTRACT INFORMATION
 - [Sec. 3.01	Scope of Work](#3.01)
 - [Sec. 3.02	Requirements](#3.02)
 - [Sec. 3.03	Project Management Requirements](#3.03)
@@ -105,7 +105,7 @@ jon.geselle@alaska.gov<br>
 - [Sec. 6.14	Formula Used to Convert Cost to Points](#6.14)
 - [Sec. 6.15	Examples: Converting Cost to Points & Applying Preferences](#6.15)
 
-### Section 7.	General Legal Information
+### Section 7.	GENERAL LEGAL INFORMATION
 - [Sec. 7.01	Standard Contract Provisions](#7.01)
 - [Sec. 7.02	Proposal as a Part of the Contract](#7.02)
 - [Sec. 7.03	Additional Terms and Conditions](#7.03)
@@ -121,13 +121,13 @@ jon.geselle@alaska.gov<br>
 - [Sec. 7.13	Solicitation Advertising](#7.13)
 - [Sec. 7.14	Section 508 Compliance](#7.14)
 
-### Section 8. Exhibits
+### Section 8. EXHIBITS
 - [Exhibit 1. Cost Proposal](#8.1)
 - [Exhibit 2. Certification Regarding Debarment](#8.2)
 - [Exhibit 3. Proposal Evaluation Form](#8.3)
 - [Exhibit 4. Standard Agreement Form (With Appendices)](#8.4)
 
-## INTRODUCTION AND INSTRUCTIONS
+## Section 1. INTRODUCTION AND INSTRUCTIONS
 
 ### <a name="1.01"></a>Sec. 1.01 Purpose of the RFP
 
@@ -417,7 +417,7 @@ Decrease time necessary for DPA field staff to get critical information on outst
 
 Build the foundation for a performant and flexible search API that can be reused throughout the application for any view
 
-## Section 3. SCOPE OF WORK & Contract Information
+## Section 3. SCOPE OF WORK & CONTRACT INFORMATION
 
 ### <a name="3.01"></a>Sec. 3.01  Scope of Work
 
@@ -479,7 +479,7 @@ Directly create, update, or delete the data
 
 **Project Management**
 
-The contractor shall provide a Project Manager point of contact for the Alaska product team for problem resolution, Program Management reporting in accordance with Program Management methodologies, and staffing requirements. Sprint plans will be developed collaboratively with the Alaska product team and 18F.
+The contractor shall provide a Project Manager point of contact for the Alaska product team for problem resolution, Program Management reporting in accordance with Program Management methodologies, and staffing requirements. Sprint plans will be developed collaboratively with the Alaska product team.
 
 **Impact Reports**
 
@@ -515,7 +515,7 @@ The Contractor shall:
 
 a) Ensure and agree that all deliverables, products, licenses, designs, data, documentation, tests, user research notes, source code, configuration settings and files, and materials developed throughout this contract will be the property of the State of Alaska and in the public domain.
 
-b) During the transition to the State of Alaska and/or a new contractor, the Contractor shall perform all necessary transition activities, including, but not limited to, continued full services to 18F and other customers; participation, at discretion of Alaska product team, in meetings with the State of Alaska or new contractor to effect a smooth transition and provide detailed information on the operation of all deliverables; training of new personnel (contractor or State) during transition period, appropriate close-out of outstanding technical and related work.
+b) During the transition to the State of Alaska and/or a new contractor, the Contractor shall perform all necessary transition activities, including, but not limited to, continued full services to DPA; participation, at discretion of Alaska product team, in meetings with the State of Alaska or new contractor to effect a smooth transition and provide detailed information on the operation of all deliverables; training of new personnel (contractor or State) during transition period, appropriate close-out of outstanding technical and related work.
 
 c) Deliver a final report that shall include list of sprint tasks completed, documentation, and link to code repository. Should the Contract be terminated prior to the end of the period of performance, the Contractor shall transfer all project materials to the COR within two weeks of the COR’s request.
 
@@ -796,16 +796,11 @@ Proposals must confirm that the offeror will comply with all provisions in this 
 
 ### <a name="4.03"></a>Sec. 4.03 Technical Understanding And Approach
 
-Succinctly describe level of knowledge, technical expertise and overall understanding of the requirement as set forth in the SOW. Technical understanding and approach description is included as part of your seven-page limitation.
+Succinctly describe level of knowledge, technical expertise and overall understanding of the requirement as set forth in [Section 3 Scope of Work](#3). Technical understanding and approach description is included as part of your seven-page limitation.
 
 ### <a name="4.04"></a>Sec. 4.04 Staffing Plan
 
-Provide a Staffing Plan that describes your understanding of the
-requirements and details the number of personnel by skill level/labor
-category needed to satisfy the objectives and requirements of the SOW.
-The Staffing plan is included as part of your seven-page limitation.
-Resumes and letters of intent are not included as part of your
-seven-page limitation.
+Provide a Staffing Plan that describes your understanding of the requirements and details the number of personnel by skill level/labor category needed to satisfy the objectives and requirements in [Section 3 Scope of Work](#3). The Staffing plan is included as part of your seven-page limitation. Resumes and letters of intent are not included as part of your seven-page limitation.
 
 At a minimum, provide:
 
@@ -1340,7 +1335,7 @@ Add the applicable Alaska offerors preference amounts to the offeror’s scores:
 
 **Offeror #3** is the highest scoring offeror and would get the award, provided their proposal is responsible and responsive.
 
-## Section 7. General Legal Information
+## Section 7. GENERAL LEGAL INFORMATION
 
 ### <a name="7.01"></a>Sec. 7.01 Standard Contract Provisions
 
@@ -1518,7 +1513,7 @@ information:
 
 <http://www.w3.org/WAI/Resources>
 
-## Section 8. Exhibits
+## Section 8. EXHIBITS
 
 1.  Cost Proposal
 2.  Certification Regarding Debarment
