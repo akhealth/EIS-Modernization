@@ -599,9 +599,9 @@ Development View | End of second sprint and every sprint thereafter | In-progres
 
 The contractor shall submit all deliverables to the Alaska product team.
 
-**Delivery Instructions** [Defer to Nick/Simon]
+**Delivery Instructions**
 
-Code deliverables shall be submitted via the Github repository. A copy
+Code deliverables shall be submitted via Git PRs to the VSTS repository. A copy
 of any document deliverables shall be submitted to the Alaska product team.
 
 **Inspection and Acceptance of Services** [Defer to Nick/Simon]
