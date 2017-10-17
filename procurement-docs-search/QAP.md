@@ -22,7 +22,7 @@ Secure | Code must be free of medium- and high-level static and dynamic security
 
 ## PROCEDURES
 The Product Team and PO, along with the product owner, will inspect all tasks required by the contract to ensure contractor compliance with the contract requirements at the conclusion of each sprint, which shall have a length of two weeks or less, unless agreed upon by the vendor and product team.
-The Product Team will create/identify the repositor(y/ies) needed for executing the contract and provide brief documentation on their purpose.  If the contractor identifies a need for a change in the repositories, they will submit a request (TBD: where/how? – Via change a PR to the documentation?) to the product team.  The product team will review, discuss as needed, and resolve the request, as agreed. 
+The Product Team will create/identify the repositor(y/ies) needed for executing the contract and provide brief documentation on their purpose.  If the contractor identifies a need for a change in the repositories, they will submit a request to the product team.  The product team will review, discuss as needed, and resolve the request, as agreed. 
 
 Delivery of all software assets will occur by pull request from the contractor’s repository to the appropriate Alaska repository. If inspection results are satisfactory, the pull request will be merged; otherwise, deficiencies will be noted in the pull request or through issues as described below. The Product Team and PO may find the delivery satisfactory even though further work is required, provided that the specific requirements of the sprint are met.
  
