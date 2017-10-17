@@ -604,11 +604,9 @@ The contractor shall submit all deliverables to the Alaska product team.
 Code deliverables shall be submitted via the Github repository. A copy
 of any document deliverables shall be submitted to the Alaska product team.
 
-**Inspection and Acceptance of Services** [Defer to Nick/Simon]
+**Inspection and Acceptance of Services** 
 
-All periodic reports and task deliverables shall be inspected, tested
-(where applicable), reviewed, and accepted by the Alaska product team within 5
-days of the conclusion of each sprint.
+All periodic reports and deliverables shall be inspected, tested (where applicable), reviewed, and accepted by the Alaska product team, prior to sprint conclusion and deployment to the staging and production environments. 
 
 Only the Alaska product team has the authority to
 inspect, accept, or reject all deliverables. 
