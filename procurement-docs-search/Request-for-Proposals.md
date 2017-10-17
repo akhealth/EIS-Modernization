@@ -153,7 +153,7 @@ In order for offers to be considered responsive offerors must meet the following
         building usable, responsive, user-facing web applications,
         within the past three (3) years.
 
-    -   The summary shall include links to the public Git repository
+    -   We prefer links to the public Git repository
         that includes the source code that was developed and accepted
         for the project. Actual access to a publicly available Git
         repository is strongly encouraged over screenshots of private
@@ -194,8 +194,8 @@ least ten days before the deadline for receipt of proposals.
 
 ### <a name="1.06"></a>Sec. 1.06 Questions Prior to Deadline for Receipt of Proposals
 
-Questions or comments regarding this RFQ shall be submitted as issues
-within the BPA GitHub repository at &lt;insert link&gt; no later than
+Questions or comments regarding this RFP shall be submitted as issues
+within the DHSS GitHub repository at &lt;insert link&gt; no later than
 5:00 PM (Alaska Prevailing time) on November 7, 2017, to allow the
 Government sufficient time to respond. All questions and comments will
 be publicly available. Please subscribe to the repository if your firm
@@ -203,7 +203,7 @@ would like updates about changes and comments. Questions or comments
 received after the required deadline may not be answered.
 
 Questions may also be submitted in writing to the Procurement Officer,
-who will post them as issues with the BPA GitHub repository listed
+who will post them as issues with the DHSS GitHub repository listed
 above.
 
 PROCUREMENT OFFICER: **Jon
