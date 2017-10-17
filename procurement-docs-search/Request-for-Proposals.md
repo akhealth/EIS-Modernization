@@ -794,11 +794,11 @@ Proposals must confirm that the offeror will comply with all provisions in this 
 
 ### <a name="4.03"></a>Sec. 4.03 Technical Understanding And Approach
 
-Succinctly describe level of knowledge, technical expertise and overall understanding of the requirement as set forth in [SECTION 3 SCOPE OF WORK & CONTRACT INFORMATION](#3). Technical understanding and approach description is included as part of your seven-page limitation.
+Succinctly describe level of knowledge, technical expertise and overall understanding of the requirement as set forth in [SECTION 3 SCOPE OF WORK & CONTRACT INFORMATION](#3.01). Technical understanding and approach description is included as part of your seven-page limitation.
 
 ### <a name="4.04"></a>Sec. 4.04 Staffing Plan
 
-Provide a Staffing Plan that describes your understanding of the requirements and details the number of personnel by skill level/labor category needed to satisfy the objectives and requirements in [SECTION 3 SCOPE OF WORK & CONTRACT INFORMATION](#3). The Staffing plan is included as part of your seven-page limitation. Resumes and letters of intent are not included as part of your seven-page limitation.
+Provide a Staffing Plan that describes your understanding of the requirements and details the number of personnel by skill level/labor category needed to satisfy the objectives and requirements in [SECTION 3 SCOPE OF WORK & CONTRACT INFORMATION](#3.01). The Staffing plan is included as part of your seven-page limitation. Resumes and letters of intent are not included as part of your seven-page limitation.
 
 At a minimum, provide:
 
@@ -1000,7 +1000,7 @@ Prior the deadline for receipt of proposals, all offerors must hold any
 other necessary applicable professional licenses required by Alaska
 Statute.
 
-### <a name="6.04"></a>Sec. 6.04 Clarification of Offers
+### <a name="6.03"></a>Sec. 6.03 Clarification of Offers
 
 In order to determine if a proposal is reasonably susceptible for award,
 communications by the procurement officer or the proposal evaluation
@@ -1010,7 +1010,7 @@ Clarifications may not result in a material or substantive change to the
 proposal. The evaluation by the procurement officer or the PEC may be
 adjusted as a result of a clarification under this section.
 
-### <a name="6.05"></a>Sec. 6.05 Discussions with Offerors
+### <a name="6.04"></a>Sec. 6.04 Discussions with Offerors
 
 The state may conduct discussions with offerors in accordance with AS
 36.30.240 and 2 AAC 12.290. The purpose of these discussions will be to
