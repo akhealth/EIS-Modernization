@@ -820,12 +820,12 @@ ii. The summary shall include links to the public Git repository that includes t
 
 ### <a name="4.06"></a>Sec. 4.06 Verbal Presentation
 
-Offerors will be invited to participate in a verbal presentation to be evaluated. The verbal presentation will consist of an unstructured question and answer session. The entire verbal presentation will take place remotely via video chat and/or teleconference.
+Responsive offerors will be invited to participate in a verbal presentation to be evaluated. The verbal presentation will consist of an unstructured question and answer session. The entire verbal presentation will take place remotely via video chat and/or teleconference.
 
 | No.  | Agenda Item | Maximum Time
 |---|---|---|
 | 1  | Introductions | Approximately 5 minutes |
-| 2  | Open Technical Session | 40 minutes |
+| 2  | Open Technical Session | 60 minutes |
 | 3  | Closing Remarks |  5 minutes |
 
 During the Open Technical Session, the Offeror will respond to the
@@ -845,7 +845,7 @@ Key Personnel and further elaborate on their proposed technical approach
 described in their written proposal to accomplish the objectives of this
 task.
 
-This part of the verbal presentations will not exceed 40 minutes. The
+This part of the verbal presentations will not exceed 60 minutes. The
 Procurement Officer will strictly enforce this time limit on all
 presentations. There will be no follow-up session for further questions
 after this part of the presentation.
