@@ -1,7 +1,7 @@
 # [DRAFT] PERFORMANCE BASED QUALITY ASSURANCE PLAN (QAP) 
 # EISR Search Tool 
 ## INTRODUCTION
-This Quality Assurance Plan (QAP) has been developed to evaluate contractor actions while implementing [the Statement of Work (SOW)](https://github.com/AlaskaDHSS/acq-alaska-dhss-modernization/blob/master/procurement-docs-search/Statement-of-Work.md). It is designed to provide an effective method of monitoring contractor performance for each listed objective on the Performance Requirements Matrix. It also provides a systematic method to evaluate the services the contractor is required to furnish.
+This Quality Assurance Plan (QAP) has been developed to evaluate contractor actions while implementing [the Statement of Work (SOW)](https://github.com/AlaskaDHSS/acq-alaska-dhss-modernization/blob/master/procurement-docs-search/Request-for-Proposals.md#3.01). It is designed to provide an effective method of monitoring contractor performance for each listed objective on the Performance Requirements Matrix. It also provides a systematic method to evaluate the services the contractor is required to furnish.
 
 ## STANDARD
 The contractor is responsible for management and quality control actions to meet the terms of the contract. The role of the Procurement Officer (PO) and ARIES Product Team is quality assurance to ensure contract standards are achieved. The contractor shall perform all work required in a satisfactory manner in accordance with the requirements of the PWS. The Contractor shall notify the Product Manager for appropriate action if it is likely that the contractor will not achieve successful final delivery of the software code in accordance with the performance objectives and acceptable quality levels (AQLs) identified below.
