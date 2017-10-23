@@ -69,7 +69,8 @@ jon.geselle@alaska.gov<br>
 - [Sec. 3.18	Nondisclosure and Confidentiality](#3.18)
 - [Sec. 3.19	Insurance Requirements](#3.19)
 - [Sec. 3.20	Termination for Default](#3.20)
-
+- [Sec. 3.21	Data Rights and Ownership of Deliverables](3.21)
+ 
 ### Section 4. PROPOSAL FORMAT AND CONTENT
 - [Sec. 4.01	Proposal Format](#4.01)
 - [Sec. 4.02	Introduction](#4.02)
@@ -776,6 +777,18 @@ right to proceed with part or all of the remaining work.
 
 This clause does not restrict the state's termination rights under the
 contract provisions of the Standard Agreement Form, attached in [SECTION 8 EXHIBITS](#8.4).
+
+### <a name="3.21"></a>Sec. 3.21 Data Rights and Ownership of Deliverables
+
+It is the State of Alaska's intent that any data or deliverable created as a result of the work performed under the task order be committed to the public domain.
+
+It is the intention of the State to commit the following, but not limited to, items to the public domain: all data, documents, graphics and code created under this task order including but not limited to, plans, reports, schedules, schemas, metadata, architecture designs, and the like; new open source software created by the contractor and forks or branches of current open source software where the contractor has made a modification; new tooling, scripting configuration management, infrastructure as code, or any other final changes or edits to successfully deploy or operate the software.
+
+The contractor shall use open source technologies wherever possible. All licenses must be expressly listed in the deliverable. Regardless of license(s) used (e.g., MIT, GPL, Creative Commons 0) the license(s) shall be clearly listed in the documentation.
+
+If the contractor needs to use work that does not have an open source license, the contractor is required to request permission from the State, in writing, before utilizing that work in any way in connection with the order. If approved, all licenses shall be clearly set forth in a conspicuous place when work is delivered to the State.
+
+If an open source license provides implementation guidance, the contractor shall ensure compliance with that guidance. If implementation guidance is not available, the contractor shall attach or include the license within the work itself. Examples of this include code comments at the beginning of a file or contained in a license file within a software repository.
 
 ## Section 4. PROPOSAL FORMAT AND CONTENT
 
