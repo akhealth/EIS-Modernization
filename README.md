@@ -143,6 +143,15 @@ Key documents
 * Link to the Worker Portal User Acceptance Testing Environment: https://uat.myaries.alaska.gov 
 
 ## Technology requirements
+We are working in the Microsoft universe. We prefer:
+
+* C# and Powershell
+* WindowsServer2016 or NanoServer
+* Windows10 for dev
+
+We are using [VSTS](https://alaskadhssba.visualstudio.com/) for SCM(git), CI, and CD.
+
+See [our DevOps document](https://github.com/AlaskaDHSS/acq-alaska-dhss-modernization/blob/master/DevOps.md) for further details.
 
 ## Related projects
 * [CMS project]
