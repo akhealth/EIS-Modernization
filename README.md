@@ -10,6 +10,7 @@ This repo contains documentation describing the Alaska Department of Health and 
 * [Ongoing Strategic Concerns](#ongoing-strategic-concerns)
 * [Important Resources](#important-resources)
 * [System Information](#system-information-user-account-must-be-granted-by-the-state-of-alaska)
+* [Technology Requirements](#technology-requirements)
 * [Related projects](#related-projects)
 * [Contributing](#contributing-to-this-repo)
 
@@ -140,6 +141,8 @@ Key documents
 ## System Information (User account must be granted by the State of Alaska)
 * Link to the SSP User Acceptance Testing Environment: https://uat.aries.alaska.gov 
 * Link to the Worker Portal User Acceptance Testing Environment: https://uat.myaries.alaska.gov 
+
+## Technology requirements
 
 ## Related projects
 * [CMS project]
