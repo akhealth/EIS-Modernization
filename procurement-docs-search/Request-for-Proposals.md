@@ -780,7 +780,7 @@ contract provisions of the Standard Agreement Form, attached in [SECTION 8 EXHIB
 
 ### <a name="3.21"></a>Sec. 3.21 Data Rights and Ownership of Deliverables
 
-It is the State of Alaska's intent that any data or deliverable created as a result of the work performed under the task order be committed to the public domain.
+It is the State of Alaska's intent that any data or deliverable created as a result of the work performed under this contract be committed to the public domain.
 
 It is the intention of the Alaska product team to commit the following, but not limited to, items to the public domain: all data, documents, graphics and code created under this task order including but not limited to, plans, reports, schedules, schemas, metadata, architecture designs, and the like; new open source software created by the contractor and forks or branches of current open source software where the contractor has made a modification; new tooling, scripting configuration management, infrastructure as code, or any other final changes or edits to successfully deploy or operate the software.
 
