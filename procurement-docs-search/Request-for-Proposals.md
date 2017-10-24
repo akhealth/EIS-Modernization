@@ -69,7 +69,7 @@ jon.geselle@alaska.gov<br>
 - [Sec. 3.18	Nondisclosure and Confidentiality](#3.18)
 - [Sec. 3.19	Insurance Requirements](#3.19)
 - [Sec. 3.20	Termination for Default](#3.20)
-- [Sec. 3.21	Data Rights and Ownership of Deliverables](3.21)
+- [Sec. 3.21	Data Rights and Ownership of Deliverables](#3.21)
  
 ### Section 4. PROPOSAL FORMAT AND CONTENT
 - [Sec. 4.01	Proposal Format](#4.01)
