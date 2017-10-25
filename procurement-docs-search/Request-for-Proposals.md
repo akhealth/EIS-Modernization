@@ -75,11 +75,12 @@ jon.geselle@alaska.gov<br>
 - [Sec. 4.01	Proposal Format](#4.01)
 - [Sec. 4.02	Introduction](#4.02)
 - [Sec. 4.03	Technical Understanding and Approach](#4.03)
-- [Sec. 4.04	Staffing Plan](#4.04)
-- [Sec. 4.05	Similar Experience and Qualifications](#4.05)
-- [Sec. 4.06	Verbal Presentation](#4.06)
-- [Sec. 4.07	Cost Proposal](#4.07)
-- [Sec. 4.08	Evaluation Criteria](#4.08)
+- [Sec. 4.04	Aproach to User Interface and User Experience Design](#4.04)
+- [Sec. 4.05	Staffing Plan](#4.05)
+- [Sec. 4.06	Similar Experience and Qualifications](#4.06)
+- [Sec. 4.07	Verbal Presentation](#4.07)
+- [Sec. 4.08	Cost Proposal](#4.08)
+- [Sec. 4.09	Evaluation Criteria](#4.09)
 
 ### Section 5.	EVALUATION CRITERIA AND CONTRACTOR SELECTION	17
 - [Sec. 5.01	Technical Understanding and Approach (5%)](#5.01)
@@ -809,7 +810,11 @@ Proposals must confirm that the offeror will comply with all provisions in this 
 
 Succinctly describe level of knowledge, technical expertise and overall understanding of the requirement as set forth in [SECTION 3 SCOPE OF WORK & CONTRACT INFORMATION](#3.01). Technical understanding and approach description is included as part of your seven-page limitation.
 
-### <a name="4.04"></a>Sec. 4.04 Staffing Plan
+### <a name="4.04"></a>Sec. 4.04 Aproach to User Interface and User Experience Design 
+
+Proposals must contain information that describes how you will perform user experience and user interface design as a part of the overall user reaserch. The proposal should also contain information about how this research will be translated into relevant user stories and ultimately into working software.
+
+### <a name="4.05"></a>Sec. 4.05 Staffing Plan
 
 Provide a Staffing Plan that describes your understanding of the requirements and details the number of personnel by skill level/labor category needed to satisfy the objectives and requirements in [SECTION 3 SCOPE OF WORK & CONTRACT INFORMATION](#3.01). The Staffing plan is included as part of your seven-page limitation. Resumes and letters of intent are not included as part of your seven-page limitation.
 
@@ -821,7 +826,7 @@ ii. A breakdown of labor categories, including the title, number of personnel, a
 
 iii. A list of Key Personnel by name, title, contact information, proposed duties and roles, and resumes for each proposed Key Personnel in accordance with [SECTION 3.05 Personnel](#3.05). Resumes should include a description of the experience and capability for all Key Personnel proposed for the offeror’s project team. Resumes should also address the individual’s technical background, education, work experience, and accomplishments related to the activities described in this RFP. The proposal of any key personnel not currently employed by the offeror or teaming partners shall be accompanied by letters of intent signed by proposed Key Personnel.
 
-### <a name="4.05"></a>Sec. 4.05 Similar Experience and Qualifications
+### <a name="4.06"></a>Sec. 4.06 Similar Experience and Qualifications
 
 The offeror must provide two examples of web-based platforms. While not required, we strongly prefer that at least one of these projects have been developed and released using open source principles and licensing. The examples provided must reflect aspects of data security, and should show aspects of strong user driven design in a web application. The project must have been delivered by either a) the offeror itself or, alternatively, b) a teaming partner that is proposed in response to this RFP, or, alternatively, c) any Key Personnel that is being proposed in response to this RFP. In the project summary, be sure to identify how the offeror’s team was involved in the development. The project(s) submitted for Similar Experience is included as part of your seven-page limitation, unless noted otherwise below.
 
@@ -831,7 +836,7 @@ i.  Recent and similar technical scope is past experience with building usable, 
 
 ii. The summary shall include links to the public Git repository that includes the source code that was developed and accepted for the project. Actual access to a publicly available Git repository is strongly encouraged over screenshots of private repositories. The summary should also include live links of the final product or current staging environment. If live links are not available, screenshots can be provided, along with a brief explanation as to why the project is no longer live. Note that screenshots will not be counted towards your 7-page limitation; please provide screenshots as attachments. The projects should be recent and similar to the size and technical scope of this requirement.
 
-### <a name="4.06"></a>Sec. 4.06 Verbal Presentation
+### <a name="4.07"></a>Sec. 4.07 Verbal Presentation
 
 Responsive offerors will be invited to participate in a verbal presentation to be evaluated. The verbal presentation will consist of an unstructured question and answer session. The entire verbal presentation will take place remotely via video chat and/or teleconference.
 
@@ -896,7 +901,7 @@ task.
 After the presentations, vendors must email the meeting organizers the
 names of everyone who attended.
 
-### <a name="4.07"></a>Sec. 4.07 Cost Proposal
+### <a name="4.08"></a>Sec. 4.08 Cost Proposal
 
 Cost proposals must include an itemized list of all direct and indirect
 costs associated with the performance of the contract, including, but
@@ -905,7 +910,7 @@ expenses, payroll, supplies, overhead assigned to each person working on
 the project, percentage of each person's time devoted to the project,
 and profit.
 
-### <a name="4.08"></a>Sec. 4.08 Evaluation Criteria
+### <a name="4.09"></a>Sec. 4.09 Evaluation Criteria
 
 All proposals will be reviewed to determine if they are responsive. Proposals determined to be responsive will be evaluated using the criterion that is set out in [SECTION 5 EVALUATION CRITERIA AND CONTRACTOR SELECTION](#5.01).
 
