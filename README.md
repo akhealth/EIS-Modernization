@@ -143,14 +143,7 @@ Key documents
 * Link to the Worker Portal User Acceptance Testing Environment: https://uat.myaries.alaska.gov 
 
 ## Technology requirements
-We are working on the Microsoft technology stack, specifically:
-
-* C# and [.NET Core](https://www.microsoft.com/net/core)
-* Code is deployed to the [Azure](https://github.com/AlaskaDHSS/DevSecOpsMvp/blob/master/Azure.md) cloud platform ([Azure App Service](https://azure.microsoft.com/en-us/services/app-service/) for application hosting and [Azure Hybrid Connection](https://docs.microsoft.com/en-us/azure/biztalk-services/integration-hybrid-connection-overview) for connecting to backend data sources) 
-* We prefer virtualized development environments like Docker. See our [Prototype application](https://github.com/AlaskaDHSS/ProtoWebApi) for Docker examples
-* We are using [VSTS](https://alaskadhssba.visualstudio.com/) for SCM(git), CI, and CD.
-
-See [our DevSecOps document](https://github.com/AlaskaDHSS/DevSecOpsMvp/blob/master/DevSecOps.md) for further details.
+We are working with the Microsoft technology stack. Please see [DevSecOps.md](/DevSecOps.md) for specific requirements.
 
 See our [How we Work document](https://github.com/AlaskaDHSS/acq-alaska-dhss-modernization/blob/master/how-we-work.md#accepting-vendor-work) for more about how we work with external venors, accept code, and coduct code reviews.
 
