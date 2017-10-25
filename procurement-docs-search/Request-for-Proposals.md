@@ -83,12 +83,13 @@ jon.geselle@alaska.gov<br>
 - [Sec. 4.09	Evaluation Criteria](#4.09)
 
 ### Section 5.	EVALUATION CRITERIA AND CONTRACTOR SELECTION	17
-- [Sec. 5.01	Technical Understanding and Approach (5%)](#5.01)
-- [Sec. 5.02	Staffing Plan (5%)](#5.02)
-- [Sec. 5.03	Similar Experience (5%)](#5.03)
-- [Sec. 5.04	Verbal Presentation (35%)](#5.04)
-- [Sec. 5.05	Contract Cost (40%)](#5.05)
-- [Sec. 5.06	Alaska Offeror Preference (10%)](#5.06)
+- [Sec. 5.01	Technical Understanding and Approach (10%)](#5.01)
+- [Sec. 5.02	Approach to User Interface and User Experience Design (5%)](#5.02)
+- [Sec. 5.03    Staffing Plan (10%)](#5.03)
+- [Sec. 5.04	Similar Experience (10%)](#5.04)
+- [Sec. 5.05	Verbal Presentation (35%)](#5.05)
+- [Sec. 5.06	Contract Cost (20%)](#5.06)
+- [Sec. 5.07	Alaska Offeror Preference (10%)](#5.07)
 
 ### Section 6.	GENERAL PROCESS INFORMATION
 - [Sec. 6.01	Informal Debriefing](#6.01)
@@ -920,37 +921,39 @@ An evaluation may not be based on discrimination due to the race, religion, colo
 
 **THE TOTAL NUMBER OF POINTS USED TO SCORE THIS PROPOSAL IS 1,000**
 
-### <a name="5.01"></a>Sec. 5.01 Technical Understanding And Approach (5%)
+### <a name="5.01"></a>Sec. 5.01 Technical Understanding And Approach (10%)
 
 The State will evaluate the offeror’s technical approach: level of
 knowledge, technical expertise, and overall understanding of the
 requirement. The State will also evaluate the offeror’s skills with open
-source software development, human-centered design, and continuous
-deployment methods.
+source software development and continuous deployment methods.
 
-### <a name="5.02"></a>Sec. 5.02 Staffing Plan (5%)
+### <a name="5.02"></a>Sec. 5.02 Approach to User Interface and User Experience Design (5%)
 
-The Government will evaluate the offeror’s proposed staffing methodology
+The State will evaluate the offeror's approach to user interface and user experience as they relate to the creation of user stories and delivery of working software.
+
+### <a name="5.03"></a>Sec. 5.03 Staffing Plan (10%)
+
+The State will evaluate the offeror’s proposed staffing methodology
 and skill levels/labor categories as well as the availability and
 relevant work experience demonstrated by Key Personnel.
 
-### <a name="5.03"></a>Sec. 5.03 Similar Experience (5%)
+### <a name="5.04"></a>Sec. 5.04 Similar Experience (10%)
 
 The State will evaluate the offeror’s experience in performing projects
 of similar scope and complexity. The State will also evaluate the
 offeror’s experience with open source software development,
 human-centered design, and continuous deployment methods.
 
-### <a name="5.04"></a>Sec. 5.04 Verbal Presentation (35%)
+### <a name="5.05"></a>Sec. 5.05 Verbal Presentation (35%)
 
 The State will evaluate the offeror’s response to questions regarding
 the technical aspects of the proposal as discussed during the verbal
 presentation.
 
-### <a name="5.05"></a>Sec. 5.05 Contract Cost (40%)
+### <a name="5.06"></a>Sec. 5.06 Contract Cost (20%)
 
-Overall, a minimum of 40%
-of the total evaluation points will be assigned to cost. The cost amount
+Overall, 20% of the total evaluation points will be assigned to cost. The cost amount
 used for evaluation may be affected by one or more of the preferences
 referenced under [SECTION 6.12 Alaska Veteran Preference](#6.12).
 
@@ -960,7 +963,7 @@ The lowest cost proposal will receive the maximum number of points
 allocated to cost. The point allocations for cost on the other proposals
 will be determined through the method set out in [SECTION 6.14 Formula Used to Convert Cost to Points](#6.14).
 
-### <a name="5.06"></a>Sec. 5.06 Alaska Offeror Preference (10%)
+### <a name="5.07"></a>Sec. 5.07 Alaska Offeror Preference (10%)
 
 If an offeror qualifies for the Alaska Bidder Preference, the offeror will receive an Alaska Offeror Preference. The preference will be 10% of the total available points. This amount will be added to the overall evaluation score of each Alaskan offeror.
 
@@ -1701,17 +1704,17 @@ RFP Number: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 THE TOTAL NUMBER OF POINTS USED TO SCORE THIS PROPOSAL IS 1,000
 
-**5.01 Technical Understanding and Approach—5 Percent**
+**5.01 Technical Understanding and Approach—10 Percent**
 
-**Maximum Point Value for this Section - 50 Points**
+**Maximum Point Value for this Section - 100 Points**
 
-**1,000 Points x 5 Percent = 50 Points**
+**1,000 Points x 10 Percent = 100 Points**
 
 NOTES:
 
 **EVALUATOR'S POINT TOTAL FOR 5.01: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-**5.02 Staffing Plan—5 Percent**
+**5.02 Approach to User Interface and User Experience Design—5 Percent**
 
 **Maximum Point Value for this Section - 50 Points**
 
@@ -1721,15 +1724,25 @@ NOTES:
 
 **EVALUATOR'S POINT TOTAL FOR 5.02: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-**5.03 Similar Experience—5 Percent**
+**5.03 Staffing Plan—10 Percent**
 
-**Maximum Point Value for this Section - 50 Points**
+**Maximum Point Value for this Section - 100 Points**
 
-**1,000 Points x 5 Percent = 50 Points**
+**1,000 Points x 10 Percent = 100 Points**
 
 NOTES:
 
 **EVALUATOR'S POINT TOTAL FOR 5.03: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+**5.04 Similar Experience—10 Percent**
+
+**Maximum Point Value for this Section - 100 Points**
+
+**1,000 Points x 10 Percent = 100 Points**
+
+NOTES:
+
+**EVALUATOR'S POINT TOTAL FOR 5.04: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **5.04 Verbal Presentation—35 Percent**
 
@@ -1739,7 +1752,7 @@ NOTES:
 
 NOTES:
 
-**EVALUATOR'S POINT TOTAL FOR 5.04: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+**EVALUATOR'S POINT TOTAL FOR 5.05: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **EVALUATOR'S COMBINED POINT TOTAL FOR ALL EVALUATED SECTIONS:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
