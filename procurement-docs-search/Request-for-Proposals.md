@@ -89,7 +89,7 @@ jon.geselle@alaska.gov<br>
 - [Sec. 5.03	Approach to User Interface and User Experience Design (5%)](#5.03)
 - [Sec. 5.04    Staffing Plan (10%)](#5.04)
 - [Sec. 5.05	Similar Experience (10%)](#5.05)
-- [Sec. 5.06	Verbal Presentation (35%)](#5.06)
+- [Sec. 5.06	Verbal Presentation (30%)](#5.06)
 - [Sec. 5.07	Contract Cost (20%)](#5.07)
 - [Sec. 5.08	Alaska Offeror Preference (10%)](#5.08)
 
