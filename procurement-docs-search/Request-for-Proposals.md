@@ -599,7 +599,6 @@ Code Repository of Product | Continuously delivered throughout contract | Versio
 Research | A research plan shall be delivered during the first sprint. Research-related records shall be delivered at the end of the second sprint and every applicable sprint. thereafter | A summary of research conducted and results found. If applicable, next steps or recommendations based on research.
 Design Deliverables | End of every applicable sprint | Mock ups and/or design files if applicable, or design changes reflected in the Development Prototype.
 
-
 The contractor shall submit all deliverables to the Alaska product team.
 
 **Delivery Instructions**
@@ -1528,9 +1527,9 @@ The following standard is applicable for compliance:
 
 The contractor should review the following websites for additional 508
 information:
-[https://www.section508.gov/](https://www.section508.gov/)
 
-<http://www.w3.org/WAI/Resources>
+* [https://www.section508.gov/](https://www.section508.gov/)
+* [http://www.w3.org/WAI/Resources](http://www.w3.org/WAI/Resources)
 
 ## Section 8. EXHIBITS
 
