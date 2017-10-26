@@ -36,9 +36,9 @@ Moving forward we plan to:
 - Share identity/authentication across the system for fluid user movement between pages/modules
 - Treat the homepage and search as primary means of navigation across the system
 
-**We have developed a [demonstration website](http://federalist.18f.gov.s3-website-us-east-1.amazonaws.com/site/18f/united/portal.html) that illustrates these patterns.** 
+**We have developed a [demonstration website](https://federalist-proxy.app.cloud.gov/site/18f/ak-modular-experience/portal.html) that illustrates these patterns.** 
 
-[![Screenshot of demonstration website ](assets/product-architecture-demo.jpg)](http://federalist.18f.gov.s3-website-us-east-1.amazonaws.com/site/18f/united/portal.html)
+[![Screenshot of demonstration website ](assets/product-architecture-demo.jpg)](https://federalist-proxy.app.cloud.gov/site/18f/ak-modular-experience/portal.html)
 
 For new modules being developed, each will adopt a global header comprised of the ARIES logo/link to home, breadcrumb navigation, link to search start screen, the user's name and office, and logout button. All modules would load efficiently across geographies and display/function properly on different device types and using various modern and necessary browsers. Module teams are not responsible for user interface elements outside of their module.
 
