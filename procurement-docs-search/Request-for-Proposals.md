@@ -842,7 +842,7 @@ ii. A breakdown of labor categories, including the title, number of personnel, a
 
 iii. A list of Key Personnel by name, title, contact information, proposed duties and roles, and resumes for each proposed Key Personnel in accordance with [SECTION 3.05 Personnel](#3.05). Resumes should include a description of the experience and capability for all Key Personnel proposed for the offeror’s project team. Resumes should also address the individual’s technical background, education, work experience, and accomplishments related to the activities described in this RFP. The proposal of any key personnel not currently employed by the offeror or teaming partners shall be accompanied by letters of intent signed by proposed Key Personnel.
 
-### <a name="4.07></a>Sec. 4.07 Similar Experience and Qualifications
+### <a name="4.07"></a>Sec. 4.07 Similar Experience and Qualifications
 
 The offeror must provide two examples of web-based platforms. While not required, we strongly prefer that at least one of these projects have been developed and released using open source principles and licensing. The examples provided must reflect aspects of data security, and should show aspects of strong user driven design in a web application. The project must have been delivered by either a) the offeror itself or, alternatively, b) a teaming partner that is proposed in response to this RFP, or, alternatively, c) any Key Personnel that is being proposed in response to this RFP. In the project summary, be sure to identify how the offeror’s team was involved in the development. The project(s) submitted for Similar Experience is included as part of your seven-page limitation, unless noted otherwise below.
 
