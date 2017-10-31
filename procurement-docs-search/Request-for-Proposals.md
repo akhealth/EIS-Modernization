@@ -810,7 +810,7 @@ Proposals must confirm that the offeror will comply with all provisions in this 
 
 ### <a name="4.03"></a>Sec. 4.03 Technical Understanding And Approach
 
-Succinctly describe level of knowledge, technical expertise and overall understanding of the requirement as set forth in [SECTION 3 SCOPE OF WORK & CONTRACT INFORMATION](#3.01). Technical understanding and approach description is included as part of your seven-page limitation.
+Succinctly describe level of knowledge, technical expertise and overall understanding of the requirement as set forth in [SECTION 3 SCOPE OF WORK & CONTRACT INFORMATION](#3.01). This is also an opportunity to discuss, either in the written proposal or during the verbal presentation, any risks or opportunities associated withthe Technology Services discussed in the Information Technology Requirements (NEED TO CREATE LINK).  Technical understanding and approach description is included as part of your seven-page limitation.
 
 ### <a name="4.04"></a>Sec. 4.04 Project Management Approach
 
