@@ -1,4 +1,4 @@
-![](media/image1.png)
+![](output/media/image1.png)
 
 **Information Technology Requirements**
 
@@ -19,7 +19,7 @@ TABLE OF CONTENTS
 [2 Technical Qualifications Response
 5](#technical-qualifications-response)
 
-[2.1 Minimum Qualifications 5](#minimum-qualifications)
+[2.1 Minimum Qualifications 5](#_Toc479149614)
 
 [2.2 Understanding of the Technical Aspects of the Project
 5](#understanding-of-the-technical-aspects-of-the-project)
@@ -165,6 +165,8 @@ below.
 | Accessibility                                                     | Services to define IT accessibility standards. In practical terms, DHSS aims to meet the State of Alaska compliance program with the American’s with Disabilities Act                                             |
 | MITA/NHSIA                                                        | Services to support community of practice style adoption of MITA/NHSIA standards                                                                                                                                  |
 
+![](output/media/image2.emf)
+
 So, what does all this mean for you, the Offeror? Simple: DHSS has a
 monitored, managed, secure IT environment. We have about 115 IT staff
 supporting 3000+ program staff via various IT service lines. New IT
@@ -238,19 +240,12 @@ are managing it – we all start with a solid foundation.
 
 # Technical Qualifications Response
 
-## Minimum Qualifications
-
-Offerors must complete Appendix C—DHSS IT Response Matrix, which
-correspond to the requirements described in Section 3 of this document,
-and return it as part of their proposal. Proposals that do not include
-this information will be deemed non-responsive.
-
 ## Understanding of the Technical Aspects of the Project
 
 We encourage you to read each section and consider the implications of
 working inside the DHSS IT Environment. We expect to gauge your
-understanding of the technical aspects of the project from your response
-to Appendix C – DHSS IT Response Matrix.
+understanding of the technical aspects of the project from your written
+proposal and during verbal presentation.
 
 # State of Alaska DHSS Technology Services and Standards
 
@@ -320,6 +315,8 @@ service-lines for specific DHSS IT initiatives and procurements.
 
 Engagement and Service Delivery Management Services is matrixed per the
 following organizational mapping:
+
+![](output/media/image3.emf)
 
 ### Contract Negotiations IT Review and Approval
 
@@ -457,6 +454,8 @@ Our Asset Management Services supports other DHSS IT service lines
 through processes and tools that implement version control, software
 license inventory and software procurement assurances. Asset Management
 Services is matrixed per the following organizational mapping:
+
+![](output/media/image4.emf)
 
 ### Artifact Version Management
 
@@ -600,6 +599,8 @@ system architecture design and development, integration between DHSS
 systems, and information system design, development and implementation.
 This is where we define our platform standards. This service line is
 matrixed per the following organizational mapping:
+
+![](output/media/image5.emf)
 
 Just like any business, we have stretch our dollars. In Systems
 Integration and DDI (design, development and implementation) Services we
@@ -783,6 +784,8 @@ administration services that support solutions operating in production.
 System Operations and Administration Services is matrixed per the
 following organizational mapping:
 
+![](output/media/image6.emf)
+
 ### Administration Services and Standards
 
 DHSS IT operate and manage technical services for DHSS information
@@ -857,6 +860,8 @@ information system.
 
 Information Security Compliance and Privacy Services is matrixed per the
 following organizational mapping:
+
+![](output/media/image7.emf)
 
 In our agile acquisition practice, security is addressed via our
 DevSecOps practice. This DevSecOps practice is evolving and intends to
@@ -937,7 +942,7 @@ Standards – Security Plan Template.
 > Contractor shall submit a final Security Plan within two (2) weeks of
 > receipt of State’s comments on the draft Security plan.
 
-![](media/image8.emf)
+![](output/media/image8.emf)
 
 #### Requirement – Security Control Verification
 
@@ -1031,6 +1036,8 @@ desktops.
 
 Enterprise Desktop and Mobility Services is matrixed per the following
 organizational mapping:
+
+![](output/media/image9.emf)
 
 ### Desktop Access and Configuration
 
@@ -1172,6 +1179,8 @@ Dynamics CRM.
 DHSS Hosting and Datacenter Services is matrixed per the following
 organizational mapping:
 
+![](output/media/image10.emf)
+
 Within our agile acquisition practice, we expect to work with you to
 design and implement components that will run either within our
 datacenters or within an Azure cloud tenant that we manage.
@@ -1272,6 +1281,8 @@ Service Desk Manager (SDM).
 
 DHSS Wide Area Network, Telecommunications, and Perimeter Services is
 matrixed per the following organizational mapping:
+
+![](output/media/image11.emf)
 
 In our agile acquisition practice, we expect to work closely with you to
 ensure that all activities and work-products that require changes to the
