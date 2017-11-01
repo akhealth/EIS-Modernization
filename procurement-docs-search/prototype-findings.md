@@ -92,8 +92,7 @@ within public Github repos) as a supplement to the
  AG. The most efficient method of accessing this data seems to be a
  simple RESTful service layer that runs on top of [EntireX
  Broker](http://www.softwareag.com/corporate/products/adabas_natural/appl_mod/products/entirex/how_it_works/default.asp)
- & small custom Natural programs to access ADABAS, but we did not have
- the opportunity to evaluate this directly.
+ and small, custom Natural programs to access ADABAS. This latter approach was succesfully tested as part of our prototype work.
 
  Our prototype work ended up involving a number of representatives from
  the department and state security offices, and both groups have become
