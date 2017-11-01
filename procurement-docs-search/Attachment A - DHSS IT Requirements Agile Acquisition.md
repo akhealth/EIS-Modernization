@@ -942,7 +942,7 @@ Standards – Security Plan Template.
 > Contractor shall submit a final Security Plan within two (2) weeks of
 > receipt of State’s comments on the draft Security plan.
 
-![](./media/image8.emf)
+![](./media/image8.png)
 
 #### Requirement – Security Control Verification
 
