@@ -1,4 +1,4 @@
-![](output/media/image1.png)
+![](./media/image1.png)
 
 **Information Technology Requirements**
 
@@ -165,7 +165,7 @@ below.
 | Accessibility                                                     | Services to define IT accessibility standards. In practical terms, DHSS aims to meet the State of Alaska compliance program with the American’s with Disabilities Act                                             |
 | MITA/NHSIA                                                        | Services to support community of practice style adoption of MITA/NHSIA standards                                                                                                                                  |
 
-![](output/media/image2.emf)
+![](./media/image2.emf)
 
 So, what does all this mean for you, the Offeror? Simple: DHSS has a
 monitored, managed, secure IT environment. We have about 115 IT staff
@@ -316,7 +316,7 @@ service-lines for specific DHSS IT initiatives and procurements.
 Engagement and Service Delivery Management Services is matrixed per the
 following organizational mapping:
 
-![](output/media/image3.emf)
+![](./media/image3.emf)
 
 ### Contract Negotiations IT Review and Approval
 
@@ -455,7 +455,7 @@ through processes and tools that implement version control, software
 license inventory and software procurement assurances. Asset Management
 Services is matrixed per the following organizational mapping:
 
-![](output/media/image4.emf)
+![](./media/image4.emf)
 
 ### Artifact Version Management
 
@@ -600,7 +600,7 @@ systems, and information system design, development and implementation.
 This is where we define our platform standards. This service line is
 matrixed per the following organizational mapping:
 
-![](output/media/image5.emf)
+![](./media/image5.emf)
 
 Just like any business, we have stretch our dollars. In Systems
 Integration and DDI (design, development and implementation) Services we
@@ -784,7 +784,7 @@ administration services that support solutions operating in production.
 System Operations and Administration Services is matrixed per the
 following organizational mapping:
 
-![](output/media/image6.emf)
+![](./media/image6.emf)
 
 ### Administration Services and Standards
 
@@ -861,7 +861,7 @@ information system.
 Information Security Compliance and Privacy Services is matrixed per the
 following organizational mapping:
 
-![](output/media/image7.emf)
+![](./media/image7.emf)
 
 In our agile acquisition practice, security is addressed via our
 DevSecOps practice. This DevSecOps practice is evolving and intends to
@@ -942,7 +942,7 @@ Standards – Security Plan Template.
 > Contractor shall submit a final Security Plan within two (2) weeks of
 > receipt of State’s comments on the draft Security plan.
 
-![](output/media/image8.emf)
+![](./media/image8.emf)
 
 #### Requirement – Security Control Verification
 
@@ -1037,7 +1037,7 @@ desktops.
 Enterprise Desktop and Mobility Services is matrixed per the following
 organizational mapping:
 
-![](output/media/image9.emf)
+![](./media/image9.emf)
 
 ### Desktop Access and Configuration
 
@@ -1179,7 +1179,7 @@ Dynamics CRM.
 DHSS Hosting and Datacenter Services is matrixed per the following
 organizational mapping:
 
-![](output/media/image10.emf)
+![](./media/image10.emf)
 
 Within our agile acquisition practice, we expect to work with you to
 design and implement components that will run either within our
@@ -1282,7 +1282,7 @@ Service Desk Manager (SDM).
 DHSS Wide Area Network, Telecommunications, and Perimeter Services is
 matrixed per the following organizational mapping:
 
-![](output/media/image11.emf)
+![](./media/image11.emf)
 
 In our agile acquisition practice, we expect to work closely with you to
 ensure that all activities and work-products that require changes to the
