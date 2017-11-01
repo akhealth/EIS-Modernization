@@ -214,8 +214,8 @@ requirements related to desktop and mobile endpoints in the “Enterprise
 Desktop Services and Standards” section.
 
 Note that specific technology product standards are located in
-*Attachment D: DHSS IT Technology Standards*, which is structured
-similarly to the IT Requirements document.
+*Attachment D: DHSS Information Technology Standards*, which is
+structured similarly to the IT Requirements document.
 
 ## Operational Delivery Models
 
@@ -355,8 +355,13 @@ detailed planning with you about each service line. This isn’t as much
 about creating a formal waterfall-style work plan as it is about
 agreeing on some target timelines and specific services-engagements
 and/or work-products within the service line that we both need to
-complete to
-succeed.
+complete to succeed.
+
+In our agile acquisition practice, we expect to work with you on service
+line engagement planning during the first couple sprints and as needed
+after that time. Since you will be working at our direction, this will
+meet the intent of requirement 3.2.3.1
+below.
 
 #### Requirement – DHSS IT Service Line Engagement and Planning Workshops
 
@@ -398,13 +403,10 @@ learn better ways of doing things.
 > to maintain and synchronize requirements, documentation, service
 > requests or other artifacts applicable to the DHSS IT service line.
 > 
-> Whichever tools are selected, the Offeror must document agreed upon
-> decisions made with DHSS IT and DHSS Program staff.
-> 
-> For efficiency, the Offeror may choose to perform this activity in
-> bulk across all DHSS IT service lines once the results of the Service
-> Alignment Conference are finalized, or as an element of the Service
-> Line Engagement and Planning, or both.
+> For efficiency, the Offeror may choose to perform this alignment
+> activity in bulk across all DHSS IT service lines once the results of
+> the Service Alignment Conference are finalized, or as an element of
+> the Service Line Engagement and Planning, or both.
 > 
 > DHSS IT Service Line Management Processes and Tools are reviewed and
 > improved over time. If more than 3 months passes between the process
@@ -460,14 +462,22 @@ Services is matrixed per the following organizational mapping:
 ### Artifact Version Management
 
 We operate a leading application lifecycle management (ALM) solution.
-See Attachment D—Alaska Department of Health and Social Services IT
-Technology Standards for details on this tool. We’re sure it won’t
-surprise you that the folks who pay the bills want us to receive and
-manage the artifacts you create. In our agile acquisition practice we
-have added service supports to create/transfer artifacts directly into
-our State managed ALM solution. By providing these tools and processes,
-our goal is release you from the overhead of standing up these systems
-and both of us from the overhead of duplicating effort\!
+See *Attachment D—DHSS Information Technology Standards* for details on
+this tool. We’re sure it won’t surprise you that the folks who pay the
+bills want us to receive and manage the artifacts you create. In our
+agile acquisition practice we have added service supports to
+create/transfer artifacts directly into our State managed ALM solution.
+By providing these tools and processes, our goal is release you from the
+overhead of standing up these systems and both of us from the overhead
+of duplicating effort\!
+
+In our agile acquisition practice, we expect you to define work within
+our ALM work-item structure and associate change sets with that work. We
+also expect you to clone Git repositories from our ALM solution,
+complete work and deliver that work regularly by pushing branches and
+submitting pull requests. This is outlined in detail in our DevSecOpsMVP
+repository’s [Git Branching
+Strategy](https://github.com/AlaskaDHSS/DevSecOpsMvp/blob/master/vsts/GitBranchingStrategy.md).
 
 #### Requirement
 
@@ -566,7 +576,7 @@ of a file or contained in a license file within a software repository.
 
 > The State shall have full and complete access to all source code,
 > documentation, utilities, software tools and other similar items used
-> to develop/install the proposed solution or may be useful in
+> to develop/install the proposed solution or that may be useful in
 > maintaining or enhancing the equipment and solution after it is
 > operating in a production environment.
 
@@ -575,7 +585,10 @@ of a file or contained in a license file within a software repository.
 Sometimes we are not the only one paying the bill. When the federal
 government is buying services to write software and create new
 solutions, they require that the result does not become intellectual,
-copyrighted private property. We respect that.
+copyrighted private property. We respect that. All software created as a
+product of this engagement will be released in the public domain under
+[Creative Commons zero (CC0)
+licensing](https://creativecommons.org/share-your-work/public-domain/cc0/).
 
 #### Requirement
 
@@ -711,21 +724,22 @@ lifecycle (SecDLC). We expect you to align your proposal, processes and
 work-products with this DHSS standard technical services platform.
 
 DHSS IT operates a leading application lifecycle management (ALM)
-platform. See Attachment D for details on this tool. We expect you will
-use a work management system and continuous integration and continuous
-deployment pipeline that we implement for you on our instance of the ALM
-platform.
+platform. See *Attachment D—DHSS Information Technology Standards* for
+details on this tool. We expect you will use a work management system
+and continuous integration and continuous deployment pipeline that we
+implement for you on our instance of the ALM platform. By operating this
+way, you will automatically meet requirement 3.5.4.2.
 
 #### Requirement – Development Platform
 
-> The Offeror will use the software identified in Attachment D for the
-> development and deployment of this application. The Offeror must
-> collaborate with the State to determine all development and operating
-> platform software and versions the application components are designed
-> in, and how this solution will be accessed in the DHSS environment. In
-> this collaboration, the State and the Offeror will identify what
-> skills and expertise would be needed to support any proposed changes
-> to the DHSS IT Environment.
+> The Offeror will use the software identified in *Attachment D—DHSS
+> Information Technology Standards* for the development and deployment
+> of this application. The Offeror must collaborate with the State to
+> determine all development and operating platform software and versions
+> the application components are designed in, and how this solution will
+> be accessed in the DHSS environment. In this collaboration, the State
+> and the Offeror will identify what skills and expertise would be
+> needed to support any proposed changes to the DHSS IT Environment.
 
 #### Requirement – Software Development Lifecycle (SDLC)
 
@@ -824,14 +838,14 @@ components
 |                                               | Microsoft SQL Server Reporting Services |
 |                                               | Microsoft SharePoint                    |
 
-See Attachment D for the list of actual technical service components
-administered by DHSS IT within the System Operations and Administration
-Services service line.
+See *Attachment D—DHSS Information Technology Standards* for the list of
+actual technical service components administered by DHSS IT within the
+System Operations and Administration Services service line.
 
 #### Requirement – Centralized Technical Administration
 
 > The Offeror must understand that non-IT, DHSS program staff do not
-> manage or administer technical services. Non-IT, program staff may be
+> manage or administer technical services. Non-IT program staff may be
 > delegated administration of business services, such as security roles
 > within the application, or code-lookup table maintenance through a
 > privileged, secured application user-interface that logs all data
@@ -843,9 +857,12 @@ Services service line.
 > designs with DHSS IT stakeholders in the System Operations and
 > Administration Services service line.
 > 
-> The Offeror must include appropriate documentation and training
-> activities for DHSS IT staff in the technical services administration
-> for the proposed solution.
+> The Offeror must strive to extend DevSecOpsMVP principles and
+> repository content in their approach to all configuration change items
+> required for target environments, and must engage the System
+> Operations and Administration staff allocated to the project to
+> collaboratively design, implement and use the resulting processes and
+> tools.
 
 ## Information Security Compliance and Privacy Services and Standards
 
@@ -883,7 +900,7 @@ have to destroy some data.
     Security Policy 143 and DHSS “SOP Information Disposal”. In the
     circumstance we share data with you, you will destroy data using
     comparable techniques and under your Business Associates Agreement
-    with DHSS (where applicable).
+    with DHSS (when applicable).
 
 ####  Requirement – Record Retention
 
@@ -918,13 +935,19 @@ Department’s current IT security standards are provided in Attachment
 H—Security Standards - NIST800-53 Controls, and Attachment G: Security
 Standards – Security Plan Template.
 
+We use a FIPS-199 based process to assess business impacts and select
+controls. Generally, a moderate impact categorized system will use a
+NIST 800-66 HIPAA control set, though some federally funded systems have
+additional security control requirements mandated by the sponsoring
+agency.
+
 #### Requirement – Security Plan
 
 > Within the proposed scope of work and activities, the Offeror must
-> develop and submit:
+> collaborate with the State to develop and submit:
 
   - A complete State Security Plan Framework (Attachment H) for review
-    and approval by the state.
+    and approval by the Department Security Office.
 
   - The Security Plan (Attachment G) shall be compliant with, and
     reference (where appropriate) all State (enterprise) and DHSS IT
@@ -932,15 +955,14 @@ Standards – Security Plan Template.
     legislation. The State will facilitate the development and approval
     of the plan.
 
-> The Master Project Management Plan will detail the contractor's
-> approach to all facets of security in relation to the proposed
-> application. They will include listings of detailed tasks with task
-> descriptions and schedules. The contractor shall submit to the State
-> Project Manager draft versions of each Security plan for review and
-> comment within four (4) weeks of the project‘s initiation. State
-> comments shall be returned to the Contractor two weeks later.
-> Contractor shall submit a final Security Plan within two (2) weeks of
-> receipt of State’s comments on the draft Security plan.
+> The Offeror and the State will leverage the product backlog to define
+> and execute security related activities, including activities to
+> complete security plans and/or security plan updates. Due to the
+> complexities of the required security planning documentation, the
+> Offeror will roadmap the security plan development approach with the
+> State within the first two iterations of contract execution. This
+> roadmap will be submitted to the Department Security Office and/or
+> their designees for review and approval.
 
 ![](./media/image8.png)
 
@@ -1047,8 +1069,9 @@ approved, supported hardware and software within our IT Environment. We
 also expect to define and develop software and processes that do not
 require elevated privileges to perform normal business functions. This
 approach ensures our Enterprise Desktop and Mobility requirements are
-met. See Attachment D for currently supported hardware, operating
-system(s), web browser version(s) and desktop productivity software.
+met. See *Attachment D—DHSS Information Technology Standards* for
+currently supported hardware, operating system(s), web browser
+version(s) and desktop productivity software.
 
 #### Requirement – Hardware
 
@@ -1162,10 +1185,10 @@ and deploy mobile end-point solutions.
 DHSS Hosting and Datacenter Services include the activities we perform
 to design, implement and operate standard information technology
 infrastructure and platform offerings. We provide virtual
-infrastructure, including geo-redundant host replication. Within the
-limits of our physical processor, memory and storage resources, our
-datacenter staff can rapidly deploy new hosts in a physically and
-logically secure environment.
+infrastructure, including geo-redundant host replication within our
+datacenters. Within the limits of our physical processor, memory and
+storage resources, our datacenter staff can rapidly deploy new hosts in
+a physically and logically secure environment.
 
 Our standard platform is built on the industry leading Microsoft
 architecture and includes the full range of platform services needed to
@@ -1233,13 +1256,14 @@ geo-redundant data centers located in Juneau and Anchorage.
 > to affect change appropriately.
 > 
 > The DHSS Infrastructure and Platform services component standards are
-> located in Attachment D. DHSS is, generally, standardized on Microsoft
-> software components for our on-DHSS premise Platform services.
-> Offerors who propose on-DHSS premise hosted solution components
-> outside the identified DHSS standards are required to provide
-> additional information, including DHSS Platform services aligned
-> alternatives, as outlined in the section *3.9.1.4 Requirement –
-> Hosting Platform Alignment* requirement below.
+> located in *Attachment D—DHSS Information Technology Standards*. DHSS
+> is, generally, standardized on Microsoft software components for our
+> on-DHSS premise Platform services. Offerors who propose on-DHSS
+> premise hosted solution components outside the identified DHSS
+> standards are required to provide additional information, including
+> DHSS Platform services aligned alternatives, as outlined in the
+> section *3.9.1.4 Requirement – Hosting Platform Alignment* requirement
+> below.
 
 #### Requirement – Solution Platform Characteristics
 
@@ -1256,12 +1280,13 @@ geo-redundant data centers located in Juneau and Anchorage.
 
 #### Requirement – Hosting Platform Alignment
 
-> The Offeror will use the software identified in Attachment D for the
-> hosting of this application. The Offeror must state which version the
-> application components are implemented in and how this solution will
-> be accessed in the DHSS environment. You will need to identify what
-> skills and expertise would be needed to support your proposed
-> infrastructure.
+> The Offeror will use the software identified in *Attachment D—DHSS
+> Information Technology Standards* for the hosting of this application.
+> The Offeror must state which version the application components are
+> implemented in and how this solution will be accessed in the DHSS
+> environment. You will need to identify what skills and expertise would
+> be needed to support your proposed
+infrastructure.
 
 ## DHSS Wide Area Network, Telecommunications, and Perimeter Security Services and Standards
 
@@ -1408,18 +1433,20 @@ We want you to understand that we are working with our federal partners
 (the Centers for Medicare and Medicaid Services and the Administration
 for Children and Families) to evolve from a traditional model of
 program-centric administration based on division-level technology needs,
-to a Department-level, enterprise-wide architecture based on the
-leveraging of shared technology and business components. The target
-result for us is a modular, service-oriented and flexible Health
-Information Technology (HIT) architecture, designed to allow the
-Department to meet current and future business needs. We also must meet
-this target with lower operating cost, increased efficiency, and
-improved service.
+to a Department-level, enterprise-wide architecture based on leveraging
+shared technology and business components. The target result for us is a
+modular, service-oriented and flexible Health Information Technology
+(HIT) architecture, designed to allow the Department to meet current and
+future business needs. We also must meet this target with lower
+operating cost, increased efficiency, and improved service.
 
-We hope this will support implementing and sharing of common components
-across Divisions. The full implementation of the Department IT
-Governance Standards establishes the following guiding principles and
-strategies:
+We intend this vision to support implementing and sharing of common
+components across Divisions, and we have implemented a department wide
+formal IT Governance Committee to establish standard governance
+processes for monitoring and approving technology and technology
+use/support changes within DHSS. The full implementation of the
+Department IT Governance Standards establishes the following guiding
+principles and strategies:
 
   - Maximize use of Department HIT expenditures through reuse of shared
     technology and business services, allowing functionality and
