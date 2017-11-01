@@ -6,7 +6,7 @@ Our basic principles are those familiar to anybody who has contributed to a prom
 
 * We produce open source software, created and maintained in repositories where it may be inspected by the public who places their trust in it and copied for use by other agencies.
 * We adhere to the basic practices of agile software development, using the Scrum development framework.
-* We use DevOps to automate and measure our deployment process, relying on continuous integration, continuous delivery, and continuous security to ensure that our work is high-quality. 
+* We use DevSecOps to automate and measure our deployment process, relying on continuous integration, continuous delivery, and continuous security to ensure that our work is high-quality. 
 * We practice human-centered design. Everything that we produce is highly accessible, per WCAG 2.0. We build APIs before we build software atop it, and we believe that APIs require a well-designed interface. 
 * We include and enforce codes of conduct, to foster an open, collaborative, welcoming environment. 
 * We reduce system modifications to the smallest self-contained module, and procure each of those modifications via a unique RFP.
@@ -75,7 +75,7 @@ New features must have functional definitions of the thing that they are to perf
 
 ## Pull Request Process
 
-Documented in our [DevOpsMVP repo](https://github.com/dhssalaska/DevOpsMvp/blob/master/vsts/GitBranchingStrategy.md).
+Documented in our [DevSecOpsMVP repo](https://github.com/AlaskaDHSS/DevSecOpsMvp/blob/master/vsts/GitBranchingStrategy.md).
 
 ## Code Review Process
 
@@ -152,6 +152,6 @@ We use the [TTS Slack](https://gsa-tts.slack.com/) for communication that falls 
 
 ## Processes
 
-#### DevOps
-We rely on [DevOps](https://github.com/dhssalaska/acq-alaska-dhss-modernization/blob/master/DevOps.md) for automation and monitoring of code integration, testing, and deployment. Our DevOps pipeline is built atop VSTS (not GitHub) for deployment to Azure. We practice continuous integration, continuous deployment, and continuous testing (including security testing). All new code has tests developed simultaneously, with cumulative test coverage of not less than 90%. See “Accepting Vendor Work” for more.
-For details, see our [“Why DevOps?” document](https://github.com/dhssalaska/DevOpsMvp/blob/master/DevOps.md), in Github.
+#### DevSecOps
+We rely on [DevSecOps](https://github.com/dhssalaska/acq-alaska-dhss-modernization/blob/master/DevSecOps.md) for automation and monitoring of code integration, testing, and deployment. Our DevSecOps pipeline is built atop VSTS (not GitHub) for deployment to Azure. We practice continuous integration, continuous deployment, and continuous testing (including security testing). All new code has tests developed simultaneously, with cumulative test coverage of not less than 90%. See “Accepting Vendor Work” for more.
+For details, see our [“Why DevSecOps?” document](https://github.com/dhssalaska/DevSecOpsMvp/blob/master/DevSecOps.md), in Github.
