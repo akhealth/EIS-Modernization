@@ -75,7 +75,7 @@ New features must have functional definitions of the thing that they are to perf
 
 ## Pull Request Process
 
-Documented in our [DevOpsMVP repo](https://github.com/dhssalaska/DevOpsMvp/blob/master/vsts/GitBranchingStrategy.md).
+Documented in our [DevOpsMVP repo](https://github.com/AlaskaDHSS/DevSecOpsMvp/blob/master/vsts/GitBranchingStrategy.md).
 
 ## Code Review Process
 
