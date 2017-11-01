@@ -6,7 +6,8 @@ Our basic principles are those familiar to anybody who has contributed to a prom
 
 * We produce open source software, created and maintained in repositories where it may be inspected by the public who places their trust in it and copied for use by other agencies.
 * We adhere to the basic practices of agile software development, using the Scrum development framework.
-* We use DevSecOps to automate and measure our deployment process, relying on continuous integration, continuous delivery, and continuous security to ensure that our work is high-quality. * We practice human-centered design. Everything that we produce is highly accessible, per WCAG 2.0. We build APIs before we build software atop it, and we believe that APIs require a well-designed interface. 
+* We use DevSecOps to automate and measure our deployment process, relying on continuous integration, continuous delivery, and continuous security to ensure that our work is high-quality. 
+* We practice human-centered design. Everything that we produce is highly accessible, per WCAG 2.0. We build APIs before we build software atop it, and we believe that APIs require a well-designed interface. 
 * We include and enforce codes of conduct, to foster an open, collaborative, welcoming environment. 
 * We reduce system modifications to the smallest self-contained module, and procure each of those modifications via a unique RFP.
 * Finally, we believe in having the relevant decision-makers at the table during all meetings, to maximize efficiency and maintain momentum.
