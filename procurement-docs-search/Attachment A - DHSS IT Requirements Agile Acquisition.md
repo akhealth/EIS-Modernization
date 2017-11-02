@@ -8,61 +8,42 @@ Department of Health & Social Services
 
 TABLE OF CONTENTS
 
-[1 Purpose of IT Requirements
-2](#purpose-of-it-requirements-for-modular-acquisition)
+[1 Purpose of IT Requirements](#purpose-of-it-requirements-for-modular-acquisition)
 
-[1.1 IT Services Organization Summary
-2](#it-services-organization-summary)
+[1.1 IT Services Organization Summary](#it-services-organization-summary)
 
-[1.2 IT Requirements Intent and Approach 3](#_Toc479149612)
+[1.2 IT Requirements Intent and Approach 3](#it-requirements-intent-and-approach)
 
-[2 Technical Qualifications Response
-5](#technical-qualifications-response)
+[2 Technical Qualifications Response](#technical-qualifications-response)
 
-[2.1 Minimum Qualifications 5](#_Toc479149614)
+[2.1 Understanding of the Technical Aspects of the Project](#understanding-of-the-technical-aspects-of-the-project)
 
-[2.2 Understanding of the Technical Aspects of the Project
-5](#understanding-of-the-technical-aspects-of-the-project)
+[3 State of Alaska DHSS Technology Services, Standards and IT Road Map](#state-of-alaska-dhss-technology-services-and-standards)
 
-[3 State of Alaska DHSS Technology Services, Standards and IT Road Map
-6](#state-of-alaska-dhss-technology-services-and-standards)
+[3.1 DHSS Information Technology Services Staffing Support](#dhss-information-technology-services-staffing-support)
 
-[3.1 DHSS Information Technology Services Staffing Support
-6](#dhss-information-technology-services-staffing-support)
+[3.2 Engagement and Service Delivery Management Services and Standards](#engagement-and-service-delivery-management-services-and-standards)
 
-[3.2 Engagement and Service Delivery Management Services and Standards
-7](#engagement-and-service-delivery-management-services-and-standards)
+[3.3 Project Portfolio Management Services and Standards](#project-portfolio-management-services-and-standards)
 
-[3.3 Project Portfolio Management Services and Standards
-10](#project-portfolio-management-services-and-standards)
+[3.4 Asset Management Services and Standards](#asset-management-services-and-standards)
 
-[3.4 Asset Management Services and Standards
-10](#asset-management-services-and-standards)
+[3.5 Systems Integration and DDI Services and Standards](#systems-integration-and-ddi-services-and-standards)
 
-[3.5 Systems Integration and DDI Services and Standards
-13](#systems-integration-and-ddi-services-and-standards)
+[3.6 Systems Operations and Administration Services and Standards](#systems-operations-and-administration-services-and-standards)
 
-[3.6 Systems Operations and Administration Services and Standards
-16](#systems-operations-and-administration-services-and-standards)
+[3.7 Information Security Compliance and Privacy Services and Standards](#information-security-compliance-and-privacy-services-and-standards)
 
-[3.7 Information Security Compliance and Privacy Services and Standards
-19](#information-security-compliance-and-privacy-services-and-standards)
+[3.8 Enterprise Desktop and Mobility Services and Standards](#enterprise-desktop-and-mobility-services-and-standards)
 
-[3.8 Enterprise Desktop and Mobility Services and Standards
-24](#enterprise-desktop-and-mobility-services-and-standards)
-
-[3.9 DHSS Hosting and Datacenter Services and Standards
-27](#dhss-hosting-and-datacenter-services-and-standards)
+[3.9 DHSS Hosting and Datacenter Services and Standards](#dhss-hosting-and-datacenter-services-and-standards)
 
 [3.10 DHSS Wide Area Network, Telecommunications, and Perimeter Security
-Services and Standards
-30](#dhss-wide-area-network-telecommunications-and-perimeter-security-services-and-standards)
+Services and Standards](#dhss-wide-area-network-telecommunications-and-perimeter-security-services-and-standards)
 
-[3.11 Accessibility 31](#accessibility)
+[3.11 Accessibility](#accessibility)
 
-[3.12 State of Alaska DHSS MITA/NHSIA Standards and Department IT
-Technology Standards
-33](#state-of-alaska-dhss-mitanhsia-standards-and-department-it-governance)
+[3.12 State of Alaska DHSS MITA/NHSIA Standards and Department IT Technology Standards](#state-of-alaska-dhss-mitanhsia-standards-and-department-it-governance)
 
 # Purpose of IT Requirements for Modular Acquisition
 
