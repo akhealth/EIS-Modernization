@@ -23,6 +23,7 @@ There is a cross functional product team for the Alaska DHSS modernization proje
 * Researcher - Vendor
 * Developers (Front-end, Back-end, Full-stack) - Vendor
 * Technical lead - Vendor
+* Scrum Master (or equivalent) - Vendor
 
 This team will participate in all scrum ceremonies in service of prioritizing, defining and delivering value to the department and the public it serves.
 
