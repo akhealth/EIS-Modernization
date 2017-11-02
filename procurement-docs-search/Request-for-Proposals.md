@@ -83,7 +83,7 @@ jon.geselle@alaska.gov<br>
 - [Sec. 4.09	Cost Proposal](#4.09)
 - [Sec. 4.10	Evaluation Criteria](#4.10)
 
-### Section 5.	EVALUATION CRITERIA AND CONTRACTOR SELECTION	17
+### Section 5.	EVALUATION CRITERIA AND CONTRACTOR SELECTION	
 - [Sec. 5.01	Technical Understanding and Approach (10%)](#5.01)
 - [Sec. 5.02	Project Management Approach (5%)](#5.02)
 - [Sec. 5.03	Approach to User Interface and User Experience Design (5%)](#5.03)
@@ -146,7 +146,7 @@ Approval or continuation of a contract resulting from this is contingent upon le
 
 ### <a name="1.03"></a>Sec. 1.03 Deadline for Receipt of Proposals
 
-Proposals must be received no later than 4:00 PM prevailing Alaska Time on November 16, 2017. Faxed, emailed, and oral proposals are not acceptable.
+Proposals must be received no later than 4:00 PM prevailing Alaska Time on November 27, 2017. Faxed, emailed, and oral proposals are not acceptable.
 
 ### <a name="1.04"></a>Sec. 1.04 Minimum Responsiveness
 
@@ -201,7 +201,7 @@ least ten days before the deadline for receipt of proposals.
 
 Questions or comments regarding this RFP shall be submitted as issues
 within the DHSS GitHub repository at &lt;insert link&gt; no later than
-5:00 PM (Alaska Prevailing time) on November 7, 2017, to allow the
+5:00 PM (Alaska Prevailing time) on November 15, 2017, to allow the
 Government sufficient time to respond. All questions and comments will
 be publicly available. Please subscribe to the repository if your firm
 would like updates about changes and comments. Questions or comments
@@ -364,19 +364,19 @@ estimate of the schedule that will be followed. If a component of this
 schedule, such as the deadline for receipt of proposals, is delayed, the
 rest of the schedule may be shifted by the same number of days.
 
--   Issue RFP on October 26, 2017,
+-    Issue RFP on November 3, 2017,
 
--   Deadline for receipt of questions by November 7, 2017,
+-    Deadline for receipt of questions by November 15, 2017,
 
--   Deadline for receipt of proposals on November 16, 2017,
+-    Deadline for receipt of proposals on November 27, 2017,
 
--   Interviews conducted with qualifying offerors on November 20-21, 2017,
+-    Interviews conducted with qualifying offerors on November 30- December 1, 2017,
 
--   Proposal Evaluation Committee complete evaluation by November 22, 2017,
+-    Proposal Evaluation Committee complete evaluation by December 4, 2017,
 
--   State of Alaska issues Notice of Intent to Award a contract on November 22, 2017,
+-    State of Alaska issues Notice of Intent to Award a contract on December 4, 2017,
 
--   State of Alaska issues contract on December 4, 2017.
+-    State of Alaska issues contract on December 15, 2017.
 
 This RFP does not, by itself, obligate the state. The state's obligation
 will commence when the contract is approved by the Commissioner of the
@@ -589,7 +589,7 @@ the contractor follows the proposed approach.
 
 ### <a name="3.06"></a>Sec. 3.06 Contract Term and Work Schedule
 
-The length of the contract will be from the date of award, approximately December 4, 2017 for approximately 4 months until completion, approximately March 31, 2018.
+The length of the contract will be from the date of award, approximately December 15, 2017 for approximately 4 months until completion, approximately April 15, 2018.
 
 ### <a name="3.07"></a>Sec. 3.07 Deliverables
 
