@@ -1088,11 +1088,10 @@ version(s) and desktop productivity software.
 > the DHSS standard browser vendor’s published support lifecycle
 > material published at the time of proposal and include in their
 > proposal a plan to upgrade off of any versions of browser that are
-> known to become unsupported during the execution of the contract. The
-> Offeror must include in their cost proposal the optional contingency
-> cost of one unanticipated browser compatibility version upgrade for
-> the components of the proposed solution where they own the code or are
-> responsible for maintaining it.
+> known to become unsupported during the execution of the contract. In
+> addition to meeting the requirements related to the standard DHSS browser,
+> the Offeror must also meet modern web browser compatibility standards with
+> major browsers (Safari, Chrome, Firefox)
 
 #### Requirement – Desktop Productivity Software Compatibility
 
