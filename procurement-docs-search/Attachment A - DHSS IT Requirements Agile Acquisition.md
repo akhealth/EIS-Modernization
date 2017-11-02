@@ -8,42 +8,61 @@ Department of Health & Social Services
 
 TABLE OF CONTENTS
 
-[1 Purpose of IT Requirements](#purpose-of-it-requirements-for-modular-acquisition)
+[1 Purpose of IT Requirements
+2](#purpose-of-it-requirements-for-modular-acquisition)
 
-[1.1 IT Services Organization Summary](#it-services-organization-summary)
+[1.1 IT Services Organization Summary
+2](#it-services-organization-summary)
 
-[1.2 IT Requirements Intent and Approach 3](#it-requirements-intent-and-approach)
+[1.2 IT Requirements Intent and Approach 3](#_Toc479149612)
 
-[2 Technical Qualifications Response](#technical-qualifications-response)
+[2 Technical Qualifications Response
+5](#technical-qualifications-response)
 
-[2.1 Understanding of the Technical Aspects of the Project](#understanding-of-the-technical-aspects-of-the-project)
+[2.1 Minimum Qualifications 5](#_Toc479149614)
 
-[3 State of Alaska DHSS Technology Services, Standards and IT Road Map](#state-of-alaska-dhss-technology-services-and-standards)
+[2.2 Understanding of the Technical Aspects of the Project
+5](#understanding-of-the-technical-aspects-of-the-project)
 
-[3.1 DHSS Information Technology Services Staffing Support](#dhss-information-technology-services-staffing-support)
+[3 State of Alaska DHSS Technology Services, Standards and IT Road Map
+6](#state-of-alaska-dhss-technology-services-and-standards)
 
-[3.2 Engagement and Service Delivery Management Services and Standards](#engagement-and-service-delivery-management-services-and-standards)
+[3.1 DHSS Information Technology Services Staffing Support
+6](#dhss-information-technology-services-staffing-support)
 
-[3.3 Project Portfolio Management Services and Standards](#project-portfolio-management-services-and-standards)
+[3.2 Engagement and Service Delivery Management Services and Standards
+7](#engagement-and-service-delivery-management-services-and-standards)
 
-[3.4 Asset Management Services and Standards](#asset-management-services-and-standards)
+[3.3 Project Portfolio Management Services and Standards
+10](#project-portfolio-management-services-and-standards)
 
-[3.5 Systems Integration and DDI Services and Standards](#systems-integration-and-ddi-services-and-standards)
+[3.4 Asset Management Services and Standards
+10](#asset-management-services-and-standards)
 
-[3.6 Systems Operations and Administration Services and Standards](#systems-operations-and-administration-services-and-standards)
+[3.5 Systems Integration and DDI Services and Standards
+13](#systems-integration-and-ddi-services-and-standards)
 
-[3.7 Information Security Compliance and Privacy Services and Standards](#information-security-compliance-and-privacy-services-and-standards)
+[3.6 Systems Operations and Administration Services and Standards
+16](#systems-operations-and-administration-services-and-standards)
 
-[3.8 Enterprise Desktop and Mobility Services and Standards](#enterprise-desktop-and-mobility-services-and-standards)
+[3.7 Information Security Compliance and Privacy Services and Standards
+19](#information-security-compliance-and-privacy-services-and-standards)
 
-[3.9 DHSS Hosting and Datacenter Services and Standards](#dhss-hosting-and-datacenter-services-and-standards)
+[3.8 Enterprise Desktop and Mobility Services and Standards
+24](#enterprise-desktop-and-mobility-services-and-standards)
+
+[3.9 DHSS Hosting and Datacenter Services and Standards
+27](#dhss-hosting-and-datacenter-services-and-standards)
 
 [3.10 DHSS Wide Area Network, Telecommunications, and Perimeter Security
-Services and Standards](#dhss-wide-area-network-telecommunications-and-perimeter-security-services-and-standards)
+Services and Standards
+30](#dhss-wide-area-network-telecommunications-and-perimeter-security-services-and-standards)
 
-[3.11 Accessibility](#accessibility)
+[3.11 Accessibility 31](#accessibility)
 
-[3.12 State of Alaska DHSS MITA/NHSIA Standards and Department IT Technology Standards](#state-of-alaska-dhss-mitanhsia-standards-and-department-it-governance)
+[3.12 State of Alaska DHSS MITA/NHSIA Standards and Department IT
+Technology Standards
+33](#state-of-alaska-dhss-mitanhsia-standards-and-department-it-governance)
 
 # Purpose of IT Requirements for Modular Acquisition
 
@@ -789,7 +808,7 @@ configuration monitoring and security patching of the underlying
 software components of the solution. Typically, these are the components
 that support technical services such as:
 
-Table - Example technical services
+Table 1 - Example technical services
 components
 
 | **Business Service**                          | **Example Technical Service Component** |
@@ -900,10 +919,11 @@ have to destroy some data.
 ### Security Controls
 
 We succeed or fail in maintaining the public trust via our ability to
-properly secure information. To measure our performance, we require
-formal security documentation, Business Associate Agreements (BAA) where
-applicable, and formal authority to operate (ATO). We are also obligated
-to perform ongoing risk assessments of DHSS information systems.
+properly secure information. To measure our performance and address
+risk, we require formal security documentation, Business Associate
+Agreements (BAA) where applicable, and formal authority to operate
+(ATO). We are also obligated to perform ongoing risk assessments of DHSS
+information systems.
 
 Our security practice is in transition from using a document-based
 security planning template, to using an RSA Archer information system
@@ -921,6 +941,11 @@ controls. Generally, a moderate impact categorized system will use a
 NIST 800-66 HIPAA control set, though some federally funded systems have
 additional security control requirements mandated by the sponsoring
 agency.
+
+In the case of systems sponsored by the Centers for Medicare and
+Medicaid Services (CMS), there must be a MARS-e compliant – a different
+control set than the NIST 800-66 control set – system security plan.
+Attachments H and G do not apply to these scenarios.
 
 #### Requirement – Security Plan
 
@@ -941,9 +966,11 @@ agency.
 > complete security plans and/or security plan updates. Due to the
 > complexities of the required security planning documentation, the
 > Offeror will roadmap the security plan development approach with the
-> State within the first two iterations of contract execution. This
-> roadmap will be submitted to the Department Security Office and/or
-> their designees for review and approval.
+> State within the first two iterations of contract execution. The State
+> will submit the roadmap to the Department Security Office and/or their
+> designees for review and approval, and the State and the Offeror will
+> collaborate on presentations, clarifications and modifications
+> required by the Department Security Office.
 
 ![](./media/image8.png)
 
@@ -1050,9 +1077,20 @@ approved, supported hardware and software within our IT Environment. We
 also expect to define and develop software and processes that do not
 require elevated privileges to perform normal business functions. This
 approach ensures our Enterprise Desktop and Mobility requirements are
-met. See *Attachment D—DHSS Information Technology Standards* for
-currently supported hardware, operating system(s), web browser
-version(s) and desktop productivity software.
+met. See *Attachment D—DHSS Information Technology Standards \>
+Enterprise Desktop Service Standards* for currently supported hardware,
+operating system(s), web browser version(s) and desktop productivity
+software.
+
+We recognize that browser compatibility can become an issue during the
+course of long-running contracts, as desktop platforms change over time.
+In our agile acquisition practice, we expect the deployed browser to
+typically remain consistent between the time of solicitation and the
+time you complete the contract. To the extent that the cost of approach
+is limited and reasonable, we do encourage implementation methods that
+are browser neutral and support a wider set of all modern browsers than
+the DHSS standard browser. However, the DHSS deployed browser(s) must be
+supported.
 
 #### Requirement – Hardware
 
@@ -1080,25 +1118,21 @@ version(s) and desktop productivity software.
 
 #### Requirement – Web Browser Compatibility
 
-> We recognize that browser compatibility can become an issue during 
-> the course of long-running contracts, as desktop platforms change 
-> over time.  In our agile acquisition practice, we expect the deployed 
-> browser to typically remain consistent between the time of 
-> solicitation and the time you complete the contract.
-> To the extent that the cost of approach is limited and reasonable, 
-> we do encourage implementation methods that are browser neutral 
-> and support a wider set of all modern browsers.
 > The Offeror must plan to support proposed solution compatibility with
-> DHSS currently deployed web browser version(s). The required
-> functionality of the solicitation must be fully supported, or the
-> Offeror must include in their proposal the plan cost and activities to
-> make the proposed solution fully supported. The Offeror must review
-> the DHSS standard browser vendor’s published support lifecycle
-> material published at the time of proposal and include in their
-> proposal a plan to upgrade off of any versions of browser that are
-> known to become unsupported during the execution of the contract. In
-> addition to meeting the requirements related to the standard DHSS browser,
-> the Offeror must also meet modern web browser compatibility standards.
+> DHSS currently deployed web browser version(s) – See Attachment D –
+> *Information Technology Standards \> Enterprise Desktop Service
+> Standards \> Software* for currently support browser versions. The
+> required functionality of the solicitation must be fully supported, or
+> the Offeror must include in their proposal the plan cost and
+> activities to make the proposed solution fully supported. The Offeror
+> must review the DHSS standard browser vendor’s published support
+> lifecycle material published at the time of proposal and include in
+> their proposal a plan to upgrade off of any versions of browser that
+> are known to become unsupported during the execution of the contract.
+> The Offeror must include in their cost proposal the optional
+> contingency cost of one unanticipated browser compatibility version
+> upgrade for the components of the proposed solution where they own the
+> code or are responsible for maintaining it.
 
 #### Requirement – Desktop Productivity Software Compatibility
 
