@@ -908,7 +908,7 @@ to perform ongoing risk assessments of DHSS information systems.
 Our security practice is in transition from using a document-based
 security planning template, to using an RSA Archer information system
 based authorization package module. In either mode, security plans are
-reviewed by
+reviewed by the Department Security Office and/or their designees.
 
 We audit security controls for the DHSS Risk Assessment regardless of
 whether an application/solution is hosted on premise or elsewhere. The
