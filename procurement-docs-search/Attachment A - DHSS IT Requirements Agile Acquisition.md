@@ -1080,6 +1080,14 @@ version(s) and desktop productivity software.
 
 #### Requirement – Web Browser Compatibility
 
+> We recognize that browser compatibility can become an issue during 
+> the course of long-running contracts, as desktop platforms change 
+> over time.  In our agile acquisition practice, we expect the deployed 
+> browser to typically remain consistent between the time of 
+> solicitation and the time you complete the contract.
+> To the extent that the cost of approach is limited and reasonable, 
+> we do encourage implementation methods that are browser neutral 
+> and support a wider set of all modern browsers.
 > The Offeror must plan to support proposed solution compatibility with
 > DHSS currently deployed web browser version(s). The required
 > functionality of the solicitation must be fully supported, or the
@@ -1090,8 +1098,7 @@ version(s) and desktop productivity software.
 > proposal a plan to upgrade off of any versions of browser that are
 > known to become unsupported during the execution of the contract. In
 > addition to meeting the requirements related to the standard DHSS browser,
-> the Offeror must also meet modern web browser compatibility standards with
-> major browsers (Safari, Chrome, Firefox)
+> the Offeror must also meet modern web browser compatibility standards.
 
 #### Requirement – Desktop Productivity Software Compatibility
 
