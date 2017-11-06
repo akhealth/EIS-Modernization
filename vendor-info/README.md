@@ -28,14 +28,18 @@ We are looking for firms that are excited about working in new ways with governm
 * OK with smaller dollar contracts - with an understanding that successful delivery will help in future module procurements
 * Most important, knowing how to _deliver great products_ over knowing how to _sell_.  We want vendors that put their engineers, designers, and developers first, vs. their business development.  Because the procurements will be smaller, we don’t intend to have 125 page RFP’s with 1000 “shall statements” that require enormous proposal efforts.  We are going to experiment with ways to make the buying process easier for both Alaska and interested vendors.
 
-We received responses from a number of firms that fit the bill.  They also asked a ton of great questions that we responded to on as [GitHub Issues](https://github.com/18F/acq-alaska-dhss-modernization/issues).  We attempted to categorize them with different labels to help vendors as they sort through our answers.  If there are any other questions, we encourage you to post them as new issues.  
+We received responses from a number of firms that fit the bill.  They also asked a ton of great questions that we responded to on as [GitHub Issues](https://github.com/18F/acq-alaska-dhss-modernization/issues).  We attempted to categorize them with different labels to help vendors as they sort through our answers.  If there are any other questions, we encourage you to post them as new issues. 
+
+In early September we began posting different drafts of documents related to the first procurement, including a statement of work that describes the scope and a Quality Assurance Plan that describes Alaska's approach to working with the selected vendor.  Our product teams will continue to post more information about the progress being made during the initial prototype and other overarching efforts going on to prepare Alaska to begin working with vendors on the first module.  Interested vendors weighed in on the draft RFP documents via [GitHub issues](https://issues) and we made adjustments as necessary to improve the final RFP.
+
+On Friday, November 3, we released the final RFP for the first [module to improve the search functionality for state workers.](https://github.com/AlaskaDHSS/RFP-Search-Unification).  Per the Readme and the RFP, please use that [GitHub repo](https://github.com/AlaskaDHSS/RFP-Search-Unification/issues) to let us know of any questions you have about the RFP by November 14, 2017.
 
 ### What's next?
 
-We're going to post different drafts of documents related to the first procurement, including a statement of work that describes the scope and a Quality Assurance Plan that describes Alaska's approach to working with the selected vendor.  Our product teams will continue to post more information about the progress being made during the initial prototype and other overarching efforts going on to prepare Alaska to begin working with vendors on the first module.
+We plan to follow the steps outlined in the RFP in order to compete the first contract amongst interested vendors.  We are also going to begin work to put together the scope of work for the next RFP and hope to borrow as much as we can from the work we've already done.  We'll use the lessons we learn from competing this initial RFP to improve this process for Alaska and the participating vendors.
 
 ### Thanks again!
-We hope you’ll join us in this.  If you’re interested, please send an e-mail to our contracting officer, Jon Geselle, on [jon.geselle@alaska.gov](mailto:jon.geselle@alaska.gov).  Better yet, get engaged by [adding an issue](https://github.com/18F/acq-alaska-dhss-modernization/issues) in our GitHub repo.  
+We hope you’ll join us in this.  If you’re interested, please send an e-mail to our contracting officer, Jon Geselle, on [jon.geselle@alaska.gov](mailto:jon.geselle@alaska.gov).  Better yet, get engaged by [adding an issue](https://github.com/18F/acq-alaska-dhss-modernization/issues) in our GitHub repo.  As we mentioned - if you have a question specific to the first RFP, please add it to that [repo's issues.]((https://github.com/AlaskaDHSS/RFP-Search-Unification/issues)  
 
 
 
