@@ -22,15 +22,14 @@ This section identifies the anticipated vendor roles that will be
 engaged with the
 project.
 
-| **Role**                 | **Description**                                                                             |
-| ------------------------ | ------------------------------------------------------------------------------------------- |
-| Project manager          | Manage the project                                                                          |
-| Technical lead           | Lead the technical work                                                                     |
-| Developers               | Develop client and server application components using CSS, HTML5, Javascript and .NET Core |
-| Researcher               |                                                                                             |
-| User experience designer | Design the user experience                                                                  |
-| Visual designer          |                                                                                             |
-| Scrum Master             | Lead internal daily scrum sessions                                                          |
+| **Role**                       | **Description**                                                                                                                                                |
+| ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Project manager / Scrum master | Manage the project, promote scrum process and lead daily scrums on vendor team                                                                                 |
+| Technical lead                 | Lead the technical work                                                                                                                                        |
+| Developers                     | Develop client and server application components using CSS, HTML5, Javascript and .NET Core                                                                    |
+| Researcher                     |                                                                                                                                                                |
+| User experience designer       | Design the user experience to achieve good continuity between new and legacy application and usability that yields the intended value of the product increment |
+| Visual designer                |                                                                                                                                                                |
 
 # Tools and resources
 
@@ -41,132 +40,105 @@ access to work with and what type of access they will need.
 <thead>
 <tr class="header">
 <th><strong>Role</strong></th>
-<th><strong>Tools and Resources</strong></th>
+<th><strong>Role-specific tools and resources</strong></th>
 <th><strong>Able to</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Project manager</td>
-<td><p>State of Alaska LDAP account</p>
-<p>State of Alaska VPN</p>
-<p>DHSS domain account</p>
-<p>DHSS SharePoint</p>
-<p>Visual Studio Team Services</p>
-<p>Trello</p>
-<p>Slack</p>
-<p>Alaska DHSS GitHub</p>
-<p>Mural</p></td>
+<td>Common {all roles}</td>
+<td><ul>
+<li><p>State of Alaska LDAP account</p></li>
+<li><p>State of Alaska VPN</p></li>
+<li><p>DHSS domain account</p></li>
+<li><p>DHSS SharePoint</p></li>
+<li><p>Visual Studio Team Services</p></li>
+<li><p>Trello</p></li>
+<li><p>Slack</p></li>
+<li><p>Alaska DHSS GitHub</p></li>
+<li><p>Mural</p></li>
+</ul></td>
 <td><ul>
 <li><p>Access Alaska WAN</p></li>
 <li><p>Access DHSS domain secured resources</p></li>
-<li><p>CRU docs on SharePoint</p></li>
-<li><p>Read and update work-items and PR comments in VSTS</p></li>
+<li><p>Create, read, update docs on SharePoint</p></li>
 <li><p>Read and update Trello</p></li>
 <li><p>Read and post messages to Slack</p></li>
-<li><p>Read GitHub repositories and issues</p></li>
+<li><p>Read GitHub repositories and comment on issues</p></li>
 <li><p>Participate in Mural sprint retrospectives</p></li>
 </ul></td>
 </tr>
 <tr class="even">
-<td>Technical lead</td>
-<td><p>State of Alaska VPN</p>
-<p>SharePoint</p>
-<p>Visual Studio Team Services</p>
-<p>Trello</p>
-<p>Slack</p>
-<p>Alaska DHSS GitHub</p>
-<p>Mural</p>
-<p>Alaska Development Environment (MCI Person Service Test, EIS Program Data Service Test, ARIES Program Data Service Test, Other TBD)</p></td>
+<td>Project manager</td>
+<td>{none}</td>
 <td><ul>
-<li><p>Access Alaska WAN</p></li>
-<li><p>Access DHSS domain secured resources</p></li>
-<li><p>CRU docs on SharePoint</p></li>
-<li><p>CRU work-items, push branches to VSTS hosted Git repos, create and comment on Git pull-requests, read build output</p></li>
-<li><p>Read and update Trello</p></li>
-<li><p>Read and post messages to Slack</p></li>
-<li><p>Read GitHub repositories and issues</p></li>
-<li><p>Participate in Mural sprint retrospectives</p></li>
+<li><p>Read and update work-items and PR comments in VSTS</p></li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td>Technical lead</td>
+<td><ul>
+<li><p>Alaska Development Environment (MCI Person Service Dev endpoint, EIS Program Data Service Dev endpoint, ARIES Program Data Service Dev endpoint, Other TBD)</p></li>
+</ul></td>
+<td><ul>
+<li><p>Create, read, update work-items</p></li>
+<li><p>Push branches to VSTS hosted Git repos</p></li>
+<li><p>Create and comment on Git pull-requests</p></li>
+<li><p>Read build output</p></li>
+<li><p>Access various non-production services (MCI, EIS, ARIES) to perform development work</p></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td>Developers</td>
+<td><ul>
+<li><p>Alaska Development Environment (MCI Person Service Test, EIS Program Data Service Test, ARIES Program Data Service Test, Other TBD)</p></li>
+</ul></td>
+<td><ul>
+<li><p>Create, read, update work-items</p></li>
+<li><p>Push branches to VSTS hosted Git repos</p></li>
+<li><p>Create and comment on Git pull-requests</p></li>
+<li><p>Read build output</p></li>
 <li><p>Access various non-production services (MCI, EIS, ARIES) to perform development work</p></li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td>Developers</td>
-<td><p>State of Alaska VPN</p>
-<p>SharePoint</p>
-<p>Visual Studio Team Services</p>
-<p>Trello</p>
-<p>Slack</p>
-<p>Alaska DHSS GitHub</p>
-<p>Mural</p>
-<p>Alaska Development Environment (MCI Person Service Test, EIS Program Data Service Test, ARIES Program Data Service Test, Other TBD)</p></td>
-<td><ul>
-<li><p>Access Alaska WAN</p></li>
-<li><p>Access DHSS domain secured resources</p></li>
-<li><p>CRU docs on SharePoint</p></li>
-<li><p>CRU work-items, push branches to VSTS hosted Git repos, create and comment on Git pull-requests, read build output</p></li>
-<li><p>Read and update Trello</p></li>
-<li><p>Read and post messages to Slack</p></li>
-<li><p>Read GitHub repositories and issues</p></li>
-<li><p>Participate in Mural sprint retrospectives</p></li>
-<li><p>Access various non-production services (MCI, EIS, ARIES) to perform development work</p></li>
-</ul></td>
-</tr>
-<tr class="even">
 <td>Researcher</td>
 <td>?</td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>User experience designer</td>
 <td>?</td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Visual designer</td>
 <td>?</td>
 <td></td>
-</tr>
-<tr class="odd">
-<td>Scrum Master</td>
-<td><p>State of Alaska VPN</p>
-<p>Sharepoint</p>
-<p>Visual Studio Team Services</p>
-<p>Trello</p>
-<p>Slack</p>
-<p>Alaska DHSS GitHub</p>
-<p>Mural</p></td>
-<td><ul>
-<li><p>Access Alaska WAN</p></li>
-<li><p>Access DHSS domain secured resources</p></li>
-<li><p>CRU docs on SharePoint</p></li>
-<li><p>Read and update work-items and PR comments in VSTS</p></li>
-<li><p>Read and update Trello</p></li>
-<li><p>Read and post messages to Slack</p></li>
-<li><p>Read GitHub repositories and issues</p></li>
-<li><p>Participate in Mural sprint retrospectives</p></li>
-</ul></td>
 </tr>
 </tbody>
 </table>
 
 # Access procedures
 
-This section outlines procedures to grant
-access.
+This section outlines procedures to grant access. Access to DHSS managed
+resources must be formally requested, sponsored and granted. All vendor
+access requests must be submitted through the EIS-R PMO. The information
+supplied below serves as a reference for how specific types of access
+request are granted once approved.
 
-| **Resource**                   | **Procedure**                            |
-| ------------------------------ | ---------------------------------------- |
-| State of Alaska LDAP account   |                                          |
-| State of Alaska VPN            |                                          |
-| DHSS domain account            |                                          |
-| DHSS SharePoint                | Request via Alaska EIS-R PMO             |
-| Visual Studio Team Services    | Request via Alaska Business Applications |
-| Trello                         | ?                                        |
-| Slack                          | ?                                        |
-| Alaska DHSS GitHub             | Request via Alaska Business Applications |
-| Mural                          | ?                                        |
-| Alaska Development Environment | Request via Alaska Business Applications |
+| **Resource**                   | **Requested and granted via** |
+| ------------------------------ | ----------------------------- |
+| State of Alaska LDAP account   | DHSS IT Help Desk             |
+| State of Alaska VPN            | DHSS IT Help Desk             |
+| DHSS domain account            | DHSS IT Help Desk             |
+| DHSS SharePoint                | DHSS EIS-R PMO                |
+| Visual Studio Team Services    | DHSS Business Applications    |
+| Trello                         | TTS/18F                       |
+| Slack                          | TTS/18F                       |
+| Alaska DHSS GitHub             | DHSS Business Applications    |
+| Mural                          | TTS/18F                       |
+| Alaska Development Environment | DHSS Business Applications    |
 
 # Training resources
 
