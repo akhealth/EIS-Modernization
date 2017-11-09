@@ -18,9 +18,10 @@ the vendors we engage with in various product-increment acquisitions.
 
 # Roles
 
-This section identifies the anticipated vendor roles that will be
+This section identifies the anticipated vendor roles that may be
 engaged with the
-project.
+project.  Note that this list is subject to change depending on the approaches that vendors 
+propose for staffing and managing their teams.
 
 | **Role**                       | **Description**                                                                                                                                                |
 | ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
