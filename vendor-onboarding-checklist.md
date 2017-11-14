@@ -28,9 +28,9 @@ propose for staffing and managing their teams.
 | Project manager / Scrum master | Manage the project, promote scrum process and lead daily scrums on vendor team                                                                                 |
 | Technical lead                 | Lead the technical work                                                                                                                                        |
 | Developers                     | Develop client and server application components using CSS, HTML5, Javascript and .NET Core                                                                    |
-| Researcher                     |                                                                                                                                                                |
+| Researcher                     | Responsible for conducting user research, analysis & synthesis, persona development, interaction design, and usability testing                                                                                                                                                               |
 | User experience designer       | Design the user experience to achieve good continuity between new and legacy application and usability that yields the intended value of the product increment |
-| Visual designer                |                                                                                                                                                                |
+| Visual designer                |    Responsible for managing project design reviews, resource planning, and execution for all project work related to visual design                                                                                                                                                            |
 
 # Tools and resources
 
