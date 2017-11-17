@@ -240,109 +240,27 @@ This table shows the access we expect each role will need.
 </tbody>
 </table>
 
-<table>
-<thead>
-<tr class="header">
-<th><strong>Role</strong></th>
-<th><strong>Role-specific tools and resources</strong></th>
-<th><strong>Able to</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Common `all roles`</td>
-<td><ul>
-<li><p>State of Alaska LDAP account</p></li>
-<li><p>State of Alaska VPN</p></li>
-<li><p>DHSS domain account</p></li>
-<li><p>DHSS SharePoint</p></li>
-<li><p>Visual Studio Team Services</p></li>
-<li><p>Trello</p></li>
-<li><p>Slack</p></li>
-<li><p>Alaska DHSS GitHub</p></li>
-<li><p>Mural</p></li>
-</ul></td>
-<td><ul>
-<li><p>Access Alaska WAN</p></li>
-<li><p>Access DHSS domain secured resources</p></li>
-<li><p>Create, read, update docs on SharePoint</p></li>
-<li><p>Read and update Trello</p></li>
-<li><p>Read and post messages to Slack</p></li>
-<li><p>Read GitHub repositories and comment on issues</p></li>
-<li><p>Participate in Mural sprint retrospectives</p></li>
-</ul></td>
-</tr>
-<tr class="even">
-<td>Project manager / Scrum master</td>
-<td>{none}</td>
-<td><ul>
-<li><p>Read and update work-items and PR comments in VSTS</p></li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td>Technical lead</td>
-<td><ul>
-<li><p>Alaska Development Environment (MCI Person Service Dev endpoint, EIS Program Data Service Dev endpoint, ARIES Program Data Service Dev endpoint, Other TBD)</p></li>
-</ul></td>
-<td><ul>
-<li><p>Create, read, update work-items</p></li>
-<li><p>Push branches to VSTS hosted Git repos</p></li>
-<li><p>Create and comment on Git pull-requests</p></li>
-<li><p>Read build output</p></li>
-<li><p>Access various non-production services (MCI, EIS, ARIES) to perform development work</p></li>
-</ul></td>
-</tr>
-<tr class="even">
-<td>Developers</td>
-<td><ul>
-<li><p>Alaska Development Environment (MCI Person Service Test, EIS Program Data Service Test, ARIES Program Data Service Test, Other TBD)</p></li>
-</ul></td>
-<td><ul>
-<li><p>Create, read, update work-items</p></li>
-<li><p>Push branches to VSTS hosted Git repos</p></li>
-<li><p>Create and comment on Git pull-requests</p></li>
-<li><p>Read build output</p></li>
-<li><p>Access various non-production services (MCI, EIS, ARIES) to perform development work</p></li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td>Researcher</td>
-<td>?</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>User experience designer</td>
-<td>?</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Visual designer</td>
-<td>?</td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
 # Access procedures
 
 This section outlines procedures to grant access. Access to DHSS managed
 resources must be formally requested, sponsored and granted. All vendor
 access requests must be submitted through the EIS-R PMO. The information
 supplied below serves as a reference for how specific types of access
-request are granted once approved.
+request are granted once
+approved.
 
-| **Resource**                   | **Requested and granted via** |
-| ------------------------------ | ----------------------------- |
-| State of Alaska LDAP account   | DHSS IT Help Desk             |
-| State of Alaska VPN            | DHSS IT Help Desk             |
-| DHSS domain account            | DHSS IT Help Desk             |
-| DHSS SharePoint                | DHSS EIS-R PMO                |
-| Visual Studio Team Services    | DHSS Business Applications    |
-| Trello                         | TTS/18F                       |
-| Slack                          | TTS/18F                       |
-| Alaska DHSS GitHub             | DHSS Business Applications    |
-| Mural                          | TTS/18F                       |
-| Alaska Development Environment | DHSS Business Applications    |
+| **Resource**                   | **Access managed by**                    | **Request method**                                                                                                                                                                                                          |
+| ------------------------------ | ---------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| State of Alaska LDAP account   | DHSS IT Help Desk and OIT                | DPA PMO and vendor staff member completes [Non-DHSS Employee Account Request](https://plus.google.com/hangouts/_/gsa.gov/ak-standup?hceid=bWFyay5oZWFkZEBnc2EuZ292.j6afgeqeqinhp67fi6qgcaepfg) and submits per instructions |
+| State of Alaska VPN            | DHSS IT Help Desk and OIT                |                                                                                                                                                                                                                             |
+| DHSS domain account            | DHSS IT Help Desk and DHSS IT Operations |                                                                                                                                                                                                                             |
+| DHSS SharePoint                | DHSS EIS-R PMO                           | DPA PMO {does what???}                                                                                                                                                                                                      |
+| Visual Studio Team Services    | DHSS IT Business Applications            | DPA PMO submits request to [HSS TFS Admins](mailto:TFS-Admins@alaska.gov)                                                                                                                                                   |
+| Trello                         | TTS/18F                                  | DPA PMO submits request to {???}                                                                                                                                                                                            |
+| Slack                          | TTS/18F                                  | DPA PMO submits request to {???}                                                                                                                                                                                            |
+| Alaska DHSS GitHub             | DHSS IT Business Applications            | DPA PMO submits request to {???}                                                                                                                                                                                            |
+| Mural                          | TTS/18F                                  | DPA PMO submits request to {???}                                                                                                                                                                                            |
+| Alaska Development Environment | DHSS IT Business Applications            | DPA PMO submits request to {???}                                                                                                                                                                                            |
 
 # Training resources
 
