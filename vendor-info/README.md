@@ -39,7 +39,7 @@ On Friday, November 3, we released the final RFP for the first [module to improv
 We plan to follow the steps outlined in the RFP in order to compete the first contract amongst interested vendors.  We are also going to begin work to put together the scope of work for the next RFP and hope to borrow as much as we can from the work we've already done.  We'll use the lessons we learn from competing this initial RFP to improve this process for Alaska and the participating vendors.
 
 ### Thanks again!
-We hope you’ll join us in this.  If you’re interested, please send an e-mail to our contracting officer, Jon Geselle, on [jon.geselle@alaska.gov](mailto:jon.geselle@alaska.gov).  Better yet, get engaged by [adding an issue](https://github.com/18F/acq-alaska-dhss-modernization/issues) in our GitHub repo.  As we mentioned - if you have a question specific to the first RFP, please add it to that [repo's issues.]((https://github.com/AlaskaDHSS/RFP-Search-Unification/issues)  
+We hope you’ll join us in this.  If you’re interested, please send an e-mail to our contracting officer, Jon Geselle, on [jon.geselle@alaska.gov](mailto:jon.geselle@alaska.gov).  Better yet, get engaged by [adding an issue](https://github.com/18F/acq-alaska-dhss-modernization/issues) in our GitHub repo.  As we mentioned - if you have a question specific to the first RFP, please add it to that [repo's issues.](https://github.com/AlaskaDHSS/RFP-Search-Unification/issues)  
 
 
 
