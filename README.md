@@ -100,12 +100,12 @@ We will know we are successful, if we can increase worker productivity and moral
 - [ ] Foundational work - in progress
   - [x] Product vision - Done 5/8/17
   - [x] Product roadmap - Initial roadmap created 5/22/17
-  - [x] Funding strategy - in progress
-  - [x] Market research and vendor outreach - in progress
-  - [x] Acquisition strategy - in progress
-  - [x] DevOps MVP - in progress
-  - [x] [Technical prototyping](technical-prototyping.md) - in progress
-- [X] [Draft solicitation documents and vendor outreach](https://github.com/AlaskaDHSS/acq-alaska-dhss-modernization/tree/master/vendor-info) - in progress
+  - [x] Funding strategy 
+  - [x] Market research and vendor outreach 
+  - [x] Acquisition strategy 
+  - [x] DevOps MVP 
+  - [x] [Technical prototyping](technical-prototyping.md) 
+- [X] [Draft solicitation documents and vendor outreach](https://github.com/AlaskaDHSS/acq-alaska-dhss-modernization/tree/master/vendor-info) 
 - [X] First solicitation - RFP released November 3, 2017 (https://github.com/AlaskaDHSS/RFP-Search-Unification)
 - [ ] Award first contract - To Do
 - [ ] Subsequent acquisition(s) - To Do
