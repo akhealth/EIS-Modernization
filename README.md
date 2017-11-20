@@ -148,11 +148,6 @@ We are working with the Microsoft technology stack. Please see [DevSecOps.md](/D
 
 See our [How we Work document](https://github.com/AlaskaDHSS/acq-alaska-dhss-modernization/blob/master/how-we-work.md#accepting-vendor-work) for more about how we work with external venors, accept code, and coduct code reviews.
 
-## Related projects
-* [CMS project]
-* [MO MMIS Modernization]
-* [Multi-benefit application and enrollment prototype](https://usds.github.io/benefits-enrollment-prototype/) by [CMS](https://github.com/CMSgov)/[USDS](https://github.com/usds)/[18F](https://github.com/18F) | [repo](https://github.com/usds/benefits-enrollment-prototype)
-
 ## Contributing to this repo
 * Read the [CONTRIBUTING](CONTRIBUTING.md) Policy
 * Questions or suggestions? Open a [new issue](https://github.com/18F/alaska-dhss-modernization/issues) to ask or suggest.
