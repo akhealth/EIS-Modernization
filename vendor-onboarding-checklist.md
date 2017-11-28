@@ -39,18 +39,18 @@ need.
 
 ## Tools and resources
 
-| **Tool/Resource**              | **Purpose**                                                                                                               |
-| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
-| State of Alaska LDAP Account   | Establishes identity to grant access to State of Alaska managed resources                                                 |
-| State of Alaska VPN            | Establishes account to access/connect to the State of Alaska virtual private network (VPN) services                       |
-| DHSS Domain Account            | Establishes identity to grant access to DHSS managed resources                                                            |
-| DHSS DPA SharePoint            | Collaboration portal for deliverable and other documentation                                                              |
-| Visual Studio Team Services    | Code-delivery/management, continuous-integration / continuous-deployment (CI/CD), security scanning, unit-test automation |
-| Trello                         | Work-management                                                                                                           |
-| Slack                          | Messaging and threaded discussion                                                                                         |
-| Alaska DHSS GitHub             | Public repository for EISR documentation, code and solicitation materials                                                 |
-| Mural                          | Sprint ceremonies and other visual materials (product roadmap, etc.)                                                      |
-| Alaska Development Environment | The resources required to perform development activities for the Unified Search product increment                         |
+| **Tool/Resource**            | **Purpose**                                                                                                               |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| State of Alaska LDAP Account | Establishes identity to grant access to State of Alaska managed resources                                                 |
+| State of Alaska VPN          | Establishes account to access/connect to the State of Alaska virtual private network (VPN) services                       |
+| DHSS Domain Account          | Establishes identity to grant access to DHSS managed resources                                                            |
+| DHSS DPA SharePoint          | Collaboration portal for deliverable and other documentation                                                              |
+| Visual Studio Team Services  | Code-delivery/management, continuous-integration / continuous-deployment (CI/CD), security scanning, unit-test automation |
+| Trello                       | Work-management                                                                                                           |
+| Slack                        | Messaging and threaded discussion                                                                                         |
+| Alaska DHSS GitHub           | Public repository for EISR documentation, code and solicitation materials                                                 |
+| Mural                        | Sprint ceremonies and other visual materials (product roadmap, etc.)                                                      |
+| EISR Dev Environment         | The resources required to perform development activities for the Unified Search product increment                         |
 
 ## Capabilities and Access
 
@@ -229,7 +229,7 @@ This table shows the access we expect each role will need.
 <td>X</td>
 </tr>
 <tr class="even">
-<td>Unified Search Dev Env</td>
+<td>EISR Dev Env</td>
 <td></td>
 <td>X</td>
 <td>X</td>
@@ -249,18 +249,18 @@ supplied below serves as a reference to help vendor staff understand how
 specific types of access request are granted once
 approved.
 
-| **Resource**                   | **Access managed by**                    | **Request method**                                                                                                                                                                              |
-| ------------------------------ | ---------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| State of Alaska LDAP account   | DHSS IT Help Desk and OIT                | DPA PMO and vendor staff member completes Non-DHSS Employee Account Request and submits per instructions to HSS ITS Help Desk. Help Desk assigns to HSS and/or OIT Admins for account creation. |
-| State of Alaska VPN            | DHSS IT Help Desk and OIT                | DPA PMO and vendor staff member completes Non-DHSS Employee Account Request and submits per instructions                                                                                        |
-| DHSS domain account            | DHSS IT Help Desk and DHSS IT Operations | DPA PMO and vendor staff member completes Non-DHSS Employee Account Request and submits per instructions                                                                                        |
-| DHSS SharePoint                | DHSS EIS-R PMO                           | DPA PMO reviews, approves and grants access                                                                                                                                                     |
-| Visual Studio Team Services    | DHSS IT Business Applications            | DPA PMO submits request to HSS ITS Help Desk. Help Desk assigns ticket to TFS Admins                                                                                                            |
-| Trello                         | TTS/18F                                  | DPA PMO submits request to 18F Trello Admins                                                                                                                                                    |
-| Slack                          | TTS/18F                                  | DPA PMO submits request to 18F Slack Admins                                                                                                                                                     |
-| Alaska DHSS GitHub             | DHSS IT Business Applications            | DPA PMO submits request to ITS Help Desk. Help Desk Assigns to Alaska DHSS GitHub Admins.                                                                                                       |
-| Mural                          | TTS/18F                                  | DPA PMO submits request to 18F Mural Admins                                                                                                                                                     |
-| Alaska Development Environment | DHSS IT Business Applications            | DPA PMO submits request to ITS Help Desk. Help Desk assigns to EISR Dev Environment Admins                                                                                                      |
+| **Resource**                 | **Access managed by**                    | **Request method**                                                                                                                                                                              |
+| ---------------------------- | ---------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| State of Alaska LDAP account | DHSS IT Help Desk and OIT                | DPA PMO and vendor staff member completes Non-DHSS Employee Account Request and submits per instructions to HSS ITS Help Desk. Help Desk assigns to HSS and/or OIT Admins for account creation. |
+| State of Alaska VPN          | DHSS IT Help Desk and OIT                | DPA PMO and vendor staff member completes Non-DHSS Employee Account Request and submits per instructions                                                                                        |
+| DHSS domain account          | DHSS IT Help Desk and DHSS IT Operations | DPA PMO and vendor staff member completes Non-DHSS Employee Account Request and submits per instructions                                                                                        |
+| DHSS SharePoint              | DHSS EIS-R PMO                           | DPA PMO reviews, approves and grants access                                                                                                                                                     |
+| Visual Studio Team Services  | DHSS IT Business Applications            | DPA PMO submits request to HSS ITS Help Desk. Help Desk assigns ticket to TFS Admins                                                                                                            |
+| Trello                       | TTS/18F                                  | DPA PMO submits request to 18F Trello Admins                                                                                                                                                    |
+| Slack                        | TTS/18F                                  | DPA PMO submits request to 18F Slack Admins                                                                                                                                                     |
+| Alaska DHSS GitHub           | DHSS IT Business Applications            | DPA PMO submits request to ITS Help Desk. Help Desk Assigns to Alaska DHSS GitHub Admins.                                                                                                       |
+| Mural                        | TTS/18F                                  | DPA PMO submits request to 18F Mural Admins                                                                                                                                                     |
+| EISR Dev Env                 | DHSS IT Business Applications            | DPA PMO submits request to ITS Help Desk. Help Desk assigns to EISR Dev Environment Admins                                                                                                      |
 
 # Training resources
 
