@@ -294,7 +294,8 @@ To request access:
       - **Business Needs Statement** – The requestor must provide a
         detailed statement that clearly defines the individual’s
         business purpose; identifies why he/she is requesting access;
-        and the individuals job role in relationship to the project.
+        and the individuals job role in relationship to the project. See
+        *Roles* above for typical job roles.
 
   - The DPA PMO, as the sponsoring agency, will review the request to
     ensure validity. Valid requests will receive, via email, a Non-State
