@@ -244,9 +244,10 @@ This table shows the access we expect each role will need.
 
 This section outlines procedures to grant access. Access to DHSS managed
 resources must be formally requested, sponsored and granted. All vendor
-access requests must be submitted through the EIS-R PMO. The information
-supplied below serves as a reference to help vendor staff understand how
-specific types of access request are granted once
+access requests must be submitted through the EIS-R PMO.
+
+The table below serves as a reference to help vendor staff understand
+how specific types of access request are granted once
 approved.
 
 | **Resource**                 | **Access managed by**                    | **Request method**                                                                                                                                                                              |
@@ -261,6 +262,85 @@ approved.
 | Alaska DHSS GitHub           | DHSS IT Business Applications            | DPA PMO submits request to ITS Help Desk. Help Desk Assigns to Alaska DHSS GitHub Admins.                                                                                                       |
 | Mural                        | TTS/18F                                  | DPA PMO submits request to 18F Mural Admins                                                                                                                                                     |
 | EISR Dev Env                 | DHSS IT Business Applications            | DPA PMO submits request to ITS Help Desk. Help Desk assigns to EISR Dev Environment Admins                                                                                                      |
+
+## Request procedure
+
+To request access:
+
+  - Email your request for access to the EIS-R Project Assistant, Sera
+    Bourne, @ <serafine.bourne@alaska.gov> and cc the EIS-R Project
+    Office @ <eisr.progoffice@alaska.gov>.
+    
+    ***For auditing purposes, requests for access must be for a single
+    individual. A request for access containing multiple individuals
+    will be rejected.***
+    
+    Subject – “Request for access for *\<Requestor First and Last
+    Name\>”*
+    
+    Body - must consist of the following:
+    
+      - **Requestor Name** - First Name, Last Name, MI
+    
+      - **Vendor** – Name of the Vendor the Requestor is employed by.
+        
+          - If the requestor works for a sub-contractor then identify
+            both the Sub-Contractor and the Vendor who have been awarded
+            the contract.
+    
+      - **Project Role** – As defined in above ‘Roles’ section of this
+        document.
+    
+      - **Business Needs Statement** – The requestor must provide a
+        detailed statement that clearly defines the individual’s
+        business purpose; identifies why he/she is requesting access;
+        and the individuals job role in relationship to the project.
+
+  - The DPA PMO, as the sponsoring agency, will review the request to
+    ensure validity. Valid requests will receive, via email, a Non-State
+    Employee Access Request packet with instructions.
+
+  - Requestors are required to complete, sign and return the Access
+    Request packet to the DPA PMO (see above EIS-R Project email
+    addresses). A completed request packet consists of the following:
+    
+      - Non-State Employee Access Request Form (completed, signed and
+        dated)
+    
+      - Service Provider Security Agreement (completed, signed and
+        dated)
+    
+      - A copy of a State or Federally issued identification
+        card/document:
+        
+          - Driver’s License
+        
+          - State ID
+        
+          - Passport
+        
+          - Birth Certificate
+    
+      - A copy of HIPAA Training Certificate
+        
+        Instructions for access to the DHSS HIPAA Training course will
+        be provided with the Access Request packet.
+
+***Please allow up to 10 business days for approved accounts to be
+created once the packet is submitted. Missing information and errors
+will result in additional processing time.***
+
+For questions regarding vendor onboarding procedures or status of a
+submitted request please contact:
+
+Sera Bourne, DPA EIS-R Project Assistant
+
+Phone: (907) 334-0864
+
+Email: <serafine.bourne@alaska.gov>
+
+If emailing, please cc the EIS-R Project Office @
+<eisr.progoffice@alaska.gov>.
 
 # Training resources
 
