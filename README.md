@@ -100,12 +100,12 @@ We will know we are successful, if we can increase worker productivity and moral
 - [ ] Foundational work - in progress
   - [x] Product vision - Done 5/8/17
   - [x] Product roadmap - Initial roadmap created 5/22/17
-  - [ ] Funding strategy - in progress
-  - [ ] Market research and vendor outreach - in progress
-  - [ ] Acquisition strategy - in progress
-  - [ ] DevOps MVP - in progress
-  - [ ] [Technical prototyping](technical-prototyping.md) - in progress
-- [X] [Draft solicitation documents and vendor outreach](https://github.com/AlaskaDHSS/acq-alaska-dhss-modernization/tree/master/vendor-info) - in progress
+  - [x] Funding strategy 
+  - [x] Market research and vendor outreach 
+  - [x] Acquisition strategy 
+  - [x] DevOps MVP 
+  - [x] [Technical prototyping](technical-prototyping.md) 
+- [X] [Draft solicitation documents and vendor outreach](https://github.com/AlaskaDHSS/acq-alaska-dhss-modernization/tree/master/vendor-info) 
 - [X] First solicitation - RFP released November 3, 2017 (https://github.com/AlaskaDHSS/RFP-Search-Unification)
 - [ ] Award first contract - To Do
 - [ ] Subsequent acquisition(s) - To Do
@@ -147,11 +147,6 @@ Key documents
 We are working with the Microsoft technology stack. Please see [DevSecOps.md](/DevSecOps.md) for specific requirements.
 
 See our [How we Work document](https://github.com/AlaskaDHSS/acq-alaska-dhss-modernization/blob/master/how-we-work.md#accepting-vendor-work) for more about how we work with external venors, accept code, and coduct code reviews.
-
-## Related projects
-* [CMS project]
-* [MO MMIS Modernization]
-* [Multi-benefit application and enrollment prototype](https://usds.github.io/benefits-enrollment-prototype/) by [CMS](https://github.com/CMSgov)/[USDS](https://github.com/usds)/[18F](https://github.com/18F) | [repo](https://github.com/usds/benefits-enrollment-prototype)
 
 ## Contributing to this repo
 * Read the [CONTRIBUTING](CONTRIBUTING.md) Policy
