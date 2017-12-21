@@ -6,9 +6,9 @@ Our basic principles are those familiar to anybody who has contributed to a prom
 
 * We produce open source software, created and maintained in repositories where it may be inspected by the public who places their trust in it and copied for use by other agencies.
 * We adhere to the basic practices of agile software development, using the Scrum development framework.
-* We use DevSecOps to automate and measure our deployment process, relying on continuous integration, continuous delivery, and continuous security to ensure that our work is high-quality. 
-* We practice human-centered design. Everything that we produce is highly accessible, per WCAG 2.0. We build APIs before we build software atop it, and we believe that APIs require a well-designed interface. 
-* We include and enforce codes of conduct, to foster an open, collaborative, welcoming environment. 
+* We use DevSecOps to automate and measure our deployment process, relying on continuous integration, continuous delivery, and continuous security to ensure that our work is high-quality.
+* We practice human-centered design. Everything that we produce is highly accessible, per WCAG 2.0. We build APIs before we build software atop it, and we believe that APIs require a well-designed interface.
+* We include and enforce codes of conduct, to foster an open, collaborative, welcoming environment.
 * We reduce system modifications to the smallest self-contained module, and procure each of those modifications via a unique RFP.
 * Finally, we believe in having the relevant decision-makers at the table during all meetings, to maximize efficiency and maintain momentum.
 
@@ -37,18 +37,30 @@ Every two weeks we hold sprint rituals. Each two-week sprint begins with backlog
 
 All meetings are held via video teleconference. A telephone bridge is maintained as a backup method of connecting, but participants are encouraged strongly to join via desktop webcam.
 
+## Design Research
+
+We recognize that the DPA field staff will be critical to helping us develop solutions that will deliver better service to Alaskans. In order to create an open and collaborative space for DPA staff to contribute, we will protect their privacy through the following:
+
+* Interview notes will be anonymized, lead researcher will be the keeper of the key (Joan Smith = Participant 1).
+* The full product team needs to understand the expectation for privacy around research materials.
+* Anonymized raw notes will be available to the small product team doing the work, but not beyond.
+* Synthesized notes and conclusions (still anonymous) can be shared publicly, including on VSTS/GitHub as they are fully decontextualized.
+* Non-researchers on the product team can and should be involved with research.
+* Only research facilitators/observers can be included in synthesis.
+* We will inform research participants of these matters at the beginning of research sessions and ask for their consent. See [Unified Search Research Participant Agreement](assets/design-research-participant-agreement-unified-search.pdf). 
+
 ## Definition of Done
 
-So that we can work more efficiently and be confident in the quality of the work we are delivering, we have a clear definition of what it means for a user story to be done, or production-ready. 
+So that we can work more efficiently and be confident in the quality of the work we are delivering, we have a clear definition of what it means for a user story to be done, or production-ready.
 
 * for delivering a user story to the product team
   * The delivered functionality should match the acceptance criteria of the user story
   * All tests must pass in the staging environment (unit, integration, feature)
   * Test coverage must be greater than the percentage described in the Quality Assurance Plan
   * The delivered functionality should be 508 compliant
-  * Security requirements must be met 
+  * Security requirements must be met
   * All documentation must be up to date (diagrams, training documentation, API documentation, help text, etc)
-  * The delivered functionality should be compatible with the latest versions of IE, Firefox, Chrome and Safari 
+  * The delivered functionality should be compatible with the latest versions of IE, Firefox, Chrome and Safari
 
 * for product team to accept the user story and ship it
   * Someone from the product team has verified the functionality in staging
@@ -118,7 +130,7 @@ With good version control, it should be unnecessary to comment out blocks of cod
 Comments in the code should describe complex bits of logic that aren’t easily glanceable — if someone new to the code can’t skim it and understand it, a comment might be in order. As we’re reviewing the code, if we find a bit we can’t understand quickly from the code and context, we’ll be looking for a comment that explains it. Comments should appear with the code they’re describing.
 
 #### Documented APIs
-If code exposes a public API — whether that’s public methods on a class or HTTP endpoints in a REST service — those public methods should be documented.  We like documentation that can be extracted into some pretty markup (e.g., .NET’s XML comments, jsdoc, or [OAS](https://www.openapis.org/) — formerly Swagger). We’ll check that any public-facing methods have useful documentation. 
+If code exposes a public API — whether that’s public methods on a class or HTTP endpoints in a REST service — those public methods should be documented.  We like documentation that can be extracted into some pretty markup (e.g., .NET’s XML comments, jsdoc, or [OAS](https://www.openapis.org/) — formerly Swagger). We’ll check that any public-facing methods have useful documentation.
 
 #### Adherence to the project’s style guide
 The project should adopt a code style guide and code should conform. Which guide the team chooses is less important than the consistency that comes from actually using it.  We’ll check to make sure there’s a linter configured to check code style, that it passes, and that any exceptions are documented and explained in the code.
@@ -155,4 +167,4 @@ We use the [TTS Slack](https://gsa-tts.slack.com/) for communication that falls 
 
 #### DevSecOps
 We rely on [DevSecOps](https://github.com/dhssalaska/acq-alaska-dhss-modernization/blob/master/DevSecOps.md) for automation and monitoring of code integration, testing, and deployment. Our DevSecOps pipeline is built atop VSTS (not GitHub) for deployment to Azure. We practice continuous integration, continuous deployment, and continuous testing (including security testing). All new code has tests developed simultaneously, with cumulative test coverage of not less than 90%. See “Accepting Vendor Work” for more.
-For details, see our [“Why DevSecOps?” document](https://github.com/dhssalaska/DevSecOpsMvp/blob/master/DevSecOps.md), in Github.
+For details, see our [“Why DevSecOps?” document](DevSecOps.md), in Github.
