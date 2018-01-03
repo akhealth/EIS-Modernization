@@ -54,6 +54,9 @@ We recognize that the DPA field staff will be critical to helping us develop sol
 So that we can work more efficiently and be confident in the quality of the work we are delivering, we have a clear definition of what it means for a user story to be done, or production-ready.
 
 * for delivering a user story to the product team
+  * Story needs to be written in a way that is clear from both a development and a testing standpoint. Stories will need to be reviewed     by the product team during creation. (this can be a subset of the whole product team)
+  * Acceptance criteria should include the relevant tests needed (unit, security, performance, acceptance, etc)
+  * Acceptance criteria should include the objective of the story, for use in approval by PO or tech team or both
   * The delivered functionality should match the acceptance criteria of the user story
   * All tests must pass in the staging environment (unit, integration, feature)
   * Test coverage must be greater than the percentage described in the Quality Assurance Plan
