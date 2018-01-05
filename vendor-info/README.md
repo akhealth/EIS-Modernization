@@ -32,15 +32,15 @@ We received responses from a number of firms that fit the bill.  They also asked
 
 In early September we began posting different drafts of documents related to the first procurement, including a statement of work that describes the scope and a Quality Assurance Plan that describes Alaska's approach to working with the selected vendor.  Our product teams will continue to post more information about the progress being made during the initial prototype and other overarching efforts going on to prepare Alaska to begin working with vendors on the first module.  Interested vendors weighed in on the draft RFP documents via [GitHub issues](https://github.com/AlaskaDHSS/RFP-Search-Unification/issues) and we made adjustments as necessary to improve the final RFP.
 
-On Friday, November 3, we released the final RFP for the first [module to improve the search functionality for state workers](https://github.com/AlaskaDHSS/RFP-Search-Unification).  Per the Readme and the RFP, please use that [GitHub repo](https://github.com/AlaskaDHSS/RFP-Search-Unification/issues) to let us know of any questions you have about the RFP by November 14, 2017.
+On Friday, November 3, we released the final RFP for the first [module to improve the search functionality for state workers](https://github.com/AlaskaDHSS/RFP-Search-Unification).  We received proposals from 6 companies and [awarded the first contract to Resource Data, Inc.](https://github.com/AlaskaDHSS/EIS-Modernization/blob/master/vendor-info/RFP-Search-Unification-Award.md)
 
 ### What's next?
 
-We plan to follow the steps outlined in the RFP in order to compete the first contract amongst interested vendors.  We are also going to begin work to put together the scope of work for the next RFP and hope to borrow as much as we can from the work we've already done.  We'll use the lessons we learn from competing this initial RFP to improve this process for Alaska and the participating vendors.
+We'll use the lessons we learned from this initial RFP to improve this process for Alaska and the participating vendors. To that end, we welcome feedback from anyone that's been tracking this RFP by asking you to take a few minutes to complete this [lightweight survey](https://docs.google.com/forms/d/e/1FAIpQLSdustMAV7GzSNk1nmr_EKVt_E4e2pFcZOiyh1_l7rO4h_Rqkg/viewform).  
 
 ### Thanks again!
-We hope you’ll join us in this.  If you’re interested, please send an e-mail to our contracting officer, Jon Geselle, on [jon.geselle@alaska.gov](mailto:jon.geselle@alaska.gov).  Better yet, get engaged by [adding an issue](https://github.com/18F/acq-alaska-dhss-modernization/issues) in our GitHub repo.  As we mentioned - if you have a question specific to the first RFP, please add it to that [repo's issues.](https://github.com/AlaskaDHSS/RFP-Search-Unification/issues)  
 
+We hope you’ll join us in future procurements.  If you’re interested, please send an e-mail to our contracting officer, Jon Geselle, on [jon.geselle@alaska.gov](mailto:jon.geselle@alaska.gov).  Better yet, get engaged by [adding an issue](https://github.com/18F/acq-alaska-dhss-modernization/issues) in our GitHub repo.  
 
 
 
