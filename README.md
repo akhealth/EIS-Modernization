@@ -107,7 +107,7 @@ We will know we are successful, if we can increase worker productivity and moral
   - [x] [Technical prototyping](technical-prototyping.md) 
 - [X] [Draft solicitation documents and vendor outreach](https://github.com/AlaskaDHSS/acq-alaska-dhss-modernization/tree/master/vendor-info) 
 - [X] First solicitation - RFP released November 3, 2017 (https://github.com/AlaskaDHSS/RFP-Search-Unification)
-- [ ] Award first contract - To Do
+- [X] Award first contract 
 - [ ] Subsequent acquisition(s) - To Do
 
 ## Ongoing Strategic Concerns
