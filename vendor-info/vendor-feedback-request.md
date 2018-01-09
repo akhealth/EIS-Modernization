@@ -1,6 +1,6 @@
 ## Overview
 
-The State of Alaska DHSS and 18F are reaching out to vendors that expressed an interest in the Alaska[ EIS modernization project](https://github.com/AlaskaDHSS/EIS-Modernization/blob/master/README.md) either by responding to the RFI, commenting on the draft RFP, or commenting on the final RFP.  We're interested in why some vendors may have decided not to submit a bid, and what adjustments we might make that would encourage you to bid in the future.
+The State of Alaska DHSS and 18F are reaching out to vendors that expressed an interest in the Alaska[ EIS modernization project](https://github.com/AlaskaDHSS/EIS-Modernization/blob/master/README.md) either by responding to the RFI, commenting on the draft RFP, or commenting on the [final RFP](https://github.com/AlaskaDHSS/RFP-Search-Unification).  We're interested in why some vendors may have decided not to submit a bid, and what adjustments we might make that would encourage you to bid in the future.
 
 We ended up with some very good bids from some very good bidders, and we are very happy with our award decision. However, we always want to improve our interactions with companies that might be interested in supporting the important work the State of Alaska is doing. In addition, the we will soon be issuing additional RFPs to support the EIS modernization project. 
 
