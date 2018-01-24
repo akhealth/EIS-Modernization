@@ -67,7 +67,6 @@ So that we can work more efficiently and be confident in the quality of the work
 
 * for product team to accept the user story and ship it
   * Someone from the product team has verified the functionality in staging
-  * At least xx real users have tested the feature and no show stopper bugs have been found [Assume that this maps to a light QA process, not to an existing, more involved UAT process]
 
 ## Accepting Vendor Work
 
