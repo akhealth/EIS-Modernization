@@ -1,6 +1,8 @@
-## Search unification prototyping
+**Update:** The prototyping work for the first procurement is complete and the associated procurement [has been awarded](https://github.com/AlaskaDHSS/EIS-Modernization/tree/master/vendor-info#whats-happened-so-far). The [prototyping findings](https://github.com/AlaskaDHSS/RFP-Search-Unification/blob/master/4-Prototype-Findings.md) are available for review.
 
-> _UPDATE: The prototyping work for the first procurement is complete and the associated procurement [has been awarded](https://github.com/AlaskaDHSS/EIS-Modernization/tree/master/vendor-info#whats-happened-so-far). The [prototyping findings](https://github.com/AlaskaDHSS/RFP-Search-Unification/blob/master/4-Prototype-Findings.md) are available for review._
+---
+
+## Search unification prototyping
 
 For our first procurement we are dealing with updating a new legacy code base (ARIES) that is very complex and difficult to understand, a deployment process that is opaque — and on top of that, we want to create new connections between legacy systems ARIES and EIS. The unknowns involved with this work are risky enough that we can't be confident that vendors will be able to deliver anything without more guidance.
 
