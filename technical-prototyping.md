@@ -11,14 +11,14 @@ Unlike most kinds of prototypes, technical prototypes are not focused on user ex
 
 ## When we prototype
 
-Throughout this project **we will be using technical prototyping** whenever we are faced some question about integration with existing systems, the nature of existing data sources, or any other existing technical process that we plan to leverage as part of our planned acquisition. We may change direction at times, based on what we learn through prototyping. We may decide to pursue a completely different implementation, or even a different set of features entirely. Best case is that we can proceed with the original plan, only now with much more information that will help ensure the success of the acquisition.
+Throughout this project **we will be using technical prototyping** whenever we are faced with some question about integration with existing systems, the nature of existing data sources, or any other existing technical process that we plan to leverage as part of our planned acquisition. We may change direction at times, based on what we learn through prototyping. We may decide to pursue a completely different implementation, or even a different set of features entirely. Best case is that we can proceed with the original plan, only now with much more information that will help ensure the success of the acquisition.
 
 ## Why we prototype
 
-Prototyping is learning. For us, it let's us to learn firsthand about the challenge before us so that we can take on the work from a more empowered position. Technical prototyping helps us:
+Prototyping is learning. For us, it allows us to learn firsthand about the challenge before us so that we can take on the work from a more empowered position. Technical prototyping helps us:
 
-- **Reduce risk** | Prototypes help us slam into problems fast when the risk is far lower than when time is ticking with a vendor on board so that we can remove barriers to success early.
-- **Validate direction** | By testing out our intended vendor _ask_, we can validate if the planned work is viable. If it is, we can proceed. If the planned path proves unviable, we can easily adjust course.
+- **Reduce risk** | Prototypes help us identify problems fast when the risk is far lower than when time is ticking with a vendor on board so that we can remove barriers to success early.
+- **Validate direction** | By testing out our intended vendor _ask_, we can validate if the planned work is viable. If it is, we can proceed. If the planned path proves unviable, we can more easily adjust course.
 - **Understand business needs** | By exploring a small end-to-end user flow, our product team surfaces and learns about business and policy needs, developing greater subject matter expertise.
 - **Write a good RFP** | The lessons learned through prototyping help inform the content of our requests for proposals, making the project focus sharper and less speculative.
 - **Prepare vendors** | Vendors benefit from the investigation by having more detailed and accurate information upon which to build their proposals. After award, they understand the landscape better and can jump right into the work.
@@ -29,17 +29,17 @@ Prototyping is learning. For us, it let's us to learn firsthand about the challe
 
 ## Prototyping infrastructure
 
-Through the process of standing up an initial technical prototype for the first product increment, we worked through a variety of initial challenges. Having done so, we are now positioned to more easily and quickly prove out technical questions. We can not take advantage of...
+Through the process of standing up an initial technical prototype for the first product increment, we worked through a variety of initial challenges. Having done so, we are now positioned to more easily and quickly prove out technical questions. We can now take advantage of...
 
-- **Security plans** - Agreement with Security teams about the applicable security families (should connect to documentation of that agreement)
+- **Security plans** - Agreement with state security teams about the applicable security requirements (should connect to documentation of that agreement)
 - **Tailored IT standards** - (Is this similar to the security plans above; should connect to documentation)
 - **[Agile and HCD practice](https://github.com/AlaskaDHSS/EIS-Modernization/blob/master/how-we-work.md)** - DHSS has embraced agile and human-centered design practices, works in product increments and sprints, and continuously seeks improvement.
 - **Test data** - Test data has been aligned across MCI, EIS, ARIES for UAT and dev environments. A process for adding new test data has been established (links to documentation)
-- **VSTS & Veracode** - DHSS uses VSTS for version control, repositories, teams, git, security scans, etc. (link to docs)
+- **VSTS** - DHSS uses VSTS for version control, teams, git, security scans, etc. More information can be found [in the DevSecOps repo](https://github.com/AlaskaDHSS/DevSecOpsMvp/tree/master/vsts).
 - **GitHub** - While we work in VSTS, we sync our code with GitHub as part of our deployment cycle to ensure our open source software is visible and accessible.
-- **BizTalk** - BizTalk API now available on the internet to call data from MCI, AREIS, EIS (Link to swagger docs)
-- **Cloud/PaaS/Azure** - DHSS has adopted Azure and will be using this PaaS moving forward. Access matters have been established (link to documentation)
-- **CI/CD pipeline** - Continuous Integration / Continuous Deployment mechanism are now in place. It is not completely automated, some manual clicks are still required. (link to documentation)
+- **Service Proxy** - BizTalk ESB can be used to manage access to MCI, AREIS, EIS (Link to swagger docs)
+- **Cloud/PaaS/Azure** - DHSS has adopted Azure and will be using this PaaS moving forward. More information on access can be found [in the DevSecOps repo](https://github.com/AlaskaDHSS/DevSecOpsMvp/blob/master/Azure.md).
+- **CI/CD pipeline** - Continuous Integration / Continuous Deployment mechanism are now in place and documented [in the DevSecOps repo](https://github.com/AlaskaDHSS/DevSecOpsMvp/blob/master/vsts/GitBranchingStrategy.md).
 
 ## [IN PROGRESS] People & skills
 
