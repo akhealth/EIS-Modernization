@@ -2,16 +2,18 @@
 
 ---
 
-## Technical Prototyping
+# Technical Prototyping
 Especially when working with legacy systems, **it's important to test technical assumptions *before* scoping any kind of procurement** because there are almost certainly unknown hazards that can put your procurement at risk. These hazards can't be known unless you start building something.
 
 Unlike most kinds of prototypes, technical prototypes are not focused on user experience, but rather on the mechanics behind the user's experience. They test things like "Can we really access the data we think we need?", or "How does this external API actually work?"—so they’re pretty bare-bones. They show *just enough* of the user-facing functionality to verify some kind of technical implementation. Practically, the prototype follows some user on a "happy path" user flow through that implementation.
 
 **Prototyping a small end-to-end user flow is something that teams can do quickly before writing an RFP**, and should help identify any hazards in the code, the deployment process or any other technical aspect of a project. This will help teams properly scope the procurement and build out a reasonable RFP with some useful documentation for buyers and for vendors.
 
+## When we prototype
+
 Throughout this project **we will be using technical prototyping** whenever we are faced some question about integration with existing systems, the nature of existing data sources, or any other existing technical process that we plan to leverage as part of our planned acquisition. We may change direction at times, based on what we learn through prototyping. We may decide to pursue a completely different implementation, or even a different set of features entirely. Best case is that we can proceed with the original plan, only now with much more information that will help ensure the success of the acquisition.
 
-### Why we prototype
+## Why we prototype
 
 Prototyping is learning. For us, it let's us to learn firsthand about the challenge before us so that we can take on the work from a more empowered position. Technical prototyping helps us:
 
@@ -25,15 +27,34 @@ Prototyping is learning. For us, it let's us to learn firsthand about the challe
 - **Be transparent** | By working in the open on our prototypes, we increase visibility for all our stakeholders and the larger Alaska community.
 
 
-### Prototyping infrastructure
+## Prototyping infrastructure
 
-Through the process of standing up an initial technical prototype for the first product increment, we put in place a number of
+Through the process of standing up an initial technical prototype for the first product increment, we worked through a variety of initial challenges. Having done so, we are now positioned to more easily and quickly prove out technical questions. We can not take advantage of...
 
 - **Security plans** - Agreement with Security teams about the applicable security families (should connect to documentation of that agreement)
 - **Tailored IT standards** - (Is this similar to the security plans above; should connect to documentation)
 - **[Agile and HCD practice](https://github.com/AlaskaDHSS/EIS-Modernization/blob/master/how-we-work.md)** - DHSS has embraced agile and human-centered design practices, works in product increments and sprints, and continuously seeks improvement.
 - **Test data** - Test data has been aligned across MCI, EIS, ARIES for UAT and dev environments. A process for adding new test data has been established (links to documentation)
 - **VSTS & Veracode** - DHSS uses VSTS for version control, repositories, teams, git, security scans, etc. (link to docs)
+- **GitHub** - While we work in VSTS, we sync our code with GitHub as part of our deployment cycle to ensure our open source software is visible and accessible.
 - **BizTalk** - BizTalk API now available on the internet to call data from MCI, AREIS, EIS (Link to swagger docs)
 - **Cloud/PaaS/Azure** - DHSS has adopted Azure and will be using this PaaS moving forward. Access matters have been established (link to documentation)
 - **CI/CD pipeline** - Continuous Integration / Continuous Deployment mechanism are now in place. It is not completely automated, some manual clicks are still required. (link to documentation)
+
+## [IN PROGRESS] People & skills
+
+Producing technical prototypes requires DHSS developers and product managers to devote time and energy working in the systems and building. To do this, we need...
+
+- C# & .NET Core
+- Front-end development
+- Azure expertise
+- On-prem service/data expert
+- An experimental culture - The team needs to be committed to trying things out, experimenting, and learning from either successes of failures.
+- Just do it attitude - working rough/imperfect, just getting started
+- CI/CD understanding
+- Staffing commitments
+- Product management - High level vision, roadmap, modular/incremental thinking, prototype scoping
+- Ability to identify risks
+- Security office involvement
+- Technical architecture vision/mediator (Risk)
+- Approach to working with ARIES (Risk)
