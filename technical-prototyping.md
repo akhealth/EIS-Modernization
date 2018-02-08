@@ -59,10 +59,13 @@ Producing technical prototypes requires DHSS developers and product managers to 
 - Technical architecture vision/mediator (Risk)
 - Approach to working with ARIES (Risk)
 
-## Getting Started
+## [IN PROGRESS] Getting Started
 
-- Identify the people
-- Identify the risks (facilitated session)
+- Identify the people invovled with prototyping efforts
+- Identify required approvals from security office
+- Identify the risks (facilitated session ?)
 - Assign criticality level to risks
 - Synthesize risks into actionable items
 - Identify boundaries of concern for prototypeing effort (scoped around technical matters)
+
+Create a template for this? 
