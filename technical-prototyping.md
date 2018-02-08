@@ -13,6 +13,9 @@ Unlike most kinds of prototypes, technical prototypes are not focused on user ex
 
 Throughout this project **we will be using technical prototyping** whenever we are faced with some question about integration with existing systems, the nature of existing data sources, or any other existing technical process that we plan to leverage as part of our planned acquisition. We may change direction at times, based on what we learn through prototyping. We may decide to pursue a completely different implementation, or even a different set of features entirely. Best case is that we can proceed with the original plan, only now with much more information that will help ensure the success of the acquisition.
 
+## What to prototype
+
+
 ## Why we prototype
 
 Prototyping is learning. For us, it allows us to learn firsthand about the challenge before us so that we can take on the work from a more empowered position. Technical prototyping helps us:
@@ -25,7 +28,6 @@ Prototyping is learning. For us, it allows us to learn firsthand about the chall
 - **Develop expertise** | By actively working in system code to prove out hypotheses, we retain and grow in-house technical expertise with our systems and understanding of what vendor developers need to succeed.
 - **Refine infrastructure** | Technical prototyping creates opportunities to improve and refine our infrastructure.
 - **Be transparent** | By working in the open on our prototypes, we increase visibility for all our stakeholders and the larger Alaska community.
-
 
 ## Prototyping infrastructure
 
@@ -63,9 +65,9 @@ Producing technical prototypes requires DHSS developers and product managers to 
 
 - Identify the people invovled with prototyping efforts
 - Identify required approvals from security office
-- Identify the risks (facilitated session ?)
+- Identify the risks (this could be a facilitated session)
 - Assign criticality level to risks
-- Synthesize risks into actionable items
+- Synthesize risks into actionable items, and identify risks outside scope of prototyping activity
 - Identify boundaries of concern for prototypeing effort (scoped around technical matters)
 
 Create a template for this? 
