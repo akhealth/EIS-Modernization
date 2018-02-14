@@ -11,6 +11,10 @@ It is important to approach a code review with the right frame of mind:
 
 ## Checklist
 
+- [ ] review the pull request itself, to get oriented
+	- [ ] read the description of the pull request, which should summarize the changes made
+	- [ ] read through every task on the Scrum board that's encompassed by this pull request
+	- [ ] read the description of every commit that comprises the pull request
 - [ ] deploy the site on your system
 	- [ ] test all functionality in all major browsers, emphasizing the functionality that this pull request addresses
 		- [ ] the browser to test the most thoroughly is Internet Explorer 11 on Windows 10
