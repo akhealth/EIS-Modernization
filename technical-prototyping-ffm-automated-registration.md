@@ -22,5 +22,5 @@ This procurement will automate the registration of applications in the ARIES sys
 
 ## Additional resources
 
-* Prototyping [strategy session results](https://app.mural.ly/t/gsa6/m/gsa6/1518556396089/5d06a55c138f4ebf7e18dc0a3ac812e888a3f6a7).
+* Prototyping [strategy session results](https://app.mural.ly/t/gsa6/m/gsa6/1518556396089/5d06a55c138f4ebf7e18dc0a3ac812e888a3f6a7). (Note - access might not be public)
 
