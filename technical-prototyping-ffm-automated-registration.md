@@ -1,9 +1,9 @@
 
 ## FFM Automated Registration (FAR) prototyping 
 
-The next procurement in this effort will deal with inbound FFM referrals for individuals who applied directly through hralthcare.gov, and whose Medicaid eligibility has already been determined by the FFM. Currently, inbound FFM referrals require manual intervention by an agent (even for referrals which have a status of `determined eligible` from the federal marketplace.
+The next procurement in this effort will deal with inbound FFM referrals for individuals who apply for benefits directly through [healthcare.gov](https://www.healthcare.gov/), and whose Medicaid eligibility has already been determined by the FFM. Currently, all inbound FFM referrals require manual intervention by an agent (even for referrals which have a status of `determined eligible` from the federal marketplace).
 
-This procurement will automate the registration of applications received through the FFM, eliminating the need for manual registration. This effort will:
+This procurement will automate the registration of applications in the ARIES system received through the FFM, eliminating the need for manual registration (though sme manual processing may still be needed for FFM referrals not already desingated as `determined eligible`). This effort will:
 
 * Reduce the burden on field agents, who currently register FFM applications manually.
 * Help to reduce the backlog of applications
