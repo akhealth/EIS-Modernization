@@ -12,7 +12,7 @@ Unlike most kinds of prototypes, technical prototypes are not focused on user ex
 **Our prototypes:**
 
 - [Unified search](technical-prototyping-unified-search.md)
-- [FFM automation](technical-prototyping-ffm-automation.md)
+- [FFM automation](technical-prototyping-ffm-automated-registration.md)
 
 ## When we prototype
 
