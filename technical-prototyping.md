@@ -33,11 +33,11 @@ Prototyping is learning. For us, it allows us to learn firsthand about the chall
 
 ## What we prototype
 
-Tehnical prototypes should address risks identified by the product team. The approach to using technical prototypes borrows heavily from the idea of a [code spike](http://agiledictionary.com/209/spike/) in agile software development. Code spikes are not meant to produce production ready code, and should be designed to leverage the simplest possible solution to identify solitutions to an outstanding question or potential risk. Technical prototypes. like code spikes, should help give the product team clarity on the level of efforts required to address risks that have been identified in the planning process.
+Technical prototypes should address risks identified by the product team. The approach to using technical prototypes borrows heavily from the idea of a [code spike](http://agiledictionary.com/209/spike/) in agile software development. Code spikes are not meant to produce production ready code, and should be designed to leverage the simplest possible solution to identify solutions to an outstanding question or potential risk. Technical prototypes. like code spikes, should help give the product team clarity on the level of efforts required to address risks that have been identified in the planning process.
 
 ## Prototyping infrastructure
 
-Through pur initial prototypes efforts, we worked through a variety of initial challenges. Having done so, we are now positioned to more easily and quickly prove out technical questions. We can now take advantage of...
+Through our initial prototypes efforts, we worked through a variety of initial challenges. Having done so, we are now positioned to more easily and quickly prove out technical questions. We can now take advantage of...
 
 - **Security plans** - Agreement with state security teams about the applicable security requirements (should connect to documentation of that agreement)
 - **Tailored IT standards** - (Is this similar to the security plans above; should connect to documentation)
@@ -65,9 +65,9 @@ Producing technical prototypes requires DHSS developers and product managers to 
 
 ## Getting Started
 
-- Identify the people invovled for prototyping efforts to be successful
+- Identify the people involved for prototyping efforts to be successful
 - Identify required approvals from security office
-- Identify the risks (this may be a facilitated session, where a team colectively identifies potential risks)
+- Identify the risks (this may be a facilitated session, where a team collectively identifies potential risks)
 - Assign criticality level to risks
 - Synthesize risks into actionable items, and identify risks outside scope of prototyping activity
-- Identify boundaries of concern for prototypeing effort (scoped around technical matters)
+- Identify boundaries of concern for prototyping effort (scoped around technical matters)
