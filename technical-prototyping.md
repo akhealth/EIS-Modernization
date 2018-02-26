@@ -18,9 +18,6 @@ Unlike most kinds of prototypes, technical prototypes are not focused on user ex
 
 Throughout this project **we will be using technical prototyping** whenever we are faced with some question about integration with existing systems, the nature of existing data sources, or any other existing technical process that we plan to leverage as part of our planned acquisition. We may change direction at times, based on what we learn through prototyping. We may decide to pursue a completely different implementation, or even a different set of features entirely. Best case is that we can proceed with the original plan, only now with much more information that will help ensure the success of the acquisition.
 
-## What to prototype
-
-
 ## Why we prototype
 
 Prototyping is learning. For us, it allows us to learn firsthand about the challenge before us so that we can take on the work from a more empowered position. Technical prototyping helps us:
@@ -34,9 +31,13 @@ Prototyping is learning. For us, it allows us to learn firsthand about the chall
 - **Refine infrastructure** | Technical prototyping creates opportunities to improve and refine our infrastructure.
 - **Be transparent** | By working in the open on our prototypes, we increase visibility for all our stakeholders and the larger Alaska community.
 
+## What we prototype
+
+Tehnical prototypes should address risks identified by the product team. The approach to using technical prototypes borrows heavily from the idea of a [code spike](http://agiledictionary.com/209/spike/) in agile software development. Code spikes are not meant to produce production ready code, and should be designed to leverage the simplest possible solution to identify solitutions to an outstanding question or potential risk. Technical prototypes. like code spikes, should help give the product team clarity on the level of efforts required to address risks that have been identified in the planning process.
+
 ## Prototyping infrastructure
 
-Through the process of standing up an initial technical prototype for the first product increment, we worked through a variety of initial challenges. Having done so, we are now positioned to more easily and quickly prove out technical questions. We can now take advantage of...
+Through pur initial prototypes efforts, we worked through a variety of initial challenges. Having done so, we are now positioned to more easily and quickly prove out technical questions. We can now take advantage of...
 
 - **Security plans** - Agreement with state security teams about the applicable security requirements (should connect to documentation of that agreement)
 - **Tailored IT standards** - (Is this similar to the security plans above; should connect to documentation)
@@ -48,31 +49,25 @@ Through the process of standing up an initial technical prototype for the first 
 - **Cloud/PaaS/Azure** - DHSS has adopted Azure and will be using this PaaS moving forward. More information on access can be found [in the DevSecOps repo](https://github.com/AlaskaDHSS/DevSecOpsMvp/blob/master/Azure.md).
 - **CI/CD pipeline** - Continuous Integration / Continuous Deployment mechanism are now in place and documented [in the DevSecOps repo](https://github.com/AlaskaDHSS/DevSecOpsMvp/blob/master/vsts/GitBranchingStrategy.md).
 
-## [IN PROGRESS] People & skills
+## People & skills
 
-Producing technical prototypes requires DHSS developers and product managers to devote time and energy working in the systems and building. To do this, we need...
+Producing technical prototypes requires DHSS developers and product managers to devote time and energy working in the systems and building. To do this, we leverage some or all of the following:
 
-- C# & .NET Core
-- Front-end development
-- Azure expertise
-- On-prem service/data expert
-- An experimental culture - The team needs to be committed to trying things out, experimenting, and learning from either successes of failures.
-- Just do it attitude - working rough/imperfect, just getting started
-- CI/CD understanding
-- Staffing commitments
-- Product management - High level vision, roadmap, modular/incremental thinking, prototype scoping
+- Familiarity with C# & .NET Core
+- Front-end development 
+- Experience with Azure
+- Familiarity with Git, VSTS and an understanding of CI/CD 
 - Ability to identify risks
-- Security office involvement
-- Technical architecture vision/mediator (Risk)
-- Approach to working with ARIES (Risk)
+- On-prem service/data expert
+- An experimental mindset - The team needs to be committed to trying things out, experimenting, and learning from both successes or failures
+- A bias toward action - working in a deliberately rough & imperfect way in order to make progress mitigating risk
+- Product management - High level vision, roadmap, modular/incremental thinking, prototype scoping
 
-## [IN PROGRESS] Getting Started
+## Getting Started
 
-- Identify the people invovled with prototyping efforts
+- Identify the people invovled for prototyping efforts to be successful
 - Identify required approvals from security office
-- Identify the risks (this could be a facilitated session)
+- Identify the risks (this may be a facilitated session, where a team colectively identifies potential risks)
 - Assign criticality level to risks
 - Synthesize risks into actionable items, and identify risks outside scope of prototyping activity
 - Identify boundaries of concern for prototypeing effort (scoped around technical matters)
-
-Create a template for this? 
