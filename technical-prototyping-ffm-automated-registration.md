@@ -11,6 +11,8 @@ This procurement will automate the registration of applications in the ARIES sys
 
 ## Risks
 
+The list of risks below should be considered preliminary. Refinement of the items listed below, and newly identified risks may be added as work on this procurement progresses. 
+
 | Description  | Criticality (1 - 5)* | Status  |
 |---|---|---|
 | Accessing and modifying existing batch jobs that move applications received from the FFM through the ARIES system  | 5  | Not yet started  |
