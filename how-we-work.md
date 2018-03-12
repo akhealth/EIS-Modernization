@@ -66,52 +66,50 @@ So that we can work more efficiently and be confident in the quality of the work
   * The delivered functionality should be compatible with the latest versions of IE, Firefox, Chrome and Safari
 
 * for product team to accept the user story and ship it
-  * Someone from the product team has verified the functionality in staging
+  * The product team has verified the functionality in staging
 
 ## Accepting Vendor Work
 
-Work is accepted in the form of a pull request, at the conclusion of each sprint, after the sprint review and retro. For that work to be accepted, it must meet the following standards.
+Acceptance of work happens through the sprint as work is completed. The procedure is as follows:
 
-## Testing Strategy
-
-We practice testing at three levels: unit tests, integration tests, and feature tests. For details about how we create and maintain unit, integration and feature tests, see [18F’s “Automated Testing Playbook”](https://automated-testing-playbook.18f.gov/).
-
-### Unit
-
-Unit tests must be created for all new code, during the sprint in which the code is written, with coverage of at least 90%.
-
-### Integration
-
-Because all new work is integrating with the existing ARIES code base, new code must include tests that verify that interfaces are functioning as designed.
-
-### Feature
-
-New features must have functional definitions of the thing that they are to perform, and a description of human-performable actions to verify that they perform that thing.
-
-## Pull Request Process
-
-Documented in our [DevSecOpsMVP repo](https://github.com/AlaskaDHSS/DevSecOpsMvp/blob/master/vsts/GitBranchingStrategy.md).
-
-## Code Review Process
-
-Documented in [our Code Review Process](code-review.md).
-
-## Tools
-
-#### Trello
-We use [Trello](https://trello.com/b/siAFtoWJ/alaska-medicaid-eligibility-information-system-replacement-eis-r-project) as our Scrum board.
-
-#### GitHub
-We use our [GitHub organization](https://github.com/dhssalaska) for storing both software and collaboratively-maintained text.
-
-#### Visual Studio Team Services
-We use our [Visual Studio Team Services](https://alaskadhssba.visualstudio.com/) repository much like our GitHub repository, but for repositories that either need to be kept private and for repositories that are deployed to Azure.
-
-#### Slack
-We use the [TTS Slack](https://gsa-tts.slack.com/) for communication that falls outside of the structure of Trello or GitHub, but that doesn’t rise to the level of email, or for communication that it’s helpful for everybody else to be able to observe.
+1. Development team completes work - See "for for delivering a user story to the product team" in [Definition of Done](#definition_of_done) above
+2. Development team creates pull request to staging - See [Pull Request Process](#pull_request_process)
+3. The product team has verified the functionality against acceptance criteria in a deployed instance for a feature level pull request
+4. Code review takes place - See [Code Review Process](#code_review_process)
+5. Pull request merged to staging DHSS code reviewer
+6. User testing happens - See "for product team to accept the user story and ship it" in _Definition of Done_ above, and [Testing Strategy](#testing-strategy)
+7. Product team creates pull request to master
+8. (Person TBD) merges pull request to master
 
 ## Processes
 
-#### DevSecOps
+### Testing Strategy
+
+We practice testing at three levels: unit tests, integration tests, and feature tests. For details about how we create and maintain unit, integration and feature tests, see [18F’s “Automated Testing Playbook”](https://automated-testing-playbook.18f.gov/).
+
+* **Unit** - Unit tests must be created for all new code, during the sprint in which the code is written, with coverage of at least 90%.
+
+* **Integration** - Because all new work is integrating with the existing ARIES code base, new code must include tests that verify that interfaces are functioning as designed.
+
+* **Feature** - New features must have functional definitions of the thing that they are to perform, and a description of human-performable actions to verify that they perform that thing.
+
+### Pull Request Process
+
+Documented in our [DevSecOpsMVP repo](https://github.com/AlaskaDHSS/DevSecOpsMvp/blob/master/vsts/GitBranchingStrategy.md).
+
+### Code Review Process
+
+Documented in [our Code Review Process](code-review.md).
+
+### DevSecOps
+
 We rely on [DevSecOps](https://github.com/dhssalaska/acq-alaska-dhss-modernization/blob/master/DevSecOps.md) for automation and monitoring of code integration, testing, and deployment. Our DevSecOps pipeline is built atop VSTS (not GitHub) for deployment to Azure. We practice continuous integration, continuous deployment, and continuous testing (including security testing). All new code has tests developed simultaneously, with cumulative test coverage of not less than 90%. See “Accepting Vendor Work” for more.
 For details, see our [“Why DevSecOps?” document](DevSecOps.md), in Github.
+
+## Tools
+
+* **GitHub** - We use our [GitHub organization](https://github.com/AlaskaDHSS) for storing both software and collaboratively-maintained text.
+
+* **Visual Studio Team Services** - We use our [Visual Studio Team Services](https://alaskadhssba.visualstudio.com/) repository much like our GitHub repository, but for repositories that either need to be kept private and for repositories that are deployed to Azure.
+
+* **Slack** - We use the [TTS Slack](https://gsa-tts.slack.com/) for communication that falls outside of the structure of Trello or GitHub, but that doesn’t rise to the level of email, or for communication that it’s helpful for everybody else to be able to observe.
