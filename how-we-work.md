@@ -70,13 +70,11 @@ So that we can work more efficiently and be confident in the quality of the work
 
 ## Accepting Vendor Work
 
-**EITHER THIS SENTENCE:** Acceptance of work happens at the conclusion of each sprint, after the sprint review and retro. The procedure is as follows:
-
-**OR THIS SENTENCE:** Acceptance of work happens through the sprint as work is completed. The procedure is as follows:
+Acceptance of work happens through the sprint as work is completed. The procedure is as follows:
 
 1. Development team completes work - See "for for delivering a user story to the product team" in [Definition of Done](#definition_of_done) above
 2. Development team creates pull request to staging - See [Pull Request Process](#pull_request_process)
-3. The product team has verified the functionality in staging - **WHERE DOES THIS HAPPEN?**
+3. The product team has verified the functionality against acceptance criteria in a deployed instance for a feature level pull request
 4. Code review takes place - See [Code Review Process](#code_review_process)
 5. Pull request merged to staging DHSS code reviewer
 6. User testing happens - See "for product team to accept the user story and ship it" in _Definition of Done_ above, and [Testing Strategy](#testing-strategy)
@@ -104,12 +102,11 @@ Documented in our [DevSecOpsMVP repo](https://github.com/AlaskaDHSS/DevSecOpsMvp
 Documented in [our Code Review Process](code-review.md).
 
 ### DevSecOps
+
 We rely on [DevSecOps](https://github.com/dhssalaska/acq-alaska-dhss-modernization/blob/master/DevSecOps.md) for automation and monitoring of code integration, testing, and deployment. Our DevSecOps pipeline is built atop VSTS (not GitHub) for deployment to Azure. We practice continuous integration, continuous deployment, and continuous testing (including security testing). All new code has tests developed simultaneously, with cumulative test coverage of not less than 90%. See “Accepting Vendor Work” for more.
 For details, see our [“Why DevSecOps?” document](DevSecOps.md), in Github.
 
 ## Tools
-
-* **Trello** - We use [Trello](https://trello.com/b/siAFtoWJ/alaska-medicaid-eligibility-information-system-replacement-eis-r-project) as our Scrum board.
 
 * **GitHub** - We use our [GitHub organization](https://github.com/AlaskaDHSS) for storing both software and collaboratively-maintained text.
 
