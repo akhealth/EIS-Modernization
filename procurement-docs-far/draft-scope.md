@@ -1,5 +1,7 @@
 # Purpose of the RFP
 
+**Note - this document is currently in draft form. Updates and changes will be made prior to finalizing for inclusion in an RFP**
+
 The Department of Health and Social Services, Division of Public
 Assistance (DPA), is soliciting proposals for a Contractor to
 continuously deliver iterations of software that enables the automated
