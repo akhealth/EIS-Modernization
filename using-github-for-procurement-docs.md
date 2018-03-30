@@ -13,7 +13,7 @@ federal, state and local governments have used Github to develop
 procurement related materials, and to engage with vendors as part of the
 procurement process (most notably 18F’s use of Github as the foundation
 for it’s [micro-purchase platform](https://micropurchase.18f.gov/)).
-Github offers governments an opportunity to develop procurement
+Github offers government agencies an opportunity to develop procurement
 materials in an open (and even collaborative) fashion, and many features
 of the Github platform lend themselves well to interacting with vendors
 during a procurements.
@@ -21,7 +21,7 @@ during a procurements.
 However, the State of Alaska’s use of Github for developing and
 releasing procurement documents is new and there are undoubtedly
 opportunities for improvement. This document is meant to summarize
-feedback both internal staff, 18F and vendors on the use of Github for
+feedback from internal staff, 18F and vendors on the use of Github for
 developing procurement documents and to identify some steps that could
 be taken to improve the process in the future.
 
@@ -51,7 +51,7 @@ state’s vendor website prove cumbersome.
 
 Vendors generally reported a positive experience using Github to follow
 the development of RFP documents on Github, but did raise concerns about
-the the ability to be notified when changes were made. It’s not
+the the ability to be notified when changes were made and determine which changes were substanative or not. It’s not
 unreasonable to assume that a technology company will have the
 organizational capacity to acclimate to and use Github, but those
 monitoring the RFP process at vendor companies are sometime not
@@ -70,7 +70,7 @@ and issue RFP documents, and to engage with vendors.
 
 ### Use Github as the Primary Source for RFP Documents
 
-Instead of trying to keep documents on the state’s vendor website in sync with changes on Github, the state will simply link to the RFP documents housed in Github and use the Github version as thec "official version of the RFP and associated documents. This will remove the burden of keeping these two separate copies of RFP documents in sync, and will help eliminate confusion from vendors who might be unser where the latest copy of an RFP document is located.
+Instead of trying to keep documents on the state’s vendor website in sync with changes on Github, the state will simply link to the RFP documents housed in Github and use the Github version as the official version of the RFP and associated documents. This will remove the burden of keeping these two separate copies of RFP documents in sync, and will help eliminate confusion from vendors who might be unser where the latest copy of an RFP document is located.
 
 ### Provide Clearer Guidance Upfront on Contributing
 
@@ -86,6 +86,6 @@ In addition, a more standard listserv or mailing list for vendors might help cut
 
 The state may want to rethink the use of Github’s Wiki feature, which was used to [post updates](https://github.com/AlaskaDHSS/EIS-Modernization/wiki) for vendors during the development of the first RFP. Github’s wiki feature offers limited ways to be notified when changes are made (though it is possible to [subscribe to an Atom feed](https://github.com/AlaskaDHSS/EIS-Modernization/wiki.atom), this feature is not well publicized and might not be practical for those participating from vendor companies).
 
-One issue with the use of a Github wiki during the development of the first RFP is that the documents were initially developed in a project-level repository (while they were still in draft form) and then were migrated to a standalone repository. The wiki for vendor updates remained in the original, project-level repository, potentially creating a disconnect. If a github wiki is used in subsequent procurements, it should reside within the same repository as the RFP documents, and it should be clearly communicated to vendors that it will be the vehicle for communicating changes.
+One issue with the use of a Github wiki during the development of the first RFP is that the documents were initially developed in a project-level repository (while they were still in draft form) and then were migrated to a standalone repository at the time of RFP release. The wiki for vendor updates remained in the original, project-level repository, potentially creating a disconnect. If a github wiki is used in subsequent procurements, it should reside within the same repository as the RFP documents, and it should be clearly communicated to vendors that it will be the vehicle for communicating changes.
 
 Some of the vendor feedback suggested the use of a more traditional blog to announce substantial changes to RFP documents. While there are obviously a number of different ways to publish and maintain a simple project blog, one way to do this might be to leverage [Github pages](https://pages.github.com/) to deploy a simple website for RFP document changes.
