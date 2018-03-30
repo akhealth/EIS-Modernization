@@ -1,9 +1,4 @@
-# Description
-
-Federally Facilitated Marketplace Automatic Application Registration
-(FAR)
-
-## Purpose of the RFP
+# Purpose of the RFP
 
 The Department of Health and Social Services, Division of Public
 Assistance (DPA), is soliciting proposals for a Contractor to
@@ -11,9 +6,9 @@ continuously deliver iterations of software that enables the automated
 registration of applications received from the Federally Facilitated
 Marketplace (FFM).
 
-### Background Information
+## Background Information
 
-**BACKGROUND**
+### Background
 
 The background for this project as a whole is
 detailed in the project README in DHSS primary [GitHub
@@ -34,7 +29,7 @@ to ensure that the application is associated with any existing records
 for the same client that may exist. This manual step is largely
 unnecessary and can be automated.
 
-**OBJECTIVES**
+### Objectives
 
 * Alaska Department of Health and Social Services (DHSS) goals for the FFM
 Automated Registration (FAR) procurement are as follows:
@@ -53,7 +48,7 @@ that potential beneficiaries can get their benefits sooner.
 
 * Decrease time for FFM applicants to receive their benefits.
 
-### Scope of Work
+## Scope of Work
 
 The scope of this contract is for the Contractor to continuously deliver
 iterations of updated ARIES software that automates the FFM application
@@ -70,7 +65,7 @@ The State of Alaska will provide documentation on how to access data
 sources, describe existing authentication systems, and discuss how to
 continuously deploy work to a staging environment.
 
-### Requirements
+## Requirements
 
 The Contractor shall provide the following services:
 
