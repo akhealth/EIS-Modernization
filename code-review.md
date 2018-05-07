@@ -79,7 +79,7 @@ We use this list when performing a code review to ensure that all tasks have bee
 - [ ] deploy the site on your local system
 	- [ ] test all functionality in all major browsers, emphasizing the functionality that this pull request addresses
 		- [ ] the browser to test the most thoroughly is Internet Explorer 11 on Windows 10
-		- [ ] also test in Chrome and Firefox
+		- [ ] also test in Edge, Chrome, and Firefox
 	- [ ] use an automated audit tool for code quality and practices (recommended: Chrome Audit)
 		- [ ] look at efficiency of page loads, asset sizes, HTTP connection management, etc.
 	- [ ] review for accessibility
