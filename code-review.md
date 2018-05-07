@@ -76,21 +76,17 @@ We use this list when performing a code review to ensure that all tasks have bee
 	- [ ] read the description of the pull request, which should summarize the changes made
 	- [ ] read through every task on the Scrum board that's encompassed by this pull request
 	- [ ] read the description of every commit that comprises the pull request
-- [ ] deploy the site on your system
+- [ ] deploy the site on your local system
 	- [ ] test all functionality in all major browsers, emphasizing the functionality that this pull request addresses
 		- [ ] the browser to test the most thoroughly is Internet Explorer 11 on Windows 10
-		- [ ] Chrome, Firefox, Safari, mobile Chrome, and mobile Safari
-	- [ ] use an automated audit tool for code quality and practices (recommended: Chrome Audits)
+		- [ ] also test in Chrome and Firefox
+	- [ ] use an automated audit tool for code quality and practices (recommended: Chrome Audit)
+		- [ ] look at efficiency of page loads, asset sizes, HTTP connection management, etc.
 	- [ ] review for accessibility
-		- [ ] use an automated audit tool, such as Chrome Audit or 
+		- [ ] use an automated audit tool, such as Chrome Audit or aXe
 	- [ ] navigate site only with the keyboard
-	- [ ] use VoiceOver to navigate the site with audio only
+	- [ ] use VoiceOver or Narrator to navigate the site with audio only
 	- [ ] manually test anything that pa11y cannot test automatically (e.g., contrast of text over images)
-	- [ ] look at efficiency of page loads, asset sizes, HTTP connection management, etc.
-- [ ] tests
-	- [ ] look at code coverage of tests on VSTS
-	- [ ] review all new tests for correctness, quality of naming
-	- [ ] determine what code isn’t tested, review that carefully
 - [ ] review static code analysis results, make sure everything is OK
 - [ ] critically read all new code, in the context of existing code, [looking for problems](#what-we-look-for), e.g.:
 	- [ ] make sure names of methods and variables are sensible
@@ -99,7 +95,11 @@ We use this list when performing a code review to ensure that all tasks have bee
 	- [ ] any code with a purpose that isn’t immediately clear should have a comment explaining it
 	- [ ] check that code style is consistent
 	- [ ] be suspicious of any code that accepts input from the outside world, ensure that it doesn’t enable any kind of buffer overflows or SQL injection attacks
-- [ ] review documentation to ensure it matches changes
+- [ ] tests
+	- [ ] look at code coverage of tests on VSTS
+	- [ ] review all new tests for correctness, quality of naming
+	- [ ] determine what code isn’t tested, review that carefully
+- [ ] review documentation to ensure that it matches changes
 - [ ] comment on VSTS
 	- [ ] for comments that are tied to a particular line of code, use VSTS’s line-commenting functionality
 	- [ ] for comments are are more general, comment on the pull request itself
