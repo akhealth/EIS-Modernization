@@ -103,3 +103,4 @@ We use this list when performing a code review to ensure that all tasks have bee
 - [ ] comment on VSTS
 	- [ ] for comments that are tied to a particular line of code, use VSTS’s line-commenting functionality
 	- [ ] for comments are are more general, comment on the pull request itself
+- [ ] open a VSTS bug report for each feature-level bug (i.e., it’s working as designed, but designed wrong), putting it in the backlog
