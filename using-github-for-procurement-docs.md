@@ -8,7 +8,7 @@ procurement strategy, and is using Github to develop and release
 documents](https://github.com/AlaskaDHSS/RFP-Search-Unification) and
 solicit comments / feedback from the vendor community.
 
-There are a number of [notable examples](https://ads.18f.gov/) where
+There are a number of [notable examples](https://agile-bpa.18f.gov/) where
 federal, state and local governments have used Github to develop
 procurement related materials, and to engage with vendors as part of the
 procurement process (most notably 18F’s use of Github as the foundation
