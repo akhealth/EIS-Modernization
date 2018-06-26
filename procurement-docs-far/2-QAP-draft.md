@@ -1,5 +1,5 @@
 # PERFORMANCE BASED QUALITY ASSURANCE PLAN (QAP) 
-# EIS Search Tool 
+# FFM Automated Registration (FAR)
 ## INTRODUCTION
 This Quality Assurance Plan (QAP) has been developed to evaluate contractor actions while implementing [the Scope of Work (SOW)](1-Request-for-Proposals.md#section-3-scope-of-work--contract-information). It is designed to provide an effective method of monitoring contractor performance for each listed objective on the Performance Requirements Matrix. It also provides a systematic method to evaluate the services the contractor is required to furnish.
 
