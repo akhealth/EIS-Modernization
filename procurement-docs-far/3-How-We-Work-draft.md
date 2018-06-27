@@ -140,17 +140,14 @@ We wouldn’t want anyone being mean to us because of an oversight, mistake, or 
 
 ## Tools
 
-#### Trello
-We use [Trello](https://trello.com/b/siAFtoWJ/alaska-medicaid-eligibility-information-system-replacement-eis-r-project) as our Scrum board.
-
 #### GitHub
 We use our [GitHub organization](https://github.com/AlaskaDHSS) for storing both software and collaboratively-maintained text.
 
 #### Visual Studio Team Services
-We use our [Visual Studio Team Services](https://alaskadhssba.visualstudio.com/) repository much like our GitHub repository, but for repositories that either need to be kept private and for repositories that are deployed to Azure.
+We use our [Visual Studio Team Services](https://alaskadhssba.visualstudio.com/) repository much like our GitHub repository, but for repositories that either need to be kept private and for repositories that are deployed to Azure. Visual Studio Team Services also serves as our scrum board.
 
 #### Slack
-We use the [TTS Slack](https://gsa-tts.slack.com/) for communication that falls outside of the structure of Trello or GitHub, but that doesn’t rise to the level of email, or for communication that it’s helpful for everybody else to be able to observe.
+We use the [TTS Slack](https://gsa-tts.slack.com/) for communication that falls outside of the structure of GitHub, but that doesn’t rise to the level of email, or for communication that it’s helpful for everybody else to be able to observe.
 
 ## Processes
 
