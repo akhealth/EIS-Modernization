@@ -101,7 +101,7 @@ Test names shouldn’t be overly technical. Ideally folks outside the developmen
 It’s easy to get to 100% code coverage without actually testing anything. We’ll look at the tests themselves to make sure they’re actually making the right assertions about the methods under test.
 
 ##### Cyclomatic complexity, code depth, and method lengths are reasonable
-We’ll use automated tools to do [static source analysis](https://18f.gsa.gov/2016/10/04/what-is-static-source-analysis/). Anywhere the metrics are higher than what we’d generally like, we’ll look at the code itself to see if they make sense. We’re going to take a more in-depth look when we a cyclomatic complexity above 10, a code depth above 5, or a method length above 25 lines.
+We’ll use automated tools to do [static source analysis](https://18f.gsa.gov/2016/10/04/what-is-static-source-analysis/). Anywhere the metrics are higher than what we’d generally like, we’ll look at the code itself to see if they make sense. We’re going to take a more in-depth look when we encounter cyclomatic complexity above 10, a code depth above 5, or a method length above 25 lines.
 
 ##### Opportunities to abstract and refactor
 We’ll look for duplication in the code where it might make sense to break functionality into methods that can be reused.
