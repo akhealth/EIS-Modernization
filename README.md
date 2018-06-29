@@ -88,8 +88,8 @@ We will know we are successful, if we can increase worker productivity and moral
 | There is a risk that we won't be able to deploy to production frequently enough that we can work in an agile fashion.  | 2  | Derisked  |
 | There is a risk that vendors won't be able to easily work with the legacy ARIES code and existing authentication methods. | 5  | Not started  |
 | There is a landscape of existing solutions that could potentially be leveraged instead of building from scratch.  |  2 |  Not started |
-| There is a risk that the ATO process will prevent us from being able to deploy continuously to a production environment.  | 2  | Derisked  |
-| There is a risk that by having multiple vendors contributing to the same codebase, we increase the complexity of integration. There could be problems that arise specifically from the logistics and timing of multiple contributors.   | 2  |  Derisked |
+| There is a risk that the ATO process will prevent us from being able to deploy continuously to a production environment.  | 5  | In progress  |
+| There is a risk that by having multiple vendors contributing to the same codebase, we increase the complexity of integration. There could be problems that arise specifically from the logistics and timing of multiple contributors.   | 3  |  Not started |
 
  \* 1 = low criticality; 5 = high criticality
 
@@ -103,18 +103,18 @@ We will know we are successful, if we can increase worker productivity and moral
   - [x] Funding strategy 
   - [x] Market research and vendor outreach 
   - [x] Acquisition strategy 
-  - [x] DevOps MVP 
+  - [x] [DevOps MVP](https://github.com/AlaskaDHSS/DevSecOpsMvp) 
   - [x] [Technical prototyping](technical-prototyping.md) 
 - [X] [Draft solicitation documents and vendor outreach](https://github.com/AlaskaDHSS/acq-alaska-dhss-modernization/tree/master/vendor-info) 
 - [X] First solicitation - RFP released November 3, 2017 (https://github.com/AlaskaDHSS/RFP-Search-Unification)
 - [X] Award first contract 
-- [ ] Subsequent acquisition(s) - To Do
+- [ ] Subsequent acquisition(s) - [In progress](https://github.com/AlaskaDHSS/EIS-Modernization/tree/mheadd-repo-cleanup/procurement-docs-far) 
 
 ## Ongoing Strategic Concerns
 * Data normalization
 * Communication (external and internal)
 * System integration (of the various modules)
-* DevOps and continuous delivery
+* DevSecOps and continuous delivery
 * Support and maintenance
 * Documentation
 * Alignment with CMS, FNS, and other Federal Partners
