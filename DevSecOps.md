@@ -13,7 +13,7 @@ We are targeting
 - [Microsoft C#](https://docs.microsoft.com/en-us/dotnet/csharp/) for application language
 - [Microsoft Dotnet Core](https://www.microsoft.com/net/core) for application framework
 - [Microsoft Azure App Service](https://azure.microsoft.com/en-us/services/app-service/) Platform-as-a-Service for application environments
-- Utiliiaing the State of Alaska's existing Enterprise Service Bus (ESB) for accessing on-premises data sources.
+- Utilizing the State of Alaska's existing Enterprise Service Bus (ESB) for accessing on-premises data sources.
 
 We prefer development environments to be virtualized using something like [Docker](https://www.docker.com/). See the [running-locally section of our prototype README](https://github.com/AlaskaDHSS/ProtoWebApi#running-locally) for more information.
 
