@@ -13,7 +13,7 @@ Deliverable or Required Services Performance Standard(s):
 **Deliverable or Required Services** | **Performance Standard(s)** | **Acceptable Quality Level (AQL)** | **Method of Review**
 --- | --- | --- | ---
 Tested Code | Code delivered under the contract must have substantial test code coverage and a clean code base. | Minimum of 90% test coverage of all relevant code. | Combination of manual review and automated testing, using agreed-upon publicly-available, supported products. 
-Accessible | Client-side rendering must conform with WCAG 2.1. | 0 errors reported for 508 Standards using an automated scanner and 0 errors reported in manual testing. | Testing method TBD
+Accessible | Client-side rendering must conform with WCAG 2.1, level AA. | 0 errors reported for 508 Standards using an automated scanner and 0 errors reported in manual testing. | Testing method TBD
 Deployed | Code must successfully build and deploy into staging environment. | Successful build DHSS managed automated continuous integration processes. | Combination of manual review and agreed upon automated testing.
 Documented | All dependencies (and licenses for dependencies) are listed and all major functions are documented. | All dependencies are listed and the licenses are documented. Software/source code is documented. System diagram is provided. | Combination of manual review and automated testing
 Available | Code must be stored in a version-controlled open-source repository. | All of the code needed to run the front end of the prototype must be available. | DHSS will assess code availability and access
