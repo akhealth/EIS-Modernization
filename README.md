@@ -105,7 +105,7 @@ We will know we are successful, if we can increase worker productivity and moral
   - [x] Acquisition strategy 
   - [x] [DevOps MVP](https://github.com/AlaskaDHSS/DevSecOpsMvp) 
   - [x] [Technical prototyping](technical-prototyping.md) 
-- [X] [Draft solicitation documents and vendor outreach](https://github.com/AlaskaDHSS/acq-alaska-dhss-modernization/tree/master/vendor-info) 
+- [X] [Draft solicitation documents and vendor outreach](https://github.com/AlaskaDHSS/EIS-Modernization/wiki) 
 - [X] First solicitation - RFP released November 3, 2017 (https://github.com/AlaskaDHSS/RFP-Search-Unification)
 - [X] Award first contract 
 - [ ] Subsequent acquisition(s) - [In progress](https://github.com/AlaskaDHSS/EIS-Modernization/tree/mheadd-repo-cleanup/procurement-docs-far) 
