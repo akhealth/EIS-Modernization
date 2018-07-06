@@ -73,9 +73,9 @@ So that we can work more efficiently and be confident in the quality of the work
 Acceptance of work happens through the sprint as work is completed. The procedure is as follows:
 
 1. Development team completes work - See "for for delivering a user story to the product team" in [Definition of Done](#definition_of_done) above
-2. Development team creates pull request to staging - See [Pull Request Process](https://github.com/AlaskaDHSS/DevSecOpsMvp/blob/master/vsts/GitBranchingStrategy.md)
+2. Development team creates pull request to staging - See [Pull Request Process](#pull_request_process)
 3. The product team has verified the functionality against acceptance criteria in a deployed instance for a feature level pull request
-4. Code review takes place - See [Code Review Process](code-review.md)
+4. Code review takes place - See [Code Review Process](#code_review_process)
 5. Pull request merged to staging DHSS code reviewer
 6. User testing happens - See "for product team to accept the user story and ship it" in _Definition of Done_ above, and [Testing Strategy](#testing-strategy)
 7. Product team creates pull request to master
