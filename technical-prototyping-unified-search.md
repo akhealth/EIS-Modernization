@@ -1,4 +1,4 @@
-**Update:** The prototyping work for the first procurement is complete and the associated procurement [has been awarded](https://github.com/AlaskaDHSS/EIS-Modernization/tree/master/vendor-info#whats-happened-so-far). The [prototyping findings](https://github.com/AlaskaDHSS/RFP-Search-Unification/blob/master/4-Prototype-Findings.md) are available for review.
+**Update:** The prototyping work for the first procurement is complete and the associated procurement [has been awarded](https://github.com/AlaskaDHSS/EIS-Modernization/wiki/Project-Update-12_19_2017---First-Award-Announced!). The [prototyping findings](https://github.com/AlaskaDHSS/RFP-Search-Unification/blob/master/4-Prototype-Findings.md) are available for review.
 
 ---
 
