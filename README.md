@@ -144,7 +144,7 @@ Key documents
 * Link to the Worker Portal User Acceptance Testing Environment: https://uat.myaries.alaska.gov 
 
 ## Technology requirements
-We are working with the Microsoft technology stack. Please see [DevSecOps.md](/DevSecOps.md) for specific requirements.
+We are working with the Microsoft technology stack. Please see [DevSecOps.md](DevSecOps.md) for specific requirements.
 
 See our [How we Work document](https://github.com/AlaskaDHSS/acq-alaska-dhss-modernization/blob/master/how-we-work.md#accepting-vendor-work) for more about how we work with external venors, accept code, and coduct code reviews.
 
