@@ -15,7 +15,7 @@ Our basic principles are those familiar to anybody who has contributed to a prom
 
 ## Product Team
 
-There is a cross functional product team for the Alaska DHSS modernization project (ARIES) comprised of business, policy, security, procurement and technical specialists who are working together to move the entire enterprise forward towards its goals. In addition to this high level team, each of our procurements will be managed by a more immediate set of people who will be working with the product owner and product managers on the Alaska DHSS product team to deliver on the prioritized backlog for that particular procurement. This product team will be comprised of the following roles
+There is a cross functional product team for the Alaska DHSS modernization project (ARIES) comprised of business, policy, security, procurement and technical specialists who are working together to move the entire enterprise forward towards its goals. In addition to this high level team, each of our procurements will be managed by a more immediate set of people who will be working with the product owner and product managers on the Alaska DHSS product team to deliver on the prioritized backlog for that particular procurement. This product team will be comprised of the following roles:
 
 * Product owner - Alaska
 * Product manager(s) - Alaska
