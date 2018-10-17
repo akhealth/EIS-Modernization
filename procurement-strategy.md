@@ -14,7 +14,7 @@ We [embrace](https://github.com/AlaskaDHSS/EIS-Modernization/blob/master/how-we-
 
 ### Breaking up work into modules
 
-We aim to break up the large amount of work required for the overall EIS-R effort into smaller, less risky, more achievable pieces. Our goal os to run multiple, smaller procurements in sequence and iteratively deliver increased value to those we serve.. This will help us reduce risks, and deliver working software the end users more quickly.
+We aim to break up the large amount of work required for the overall EIS-R effort into smaller, less risky, more achievable pieces. Our goal is to run multiple, smaller procurements in sequence and iteratively deliver increased value to those we serve. This will help us reduce risks, and deliver working software the end users more quickly.
 
 ### Reduced proposal size
 
@@ -22,7 +22,7 @@ We desire to reduce the size of proposals that we receive from vendors, by deobl
 
 ### Articulating goals, not requirements
 
-We want our solicitations to focus less on prescribing specific technologies and more on the solutions and outcomes we hope to achieve with our vendor partners. This will allow vendors to offer more creative, innovative approaches to the challenges we face.
+We want our solicitations to focus less on prescribing specific business requirements and more on the solutions and outcomes we hope to achieve with our vendor partners. This will allow vendors to offer more creative, innovative approaches to the challenges we face.
 
 ### Vendor collaboration
 
