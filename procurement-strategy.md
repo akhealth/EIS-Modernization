@@ -8,6 +8,8 @@ The Alaska EIS-R project will employ a modular procurement strategy to modernize
 
 ## Modular Procurement Principles
 
+Ultimately, the state’s investment should be measured in working software, not phase documents or milestones. Only working systems are of value to real constituents. Based on that premise, teams are only able to measure the success of a waterfall project after most costs have been incurred, because that is the first time working software is delivered. This is a huge risk. Modular procurements allow the state to measure success at more regular intervals, and reduce the overall risk to the state.
+
 ### Working in the open
 
 We [embrace](https://github.com/AlaskaDHSS/EIS-Modernization/blob/master/how-we-work.md#principles) the use of open source software, and share the code that is developed as part of this effort openly in public repositories. This will help us reduce overdependence on a single vendor, will help us build trust with the vendor partners that we work with and foster reuse both within the State of Alaska, and with other states. 
