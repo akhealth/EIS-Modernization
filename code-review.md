@@ -18,7 +18,7 @@ We’re mostly going to look at new and changed code. For changed code, we’ll 
 ### Does not contain secrets
 We look to ensure that new and/or changed code does not contain secrets (account names, passwords, private keys, private hostnames, service endpoints and other confidential secrets).
 
-If a confidential secret is committed and is discovered during code review, it needs to be [removed from history](https://help.github.com/articles/removing-sensitive-data-from-a-repository/). Creating a new commit that deletes the secret but leaves it discoverable in the git history is not enough.
+If a confidential secret is committed and is discovered during code review, it needs to be [removed from history](https://help.github.com/articles/removing-sensitive-data-from-a-repository/). Creating a new commit that deletes the secret but leaves it discoverable in the git history is not sufficient.
 
 ### All logical paths are tested
 Tests should cover all branches of logical decisions (e.g., if statements). We’ll check this by looking at a code coverage report that shows which lines were executed.
