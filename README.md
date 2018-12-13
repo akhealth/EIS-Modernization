@@ -31,7 +31,7 @@ We have already seen many benefits from these efforts and seek to spread these l
 
 ## Methods & Strategies
 - [How we work](/how-we-work.md)
-- Procurement strategy [need  source]
+- [Procurement strategy](/procurement-strategy.md)
 - [Technical strategy](/tech-strategy.md)
 - [Design strategy](/modular-experience.md)
 
