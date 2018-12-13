@@ -25,14 +25,14 @@ Fundamental to this project is our integrated, cross-functional team approach. B
 We are supported in this effort by our department and division leadership. We work in partnership with CMS, FNS, and a network of vendor collaborators.
 
 ## Modernization
-"Modernization" does not just refer to updating systems built long ago. It means that we are rethinking every aspect of our work and looking for opportunities to improve. This includes product management, risk mitigation, staffing, procurement, development methods, technology choices, oversight response, design, user engagement, vendor management, and more. 
+"Modernization" does not just refer to updating systems built long ago. It means that we are rethinking every aspect of our work and looking for opportunities to improve. This includes product management, risk mitigation, staffing, procurement, development methods, technology choices, oversight response, design, user engagement, vendor management, and more.
 
 We have already seen many benefits from these efforts and seek to spread these lessons throughout AK DHSS wherever possible.
 
 ## Methods & Strategies
 - [How we work](/how-we-work.md)
 - Procurement strategy [need  source]
-- Technical strategy [to come]
+- [Technical strategy](/tech-strategy.md)
 - [Design strategy](/modular-experience.md)
 
 ----
@@ -103,15 +103,15 @@ We will know we are successful, if we can increase worker productivity and moral
 - [ ] Foundational work - in progress
   - [x] Product vision - Done 5/8/17
   - [x] Product roadmap - Initial roadmap created 5/22/17
-  - [x] Funding strategy 
-  - [x] Market research and vendor outreach 
-  - [x] Acquisition strategy 
-  - [x] [DevOps MVP](https://github.com/AlaskaDHSS/DevSecOpsMvp) 
-  - [x] [Technical prototyping](technical-prototyping.md) 
-- [X] [Draft solicitation documents and vendor outreach](https://github.com/AlaskaDHSS/EIS-Modernization/wiki) 
+  - [x] Funding strategy
+  - [x] Market research and vendor outreach
+  - [x] Acquisition strategy
+  - [x] [DevOps MVP](https://github.com/AlaskaDHSS/DevSecOpsMvp)
+  - [x] [Technical prototyping](technical-prototyping.md)
+- [X] [Draft solicitation documents and vendor outreach](https://github.com/AlaskaDHSS/EIS-Modernization/wiki)
 - [X] First solicitation - RFP released November 3, 2017 (https://github.com/AlaskaDHSS/RFP-Search-Unification)
-- [X] Award first contract 
-- [ ] Subsequent acquisition(s) - [In progress](https://github.com/AlaskaDHSS/EIS-Modernization/tree/mheadd-repo-cleanup/procurement-docs-far) 
+- [X] Award first contract
+- [ ] Subsequent acquisition(s) - [In progress](https://github.com/AlaskaDHSS/EIS-Modernization/tree/mheadd-repo-cleanup/procurement-docs-far)
 
 ## Ongoing Strategic Concerns
 * Data normalization
@@ -143,8 +143,8 @@ Key documents
 
 
 ## System Information (User account must be granted by the State of Alaska)
-* Link to the SSP User Acceptance Testing Environment: https://uat.aries.alaska.gov 
-* Link to the Worker Portal User Acceptance Testing Environment: https://uat.myaries.alaska.gov 
+* Link to the SSP User Acceptance Testing Environment: https://uat.aries.alaska.gov
+* Link to the Worker Portal User Acceptance Testing Environment: https://uat.myaries.alaska.gov
 
 ## Technology requirements
 We are working with the Microsoft technology stack. Please see [DevSecOps.md](DevSecOps.md) for specific requirements.
