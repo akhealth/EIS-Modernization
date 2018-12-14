@@ -1,5 +1,11 @@
 # EIS Replacement Project Technical Strategy
+
 Goals, vision and strategies described herein were derived from Technical Strategy workshops conducted by 18F with the EIS modernization product and technical teams.
+
+| Action | Date |
+| ----------- | ----------- |
+| Committed to GitHub | December 2018 |
+| Review by | June 2019 |
 
 **Challenge**:  We will move the programs currently in EIS off the mainframe within 5 years.  This item identified by the team as a strategy is in fact a goal of the EIS modernization project.
 
