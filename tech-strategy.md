@@ -1,8 +1,6 @@
 # EIS Replacement Project Technical Strategy
 Goals, vision and strategies described herein were derived from Technical Strategy workshops conducted by 18F with the EIS modernization product and technical teams.
 
-**Goal**:  We will move the programs currently in EIS off the mainframe within 5 years.  This item identified by the team as a strategy is in fact a goal of the EIS modernization project.
-
 ## Vision Statements
 * IT staff are stable and empowered.  We use commonly-supported technologies that we understand well.  We clearly identify, describe, and prioritize our work, document our code and open APIs, and work on clean codebases.  We deliver value to our users quickly and regularly.
 * Our DevSecOps approach allows us to rapidly develop and deploy improvements to our systems. Our project, code, build, and release process is transparent and accessible. Our simplified operating environment allows us to interact with developers and vendors effortlessly and supports a healthy rotation of vendor contributors. Our data flows between systems through existing or homegrown APIs.
