@@ -26,7 +26,7 @@ Strategies have been organized in themes. The themes are a synthesis of specific
 
 ### Develop and use Agile and DevSecOps methodologies, tools and architectures that support full-lifecycle (`vision => acquisition => operations and maintenance => continuous improvement`), and decreased time to value.
 1.  We will support DevOps, infrastructure- and configuration-as-code, and CI/CD.
-2.  We [must include DSO agreement] will integrate security compliance into the development process, creating a true DevSecOps model.
+2.  We will integrate security compliance into the development process, creating a true DevSecOps model. Our DSO agreement is in progress.
 3.  We will embrace architecture and processes that support rapid development and deployment using technical prototyping to evaluate feasibility, direction, and assumptions, and do what's needed to establish a culture of experimentation.
 4.   We will improve dev cycle time, outcomes, strategic alignment through innovation using prototyping and fail-fast strategies.
 5.  We will explore and experiment with emerging technologies to support business needs.
