@@ -4,9 +4,9 @@
 
 Our basic principles are those familiar to anybody who has contributed to a prominent open source project, or deployed code in a modern software environment.
 
-* We produce open source software, created and maintained in repositories where it may be inspected by the public who places their trust in it and copied for use by other agencies.
+* We look to the future. Our systems are secure and open source, created and maintained in repositories where it may be inspected by the public who places their trust in it and copied for use by other agencies.
 * We adhere to the basic practices of agile software development, using the Scrum development framework.
-* We use DevSecOps to automate and measure our deployment process, relying on continuous integration, continuous delivery, and continuous security to ensure that our work is high-quality.
+* We use a DevSecOps approach that allows us to rapidly develop and deploy improvements to our systems, infrastructure- and configuration-as-code, and CI/CD to ensure that our work is high-quality. We integrate security compliance into the process.
 * We practice human-centered design. Everything that we produce is highly accessible, per WCAG 2.0. We build APIs before we build software atop it, and we believe that APIs require a well-designed interface.
 * We include and enforce codes of conduct, to foster an open, collaborative, welcoming environment.
 * We reduce system modifications to the smallest self-contained module, and procure each of those modifications via a unique RFP.
@@ -83,6 +83,10 @@ Acceptance of work happens through the sprint as work is completed. The procedur
 
 ## Processes
 
+### Tech Strategy
+We will move the programs currently in EIS off the mainframe within 5 years. This is a goal of the EIS modernization project. Strategies have been organized in themes. For more details about how we will do this work, see [EIS Replacement Project Technical Strategy](/tech-strategy.md).
+
+
 ### Testing Strategy
 
 We practice testing at three levels: unit tests, integration tests, and feature tests. For details about how we create and maintain unit, integration and feature tests, see [18F’s “Automated Testing Playbook”](https://automated-testing-playbook.18f.gov/).
@@ -103,13 +107,13 @@ Documented in [our Code Review Process](code-review.md).
 
 ### DevSecOps
 
-We rely on [DevSecOps](https://github.com/dhssalaska/acq-alaska-dhss-modernization/blob/master/DevSecOps.md) for automation and monitoring of code integration, testing, and deployment. Our DevSecOps pipeline is built atop VSTS (not GitHub) for deployment to Azure. We practice continuous integration, continuous deployment, and continuous testing (including security testing). All new code has tests developed simultaneously, with cumulative test coverage of not less than 90%. See “Accepting Vendor Work” for more.
+We rely on [DevSecOps](https://github.com/dhssalaska/acq-alaska-dhss-modernization/blob/master/DevSecOps.md) for automation and monitoring of code integration, testing, and deployment. Our DevSecOps pipeline is built atop Azure DevOps (not GitHub) for deployment to Azure. We practice continuous integration, continuous deployment, and continuous testing (including security testing). All new code has tests developed simultaneously, with cumulative test coverage of not less than 90%. See “Accepting Vendor Work” for more.
 For details, see our [“Why DevSecOps?” document](DevSecOps.md), in Github.
 
 ## Tools
 
 * **GitHub** - We use our [GitHub organization](https://github.com/AlaskaDHSS) for storing both software and collaboratively-maintained text.
 
-* **Visual Studio Team Services** - We use our [Visual Studio Team Services](https://alaskadhss.visualstudio.com/) repository much like our GitHub repository, but for repositories that either need to be kept private and for repositories that are deployed to Azure.
+* **Azure DevOps** - We use our [Azure DevOps](https://alaskadhss.visualstudio.com/) repository much like our GitHub repository, but for repositories that either need to be kept private and for repositories that are deployed to Azure.
 
 * **Slack** - We use the [TTS Slack](https://gsa-tts.slack.com/) for communication that falls outside of the structure of Trello or GitHub, but that doesn’t rise to the level of email, or for communication that it’s helpful for everybody else to be able to observe.
