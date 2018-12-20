@@ -1,4 +1,4 @@
-# EIS Replacement Project Technical Strategy
+# EIS Modernization Project Technical Strategy
 
 Goals, vision and strategies described herein were derived from Technical Strategy workshops conducted by 18F with the EIS modernization product and technical teams.
 
