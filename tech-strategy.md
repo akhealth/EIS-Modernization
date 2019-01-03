@@ -26,11 +26,11 @@ Strategies have been organized in themes. The themes are a synthesis of specific
 
 ### Develop and use Agile and DevSecOps methodologies, tools and architectures that support full-lifecycle (`vision => acquisition => operations and maintenance => continuous improvement`), and decreased time to value.
 1.  We will support DevOps, infrastructure- and configuration-as-code, and CI/CD.
-2.  We [must include DSO agreement] will integrate security compliance into the development process, creating a true DevSecOps model.
+2.  We will continually work with the DSO to integrate security compliance into the development process, creating a true DevSecOps model. 
 3.  We will embrace architecture and processes that support rapid development and deployment using technical prototyping to evaluate feasibility, direction, and assumptions, and do what's needed to establish a culture of experimentation.
 4.   We will improve dev cycle time, outcomes, strategic alignment through innovation using prototyping and fail-fast strategies.
 5.  We will explore and experiment with emerging technologies to support business needs.
-6.   We will ensure that our systems meet our definition of done so that new AK developers and new vendors can easily work to modify and extend those systems.
+6.   We will ensure that our systems meet our [definition of done](/how-we-work.md#definition-of-done) so that new AK developers and new vendors can easily work to modify and extend those systems.
 
 ### Promote seamless user-experiences through training on and use of enabling technologies
 1.  We will integrate internal and external DPA systems across the eligibility process.
