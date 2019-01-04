@@ -45,7 +45,7 @@ We have already seen many benefits from these efforts and seek to spread these l
 |:---|:---|
 | **Low income Alaskans** | We want to create an environment where needy Alaskans feel supported by a system that provides timely and accurate benefits along with self-service access to status of applications. |
 | **DPA Field Staff** | We want to create an environment where DPA Field staff can be productive and feel fulfilled by giving them efficient tools and processes and timely access to the information that they need in order to serve low income Alaskans. |
-| DPA Systems Operations Staff | We want to create an environment where Sys Ops workers feel confident about maintaining the systems and supporting DPA field staff in their work. |
+| **DPA Systems Operations Staff** | We want to create an environment where Sys Ops workers feel confident about maintaining the systems and supporting DPA field staff in their work. |
 | **IT Services Staff** | We want to create an environment where FMS-IT workers feel confident and empowered to rapidly meet DPA field staff and Sys Ops needs while preserving and extending DPA’s return on investment. |
 | **DHSS Leadership** | We want to create an environment where system capability and stability free department leadership to make directional decisions based on accurate and timely data, and show value for system investments. |
 | **Department of Administration (DOA) Enterprise Technology Services (ETS) Staff** | We want to create an environment where ETS can rely upon clearly defined and agreed upon support procedures and responsibilities to efficiently deliver service to DHSS. |
@@ -131,7 +131,7 @@ EIS-R project management
 * This repo - This repository serves as the overarching umbrella repo for the EIS-R project
 * [Procurement Repo](https://github.com/AlaskaDHSS/RFP-Search-Unification) - Note that each new solicitation will have its own Github Repo.
 * [Slack channel](https://gsa-tts.slack.com/messages/C3SM6SLGM/convo/C3M933336-1488211534.000271/) (Private)
-* [Project Trello board](https://trello.com/b/siAFtoWJ/alaska-medicaid-eligibility-information-system-replacement-eis-r-project) (Private for now)
+* [Project Azure Devops] (Private)
 * [18F Project Folder](https://drive.google.com/drive/u/0/folders/0B4B0xeCMEaFyYmE0VFhTR3lTSms) (Private)
 
 Key documents
