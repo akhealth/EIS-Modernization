@@ -131,7 +131,7 @@ Alaska team
 EIS-R project management
 * This repo - This repository serves as the overarching umbrella repo for the EIS-R project
 * [Procurement Repo](https://github.com/AlaskaDHSS/RFP-Search-Unification) - Note that each new solicitation will have its own Github Repo.
-* [Slack channel](https://gsa-tts.slack.com/messages/C3SM6SLGM/convo/C3M933336-1488211534.000271/) (Private)
+* [Microsoft Teams](https://teams.microsoft.com/l/team/19%3a3ac701697e2f4d279a28c0e33b00a092%40thread.skype/conversations?groupId=6bf46ba5-dd04-4ed8-b1c2-c9152ecddecd&tenantId=20030bf6-7ad9-42f7-9273-59ea83fcfa38) (Private)
 * [Project Trello board](https://trello.com/b/siAFtoWJ/alaska-medicaid-eligibility-information-system-replacement-eis-r-project) (Private for now)
 * [18F Project Folder](https://drive.google.com/drive/u/0/folders/0B4B0xeCMEaFyYmE0VFhTR3lTSms) (Private)
 
