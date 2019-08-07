@@ -139,7 +139,6 @@ Key documents
 
 * [2/28/17-3/2/17 Initial workshop findings](https://app.mural.ly/t/gsa6/m/gsa6/1488927409455/view/3842912505) (Private)
 * [Modular product design strategy](modular-experience.md)
-* [Research Synthesis]
 * [Vendor solicitation for Search Functionality](https://github.com/AlaskaDHSS/RFP-Search-Unification)
 
 
