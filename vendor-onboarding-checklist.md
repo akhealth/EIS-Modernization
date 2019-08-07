@@ -75,8 +75,8 @@ This table outlines the capabilities we expect each role will have.
 <li><p>Access Alaska WAN</p></li>
 <li><p>Access DHSS domain secured resources</p></li>
 <li><p>Create, read, update docs on SharePoint</p></li>
-<li><p>Read and update Trello</p></li>
-<li><p>Read and post messages to Slack</p></li>
+<li><p>Read and update Azure DevOps</p></li>
+<li><p>Read and post messages to Microsoft Teams</p></li>
 <li><p>Read GitHub repositories and comment on issues</p></li>
 <li><p>Participate in Mural sprint retrospectives</p></li>
 </ul></td>
@@ -84,14 +84,14 @@ This table outlines the capabilities we expect each role will have.
 <tr class="even">
 <td>Project manager</td>
 <td><ul>
-<li><p>Read and update work-items and PR comments in VSTS</p></li>
+<li><p>Read and update work-items and PR comments in Azure DevOps</p></li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td>Technical lead</td>
 <td><ul>
 <li><p>Create, read, update work-items</p></li>
-<li><p>Push branches to VSTS hosted Git repos</p></li>
+<li><p>Push branches to Azure DevOps hosted Git repos</p></li>
 <li><p>Create and comment on Git pull-requests</p></li>
 <li><p>Read build output</p></li>
 <li><p>Access various non-production services (MCI, EIS, ARIES) to perform development work</p></li>
@@ -101,7 +101,7 @@ This table outlines the capabilities we expect each role will have.
 <td>Developers</td>
 <td><ul>
 <li><p>Create, read, update work-items</p></li>
-<li><p>Push branches to VSTS hosted Git repos</p></li>
+<li><p>Push branches to Azure DevOps hosted Git repos</p></li>
 <li><p>Create and comment on Git pull-requests</p></li>
 <li><p>Read build output</p></li>
 <li><p>Access various non-production services (MCI, EIS, ARIES) to perform development work</p></li>
@@ -183,7 +183,7 @@ This table shows the access we expect each role will need.
 <td>X</td>
 </tr>
 <tr class="odd">
-<td>Visual Studio Team Services</td>
+<td>Azure DevOps</td>
 <td>X</td>
 <td>X</td>
 <td>X</td>
@@ -192,7 +192,7 @@ This table shows the access we expect each role will need.
 <td>X</td>
 </tr>
 <tr class="even">
-<td>Trello</td>
+<td>Microsoft Teams</td>
 <td>X</td>
 <td>X</td>
 <td>X</td>
@@ -201,15 +201,6 @@ This table shows the access we expect each role will need.
 <td>X</td>
 </tr>
 <tr class="odd">
-<td>Slack</td>
-<td>X</td>
-<td>X</td>
-<td>X</td>
-<td>X</td>
-<td>X</td>
-<td>X</td>
-</tr>
-<tr class="even">
 <td>Alaska DHSS GitHub</td>
 <td>X</td>
 <td>X</td>
@@ -218,7 +209,7 @@ This table shows the access we expect each role will need.
 <td>X</td>
 <td>X</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Mural</td>
 <td>X</td>
 <td>X</td>
@@ -227,7 +218,7 @@ This table shows the access we expect each role will need.
 <td>X</td>
 <td>X</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>EISR Dev Env</td>
 <td></td>
 <td>X</td>
