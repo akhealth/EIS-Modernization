@@ -45,9 +45,8 @@ need.
 | State of Alaska VPN          | Establishes account to access/connect to the State of Alaska virtual private network (VPN) services                       |
 | DHSS Domain Account          | Establishes identity to grant access to DHSS managed resources                                                            |
 | DHSS DPA SharePoint          | Collaboration portal for deliverable and other documentation                                                              |
-| Visual Studio Team Services  | Code-delivery/management, continuous-integration / continuous-deployment (CI/CD), security scanning, unit-test automation |
-| Trello                       | Work-management                                                                                                           |
-| Slack                        | Messaging and threaded discussion                                                                                         |
+| Azure DevOps                 | Work-management, Code-delivery/management, continuous-integration / continuous-deployment (CI/CD), security scanning, unit-test automation |
+| Microsoft Teams              | Messaging and threaded discussion                                                                                         |
 | Alaska DHSS GitHub           | Public repository for EISR documentation, code and solicitation materials                                                 |
 | Mural                        | Sprint ceremonies and other visual materials (product roadmap, etc.)                                                      |
 | EISR Dev Environment         | The resources required to perform development activities for the Unified Search product increment                         |
@@ -76,8 +75,8 @@ This table outlines the capabilities we expect each role will have.
 <li><p>Access Alaska WAN</p></li>
 <li><p>Access DHSS domain secured resources</p></li>
 <li><p>Create, read, update docs on SharePoint</p></li>
-<li><p>Read and update Trello</p></li>
-<li><p>Read and post messages to Slack</p></li>
+<li><p>Read and update Azure DevOps</p></li>
+<li><p>Read and post messages to Microsoft Teams</p></li>
 <li><p>Read GitHub repositories and comment on issues</p></li>
 <li><p>Participate in Mural sprint retrospectives</p></li>
 </ul></td>
@@ -85,14 +84,14 @@ This table outlines the capabilities we expect each role will have.
 <tr class="even">
 <td>Project manager</td>
 <td><ul>
-<li><p>Read and update work-items and PR comments in VSTS</p></li>
+<li><p>Read and update work-items and PR comments in Azure DevOps</p></li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td>Technical lead</td>
 <td><ul>
 <li><p>Create, read, update work-items</p></li>
-<li><p>Push branches to VSTS hosted Git repos</p></li>
+<li><p>Push branches to Azure DevOps hosted Git repos</p></li>
 <li><p>Create and comment on Git pull-requests</p></li>
 <li><p>Read build output</p></li>
 <li><p>Access various non-production services (MCI, EIS, ARIES) to perform development work</p></li>
@@ -102,7 +101,7 @@ This table outlines the capabilities we expect each role will have.
 <td>Developers</td>
 <td><ul>
 <li><p>Create, read, update work-items</p></li>
-<li><p>Push branches to VSTS hosted Git repos</p></li>
+<li><p>Push branches to Azure DevOps hosted Git repos</p></li>
 <li><p>Create and comment on Git pull-requests</p></li>
 <li><p>Read build output</p></li>
 <li><p>Access various non-production services (MCI, EIS, ARIES) to perform development work</p></li>
@@ -184,7 +183,7 @@ This table shows the access we expect each role will need.
 <td>X</td>
 </tr>
 <tr class="odd">
-<td>Visual Studio Team Services</td>
+<td>Azure DevOps</td>
 <td>X</td>
 <td>X</td>
 <td>X</td>
@@ -193,7 +192,7 @@ This table shows the access we expect each role will need.
 <td>X</td>
 </tr>
 <tr class="even">
-<td>Trello</td>
+<td>Microsoft Teams</td>
 <td>X</td>
 <td>X</td>
 <td>X</td>
@@ -202,15 +201,6 @@ This table shows the access we expect each role will need.
 <td>X</td>
 </tr>
 <tr class="odd">
-<td>Slack</td>
-<td>X</td>
-<td>X</td>
-<td>X</td>
-<td>X</td>
-<td>X</td>
-<td>X</td>
-</tr>
-<tr class="even">
 <td>Alaska DHSS GitHub</td>
 <td>X</td>
 <td>X</td>
@@ -219,7 +209,7 @@ This table shows the access we expect each role will need.
 <td>X</td>
 <td>X</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Mural</td>
 <td>X</td>
 <td>X</td>
@@ -228,7 +218,7 @@ This table shows the access we expect each role will need.
 <td>X</td>
 <td>X</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>EISR Dev Env</td>
 <td></td>
 <td>X</td>
@@ -256,9 +246,8 @@ approved.
 | State of Alaska VPN          | DHSS IT Help Desk and OIT                | DPA PMO and vendor staff member completes Non-DHSS Employee Account Request and submits per instructions                                                                                        |
 | DHSS domain account          | DHSS IT Help Desk and DHSS IT Operations | DPA PMO and vendor staff member completes Non-DHSS Employee Account Request and submits per instructions                                                                                        |
 | DHSS SharePoint              | DHSS EIS-R PMO                           | DPA PMO reviews, approves and grants access                                                                                                                                                     |
-| Visual Studio Team Services  | DHSS IT Business Applications            | DPA PMO submits request to HSS ITS Help Desk. Help Desk assigns ticket to TFS Admins                                                                                                            |
-| Trello                       | TTS/18F                                  | DPA PMO submits request to 18F Trello Admins                                                                                                                                                    |
-| Slack                        | TTS/18F                                  | DPA PMO submits request to 18F Slack Admins                                                                                                                                                     |
+| Azure DevOps                 | DHSS IT Business Applications            | DPA PMO submits request to HSS ITS Help Desk. Help Desk assigns ticket to TFS Admins                                                                                                            |
+| Microsoft Teams              | DHSS IT Business Applications            | DPA PMO submits request to HSS ITS Help Desk. Help Desk assigns ticket to the AlaskaDHSS GitHub Admins                                                                                           |
 | Alaska DHSS GitHub           | DHSS IT Business Applications            | DPA PMO submits request to ITS Help Desk. Help Desk Assigns to Alaska DHSS GitHub Admins.                                                                                                       |
 | Mural                        | TTS/18F                                  | DPA PMO submits request to 18F Mural Admins                                                                                                                                                     |
 | EISR Dev Env                 | DHSS IT Business Applications            | DPA PMO submits request to ITS Help Desk. Help Desk assigns to EISR Dev Environment Admins                                                                                                      |
@@ -267,8 +256,7 @@ approved.
 
 To request access:
 
-  - Email your request for access to the EIS-R Project Assistant, Sera
-    Bourne, @ <serafine.bourne@alaska.gov> and cc the EIS-R Project
+  - Email your request for access to the EIS-R Project, Danny Varela, @ <daniel.varela@alaska.gov> and cc the EIS-R Project
     Office @ <eisr.progoffice@alaska.gov>.
     
     ***For auditing purposes, requests for access must be for a single
@@ -334,11 +322,11 @@ will result in additional processing time.***
 For questions regarding vendor onboarding procedures or status of a
 submitted request please contact:
 
-Sera Bourne, DPA EIS-R Project Assistant
+Danny Varela, DPA EIS-R Project Analyst
 
-Phone: (907) 334-0864
+Phone: (907) 334-0863
 
-Email: <serafine.bourne@alaska.gov>
+Email: <daniel.varela@alaska.gov>
 
 If emailing, please cc the EIS-R Project Office @
 <eisr.progoffice@alaska.gov>.

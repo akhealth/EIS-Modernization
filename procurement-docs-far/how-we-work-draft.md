@@ -143,11 +143,11 @@ We wouldn’t want anyone being mean to us because of an oversight, mistake, or 
 #### GitHub
 We use our [GitHub organization](https://github.com/AlaskaDHSS) for storing both software and collaboratively-maintained text.
 
-#### Visual Studio Team Services
-We use our [Visual Studio Team Services](https://alaskadhssba.visualstudio.com/) repository much like our GitHub repository, but for repositories that either need to be kept private and for repositories that are deployed to Azure. Visual Studio Team Services also serves as our scrum board.
+#### Azure DevOps
+We use our [Azure DevOps](https://alaskadhss.visualstudio.com/Dpa/) repository much like our GitHub repository, but for repositories that either need to be kept private and for repositories that are deployed to Azure. Azure DevOps also serves as our scrum board.
 
-#### Slack
-We use the [TTS Slack](https://gsa-tts.slack.com/) for communication that falls outside of the structure of GitHub, but that doesn’t rise to the level of email, or for communication that it’s helpful for everybody else to be able to observe.
+#### Microsoft Teams
+We use the [Microsoft Teams](https://teams.microsoft.com/l/team/19%3a3ac701697e2f4d279a28c0e33b00a092%40thread.skype/conversations?groupId=6bf46ba5-dd04-4ed8-b1c2-c9152ecddecd&tenantId=20030bf6-7ad9-42f7-9273-59ea83fcfa38) for communication that falls outside of the structure of GitHub, but that doesn’t rise to the level of email, or for communication that it’s helpful for everybody else to be able to observe.
 
 ## Processes
 
