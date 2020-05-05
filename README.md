@@ -58,12 +58,12 @@ We have already seen many benefits from these efforts and seek to spread these l
 ### Mission Model Canvas
 We have visualized the various areas of concern with respect to the overall vision into a Mission Model Canvas. Our product strategy will pay attention to these areas of concern and their relationships in order to ensure that the right thing is being delivered to the right beneficiaries. It will evolve over time as needed.
 
-[**View the canvas**](https://app.mural.ly/t/gsa6/m/gsa6/1493395570501/view/3003071571)
+[**View the canvas**](https://app.mural.co/t/dhssalaska0106/m/dhssalaska0106/1576183670083/61c5a6fea3288415cd62a0aa01afa3057fa51c6a)
 
 ### The Product Roadmap
 This is where we work out and communicate our delivery plan in the context of our strategy. The first colum contains some background information about our beneficiaries, stakeholders, partners, teams and activities. The second column contains a set of milestones ordered from top to bottom according to the team's current priorities. Each milestone contains a set of increments designed to deliver the desired outcome. In each increment, you will see the affected user/stakeholder groups, some detail about the work, and an indication of which teams/what kind of activity is involved. The final column contains all unscheduled work as we know it.
 
-[**View the roadmap**](https://app.mural.ly/t/gsa6/m/gsa6/1493828126408/2c1fd30717381a20f4bf251e57a1c344f9e2c3ba)
+[**View the roadmap**](https://app.mural.co/t/dhssalaska0106/m/dhssalaska0106/1576183680860/c1682951c77a41f29cb684cff893ff837f70b084)
 
 ## The Challenge
 The challenge is rooted in the need for Alaska to migrate these programs off of their "old legacy" eligibility system, EIS, to something that costs less to operate and is more flexible to change. The EIS system does what it does well, but it is built in an old technology (COBOL on a mainframe) that is difficult to change. It is also expensive to host, and as other agencies in Alaska migrate away from the system, DHSS will be responsible for more and more of this cost. Further, expertise for this type of technology is aging out, so it will be harder and harder to support it going forward. Moving away from this system is the ultimate goal.
@@ -125,7 +125,7 @@ We will know we are successful, if we can increase worker productivity and moral
 ## Important Resources
 
 Alaska team
-* [Alaska organizational chart](https://app.mural.ly/t/gsa6/m/gsa6/1484752765306/view/2023119235) (includes product team members)
+* [Alaska organizational chart](https://app.mural.co/t/dhssalaska0106/m/dhssalaska0106/1576183633753/83e37044b807aac3ae09c6757d794e45dd931ea6) (includes product team members)
 * [Alaska Department of Health and Social Services organizational chart](http://dhss.alaska.gov/Commissioner/Documents/PDF/DHSS_org_chart.pdf) (official departmental org chart)
 
 EIS-R project management
