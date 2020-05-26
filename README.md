@@ -129,7 +129,7 @@ Alaska team
 * [Alaska Department of Health and Social Services organizational chart](http://dhss.alaska.gov/Commissioner/Documents/PDF/DHSS_org_chart.pdf) (official departmental org chart)
 
 EIS-M project management
-* This repo - This repository serves as the overarching umbrella repo for the EIS-M project. Please not that each solicitation will have its own GitHub repository
+* This repo - This repository serves as the overarching umbrella repo for the EIS-M project. Please note that each solicitation will have its own GitHub repository
 * [Search Procurement Repo](https://github.com/AlaskaDHSS/RFP-Search-Unification)
 * [AVS-EVS Procurement Repo](https://github.com/AlaskaDHSS/RFP-AVS-EVS)
 * [Microsoft Teams](https://teams.microsoft.com/l/team/19%3a3ac701697e2f4d279a28c0e33b00a092%40thread.skype/conversations?groupId=6bf46ba5-dd04-4ed8-b1c2-c9152ecddecd&tenantId=20030bf6-7ad9-42f7-9273-59ea83fcfa38) (Private)
