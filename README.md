@@ -134,7 +134,7 @@ EIS-M project management
 * [AVS-EVS Procurement Repo](https://github.com/AlaskaDHSS/RFP-AVS-EVS)
 * [Microsoft Teams](https://teams.microsoft.com/l/team/19%3a3ac701697e2f4d279a28c0e33b00a092%40thread.skype/conversations?groupId=6bf46ba5-dd04-4ed8-b1c2-c9152ecddecd&tenantId=20030bf6-7ad9-42f7-9273-59ea83fcfa38) (Private)
 * [Azure](https://alaskadhss.visualstudio.com) (Private)
-* [Mural](https://www.mural.co/) (Private)
+* [Mural](https://app.mural.co/t/dhssalaska0106) (Private)
 
 Key documents
 
