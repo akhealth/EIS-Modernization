@@ -128,18 +128,19 @@ Alaska team
 * [Alaska organizational chart](https://app.mural.co/t/dhssalaska0106/m/dhssalaska0106/1576183633753/83e37044b807aac3ae09c6757d794e45dd931ea6) (includes product team members)
 * [Alaska Department of Health and Social Services organizational chart](http://dhss.alaska.gov/Commissioner/Documents/PDF/DHSS_org_chart.pdf) (official departmental org chart)
 
-EIS-R project management
-* This repo - This repository serves as the overarching umbrella repo for the EIS-R project
-* [Procurement Repo](https://github.com/AlaskaDHSS/RFP-Search-Unification) - Note that each new solicitation will have its own Github Repo.
+EIS-M project management
+* This repo - This repository serves as the overarching umbrella repo for the EIS-M project. Please note that each solicitation will have its own GitHub repository
+* [Search Procurement Repo](https://github.com/AlaskaDHSS/RFP-Search-Unification)
+* [AVS-EVS Procurement Repo](https://github.com/AlaskaDHSS/RFP-AVS-EVS)
 * [Microsoft Teams](https://teams.microsoft.com/l/team/19%3a3ac701697e2f4d279a28c0e33b00a092%40thread.skype/conversations?groupId=6bf46ba5-dd04-4ed8-b1c2-c9152ecddecd&tenantId=20030bf6-7ad9-42f7-9273-59ea83fcfa38) (Private)
-* [Project Trello board](https://trello.com/b/siAFtoWJ/alaska-medicaid-eligibility-information-system-replacement-eis-r-project) (Private for now)
-* [18F Project Folder](https://drive.google.com/drive/u/0/folders/0B4B0xeCMEaFyYmE0VFhTR3lTSms) (Private)
+* [Azure](https://alaskadhss.visualstudio.com) (Private)
+* [Mural](https://app.mural.co/t/dhssalaska0106) (Private)
 
 Key documents
 
-* [2/28/17-3/2/17 Initial workshop findings](https://app.mural.ly/t/gsa6/m/gsa6/1488927409455/view/3842912505) (Private)
+* [2/28/17-3/2/17 Initial workshop findings](https://app.mural.co/t/dhssalaska0106/m/dhssalaska0106/1576183591439/09f86a74829ad590d598995285303d59e5b86f3c) (Private)
 * [Modular product design strategy](modular-experience.md)
-* [Vendor solicitation for Search Functionality](https://github.com/AlaskaDHSS/RFP-Search-Unification)
+* [Usability Research](https://github.com/AlaskaDHSS/EIS-Modernization/blob/master/UsabilityResearch.md)
 
 
 ## System Information (User account must be granted by the State of Alaska)
