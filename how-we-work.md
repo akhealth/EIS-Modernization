@@ -47,7 +47,7 @@ We recognize that the DPA field staff will be critical to helping us develop sol
 * Synthesized notes and conclusions (still anonymous) can be shared publicly, including on VSTS/GitHub as they are fully decontextualized.
 * Non-researchers on the product team can and should be involved with research.
 * Only research facilitators/observers can be included in synthesis.
-* We will inform research participants of these matters at the beginning of research sessions and ask for their consent. See [Unified Search Research Participant Agreement](assets/Design_Research_Participant_Agreement_-_Unified_Search_-_v5.pdf). 
+* We will inform research participants of these matters at the beginning of research sessions and ask for their consent. See [Unified Search Research Participant Agreement](assets/Design_Research_Participant_Agreement_ARIES.pdf). 
 * An overview of our approach to user research, driven by usability testing, is [here](UsabilityResearch.md)
 
 ## Definition of Done
