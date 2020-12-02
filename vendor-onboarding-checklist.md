@@ -3,7 +3,7 @@
 ## Purpose
 
 This document supports the Division of Public Assistance Eligibility
-Information System Replacement (EIS-R) Project. Specifically, this
+Information System Modernization (EIS-M) Project. Specifically, this
 document addresses our agile acquisition practice and onboarding new
 vendor staff. Within agile acquisition, we anticipate bringing in a
 potentially different vendor every three to four months, possibly more
@@ -13,7 +13,7 @@ up to speed as quickly as possible.
 
 # Audience
 
-This document intends to inform EIS-R State of Alaska project staff and
+This document intends to inform EIS-M State of Alaska project staff and
 the vendors we engage with in various product-increment acquisitions.
 
 # Roles
@@ -47,9 +47,9 @@ need.
 | DHSS DPA SharePoint          | Collaboration portal for deliverable and other documentation                                                              |
 | Azure DevOps                 | Work-management, Code-delivery/management, continuous-integration / continuous-deployment (CI/CD), security scanning, unit-test automation |
 | Microsoft Teams              | Messaging and threaded discussion                                                                                         |
-| Alaska DHSS GitHub           | Public repository for EISR documentation, code and solicitation materials                                                 |
+| Alaska DHSS GitHub           | Public repository for EIS-M documentation, code and solicitation materials                                                 |
 | Mural                        | Sprint ceremonies and other visual materials (product roadmap, etc.)                                                      |
-| EISR Dev Environment         | The resources required to perform development activities for the Unified Search product increment                         |
+| EIS-M Dev Environment         | The resources required to perform development activities for the Unified Search product increment                         |
 
 ## Capabilities and Access
 
@@ -219,7 +219,7 @@ This table shows the access we expect each role will need.
 <td>X</td>
 </tr>
 <tr class="odd">
-<td>EISR Dev Env</td>
+<td>EISM Dev Env</td>
 <td></td>
 <td>X</td>
 <td>X</td>
@@ -234,7 +234,7 @@ This table shows the access we expect each role will need.
 
 This section outlines procedures to grant access. Access to DHSS managed
 resources must be formally requested, sponsored and granted. All vendor
-access requests must be submitted through the EIS-R PMO.
+access requests must be submitted through the EIS-M PMO.
 
 The table below serves as a reference to help vendor staff understand
 how specific types of access request are granted once
@@ -245,18 +245,18 @@ approved.
 | State of Alaska LDAP account | DHSS IT Help Desk and OIT                | DPA PMO and vendor staff member completes Non-DHSS Employee Account Request and submits per instructions to HSS ITS Help Desk. Help Desk assigns to HSS and/or OIT Admins for account creation. |
 | State of Alaska VPN          | DHSS IT Help Desk and OIT                | DPA PMO and vendor staff member completes Non-DHSS Employee Account Request and submits per instructions                                                                                        |
 | DHSS domain account          | DHSS IT Help Desk and DHSS IT Operations | DPA PMO and vendor staff member completes Non-DHSS Employee Account Request and submits per instructions                                                                                        |
-| DHSS SharePoint              | DHSS EIS-R PMO                           | DPA PMO reviews, approves and grants access                                                                                                                                                     |
+| DHSS SharePoint              | DHSS EIS-M PMO                           | DPA PMO reviews, approves and grants access                                                                                                                                                     |
 | Azure DevOps                 | DHSS IT Business Applications            | DPA PMO submits request to HSS ITS Help Desk. Help Desk assigns ticket to TFS Admins                                                                                                            |
 | Microsoft Teams              | DHSS IT Business Applications            | DPA PMO submits request to HSS ITS Help Desk. Help Desk assigns ticket to the AlaskaDHSS GitHub Admins                                                                                           |
 | Alaska DHSS GitHub           | DHSS IT Business Applications            | DPA PMO submits request to ITS Help Desk. Help Desk Assigns to Alaska DHSS GitHub Admins.                                                                                                       |
-| Mural                        | TTS/18F                                  | DPA PMO submits request to 18F Mural Admins                                                                                                                                                     |
-| EISR Dev Env                 | DHSS IT Business Applications            | DPA PMO submits request to ITS Help Desk. Help Desk assigns to EISR Dev Environment Admins                                                                                                      |
+| Mural                        | DHSS EIS-M PMO                          | DPA PMO reviews, approves and grants access                                                                                                                                                    |
+| EIS-M Dev Env                 | DHSS IT Business Applications            | DPA PMO submits request to ITS Help Desk. Help Desk assigns to EIS-M Dev Environment Admins                                                                                                      |
 
 ## Request procedure
 
 To request access:
 
-  - Email your request for access to the EIS-R Project, Danny Varela, @ <daniel.varela@alaska.gov> and cc the EIS-R Project
+  - Email your request for access to the EIS-M Project, Danny Varela, @ <daniel.varela@alaska.gov> and cc the EIS-M Project
     Office @ <eisr.progoffice@alaska.gov>.
     
     ***For auditing purposes, requests for access must be for a single
@@ -290,7 +290,7 @@ To request access:
     Employee Access Request packet with instructions.
 
   - Requestors are required to complete, sign and return the Access
-    Request packet to the DPA PMO (see above EIS-R Project email
+    Request packet to the DPA PMO (see above EIS-M Project email
     addresses). A completed request packet consists of the following:
     
       - Non-State Employee Access Request Form (completed, signed and
@@ -322,13 +322,13 @@ will result in additional processing time.***
 For questions regarding vendor onboarding procedures or status of a
 submitted request please contact:
 
-Danny Varela, DPA EIS-R Project Analyst
+Danny Varela, DPA EIS-M Project Analyst
 
 Phone: (907) 334-0863
 
 Email: <daniel.varela@alaska.gov>
 
-If emailing, please cc the EIS-R Project Office @
+If emailing, please cc the EIS-M Project Office @
 <eisr.progoffice@alaska.gov>.
 
 # Training resources
