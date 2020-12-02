@@ -98,11 +98,11 @@ We use this list when performing a code review to ensure that all tasks have bee
 	- [ ] check that code style is consistent
 	- [ ] be suspicious of any code that accepts input from the outside world, ensure that it doesn’t enable any kind of buffer overflows or SQL injection attacks
 - [ ] tests
-	- [ ] look at code coverage of tests on VSTS
+	- [ ] look at code coverage of tests on Azure DevOps
 	- [ ] review all new tests for correctness, quality of naming
 	- [ ] determine what code isn’t tested, review that carefully
 - [ ] review documentation to ensure that it matches changes
-- [ ] comment on VSTS
-	- [ ] for comments that are tied to a particular line of code, use VSTS’s line-commenting functionality
+- [ ] comment on Azure DevOps
+	- [ ] for comments that are tied to a particular line of code, use Azure DevOps’s line-commenting functionality
 	- [ ] for comments are are more general, comment on the pull request itself
-- [ ] open a VSTS bug report for each feature-level bug (i.e., it’s working as designed, but designed wrong), putting it in the backlog
+- [ ] open an Azure DevOps bug report for each feature-level bug (i.e., it’s working as designed, but designed wrong), putting it in the backlog
