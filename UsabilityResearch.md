@@ -23,7 +23,7 @@ December 13, 2018
   - [Challenges](#challenges)
 
 ## Introduction
-The purpose of the document is to provide an overview of the types of usability testing to be performed over the life of the EIS-Modernization project, and processes specific to usability testing efforts. This document is not applicable to other necessary testing such as developmental, accessibility, and security testing, which is covered in the ARIES project [Change Management](https://alaskadhss.visualstudio.com/Dpa/_git/Dpa-Eisr-DevSecOps?path=%2FChangeManagement%2FChangeManagementPlan.md&version=GB45dayAppTimelyUpdate&_a=preview) document. There are four areas from which we will conduct user research to drive successful development:
+The purpose of the document is to provide an overview of the types of usability testing to be performed over the life of the EIS-Modernization project, and processes specific to usability testing efforts. This document is not applicable to other necessary testing such as developmental, accessibility, and security testing, which is covered in the ARIES project Change Management document. There are four areas from which we will conduct user research to drive successful development:
 
 1. Overview Metrics
 2. Discovery user research
