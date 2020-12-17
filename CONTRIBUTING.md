@@ -1,6 +1,6 @@
 ## Welcome!
 
-We're so glad you're thinking about contributing to this project! If you're unsure about anything, just ask -- or submit the [issue](https://github.com/18F/alaska-dhss-modernization/issues) or [pull request](https://help.github.com/articles/creating-a-pull-request/) anyway. The worst that can happen is you'll be politely asked to change something. We love all friendly contributions.
+We're so glad you're thinking about contributing to this project! If you're unsure about anything, just ask -- or submit the [issue](https://github.com/AlaskaDHSS/EIS-Modernization/issues) or [pull request](https://help.github.com/articles/creating-a-pull-request/) anyway. The worst that can happen is you'll be politely asked to change something. We love all friendly contributions.
 
 We want to ensure a welcoming environment for all of our projects. Our team members follow the [State of Alaska ethics guidelines](http://law.alaska.gov/doclibrary/ethics/EthicsInfo.html) and all contributors should do the same.
 
