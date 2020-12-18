@@ -44,7 +44,7 @@ We recognize that the DPA field staff will be critical to helping us develop sol
 * Interview notes will be anonymized, lead researcher will be the keeper of the key (Joan Smith = Participant 1).
 * The full product team needs to understand the expectation for privacy around research materials.
 * Anonymized raw notes will be available to the small product team doing the work, but not beyond.
-* Synthesized notes and conclusions (still anonymous) can be shared publicly, including on VSTS/GitHub as they are fully decontextualized.
+* Synthesized notes and conclusions (still anonymous) can be shared publicly, including on Azure DevOps/GitHub as they are fully decontextualized.
 * Non-researchers on the product team can and should be involved with research.
 * Only research facilitators/observers can be included in synthesis.
 * We will inform research participants of these matters at the beginning of research sessions and ask for their consent. See [Research Participant Agreement](https://github.com/AlaskaDHSS/EIS-Modernization/blob/master/assets/Design_Research_Participant_Agreement_ARIES.pdf). 
@@ -99,7 +99,7 @@ We practice testing at three levels: unit tests, integration tests, and feature 
 * **Feature** - New features must have functional definitions of the thing that they are to perform, and a description of human-performable actions to verify that they perform that thing.
 
 ### Pull Request Process
-Documented in our [Git Branching Strategy](GitBranchingStrategy.md).
+Documented in our [Git Branching Strategy](/azure-devops/GitBranchingStrategy.md).
 
 ### Code Review Process
 
