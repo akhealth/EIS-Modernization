@@ -105,4 +105,4 @@ We use this list when performing a code review to ensure that all tasks have bee
 - [ ] comment on Azure DevOps
 	- [ ] for comments that are tied to a particular line of code, use Azure DevOps line-commenting functionality
 	- [ ] for comments are are more general, comment on the pull request itself
-- [ ] open a Azure DevOps bug report for each feature-level bug (i.e., it’s working as designed, but designed wrong), putting it in the backlog
+- [ ] open an Azure DevOps bug report for each feature-level bug (i.e., it’s working as designed, but designed wrong), putting it in the backlog
