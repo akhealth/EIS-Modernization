@@ -44,7 +44,7 @@ We recognize that the DPA field staff will be critical to helping us develop sol
 * Interview notes will be anonymized, lead researcher will be the keeper of the key (Joan Smith = Participant 1).
 * The full product team needs to understand the expectation for privacy around research materials.
 * Anonymized raw notes will be available to the small product team doing the work, but not beyond.
-* Synthesized notes and conclusions (still anonymous) can be shared publicly, including on VSTS/GitHub as they are fully decontextualized.
+* Synthesized notes and conclusions (still anonymous) can be shared publicly, including on Azure DevOps/GitHub as they are fully decontextualized.
 * Non-researchers on the product team can and should be involved with research.
 * Only research facilitators/observers can be included in synthesis.
 * We will inform research participants of these matters at the beginning of research sessions and ask for their consent. See [Research Participant Agreement](https://github.com/AlaskaDHSS/EIS-Modernization/blob/master/assets/Design_Research_Participant_Agreement_ARIES.pdf). 
@@ -74,7 +74,7 @@ So that we can work more efficiently and be confident in the quality of the work
 Acceptance of work happens through the sprint as work is completed. The procedure is as follows:
 
 1. Development team completes work - See "for for delivering a user story to the product team" in [Definition of Done](#definition-of-done) above
-2. Development team creates pull request to staging - See [Pull Request Process](https://github.com/AlaskaDHSS/DevSecOpsMvp/blob/master/vsts/GitBranchingStrategy.md)
+2. Development team creates pull request to staging - See [Pull Request Process](/azure-devopsGitBranchingStrategy.md)
 3. The product team has verified the functionality against acceptance criteria in a deployed instance for a feature level pull request
 4. Code review takes place - See [Code Review Process](code-review.md)
 5. Pull request merged to staging DHSS code reviewer
@@ -99,16 +99,15 @@ We practice testing at three levels: unit tests, integration tests, and feature 
 * **Feature** - New features must have functional definitions of the thing that they are to perform, and a description of human-performable actions to verify that they perform that thing.
 
 ### Pull Request Process
-
-Documented in our [DevSecOpsMVP repo](https://github.com/AlaskaDHSS/DevSecOpsMvp/blob/master/vsts/GitBranchingStrategy.md).
+Documented in our [Git Branching Strategy](/azure-devops/GitBranchingStrategy.md).
 
 ### Code Review Process
 
-Documented in [our Code Review Process](code-review.md).
+Documented in our [Code Review Process](code-review.md).
 
 ### DevSecOps
 
-We rely on [DevSecOps](https://github.com/dhssalaska/acq-alaska-dhss-modernization/blob/master/DevSecOps.md) for automation and monitoring of code integration, testing, and deployment. Our DevSecOps pipeline is built atop Azure DevOps (not GitHub) for deployment to Azure. We practice continuous integration, continuous deployment, and continuous testing (including security testing). All new code has tests developed simultaneously, with cumulative test coverage of not less than 90%. See “Accepting Vendor Work” for more.
+We rely on [DevSecOps](DevSecOps.md) for automation and monitoring of code integration, testing, and deployment. Our DevSecOps pipeline is built atop Azure DevOps (not GitHub) for deployment to Azure. We practice continuous integration, continuous deployment, and continuous testing (including security testing). All new code has tests developed simultaneously, with cumulative test coverage of not less than 90%. See “Accepting Vendor Work” for more.
 For details, see our [“Why DevSecOps?” document](DevSecOps.md), in Github.
 
 ## Tools

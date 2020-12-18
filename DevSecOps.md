@@ -20,7 +20,8 @@ We prefer development environments to be virtualized using something like [Docke
 ## CI/CD Pipeline
 
 We use
-- [Azure DevOps)](https://alaskadhss.visualstudio.com/) for Source Code Management, Continuous Integration, and Continuous Deployment
+
+- [Azure DevOps](https://alaskadhss.visualstudio.com/) for Source Code Management, Continuous Integration, and Continuous Deployment
 - [Git](https://git-scm.com/) for source control
 
 More info about our current Azure DevOps setup is in the [DevSecOpsMVP repo vsts folder](https://github.com/AlaskaDHSS/DevSecOpsMvp/tree/master/vsts).  
