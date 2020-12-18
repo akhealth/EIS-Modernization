@@ -20,6 +20,7 @@ We prefer development environments to be virtualized using something like [Docke
 ## CI/CD Pipeline
 
 We use
+
 - [Azure DevOps](https://alaskadhss.visualstudio.com/) for Source Code Management, Continuous Integration, and Continuous Deployment
 - [Git](https://git-scm.com/) for source control
 
