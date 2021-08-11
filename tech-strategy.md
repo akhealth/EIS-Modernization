@@ -5,7 +5,8 @@ Goals, vision and strategies described herein were derived from Technical Strate
 | Action | Date |
 | ----------- | ----------- |
 | Committed to GitHub | December 2018 |
-| Review by | June 2019 |
+| Reviewed | June 2019 |
+| Updated | August 2021 |
 
 **Challenge**:  We will move the programs currently in EIS off the mainframe within 5 years.  This item identified by the team as a strategy is in fact a goal of the EIS modernization project.
 
@@ -47,5 +48,6 @@ Strategies have been organized in themes. The themes are a synthesis of specific
 
 ### Develop and embrace a cloud first approach to technology design and implementation
 1.  We will develop a draft department-wide cloud strategy, circulate it within the department, and operationalize it for our project.
-2.  We will explore and experiment with emerging technologies to support business needs.
-3.  We will improve our cloud posture by progressively shifting newly developed applications and related data to the cloud.
+2.  We consider compliance, security, and other empirical (cost, support, availability, latency, resiliency, long term supportability, etc.) requirements for systems and applications to guide appropriate cloud technology.
+3.  We will explore and experiment with emerging technologies to support business needs.
+4.  We will improve our cloud posture by progressively shifting newly developed applications and related data to the cloud.
