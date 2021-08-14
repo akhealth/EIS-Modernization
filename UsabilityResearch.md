@@ -23,7 +23,7 @@ December 13, 2018
   - [Challenges](#challenges)
 
 ## Introduction
-The purpose of the document is to provide an overview of the types of usability testing to be performed over the life of the EIS-Modernization project, and processes specific to usability testing efforts. This document is not applicable to other necessary testing such as developmental, accessibility, and security testing, which is covered in the ARIES project [Change Management](../ChangeManagement/ChangeManagementPlan.md) document. There are four areas from which we will conduct user research to drive successful development:
+The purpose of the document is to provide an overview of the types of usability testing to be performed over the life of the EIS-Modernization project, and processes specific to usability testing efforts. This document is not applicable to other necessary testing such as developmental, accessibility, and security testing, which is covered in the ARIES project Change Management document. There are four areas from which we will conduct user research to drive successful development:
 
 1. Overview Metrics
 2. Discovery user research
@@ -33,12 +33,12 @@ The purpose of the document is to provide an overview of the types of usability 
 We will use the same three metrics for overall usability with which we can gauge our overall success at each increment toward completion milestones in our [roadmap](https://app.mural.co/t/gsa6/m/gsa6/1493828126408/2c1fd30717381a20f4bf251e57a1c344f9e2c3ba), providing an overview. Discovery refers to development testing to drive design. Pre-Production usability testing represents final user testing prior to implementation to meet state technological procedure. Post production usability data collection to assure that we’ve met incremental goals, and to gather information toward design of the next increment.
 
 ## Overview Metrics
-When developing our product [roadmap](https://app.mural.co/t/gsa6/m/gsa6/1493828126408/2c1fd30717381a20f4bf251e57a1c344f9e2c3ba), the ability to gather information at each increment to help us quantify our progress was needed. Metrics provide clarity, and tangible standards by which we can focus our efforts.  We will update the metrics following the completion of each increment toward a milestone in our [roadmap](https://app.mural.co/t/gsa6/m/gsa6/1493828126408/2c1fd30717381a20f4bf251e57a1c344f9e2c3ba). 
+When developing our product [roadmap](https://app.mural.co/t/dhssalaska0106/m/dhssalaska0106/1576183680860/c1682951c77a41f29cb684cff893ff837f70b084), the ability to gather information at each increment to help us quantify our progress was needed. Metrics provide clarity, and tangible standards by which we can focus our efforts.  We will update the metrics following the completion of each increment toward a milestone in our [roadmap](https://app.mural.co/t/dhssalaska0106/m/dhssalaska0106/1576183680860/c1682951c77a41f29cb684cff893ff837f70b084). 
 Our ultimate goal is increased productivity as we move DPA workers into a modern eligibility system. For this reason, the following three measures were chosen: 
 
 1. Applications worked Timely
 
-    Timeliness performance is an important aspect of benefit issuance.   [SNAP applications must be processed and benefits provided within 30 days of the application date, or within 7 days for expedited applications](https://www.federalregister.gov/documents/2016/04/25/2016-09569/agency-information-collection-activities-identifying-program-components-and-practices-that-influence). Similarly, [Medicaid applications must be processed in 45 days](http://dpaweb.hss.state.ak.us/manuals/MAGI2/magi.htm).  The DPA’s Research & Analysis unit, responsible for mandatory federal reporting, regularly produces Timeliness Performance reports.  The report titled “Applications Timeliness” will be used to produce this metric. It measures the percentage of applications processed in a timely manner.  We will average the timeliness performance weighted by percentage of programs offered. As we begin, [our baseline timeliness percentage, across all programs, is 73%, while our goal is 95% timeliness](http://dpaweb.hss.state.ak.us/node/354).
+    Timeliness performance is an important aspect of benefit issuance.   [SNAP applications must be processed and benefits provided within 30 days of the application date, or within 7 days for expedited applications](http://dpaweb.hss.state.ak.us/manuals/fs/fsp.htm). [Medicaid applications must be processed in 45 days](http://dpaweb.hss.state.ak.us/manuals/MAGI2/magi.htm).  The DPA’s Research & Analysis unit, responsible for mandatory federal reporting, regularly produces Timeliness Performance reports.  The report titled “Applications Timeliness” will be used to produce this metric. It measures the percentage of applications processed in a timely manner.  We will average the timeliness performance weighted by percentage of programs offered. As we begin, [our baseline timeliness percentage, across all programs, is 73%, while our goal is 95% timeliness](http://dpaweb.hss.state.ak.us/node/354).
 
 2. Acceptable Error Rate
 
@@ -56,7 +56,7 @@ Our ultimate goal is increased productivity as we move DPA workers into a modern
 
    Our baseline metric is 6, and our goal is 9 applications per day, per worker. 
    
-   These three ‘overall’ metrics will be measured separately through program information analyst’s regularly scheduled divisional reports, and through coordination with case management consultants working with the division as noted above, and shared with stakeholders through the updated metrics on the [roadmap](https://app.mural.co/t/gsa6/m/gsa6/1493828126408/2c1fd30717381a20f4bf251e57a1c344f9e2c3ba).
+   These three ‘overall’ metrics will be measured separately through program information analyst’s regularly scheduled divisional reports, and through coordination with case management consultants working with the division as noted above, and shared with stakeholders through the updated metrics on the [roadmap](https://app.mural.co/t/dhssalaska0106/m/dhssalaska0106/1576183680860/c1682951c77a41f29cb684cff893ff837f70b084).
 
 ## Discovery or User Research during each Sprint
 For each feature implemented, agile methodology implements user testing as a critical first step of each development phase. Each sprint, or period of design and development work, is dependent on user input to drive the design of the feature. 
