@@ -62,7 +62,7 @@ Our ultimate goal is increased productivity as we move DPA workers into a modern
 For each feature implemented, agile methodology implements user testing as a critical first step of each development phase. Each sprint, or period of design and development work, is dependent on user input to drive the design of the feature. 
 This user research is to discover whether the work completed in the previous sprint meets the user needs. We discover what works, what needs to be changed, and what may be added to make it better, according to the users who will use the feature.
 
- ![UsabilityResearchDiagram](../UsabilityResearch/Images/UsabilityResearchDiagram.png)
+ ![UsabilityResearchDiagram](https://github.com/AlaskaDHSS/EIS-Modernization/blob/master/assets/discovercadence.png)
 
 ### User Recruitment
 The Division of Public Assistance (DPA) workers are assigned work according to a tight schedule coordinated by their supervisors. Recruitment through volunteer workers is not possible due to this structure.  Coordination with DPA leadership, regional managers and supervisors is needed to obtain permission to “borrow” the workers, and establish the user group. 
