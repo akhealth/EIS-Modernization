@@ -38,23 +38,23 @@ Our ultimate goal is increased productivity as we move DPA workers into a modern
 
 1. Applications worked Timely
 
-    Timeliness performance is an important aspect of benefit issuance.   [SNAP applications must be processed and benefits provided within 30 days of the application date, or within 7 days for expedited applications](http://dpaweb.hss.state.ak.us/manuals/fs/fsp.htm). [Medicaid applications must be processed in 45 days](http://dpaweb.hss.state.ak.us/manuals/MAGI2/magi.htm).  The DPA’s Research & Analysis unit, responsible for mandatory federal reporting, regularly produces Timeliness Performance reports.  The report titled “Applications Timeliness” will be used to produce this metric. It measures the percentage of applications processed in a timely manner.  We will average the timeliness performance weighted by percentage of programs offered. As we begin, [our baseline timeliness percentage, across all programs, is 73%, while our goal is 95% timeliness](http://dpaweb.hss.state.ak.us/node/354).
+    Timeliness performance is an important aspect of benefit issuance.   [SNAP applications must be processed and benefits provided within 30 days of the application date, or within 7 days for expedited applications](http://dpaweb.hss.state.ak.us/manuals/fs/fsp.htm). [Medicaid applications must be processed in 45 days](http://dpaweb.hss.state.ak.us/manuals/MAGI2/magi.htm).  The DPA’s Research & Analysis unit, responsible for mandatory federal reporting, regularly produces Timeliness Performance reports.  These reports will be used to produce this metric, as they measure the percentage of applications processed in a timely manner. We will average the timeliness performance weighted by percentage of programs offered. Our current timeliness percentage, averaged across all programs, is 93%, while our goal is 95% [timeliness](http://dpaweb.hss.state.ak.us/node/354).
 
 2. Acceptable Error Rate
 
-   Reducing error rates is another important goal. The case management system in use by the DPA (PathOS) contains a reporting feature which allows us to generate a “Twelve Month Summary” report of each program’s error rates. We will average the case error rate weighted by the percentage of total sample cases for all programs. Our baseline error rate across programs is 14%, and our goal is 8%.
+   Reducing error rates is another important goal. The case error rate will be generated from the division’s case management system by a Public Assistance Analyst assisting the project, who generates a statewide summary of each program’s error rates within a given time frame. We are currently updating these yearly with twelve months’ data.We will average the case error rate weighted by the percentage of total sample cases for all programs. Our current error rate across all programs is 25%, and our goal is 8%. In 2020, the error rate was 11%. The increase is due to an expansion in the category of errors. Previously, errors were only reported when the benefit amount was incorrect, or the category or subtype was incorrect. In 2020, the division began counting errors in correspondence, even when the error does not affect the benefit amount or category.
 
 3. Applications Per Day Per Eligibility Technician
 
    Increasing the speed at which we are able to process applications and recertification will provide better service to our clients. By reducing the time a client needs to wait for an eligibility decision, we will reduce the number calls, in person requests to district offices, and duplicate online applications. 
 
-   We work with our PathOS consultant, receiving this information quarterly. 
+   To obtain this metric, we work with the contractor for our workflow management platform, Current™. 
 
    The metric will consider the number of applications received in the last quarter, the processing time for each type of application, and the average transaction type to arrive at average applications per day.
 
    The average transaction time in minutes for each program will be weighted by the volume of applications for that program in relation to all applications. We will use 390 minutes, the expected work time for each day, divide by it the average processing time, which will provide the average applications worked per day per worker.
 
-   Our baseline metric is 6, and our goal is 9 applications per day, per worker. 
+   Our current average metric is 5, and our goal is 9 applications per day, per worker. 
    
    These three ‘overall’ metrics will be measured separately through program information analyst’s regularly scheduled divisional reports, and through coordination with case management consultants working with the division as noted above, and shared with stakeholders through the updated metrics on the [roadmap](https://app.mural.co/t/dhssalaska0106/m/dhssalaska0106/1576183680860/c1682951c77a41f29cb684cff893ff837f70b084).
 
@@ -71,7 +71,7 @@ The user group, or Subject Matter Experts (SME), will be in place before the ven
 
 #### SME Assignment
 
-1. DPA director sends SME request to Regional Managers and Supervisors:
+1. DPA director, or designee, sends SME request to Regional Managers and Supervisors:
    
     a. Description of the contract
     b. How many users are needed
@@ -80,12 +80,12 @@ The user group, or Subject Matter Experts (SME), will be in place before the ven
     e. Time commitment needed
     f. Response deadline
 2. Regional Managers and Supervisors respond with list of employee names
-3. DPA director forwards SME names to Project Management Office (PMO)
+3. DPA director, or designee, forwards SME names to Project Management Office (PMO)
 4. PMO sends welcome letter:
     a. Introduces contract purpose
     b. SME participation parameters
         i. Method of research data collection
-        ii. Contact and Meeting expectations
+        ii. Meeting expectations
     c. Next Steps
 
 Each communication with the user group:
@@ -106,11 +106,10 @@ These sessions delivery format may be conducted using the following methods:
 - In person “shadowing”, where a project team member provides minimal instruction and observes and records the user’s navigation
 - Self-recorded tours of the feature, where a project team member provides material and instruction
 - Surveys
-- Diary studies-self-reported data from users over a period of time such as a few days. This method for Discovery necessitates a short diary period, in order to be contained within a two week sprint. 
 
 User responses for all methods used in Discovery will be documented in a Usability Review document. A summary, or synthesis of all user sessions for that sprint, will be constructed based on analysis of that sprint’s discovery session’s documentation. The synthesis findings will be used to direct the development needed for the next sprint.
 
-User participants in all documentation will be anonymized to allow users [freedom of expression](https://github.com/AlaskaDHSS/EIS-Modernization/blob/master/how-we-work.md#accepting-vendor-work). 
+User participants in all documentation will be anonymized to allow users [freedom of expression](https://github.com/AlaskaDHSS/EIS-Modernization/blob/master/how-we-work.md#design-research). 
 
 The **Usability Review** document will contain:
 - Date, Session participants (“SME1” for user participants, names for conductors)
@@ -145,7 +144,7 @@ Within each story, there are steps to achieve the scenario’s goal. These steps
 
 ### Discovery Cadence
 
-The cadence of usability testing during each two week sprint toward completing the increment of development is as follows. The Product team consists of all state project management and technicians, and all contractors assisting. The Project Management office (PMO) consists of the team designated and working solely on the EIS-Replacement project.
+The cadence of usability testing during a two week sprint toward completing the increment of development is as follows. The Product team consists of all state project management and technicians, and all contractors assisting. The Project Management office (PMO) consists of the team designated and working solely on the EIS-Modernization project.
 
 | **Week** | **Day** | **Description** | **Responsible** |
 | :---: | :---: | :--- | :---: |
@@ -165,10 +164,11 @@ Our user testing criteria for this type of testing will be based on our Alaska P
 
 The tests will be performed using the below two methods. These methods will be occur in parallel during the Pre-Production testing time period:
 
-1. With designated Subject Matter Experts (SME’s), guided and documented by the EIS-R Project Management Office (PMO). 
+1. With designated Subject Matter Experts (SME’s), guided and documented by the EIS-M Project Management Office (PMO). 
     a. Up to 10 Users may receive test cases via email to complete individually and return, with screen shots of the results, to the PMO for logging into Azure DevOps. 
     OR
-    b. A group testing session with up to 10 users wherein multiple tests are performed simultaneously within one session. These tests could be performed on location in Staff Development and Training (SD&T) training rooms, with results logged by the PMO into Azure DevOps
+    b. A group testing session with up to 10 users wherein multiple tests are performed simultaneously within one session. 
+    
 2. Independently by Systems operations, accessing test cases from Azure DevOps, and logging results into Azure DevOps.
    
 Test cases will be written from the steps iterated for each scenario of each story in Azure DevOps.
@@ -202,14 +202,14 @@ It will be the responsibility of both PMO and Systems operations to complete the
 
 ### Testing Teams
 The User testing team will be comprised of SME’s who have been involved in the development of the application, as well as systems operations testers.
-- The PMO will notify systems operation at least two weeks in advance of final user testing before the feature is released into production.
+- The PMO will notify systems operations at least two weeks in advance of final user testing before the feature is released into production.
 
 ## Post Production Usability Testing
 When each increment in our milestone is completed we will assure that the feature has met established criteria based on user need.  After implementation of an incremental feature, we’ll again gather information to determine our progress in meeting our customer promises. 
 
-We’ll also need to begin collecting information from all users on the implemented feature toward correction of any bugs that are discovered.
+We may also need to collect information from users on the implemented feature toward correction of any bugs that are discovered.
 
-To launch this effort after release, we’ll release a short user survey via email to all DPA field workers. We will use the results of this survey to assist us in determining whether we have met our promises for that feature toward refining our development planning.
+To launch this effort after release, we may, if appropriate, release a short user survey via email to select DPA field workers. We will use the results of this survey to assist us in determining whether we have met our promises for that feature toward refining our development planning.
 
 Coordinating with the Director, Regional Managers, System Operations, and Staff Development and Training, we’ll assure that leadership is aware of the release of the survey and the procedures in place for dispositioning the responses.
 
