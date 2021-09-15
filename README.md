@@ -8,7 +8,7 @@
 
 _Contents:_
 
-[Vision](#vision) | [The Challenge](#the-challenge) | [Our Hypothesis](#our-hypothesis) | [Risks](#risks) | [Near-term Milestones](#near-term-milestones) | [Ongoing Strategic Concerns](#ongoing-strategic-concerns) | [Important Resources](#important-resources) | [System Information](#system-information-user-account-must-be-granted-by-the-state-of-alaska) | [Technology Requirements](#technology-requirements) | [Contributing](#contributing-to-this-repo)
+[Vision](#vision) | [The Challenge](#the-challenge) | [Our Hypothesis](#our-hypothesis) | [Risks](#risks) | [Project Initiation Milestones](#Project-Initiation-milestones) | [Ongoing Strategic Concerns](#ongoing-strategic-concerns) | [Important Resources](#important-resources) | [System Information](#system-information-user-account-must-be-granted-by-the-state-of-alaska) | [Technology Requirements](#technology-requirements) | [Contributing](#contributing-to-this-repo)
 
 ----
 
