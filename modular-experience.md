@@ -18,9 +18,9 @@ We'll do this through an incremental transition to a more modular product archit
 
 To facilitate this modular approach to system development, we will be incrementally shifting toward a modular product architecture. New development will be "loosely coupled" to the existing product. We'll then incrementally shift responsibilities to the new modules.
 
-**We've illustrated the strategy in this presentation: ["Incrementally shifting toward a modular experience" presentation](assets/modular-experience.pdf).**
+**We've illustrated the strategy in this presentation: ["Incrementally shifting toward a modular experience" presentation](https://github.com/AlaskaDHSS/EIS-Modernization/blob/master/assets/modular-experience2021.pdf).**
 
-[![Screenshot of presentation](assets/modular-experience-deck.jpg)](assets/modular-experience.pdf)
+[![Screenshot of presentation](https://github.com/AlaskaDHSS/EIS-Modernization/blob/master/assets/modular-experience-deck.jpg)
 
 ### Unified product design
 
