@@ -4,7 +4,7 @@
 
 Our basic principles are those familiar to anybody who has contributed to a prominent open source project, or deployed code in a modern software environment.
 
-* We look to the future. Our systems are secure and open source, created and maintained in repositories where it may be inspected by the public who places their trust in it and copied for use by other agencies.
+* We look to the future. Our objective is that our systems are secure and open source, created and maintained in repositories where code may be inspected by like minded developers who place their trust in it, copy it for use for use by other agencies, and share discovered solutions that increase the functionality or safety of the code.
 * We adhere to the basic practices of agile software development, using the Scrum development framework.
 * We use a DevSecOps approach that allows us to rapidly develop and deploy improvements to our systems, infrastructure- and configuration-as-code, and CI/CD to ensure that our work is high-quality. We integrate security compliance into the process.
 * We practice human-centered design. Everything that we produce is highly accessible, per WCAG 2.0. We build APIs before we build software atop it, and we believe that APIs require a well-designed interface.
@@ -29,11 +29,11 @@ This team will participate in all scrum ceremonies in service of prioritizing, d
 
 ## Meetings
 
-There are two basic meeting rhythms: daily standups and semi-weekly agile sprint rituals.
+There are two basic meeting rhythms: daily standups and agile sprint rituals. The sprint duration will be determined by the development team's leadership in consideration of the work to be done, and the resources available. The duration of a sprint is typically two weeks, resulting in semi-weekly agile sprint rituals.
 
-Every day, at 9 AM AKT, we hold a tight 15-minute standup.
+Every morning, we hold a tight 15-minute standup.
 
-Every two weeks we hold sprint rituals. Each two-week sprint begins with backlog grooming (prioritizing work in the backlog) and sprint planning (define the work to be done over the next two weeks). Each sprint ends with a sprint review (demonstrate work done, and accept or reject that work) and a sprint retro (review the process of how people performed in this sprint). These are all held back-to-back, on the same day.
+As each sprint ritual begins, we conduct backlog grooming (prioritizing work in the backlog) and sprint planning (define the work to be done over the next sprint). Each sprint ends with a sprint review (demonstrate work done, and accept or reject that work) and a sprint retro. In the sprint retro, we review how the sprint went as far as people, relationships, processes and tools, identifying what went well and ways that we can improve quality and effectiveness. These are all held back-to-back, on the same day.
 
 All meetings are held via video teleconference. A telephone bridge is maintained as a backup method of connecting, but participants are encouraged strongly to join via desktop webcam.
 
@@ -41,13 +41,13 @@ All meetings are held via video teleconference. A telephone bridge is maintained
 
 We recognize that the DPA field staff will be critical to helping us develop solutions that will deliver better service to Alaskans. In order to create an open and collaborative space for DPA staff to contribute, we will protect their privacy through the following:
 
-* Interview notes will be anonymized, lead researcher will be the keeper of the key (Joan Smith = Participant 1).
+* Interview notes will be anonymized. The keeper of the key to participants is the state project UI/UX coordinator. (Joan Smith = Participant 1).
 * The full product team needs to understand the expectation for privacy around research materials.
 * Anonymized raw notes will be available to the small product team doing the work, but not beyond.
 * Synthesized notes and conclusions (still anonymous) can be shared publicly, including on Azure DevOps/GitHub as they are fully decontextualized.
 * Non-researchers on the product team can and should be involved with research.
 * Only research facilitators/observers can be included in synthesis.
-* We will inform research participants of these matters at the beginning of research sessions and ask for their consent. See [Research Participant Agreement](https://github.com/AlaskaDHSS/EIS-Modernization/blob/master/assets/Design_Research_Participant_Agreement_ARIES.pdf). 
+* We will inform research participants of these matters at the beginning of research sessions and ask for their consent. See [Research Participant Agreement](https://github.com/AlaskaDHSS/EIS-Modernization/blob/master/assets/Design_Research_Participant_Agreement_ARIES2021.pdf). 
 * An overview of our approach to user research, driven by usability testing, is [here](UsabilityResearch.md)
 
 ## Definition of Done
@@ -80,7 +80,7 @@ Acceptance of work happens through the sprint as work is completed. The procedur
 5. Pull request merged to staging DHSS code reviewer
 6. User testing happens - See "for product team to accept the user story and ship it" in _Definition of Done_ above, and [Testing Strategy](#testing-strategy)
 7. Product team creates pull request to master
-8. (Person TBD) merges pull request to master
+8. DHSS product owner and network services deployment team merges pull request to master
 
 ## Processes
 
