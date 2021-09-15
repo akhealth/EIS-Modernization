@@ -46,7 +46,7 @@ We have already seen many benefits from these efforts and seek to spread these l
 | **Low income Alaskans** | We want to create an environment where needy Alaskans feel supported by a system that provides timely and accurate benefits along with self-service access to status of applications. |
 | **DPA Field Staff** | We want to create an environment where DPA Field staff can be productive and feel fulfilled by giving them efficient tools and processes and timely access to the information that they need in order to serve low income Alaskans. |
 | DPA Systems Operations Staff | We want to create an environment where Sys Ops workers feel confident about maintaining the systems and supporting DPA field staff in their work. |
-| **IT Services Staff** | We want to create an environment where FMS-IT workers feel confident and empowered to rapidly meet DPA field staff and Sys Ops needs while preserving and extending DPA’s return on investment. |
+| **IT Services Staff** | We want to create an environment where DHSS FMS-IT workers feel confident and empowered to rapidly meet DPA field staff and Sys Ops needs while preserving and extending DPA’s return on investment. |
 | **DHSS Leadership** | We want to create an environment where system capability and stability free department leadership to make directional decisions based on accurate and timely data, and show value for system investments. |
 | **Department of Administration (DOA) Office of Information Technology (OIT) Staff** | We want to create an environment where OIT can rely upon clearly defined and agreed upon support procedures and responsibilities to efficiently deliver service to DHSS. |
 | **Federal Partners** | We want to create an environment where our Federal partners can count on the State to act quickly on Federal mandates and requests, and that they can quickly and easily get accurate information from their State partner when they need it. |
@@ -61,7 +61,7 @@ We have visualized the various areas of concern with respect to the overall visi
 [**View the canvas**](https://app.mural.co/t/dhssalaska0106/m/dhssalaska0106/1576183670083/61c5a6fea3288415cd62a0aa01afa3057fa51c6a)
 
 ### The Product Roadmap
-This is where we work out and communicate our delivery plan in the context of our strategy. The first colum contains some background information about our beneficiaries, stakeholders, partners, teams and activities. The second column contains a set of milestones ordered from top to bottom according to the team's current priorities. Each milestone contains a set of increments designed to deliver the desired outcome. In each increment, you will see the affected user/stakeholder groups, some detail about the work, and an indication of which teams/what kind of activity is involved. The final column contains all unscheduled work as we know it.
+This is where we work out and communicate our delivery plan in the context of our strategy. The first column contains some background information about our beneficiaries, stakeholders, partners, teams and activities. The second column contains a set of milestones ordered from top to bottom according to the team's current priorities. Each milestone contains a set of increments designed to deliver the desired outcome. In each increment, you will see the affected user/stakeholder groups, some detail about the work, and an indication of which teams/what kind of activity is involved. The final column contains all unscheduled work as we know it.
 
 [**View the roadmap**](https://app.mural.co/t/dhssalaska0106/m/dhssalaska0106/1576183680860/c1682951c77a41f29cb684cff893ff837f70b084)
 
@@ -70,12 +70,12 @@ The challenge is rooted in the need for Alaska to migrate these programs off of 
 
 To this end, Alaska entered into an agreement with a contractor to migrate all programs to a customized system that was supposed to be more automated, flexible and maintainable. The first phase of this migration was problematic, leaving the State with a partially implemented eligibility system, ARIES, which at this time only contains MAGI Medicaid. Work on the previous project plan ended summer 2016.  The State is now determining eligibility in two systems forcing a good deal of manual workarounds so that the State can continue to deliver services.
 
-DPA is further challenged by its backlog of approximately 14,000 applications for Medicaid and other public assistance programs.  Delays in fully implementing ARIES have resulted in delays processing applications.  Working in two eligibility systems results in duplication of effort depending on which program an individual has requested.  This has caused a significant decrease in worker productivity. Beneficiaries can wait months to receive benefits and workers are frustrated. Clients get frustrated with delays, and this causes them to submit duplicate applications thereby adding to the backlog and pressure.
+Delays in fully implementing ARIES have resulted in delays processing applications.  Working in two eligibility systems results in duplication of effort depending on which program an individual has requested.  This has caused a significant decrease in worker productivity.
 
-## Our Hypothesis
-We want to move away from a legacy "Big Bang" waterfall acquisitions process to a more modular approach, emphasizing user centered design, agile product development, and DevOps practices. We believe doing this will incrementally improve the current situation in a measurable and sustainable way, and eventually allow the continued migration of programs away from the EIS system and onto something more modern, flexible and maintainable.
+## Our Proposition
+We have moved away from a legacy "Big Bang" waterfall acquisitions process to a more modular approach, emphasizing user centered design, agile product development, and DevOps practices. We believe doing this will incrementally improve the current situation in a measurable and sustainable way, and eventually allow the continued migration of programs away from the EIS system and onto something more modern, flexible and maintainable.
 
-We will know we are successful, if we can increase worker productivity and morale, among other things, and if benefits are being provided in a timely manner to those who are eligible. We are currently focused on getting a win here fairly soon so that we can show State workers and the Legislature that we are moving in the right direction.
+We will know we are successful if we can increase worker productivity and if benefits are being provided in a timely manner to those who are eligible. An early win demonstrating to State workers and the Legislature that we are moving in the right direction occurred with the implementation of the [United Search Feature](https://github.com/AlaskaDHSS/RFP-Search-Unification)
 
 ## Risks
 
@@ -83,9 +83,8 @@ We will know we are successful, if we can increase worker productivity and moral
 | Description  | Criticality (1 - 5) <sup>*</sup> | Status  |
 |:---|:---:|:---:|
 | The depth of the vendor pool available that understands agile delivery and can do modular procurement might be limited, at least in the early phases of the project  | 2  | Derisked  |
-| The level of effort required to read or write data across multiple environments (ARIES database, staging table, MCI, Mainframe) is not well known yet. (Note - for the initial prototype and first procurement, we’ve only focused on reads from legacy systems, not writes.)  | 2  |  In progress |
+| The level of effort required to read or write data across multiple environments (ARIES database, staging table, MCI, Mainframe) is not well known yet.   | 2  |  In progress |
 | The quality/consistency of the data may be a blocker to goals we have around reporting and analysis.  | 4  | In progress  |
-| The ability to guide the end-user through large search result scenarios in a responsive way may create blockers to the value of improved search  |  4 |  In progress |
 | The availability of appropriate platforms within the state technology environment for deploying prototypes is not well understood yet.   | 2  | Derisked  |
 | The fixed and saturation-based network latency in different locations may create performance issues for web applications that load data asynchronously or via multiple requests.  |  4 |  Not started |
 | There is a risk that we won't be able to deploy to production frequently enough that we can work in an agile fashion.  | 2  | Derisked  |
@@ -96,11 +95,11 @@ We will know we are successful, if we can increase worker productivity and moral
 
  \* 1 = low criticality; 5 = high criticality
 
-## Near-term Milestones
+## Project Initiation Milestones
 
 - [x] Identify product owner and team - Done 2/28/17
 - [x] Identify where to start - Done 3/2/17 (Search API and UI to support)
-- [ ] Foundational work - in progress
+- [x] Foundational work
   - [x] Product vision - Done 5/8/17
   - [x] Product roadmap - Initial roadmap created 5/22/17
   - [x] Funding strategy
@@ -111,7 +110,8 @@ We will know we are successful, if we can increase worker productivity and moral
 - [X] [Draft solicitation documents and vendor outreach](https://github.com/AlaskaDHSS/EIS-Modernization/wiki)
 - [X] First solicitation - RFP released November 3, 2017 (https://github.com/AlaskaDHSS/RFP-Search-Unification)
 - [X] Award first contract
-- [ ] Subsequent acquisition(s) - [In progress](https://github.com/AlaskaDHSS/EIS-Modernization/tree/master/procurement-docs-far)
+- [ ] Subsequent acquisition(s) - [In progress](https://github.com/AlaskaDHSS/EIS-Modernization/issues)
+- [ ] Regular Roadmap updates - In progress
 
 ## Ongoing Strategic Concerns
 * Data normalization
@@ -150,7 +150,7 @@ Key documents
 ## Technology requirements
 We are working with the Microsoft technology stack. Please see [DevSecOps.md](DevSecOps.md) for specific requirements.
 
-See our [How we Work document](https://github.com/AlaskaDHSS/acq-alaska-dhss-modernization/blob/master/how-we-work.md#accepting-vendor-work) for more about how we work with external venors, accept code, and coduct code reviews.
+See our [How we Work document](https://github.com/AlaskaDHSS/acq-alaska-dhss-modernization/blob/master/how-we-work.md#accepting-vendor-work) for more about how we work with external vendors, accept code, and conduct code reviews.
 
 ## Contributing to this repo
 * Read the [CONTRIBUTING](CONTRIBUTING.md) Policy
