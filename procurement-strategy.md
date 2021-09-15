@@ -1,10 +1,10 @@
-# EIS-R Procurement Strategy
+# EIS-M Procurement Strategy
 
 ## Modular Procurement Overview
 
 Modular procurement is an acquisition strategy that breaks up large, complex procurements into multiple, tightly-scoped projects to implement technology systems in successive, interoperable increments. It is an approach that can help reduce vendor lock in, mitigate risk, and encourage the delivery of working software to users more rapidly.
 
-The Alaska EIS-R project will employ a modular procurement strategy to modernize, and eventually replace, the state's existing public benefit eligibility systems. To support this work, the product team has endorsed a number of principles to guide future [procurements](https://github.com/AlaskaDHSS/RFP-Search-Unification).
+The Alaska EIS-M project will employ a modular procurement strategy to modernize, and eventually replace, the state's existing public benefit eligibility systems. To support this work, the product team has endorsed a number of principles to guide future procurements.
 
 ## Modular Procurement Principles
 
@@ -16,7 +16,7 @@ We [embrace](https://github.com/AlaskaDHSS/EIS-Modernization/blob/master/how-we-
 
 ### Breaking up work into modules
 
-We aim to break up the large amount of work required for the overall EIS-R effort into smaller, less risky, more achievable pieces. Our goal is to run multiple, smaller procurements in sequence and iteratively deliver increased value to those we serve. This will help us reduce risks, and deliver working software the end users more quickly.
+We aim to break up the large amount of work required for the overall EIS-M effort into smaller, less risky, more achievable pieces. Our goal is to run multiple, smaller procurements in sequence and iteratively deliver increased value to those we serve. This will help us reduce risks, and deliver working software the end users more quickly.
 
 ### Reduced proposal size
 
