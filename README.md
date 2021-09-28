@@ -82,7 +82,7 @@ We will know we are successful if we can increase worker productivity and if ben
 
 | Description  | Criticality (1 - 5) <sup>*</sup> | Status  |
 |:---|:---:|:---:|
-| The depth of the vendor pool available that understands agile delivery and can do modular procurement might be limited  | 2  | Derisked  |
+| The depth of the vendor pool available that understands agile delivery and can do modular procurement might be limited.  | 2  | Derisked  |
 | As we integrate with multiple new systems, both internal and external, (ARIES database,CMS data hub, MCI, EIS Mainframe) complexity arises and can cause delays or complications. The amount of complexity for new integrations is not well known.     | 2  |  In progress |
 | The quality/consistency of the data may be a blocker to goals we have around reporting and analysis.  | 4  | In progress  |
 | The availability of appropriate platforms within the state technology environment for deploying prototypes is limited.   | 2  | Derisked  |
