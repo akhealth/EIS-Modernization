@@ -82,15 +82,15 @@ We will know we are successful if we can increase worker productivity and if ben
 
 | Description  | Criticality (1 - 5) <sup>*</sup> | Status  |
 |:---|:---:|:---:|
-| The depth of the vendor pool available that understands agile delivery and can do modular procurement might be limited, at least in the early phases of the project  | 2  | Derisked  |
-| The level of effort required to read or write data across multiple environments (ARIES database, staging table, MCI, Mainframe) is not well known yet.   | 2  |  In progress |
+| The depth of the vendor pool available that understands agile delivery and can do modular procurement might be limited  | 2  | Derisked  |
+| As we integrate with multiple new systems, both internal and external, (ARIES database,CMS data hub, MCI, EIS Mainframe) complexity arises and can cause delays or complications. The amount of complexity for new integrations is not well known.     | 2  |  In progress |
 | The quality/consistency of the data may be a blocker to goals we have around reporting and analysis.  | 4  | In progress  |
-| The availability of appropriate platforms within the state technology environment for deploying prototypes is not well understood yet.   | 2  | Derisked  |
+| The availability of appropriate platforms within the state technology environment for deploying prototypes is limited.   | 2  | Derisked  |
 | The fixed and saturation-based network latency in different locations may create performance issues for web applications that load data asynchronously or via multiple requests.  |  4 |  Not started |
 | There is a risk that we won't be able to deploy to production frequently enough that we can work in an agile fashion.  | 2  | Derisked  |
-| There is a risk that vendors won't be able to easily work with the legacy ARIES code and existing authentication methods. | 5  | Not started  |
-| There is a landscape of existing solutions that could potentially be leveraged instead of building from scratch.  |  2 |  Not started |
-| There is a risk that the ATO process will prevent us from being able to deploy continuously to a production environment.  | 5  | In progress  |
+| There is a risk that vendors won't be able to easily work with the legacy ARIES code and existing authentication methods. | 5  | In progress  |
+| There is a landscape of existing solutions that could potentially be leveraged instead of building from scratch. Evaluation into these solutions is ongoing.  |  2 |  In progress |
+| There is a risk that the DHSS authority to operate (ATO) process will prevent us from being able to deploy continuously to a production environment.  | 5  | In progress  |
 | There is a risk that by having multiple vendors contributing to the same codebase, we increase the complexity of integration. There could be problems that arise specifically from the logistics and timing of multiple contributors.   | 3  |  In progress |
 
  \* 1 = low criticality; 5 = high criticality
@@ -114,6 +114,7 @@ We will know we are successful if we can increase worker productivity and if ben
 - [ ] Regular Roadmap updates - In progress
 
 ## Ongoing Strategic Concerns
+* Integrating security into DevSecOps
 * Data normalization
 * Communication (external and internal)
 * System integration (of the various modules)
