@@ -74,7 +74,7 @@ So that we can work more efficiently and be confident in the quality of the work
 Acceptance of work happens through the sprint as work is completed. The procedure is as follows:
 
 1. Development team completes work - See "for for delivering a user story to the product team" in [Definition of Done](#definition-of-done) above
-2. Development team creates pull request to staging - See [Pull Request Process](/azure-devopsGitBranchingStrategy.md)
+2. Development team creates pull request to staging - See [Pull Request Process](/azure-devops/GitBranchingStrategy.md)
 3. The product team has verified the functionality against acceptance criteria in a deployed instance for a feature level pull request
 4. Code review takes place - See [Code Review Process](code-review.md)
 5. Pull request merged to staging DHSS code reviewer
