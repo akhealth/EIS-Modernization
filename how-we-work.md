@@ -31,7 +31,7 @@ This team will participate in all scrum ceremonies in service of prioritizing, d
 
 There are two basic meeting rhythms: daily standups and agile sprint rituals. The sprint duration will be determined by the development team's leadership in consideration of the work to be done, and the resources available. The duration of a sprint is typically two weeks, resulting in semi-weekly agile sprint rituals.
 
-Every morning, we hold a tight 15-minute standup.
+We hold regular, tight 15-minute standups, at a frequency decided by the team.
 
 As each sprint ritual begins, we conduct backlog grooming (prioritizing work in the backlog) and sprint planning (define the work to be done over the next sprint). Each sprint ends with a sprint review (demonstrate work done, and accept or reject that work) and a sprint retro. In the sprint retro, we review how the sprint went as far as people, relationships, processes and tools, identifying what went well and ways that we can improve quality and effectiveness. These are all held back-to-back, on the same day.
 
@@ -90,13 +90,15 @@ We will move the programs currently in EIS off the mainframe within 5 years. Thi
 
 ### Testing Strategy
 
-We practice testing at three levels: unit tests, integration tests, and feature tests. For details about how we create and maintain unit, integration and feature tests, see [18F’s “Automated Testing Playbook”](https://automated-testing-playbook.18f.gov/).
+We practice testing at three levels: unit tests, integration tests, and feature tests. 
 
 * **Unit** - Unit tests must be created for all new code, during the sprint in which the code is written, with coverage of at least 90%.
 
 * **Integration** - Because all new work is integrating with the existing ARIES code base, new code must include tests that verify that interfaces are functioning as designed.
 
 * **Feature** - New features must have functional definitions of the thing that they are to perform, and a description of human-performable actions to verify that they perform that thing.
+
+For more information about how to create and maintain unit, integration and feature tests, see [18F’s “Automated Testing Playbook”](https://automated-testing-playbook.18f.gov/).
 
 ### Pull Request Process
 Documented in our [Git Branching Strategy](/azure-devops/GitBranchingStrategy.md).
