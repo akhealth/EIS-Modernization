@@ -110,7 +110,7 @@ Documented in our [Code Review Process](code-review.md).
 ### DevSecOps
 
 We rely on [DevSecOps](DevSecOps.md) for automation and monitoring of code integration, testing, and deployment. Our DevSecOps pipeline is built atop Azure DevOps (not GitHub) for deployment to Azure. We practice continuous integration, continuous deployment, and continuous testing (including security testing). All new code has tests developed simultaneously, with cumulative test coverage of not less than 90%. See “Accepting Vendor Work” for more.
-For details, see our [“Why DevSecOps?” document](DevSecOps.md), in Github.
+For details, see our [“Why DevSecOps?” document](https://github.com/AlaskaDHSS/DevSecOpsMvp/blob/master/DevSecOps.md), in Github.
 
 ## Tools
 
