@@ -47,7 +47,7 @@ We recognize that the DPA field staff will be critical to helping us develop sol
 * Synthesized notes and conclusions (still anonymous) can be shared publicly, including on Azure DevOps/GitHub as they are fully decontextualized.
 * Non-researchers on the product team can and should be involved with research.
 * Only research facilitators/observers can be included in synthesis.
-* We will inform research participants of these matters at the beginning of research sessions and ask for their consent. See [Research Participant Agreement]([https://github.com/AlaskaDHSS/EIS-Modernization/blob/master/assets/Design_Research_Participant_Agreement_ARIES2021.pdf](https://github.com/AlaskaDHSS/EIS-Modernization/blob/master/assets/20220627Design_Research_Participant_Agreement_ARIES.pdf). 
+* We will inform research participants of these matters at the beginning of research sessions and ask for their consent. See [Research Participant Agreement](https://github.com/AlaskaDHSS/EIS-Modernization/blob/master/assets/20220627Design_Research_Participant_Agreement_ARIES.pdf). 
 * An overview of our approach to user research, driven by usability testing, is [here](UsabilityResearch.md)
 
 ## Definition of Done
