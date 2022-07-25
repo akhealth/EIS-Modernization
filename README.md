@@ -1,5 +1,5 @@
 > **Welcome!**
-> This repo contains documentation describing the Alaska Department of Health and Social Services (DHSS) modernization project. It is intended to be a place where project participants can keep track of the overall project goals, the decision framework, progress to date and learnings as we work. It is also intended to be a project 'home page' where members can access important and up-to-date project information that exists somewhere else.
+> This repo contains documentation describing the Alaska Department of Health (DOH) modernization project. It is intended to be a place where project participants can keep track of the overall project goals, the decision framework, progress to date and learnings as we work. It is also intended to be a project 'home page' where members can access important and up-to-date project information that exists somewhere else.
 
 # EIS Modernization Project
 ### _Modernizing DPA technology and methods to achieve an integrated eligibility system_
@@ -13,7 +13,7 @@ _Contents:_
 ----
 
 ## Vision
-Alaska Department of Health & Social Services (DHSS) is developing a modern, integrated eligibility system that enables staff to more efficiently issue correct and timely benefits to Alaskans who need help meeting their basic needs. Utilizing agile development and modular procurements, DHSS has the goal of implementing an eligibility system that not only meets state and federal standards, but is user friendly for our clients, our eligibility staff, and our technical staff.
+Alaska Department of Health (DOH) is developing a modern, integrated eligibility system that enables staff to more efficiently issue correct and timely benefits to Alaskans who need help meeting their basic needs. Utilizing agile development and modular procurements, DOH has the goal of implementing an eligibility system that not only meets state and federal standards, but is user friendly for our clients, our eligibility staff, and our technical staff.
 
 ## Team
 Fundamental to this project is our integrated, cross-functional team approach. By staffing a unified, durable team from the Division of Public Assistance (Division), IT Services (IT), and Grants & Contracts (Procurement), we work to break down silos that could inhibit the success of our project. We plan together, procure together, build together, and operate together. We are a single delivery team. This ensures:
@@ -27,7 +27,7 @@ We are supported in this effort by our department and division leadership. We wo
 ## Modernization
 "Modernization" does not just refer to updating systems built long ago. It means that we are rethinking every aspect of our work and looking for opportunities to improve. This includes product management, risk mitigation, staffing, procurement, development methods, technology choices, oversight response, design, user engagement, vendor management, and more.
 
-We have already seen many benefits from these efforts and seek to spread these lessons throughout AK DHSS wherever possible.
+We have already seen many benefits from these efforts and seek to spread these lessons throughout AK DOH wherever possible.
 
 ## Methods & Strategies
 - [How we work](/how-we-work.md)
@@ -46,14 +46,14 @@ We have already seen many benefits from these efforts and seek to spread these l
 | **Low income Alaskans** | We want to create an environment where needy Alaskans feel supported by a system that provides timely and accurate benefits along with self-service access to status of applications. |
 | **DPA Field Staff** | We want to create an environment where DPA Field staff can be productive and feel fulfilled by giving them efficient tools and processes and timely access to the information that they need in order to serve low income Alaskans. |
 | DPA Systems Operations Staff | We want to create an environment where Sys Ops workers feel confident about maintaining the systems and supporting DPA field staff in their work. |
-| **IT Services Staff** | We want to create an environment where DHSS FMS-IT workers feel confident and empowered to rapidly meet DPA field staff and Sys Ops needs while preserving and extending DPA’s return on investment. |
-| **DHSS Leadership** | We want to create an environment where system capability and stability free department leadership to make directional decisions based on accurate and timely data, and show value for system investments. |
-| **Department of Administration (DOA) Office of Information Technology (OIT) Staff** | We want to create an environment where OIT can rely upon clearly defined and agreed upon support procedures and responsibilities to efficiently deliver service to DHSS. |
+| **IT Services Staff** | We want to create an environment where DOH FMS-IT workers feel confident and empowered to rapidly meet DPA field staff and Sys Ops needs while preserving and extending DPA’s return on investment. |
+| **DOH Leadership** | We want to create an environment where system capability and stability free department leadership to make directional decisions based on accurate and timely data, and show value for system investments. |
+| **Department of Administration (DOA) Office of Information Technology (OIT) Staff** | We want to create an environment where OIT can rely upon clearly defined and agreed upon support procedures and responsibilities to efficiently deliver service to DOH. |
 | **Federal Partners** | We want to create an environment where our Federal partners can count on the State to act quickly on Federal mandates and requests, and that they can quickly and easily get accurate information from their State partner when they need it. |
 | **Tribal Organizations** | We want to create an environment where tribal organizations can easily access information about their members and be able to assist them in getting the benefits they are eligible for in an automated fashion. |
 | **Hospitals** | We want to create an environment where hospitals can input patient information and receive instant eligibility determination, including issuance of the benefit, without DPA intervention. |
 | **State Agency Partners** | We want to create an environment where our state agencies can trade information seamlessly, timely, and effortlessly. This two way transfer of information should be immediate and automatic, using established standards based data structures. |
-| **General Public** | We want to create an environment where DHSS can demonstrate that public monies invested in information technology and public assistance delivery efficiently provide positive outcomes. |
+| **General Public** | We want to create an environment where DOH can demonstrate that public monies invested in information technology and public assistance delivery efficiently provide positive outcomes. |
 
 ### Mission Model Canvas
 We have visualized the various areas of concern with respect to the overall vision into a Mission Model Canvas. Our product strategy will pay attention to these areas of concern and their relationships in order to ensure that the right thing is being delivered to the right beneficiaries. It will evolve over time as needed.
@@ -66,7 +66,7 @@ This is where we work out and communicate our delivery plan in the context of ou
 [**View the roadmap**](https://app.mural.co/t/dhssalaska0106/m/dhssalaska0106/1576183680860/c1682951c77a41f29cb684cff893ff837f70b084)
 
 ## The Challenge
-The challenge is rooted in the need for Alaska to migrate these programs off of their "old legacy" eligibility system, EIS, to something that costs less to operate and is more flexible to change. The EIS system does what it does well, but it is built in an old technology (COBOL on a mainframe) that is difficult to change. It is also expensive to host, and as other agencies in Alaska migrate away from the system, DHSS will be responsible for more and more of this cost. Further, expertise for this type of technology is aging out, so it will be harder and harder to support it going forward. Moving away from this system is the ultimate goal.
+The challenge is rooted in the need for Alaska to migrate these programs off of their "old legacy" eligibility system, EIS, to something that costs less to operate and is more flexible to change. The EIS system does what it does well, but it is built in an old technology (COBOL on a mainframe) that is difficult to change. It is also expensive to host, and as other agencies in Alaska migrate away from the system, DOH will be responsible for more and more of this cost. Further, expertise for this type of technology is aging out, so it will be harder and harder to support it going forward. Moving away from this system is the ultimate goal.
 
 To this end, Alaska entered into an agreement with a contractor to migrate all programs to a customized system that was supposed to be more automated, flexible and maintainable. The first phase of this migration was problematic, leaving the State with a partially implemented eligibility system, ARIES, which at this time only contains MAGI Medicaid. Work on the previous project plan ended summer 2016.  The State is now determining eligibility in two systems forcing a good deal of manual workarounds so that the State can continue to deliver services.
 
@@ -90,7 +90,7 @@ We will know we are successful if we can increase worker productivity and if ben
 | There is a risk that we won't be able to deploy to production frequently enough that we can work in an agile fashion.  | 2  | Derisked  |
 | There is a risk that vendors won't be able to easily work with the legacy ARIES code and existing authentication methods. | 5  | In progress  |
 | There is a landscape of existing solutions that could potentially be leveraged instead of building from scratch. Evaluation into these solutions is ongoing.  |  2 |  In progress |
-| There is a risk that the DHSS authority to operate (ATO) process will prevent us from being able to deploy continuously to a production environment.  | 5  | In progress  |
+| There is a risk that the DOH authority to operate (ATO) process will prevent us from being able to deploy continuously to a production environment.  | 5  | In progress  |
 | There is a risk that by having multiple vendors contributing to the same codebase, we increase the complexity of integration. There could be problems that arise specifically from the logistics and timing of multiple contributors.   | 3  |  In progress |
 
  \* 1 = low criticality; 5 = high criticality
@@ -127,12 +127,12 @@ We will know we are successful if we can increase worker productivity and if ben
 
 Alaska team
 * [Alaska organizational chart](https://app.mural.co/t/dhssalaska0106/m/dhssalaska0106/1576183633753/83e37044b807aac3ae09c6757d794e45dd931ea6) (includes product team members)
-* [Alaska Department of Health and Social Services organizational chart](http://dhss.alaska.gov/Commissioner/Documents/PDF/DHSS_org_chart.pdf) (official departmental org chart)
+* [Alaska Department of Health organizational chart](https://health.alaska.gov/Commissioner/Documents/reorganization/orgchart.pdf)) (official departmental org chart)
 
 EIS-M project management
 * This repo - This repository serves as the overarching umbrella repo for the EIS-M project. Please note that each solicitation will have its own GitHub repository
-* [Search Procurement Repo](https://github.com/AlaskaDHSS/RFP-Search-Unification)
-* [AVS-EVS Procurement Repo](https://github.com/AlaskaDHSS/RFP-AVS-EVS)
+* [Search Procurement Repo](https://github.com/akhealth/RFP-Search-Unification)
+* [AVS-EVS Procurement Repo](https://github.com/akhealth/RFP-AVS-EVS)
 * [Microsoft Teams](https://teams.microsoft.com/l/team/19%3a3ac701697e2f4d279a28c0e33b00a092%40thread.skype/conversations?groupId=6bf46ba5-dd04-4ed8-b1c2-c9152ecddecd&tenantId=20030bf6-7ad9-42f7-9273-59ea83fcfa38) (Private)
 * [Azure](https://alaskadhss.visualstudio.com) (Private)
 * [Mural](https://app.mural.co/t/dhssalaska0106) (Private)
@@ -151,7 +151,7 @@ Key documents
 ## Technology requirements
 We are working with the Microsoft technology stack. Please see [DevSecOps.md](DevSecOps.md) for specific requirements.
 
-See our [How we Work document](https://github.com/AlaskaDHSS/acq-alaska-dhss-modernization/blob/master/how-we-work.md#accepting-vendor-work) for more about how we work with external vendors, accept code, and conduct code reviews.
+See our [How we Work document](how-we-work.md) for more about how we work with external vendors, accept code, and conduct code reviews.
 
 ## Contributing to this repo
 * Read the [CONTRIBUTING](CONTRIBUTING.md) Policy
