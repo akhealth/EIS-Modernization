@@ -38,17 +38,17 @@ Through our initial prototypes efforts, we worked through a variety of initial c
 
 - **Security plans** - Agreement with state security teams about the applicable security requirements 
 - **Tailored IT standards** - (Is this similar to the security plans above; should connect to documentation)
-- **[Agile and HCD practice](https://github.com/AlaskaDHSS/EIS-Modernization/blob/master/how-we-work.md)** - DHSS has embraced agile and human-centered design practices, works in product increments and sprints, and continuously seeks improvement.
+- **[Agile and HCD practice](https://github.com/akhealth/EIS-Modernization/blob/master/how-we-work.md)** - DOH has embraced agile and human-centered design practices, works in product increments and sprints, and continuously seeks improvement.
 - **Test data** - Test data has been aligned across MCI, EIS, ARIES for UAT and dev environments. A process for adding new test data has been established 
-- **Azure DevOps** - DHSS uses Azure DevOps for version control, teams, git, security scans, etc. More information can be found [in the DevSecOps repo](https://github.com/AlaskaDHSS/DevSecOpsMvp/tree/master/vsts).
+- **Azure DevOps** - DOH uses Azure DevOps for version control, teams, git, security scans, etc. More information can be found [in the DevSecOps repo](https://github.com/akhealth/DevSecOpsMvp).
 - **GitHub** - While we work in Azure DevOps, we intend to sync our code with GitHub as part of our deployment cycle to ensure our open source software is visible and accessible.
 - **Service Proxy** - BizTalk ESB can be used to manage access to MCI, ARIES, EIS 
-- **Cloud/PaaS/Azure** - DHSS has adopted Azure and will be using this PaaS moving forward. More information on access can be found [in the DevSecOps repo](https://github.com/AlaskaDHSS/DevSecOpsMvp/blob/master/Azure.md).
-- **CI/CD pipeline** - Continuous Integration / Continuous Deployment mechanism are now in place and documented [in the DevSecOps repo](https://github.com/AlaskaDHSS/DevSecOpsMvp/blob/master/vsts/GitBranchingStrategy.md).
+- **Cloud/PaaS/Azure** - DOH has adopted Azure and will be using this PaaS moving forward. More information on access can be found [in the DevSecOps repo](https://github.com/akhealth/DevSecOpsMvp/blob/master/Azure.md).
+- **CI/CD pipeline** - Continuous Integration / Continuous Deployment mechanism are now in place and documented [in the DevSecOps repo](https://github.com/akhealth/DevSecOpsMvp/blob/master/vsts/GitBranchingStrategy.md).
 
 ## People & skills
 
-Producing technical prototypes requires DHSS developers and product managers to devote time and energy working in the systems and building. To do this, we leverage some or all of the following:
+Producing technical prototypes requires DOH developers and product managers to devote time and energy working in the systems and building. To do this, we leverage some or all of the following:
 
 - Familiarity with C# & .NET Core
 - Front-end development 
