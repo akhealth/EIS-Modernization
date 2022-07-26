@@ -73,7 +73,7 @@ This table outlines the capabilities we expect each role will have.
 <td>Common {all roles}</td>
 <td><ul>
 <li><p>Access Alaska WAN</p></li>
-<li><p>Access DHSS domain secured resources</p></li>
+<li><p>Access DOH domain secured resources</p></li>
 <li><p>Create, read, update docs on SharePoint</p></li>
 <li><p>Read and update Azure DevOps</p></li>
 <li><p>Read and post messages to Microsoft Teams</p></li>
