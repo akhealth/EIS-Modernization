@@ -7,6 +7,7 @@ Goals, vision and strategies described herein were derived from Technical Strate
 | Committed to GitHub | December 2018 |
 | Reviewed | June 2019 |
 | Updated | August 2021 |
+| Updated | July 2022 |
 
 **Challenge**:  We will move the programs currently in EIS off the mainframe within 5 years.  This item identified by the team as a strategy is in fact a goal of the EIS modernization project.
 
@@ -38,8 +39,8 @@ Strategies have been organized in themes. The themes are a synthesis of specific
 2.  We will embrace a service-oriented architecture model, moving towards many experiences built using many distinct components that effortlessly interact through APIs.
 3.  We will embrace mobility of our workforce and clients and ensure our systems work anywhere.
 
-### Leverage and enhance DHSS, State of Alaska and federal partner technology standards and processes
-1.  We will leverage and enhance DHSS IT standards and OIT guidance (does not imply complete adherence).
+### Leverage and enhance DOH, State of Alaska and federal partner technology standards and processes
+1.  We will leverage and enhance DOH IT standards and OIT guidance (does not imply complete adherence).
 2.  We will move to a service-oriented architecture, consistent with MITA and CMS Seven Conditions and Standards.
 3.  We will maximize use of department Health Information Technology (HIT) expenditures through reuse of shared technology and business services.
 
