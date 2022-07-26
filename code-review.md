@@ -4,7 +4,7 @@
 
 It is important to approach a code review with the right frame of mind:
 
-* Expect to ask lots of questions, not as an interrogation, but as an ongoing conversation, taking place between DHSS and the vendor.
+* Expect to ask lots of questions, not as an interrogation, but as an ongoing conversation, taking place between DOH and the vendor.
 * This is an Agile process and, as such, we treat the output of every sprint as a completed product. Security, accessibility, UX, tests, browser compatibility, etc. are not features, to be implemented in future sprints, but are things that we expect to be incorporated constantly, and completed at the end of each sprint.
 * Remember that we are all learning together here. If you see something in the code that you don’t understand, it’s incumbent on you to say so. Maybe you know something that the developer doesn’t, maybe the developer knows something that you don’t, but they only way to find out is to ask.
 
