@@ -43,13 +43,13 @@ need.
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | State of Alaska LDAP Account | Establishes identity to grant access to State of Alaska managed resources                                                 |
 | State of Alaska VPN          | Establishes account to access/connect to the State of Alaska virtual private network (VPN) services                       |
-| DHSS Domain Account          | Establishes identity to grant access to DHSS managed resources                                                            |
-| DHSS DPA SharePoint          | Collaboration portal for deliverable and other documentation                                                              |
+| DOH Domain Account          | Establishes identity to grant access to DOH managed resources                                                            |
+| DOH DPA SharePoint          | Collaboration portal for deliverable and other documentation                                                              |
 | Azure DevOps                 | Work-management, Code-delivery/management, continuous-integration / continuous-deployment (CI/CD), security scanning, unit-test automation |
 | Microsoft Teams              | Messaging and threaded discussion                                                                                         |
-| Alaska DHSS GitHub           | Public repository for EIS-M documentation, code and solicitation materials                                                 |
+| Alaska DOH GitHub           | Public repository for EIS-M documentation, code and solicitation materials                                                 |
 | Mural                        | Sprint ceremonies and other visual materials (product roadmap, etc.)                                                      |
-| EIS-M Dev Environment         | The resources required to perform development activities for the Unified Search product increment                         |
+| EIS-M Dev Environment         | The resources required to perform development activities                          |
 
 ## Capabilities and Access
 
@@ -165,7 +165,7 @@ This table shows the access we expect each role will need.
 <td>X</td>
 </tr>
 <tr class="odd">
-<td>DHSS domain account</td>
+<td>DOH domain account</td>
 <td>X</td>
 <td>X</td>
 <td>X</td>
@@ -174,7 +174,7 @@ This table shows the access we expect each role will need.
 <td>X</td>
 </tr>
 <tr class="even">
-<td>DHSS SharePoint</td>
+<td>DOH SharePoint</td>
 <td>X</td>
 <td>X</td>
 <td>X</td>
@@ -201,7 +201,7 @@ This table shows the access we expect each role will need.
 <td>X</td>
 </tr>
 <tr class="odd">
-<td>Alaska DHSS GitHub</td>
+<td>Alaska DOH GitHub</td>
 <td>X</td>
 <td>X</td>
 <td>X</td>
@@ -232,7 +232,7 @@ This table shows the access we expect each role will need.
 
 # Access procedures
 
-This section outlines procedures to grant access. Access to DHSS managed
+This section outlines procedures to grant access. Access to DOH managed
 resources must be formally requested, sponsored and granted. All vendor
 access requests must be submitted through the EIS-M PMO.
 
@@ -242,15 +242,15 @@ approved.
 
 | **Resource**                 | **Access managed by**                    | **Request method**                                                                                                                                                                              |
 | ---------------------------- | ---------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| State of Alaska LDAP account | DHSS IT Help Desk and OIT                | DPA PMO and vendor staff member completes Non-DHSS Employee Account Request and submits per instructions to HSS ITS Help Desk. Help Desk assigns to HSS and/or OIT Admins for account creation. |
-| State of Alaska VPN          | DHSS IT Help Desk and OIT                | DPA PMO and vendor staff member completes Non-DHSS Employee Account Request and submits per instructions                                                                                        |
-| DHSS domain account          | DHSS IT Help Desk and DHSS IT Operations | DPA PMO and vendor staff member completes Non-DHSS Employee Account Request and submits per instructions                                                                                        |
-| DHSS SharePoint              | DHSS EIS-M PMO                           | DPA PMO reviews, approves and grants access                                                                                                                                                     |
-| Azure DevOps                 | DHSS IT Business Applications            | DPA PMO submits request to HSS ITS Help Desk. Help Desk assigns ticket to TFS Admins                                                                                                            |
-| Microsoft Teams              | DHSS IT Business Applications            | DPA PMO submits request to HSS ITS Help Desk. Help Desk assigns ticket to the AlaskaDHSS GitHub Admins                                                                                           |
-| Alaska DHSS GitHub           | DHSS IT Business Applications            | DPA PMO submits request to ITS Help Desk. Help Desk Assigns to Alaska DHSS GitHub Admins.                                                                                                       |
-| Mural                        | DHSS EIS-M PMO                          | DPA PMO reviews, approves and grants access                                                                                                                                                    |
-| EIS-M Dev Env                 | DHSS IT Business Applications            | DPA PMO submits request to ITS Help Desk. Help Desk assigns to EIS-M Dev Environment Admins                                                                                                      |
+| State of Alaska LDAP account |DOH IT Help Desk and OIT                | DPA PMO and vendor staff member completes Non-DOH Employee Account Request and submits per instructions to DOH ITS Help Desk. Help Desk assigns to DOH and/or OIT Admins for account creation. |
+| State of Alaska VPN          | DOH IT Help Desk and OIT                | DPA PMO and vendor staff member completes Non-DOH Employee Account Request and submits per instructions                                                                                        |
+| DOH domain account          | DOH IT Help Desk and DOH IT Operations | DPA PMO and vendor staff member completes Non-DOH Employee Account Request and submits per instructions                                                                                        |
+| DOH SharePoint              | DOH EIS-M PMO                           | DPA PMO reviews, approves and grants access                                                                                                                                                     |
+| Azure DevOps                 | DOH IT Business Applications            | DPA PMO submits request to DOH ITS Help Desk. Help Desk assigns ticket to Azure Admins                                                                                                            |
+| Microsoft Teams              | DOH IT Business Applications            | DPA PMO submits request to DOH ITS Help Desk. Help Desk assigns ticket to the Alaska DOH GitHub Admins                                                                                           |
+| Alaska DOH GitHub           | DOH IT Business Applications            | DPA PMO submits request to DOH Help Desk. Help Desk Assigns to Alaska DOH GitHub Admins.                                                                                                       |
+| Mural                        | DOH EIS-M PMO                          | DPA PMO reviews, approves and grants access                                                                                                                                                    |
+| EIS-M Dev Env                 | DOH IT Business Applications            | DPA PMO submits request to ITS Help Desk. Help Desk assigns to EIS-M Dev Environment Admins                                                                                                      |
 
 ## Request procedure
 
@@ -312,7 +312,7 @@ To request access:
     
       - A copy of HIPAA Training Certificate
         
-        Instructions for access to the DHSS HIPAA Training course will
+        Instructions for access to the DOH HIPAA Training course will
         be provided with the Access Request packet.
 
 ***Please allow up to 10 business days for approved accounts to be
