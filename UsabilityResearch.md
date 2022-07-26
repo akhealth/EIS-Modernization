@@ -38,23 +38,23 @@ Our ultimate goal is increased productivity as we move DPA workers into a modern
 
 1. Applications worked Timely
 
-    Timeliness performance is an important aspect of benefit issuance.   [SNAP applications must be processed and benefits provided within 30 days of the application date, or within 7 days for expedited applications](http://dpaweb.hss.state.ak.us/manuals/fs/fsp.htm). [Medicaid applications must be processed in 45 days](http://dpaweb.hss.state.ak.us/manuals/MAGI2/magi.htm).  The DPA’s Research & Analysis unit, responsible for mandatory federal reporting, regularly produces Timeliness Performance reports.  These reports will be used to produce this metric, as they measure the percentage of applications processed in a timely manner. We will average the timeliness performance weighted by percentage of programs offered. Our current timeliness percentage, averaged across all programs, is 93%, while our goal is 95% [timeliness](http://dpaweb.hss.state.ak.us/node/354).
+    Timeliness performance is an important aspect of benefit issuance.   [SNAP applications must be processed and benefits provided within 30 days of the application date, or within 7 days for expedited applications](http://dpaweb.hss.state.ak.us/manuals/fs/fsp.htm). [Medicaid applications must be processed in 45 days](http://dpaweb.hss.state.ak.us/manuals/MAGI2/magi.htm).  The DPA’s Research & Analysis unit, responsible for mandatory federal reporting, regularly produces Timeliness Performance reports.  These reports will be used to produce this metric, as they measure the percentage of applications processed in a timely manner. We will average the timeliness performance weighted by percentage of programs offered. Our goal, across all programs, is 95% timely performance.
 
 2. Acceptable Error Rate
 
-   Reducing error rates is another important goal. The case error rate will be generated from the division’s case management system by a Public Assistance Analyst assisting the project, who generates a statewide summary of each program’s error rates within a given time frame. We are currently updating these yearly with twelve months’ data.We will average the case error rate weighted by the percentage of total sample cases for all programs. Our current error rate across all programs is 25%, and our goal is 8%. In 2020, the error rate was 11%. The increase is due to an expansion in the category of errors. Previously, errors were only reported when the benefit amount was incorrect, or the category or subtype was incorrect. In 2020, the division began counting errors in correspondence, even when the error does not affect the benefit amount or category.
+   Reducing error rates is another important goal. The case management system in use by the DPA (Current) contains a reporting feature which allows Public Assistance Analysts to generate  “Unit Summary” reports of each program’s error rates. We will average the case error rate weighted by the percentage of total sample cases for all programs.  Our goal is 8% error rate across all programs.
 
 3. Applications Per Day Per Eligibility Technician
 
-   Increasing the speed at which we are able to process applications and recertification will provide better service to our clients. By reducing the time a client needs to wait for an eligibility decision, we will reduce the number calls, in person requests to district offices, and duplicate online applications. 
+   Increasing the speed at which we are able to process applications will provide better service to our clients. By reducing the time a client needs to wait for an eligibility decision, we will reduce the number calls, in person requests to district offices, and duplicate online applications. 
 
    To obtain this metric, we work with the contractor for our workflow management platform, Current™. 
 
-   The metric will consider the number of applications received in the last quarter, the processing time for each type of application, and the average transaction type to arrive at average applications per day.
+   The metric will consider the number of applications received in the last month, the processing time for each type of application, and the average transaction type to arrive at average applications per day.
 
    The average transaction time in minutes for each program will be weighted by the volume of applications for that program in relation to all applications. We will use 390 minutes, the expected work time for each day, divide by it the average processing time, which will provide the average applications worked per day per worker.
 
-   Our current average metric is 5, and our goal is 9 applications per day, per worker. 
+   Our goal is 9 applications per day, per worker. 
    
    These three ‘overall’ metrics will be measured separately through program information analyst’s regularly scheduled divisional reports, and through coordination with case management consultants working with the division as noted above, and shared with stakeholders through the updated metrics on the [roadmap](https://app.mural.co/t/dhssalaska0106/m/dhssalaska0106/1576183680860/c1682951c77a41f29cb684cff893ff837f70b084).
 
@@ -69,9 +69,15 @@ The Division of Public Assistance (DPA) workers are assigned work according to a
 
 The user group, or Subject Matter Experts (SME), will be in place before the vendor begins working. As soon as practicable after the contract has been awarded, a SME group will be assembled with the help of DPA leadership. 
 
+Please note that **Usability Research** is not **User Acceptance Testing**.   User Acceptance Testing (UAT) User  is done near the end of the design process. It is generally used for the developers to prove to the client that the project, or feature is complete according to the acceptance criteria, and ready to implement.  Usability Research is about measuring how easy the developed software is for their users. Usability testing is effectively needed to begin at the earliest of the design phase in the software development lifecycle (SDLC). It assists with the design of the feature or increment. 
+
+UAT will be performed by the Division Operations Systems support team, driven by the PBI's and testing packages within Azure DevOps.
+
+Usability Research will be conducted by actual users on DPA's Technology and Process Development team, as coordinated with the Public Assistance Field Service Manager (PAFSM) for that group.
+
 #### SME Assignment
 
-1. DPA director, or designee, sends SME request to Regional Managers and Supervisors:
+1. DPA director, or designee, sends SME request to Technology and Process Development team PAFSM:
    
     a. Description of the contract
     b. How many users are needed
@@ -79,9 +85,8 @@ The user group, or Subject Matter Experts (SME), will be in place before the ven
     d. What level of expertise is optimal for the SME group
     e. Time commitment needed
     f. Response deadline
-2. Regional Managers and Supervisors respond with list of employee names
-3. DPA director, or designee, forwards SME names to Project Management Office (PMO)
-4. PMO sends welcome letter:
+2. PAFSM responds with list of employee names
+3. Project Management Office (PMO) sends welcome letter:
     a. Introduces contract purpose
     b. SME participation parameters
         i. Method of research data collection
@@ -96,7 +101,7 @@ Each communication with the user group:
 ### Discovery Session Format
 The format of the Discovery session should be as minimally invasive as possible, due to the heavy workloads of all DPA field services staff.
 
-Each session’s purpose is to gather usability information on the present design from users based on prepared scripts; questions about current design elements.
+Each session’s purpose is to gather usability information on the present design from users based on prepared scripts and questions about current design elements.
 
 The script’s questions will gather responses as the users navigate through a task in the existing interface or a prototype of the design.  
 
@@ -157,19 +162,12 @@ The cadence of usability testing during a two week sprint toward completing the 
 
 Users should be scheduled immediately following identification of needed user information, early in the first week of the sprint to afford a week’s notice to users and supervisors.   
 
-## Pre-Production Usability Testing
-During the last few weeks of a feature contract, we will conduct the State of Alaska technical standards required pre-production usability testing. We will use the opportunity to assure that the feature has met established criteria as defined in the requirements for that feature.  [Technical and information security requirements for pre-production testing are not covered in this document](https://go.dhss.ak.local/intranet/Home/FMSPub/Shared%20Documents/741SystemPlanningandAcceptance.pdf#PageMode=none&navpanes=0&page=1&statusbar=0&toolbar=1&view=FitH).
+## Pre-Production Usability Testing (User Acceptance Testing)
+During the last few weeks of a feature contract, we will conduct the State of Alaska technical standards required pre-production usability testing, or UAT. We will use the opportunity to assure that the feature has met established criteria as defined in the requirements for that feature.  [Department Testing Policy](https://go.dhss.ak.local/intranet/Home/FMSPub/Shared%20Documents/741SystemPlanningandAcceptance.pdf#PageMode=none&navpanes=0&page=1&statusbar=0&toolbar=1&view=FitH).
 
 Our user testing criteria for this type of testing will be based on our Alaska Product Roadmap customer promises, listed with each increment of each milestone.  Each feature developed to support the customer promise will be tested, documented, and linked in Azure DevOps.
 
-The tests will be performed using the below two methods. These methods will be occur in parallel during the Pre-Production testing time period:
-
-1. With designated Subject Matter Experts (SME’s), guided and documented by the EIS-M Project Management Office (PMO). 
-    a. Up to 10 Users may receive test cases via email to complete individually and return, with screen shots of the results, to the PMO for logging into Azure DevOps. 
-    OR
-    b. A group testing session with up to 10 users wherein multiple tests are performed simultaneously within one session. 
-    
-2. Independently by Systems operations, accessing test cases from Azure DevOps, and logging results into Azure DevOps.
+The tests will be performed independently by Division Operations Systems Systems operations team, accessing test cases from Azure DevOps, and logging results into Azure DevOps.
    
 Test cases will be written from the steps iterated for each scenario of each story in Azure DevOps.
 
@@ -201,7 +199,7 @@ Comments should be as complete as possible when reporting bugs:
 It will be the responsibility of both PMO and Systems operations to complete the tests and log bugs as needed into Azure DevOps.
 
 ### Testing Teams
-The User testing team will be comprised of SME’s who have been involved in the development of the application, as well as systems operations testers.
+The Usability testing team will be comprised of assigned SME’s from the Technology and Process Development team who will be involved in the development of the application. The User Acceptance Team is comprised of  as well as systems operations testers.
 - The PMO will notify systems operations at least two weeks in advance of final user testing before the feature is released into production.
 
 ## Post Production Usability Testing
