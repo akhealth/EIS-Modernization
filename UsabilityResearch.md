@@ -30,10 +30,10 @@ The purpose of the document is to provide an overview of the types of usability 
 3. Pre-Production usability testing
 4. Post Production usability testing
 
-We will use the same three metrics for overall usability with which we can gauge our overall success at each increment toward completion milestones in our [roadmap](https://app.mural.co/t/gsa6/m/gsa6/1493828126408/2c1fd30717381a20f4bf251e57a1c344f9e2c3ba), providing an overview. Discovery refers to development testing to drive design. Pre-Production usability testing represents final user testing prior to implementation to meet state technological procedure. Post production usability data collection to assure that we’ve met incremental goals, and to gather information toward design of the next increment.
+We will use the same three metrics for overall usability with which we can gauge our overall success at each increment toward completion milestones in our [roadmap](https://app.mural.co/t/gsa6/m/gsa6/1493828126408/2c1fd30717381a20f4bf251e57a1c344f9e2c3ba), providing an overview. Discovery refers to development testing to drive design. Pre-Production usability testing represents final acceptance testing prior to implementation to meet state technological procedure. Post production usability data collection to assure that we’ve met incremental goals, and to gather information toward design of the next increment.
 
 ## Overview Metrics
-When developing our product [roadmap](https://app.mural.co/t/dhssalaska0106/m/dhssalaska0106/1576183680860/c1682951c77a41f29cb684cff893ff837f70b084), the ability to gather information at each increment to help us quantify our progress was needed. Metrics provide clarity, and tangible standards by which we can focus our efforts.  We will update the metrics following the completion of each increment toward a milestone in our [roadmap](https://app.mural.co/t/dhssalaska0106/m/dhssalaska0106/1576183680860/c1682951c77a41f29cb684cff893ff837f70b084). 
+When developing our product [roadmap](https://app.mural.co/t/dhssalaska0106/m/dhssalaska0106/1576183680860/c1682951c77a41f29cb684cff893ff837f70b084), the ability to gather information to help us quantify our progress was needed. Metrics provide clarity, and tangible standards by which we can focus our efforts.  We will update the metrics monthly toward a milestone in our [roadmap](https://app.mural.co/t/dhssalaska0106/m/dhssalaska0106/1576183680860/c1682951c77a41f29cb684cff893ff837f70b084). 
 Our ultimate goal is increased productivity as we move DPA workers into a modern eligibility system. For this reason, the following three measures were chosen: 
 
 1. Applications worked Timely
@@ -48,7 +48,7 @@ Our ultimate goal is increased productivity as we move DPA workers into a modern
 
    Increasing the speed at which we are able to process applications will provide better service to our clients. By reducing the time a client needs to wait for an eligibility decision, we will reduce the number calls, in person requests to district offices, and duplicate online applications. 
 
-   To obtain this metric, we work with the contractor for our workflow management platform, Current™. 
+   To obtain this metric, we use the "Performance Detail Report" from our workflow management platform, Current™.
 
    The metric will consider the number of applications received in the last month, the processing time for each type of application, and the average transaction type to arrive at average applications per day.
 
@@ -69,9 +69,9 @@ The Division of Public Assistance (DPA) workers are assigned work according to a
 
 The user group, or Subject Matter Experts (SME), will be in place before the vendor begins working. As soon as practicable after the contract has been awarded, a SME group will be assembled with the help of DPA leadership. 
 
-Please note that **Usability Research** is not **User Acceptance Testing**.   User Acceptance Testing (UAT) User  is done near the end of the design process. It is generally used for the developers to prove to the client that the project, or feature is complete according to the acceptance criteria, and ready to implement.  Usability Research is about measuring how easy the developed software is for their users. Usability testing is effectively needed to begin at the earliest of the design phase in the software development lifecycle (SDLC). It assists with the design of the feature or increment. 
+Please note that **Usability Research** is not **User Acceptance Testing**.   Acceptance Testing is completed near the end of the design process. It is generally used for the developers to prove to the client that the project, or feature is complete according to the acceptance criteria, and ready to implement.  Usability Research is about measuring how easy the developed software is for their users. Usability testing is effectively needed to begin at the earliest of the design phase in the software development lifecycle (SDLC). It assists with the design of the feature or increment. 
 
-UAT will be performed by the Division Operations Systems support team, driven by the PBI's and testing packages within Azure DevOps.
+Acceptance testing will be performed by the Division Operations Systems support team, driven by the PBI's and testing packages within Azure DevOps.
 
 Usability Research will be conducted by actual users on DPA's Technology and Process Development team, as coordinated with the Public Assistance Field Service Manager (PAFSM) for that group.
 
