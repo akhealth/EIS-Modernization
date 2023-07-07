@@ -18,9 +18,9 @@ We'll do this through an incremental transition to a more modular product archit
 
 To facilitate this modular approach to system development, we will be incrementally shifting toward a modular product architecture. New development will be "loosely coupled" to the existing product. We'll then incrementally shift responsibilities to the new modules.
 
-**We've illustrated the strategy in this presentation: ["Incrementally shifting toward a modular experience" presentation](https://github.com/AlaskaDHSS/EIS-Modernization/blob/master/assets/modular-experience2021.pdf).**
+**We've illustrated the strategy in this presentation: ["Incrementally shifting toward a modular experience" presentation](https://github.com/akhealth/EIS-Modernization/blob/master/assets/modular-experience2021.pdf).**
 
-[![Screenshot of presentation](https://github.com/AlaskaDHSS/EIS-Modernization/blob/master/assets/modular-experience-deck.jpg)
+[Screenshot of presentation](https://github.com/akhealth/EIS-Modernization/blob/master/assets/modular-experience-deck.jpg)
 
 ### Unified product design
 
@@ -36,9 +36,9 @@ Moving forward we plan to:
 - Share identity/authentication across the system for fluid user movement between pages/modules
 - Treat the homepage and search as primary means of navigation across the system
 
-**We have developed a [demonstration website](https://federalist-proxy.app.cloud.gov/site/18f/ak-modular-experience/portal.html) that illustrates these patterns.** 
+**We have developed a [demonstration website](https://akhealth.github.io/EIS-Modernization/assets/ak-modular-experience/portal.html) that illustrates these patterns.** 
 
-[![Screenshot of demonstration website ](assets/product-architecture-demo.jpg)](https://federalist-proxy.app.cloud.gov/site/18f/ak-modular-experience/portal.html)
+[![Screenshot of demonstration website ](assets/product-architecture-demo.jpg)](https://akhealth.github.io/EIS-Modernization/assets/ak-modular-experience/portal.html)
 
 For new modules being developed, each will adopt a global header comprised of the ARIES logo/link to home, breadcrumb navigation, link to search start screen, the user's name and office, and logout button. All modules would load efficiently across geographies and display/function properly on different device types and using various modern and necessary browsers. Module teams are not responsible for user interface elements outside of their module.
 
@@ -49,4 +49,3 @@ For new modules being developed, each will adopt a global header comprised of th
 - Over time, we anticipate shared UI patterns will emerge and shared libraries may be developed. At this time, we do not want to prematurely optimize for that future state.
 - The one prescriptive design choice imposed on new modules is that they should institute a global header design including the ARIES logo/link to home, breadcrumb navigation, link to search home, the user's name and office, and logout button.
 - For subsequent modules, Alaska will reevaluate this approach and may adjust course as needed.
-
