@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html itemscope itemtype="http://schema.org/WebPage" class="bg-cream">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="css/united.app.css" type="text/css" charset="utf-8" />
+  <link href="https://fonts.googleapis.com/css?family=Roboto+Mono:200,400,700" rel="stylesheet">
+  <title>Forms</title>
+</head>
+
+
+<body class="bg-white lh-body m0 pt0 pb8 fw300">
+  <div class="mx-auto p4 w100ct maxw-md">
+  <form >
+    <fieldset>
+      <legend class="">User Information</legend>
+      
+<div class="row f-center pt05 mt05 bt1px bt-solid bt-gray-10 ">
+  <label class="w50 f1 lh-single m0 mt0 right pr2">First name</label>
+
+  
+  <input class="f2" type="text" name="first_name" />
+  
+</div>
+
+      
+<div class="row f-center pt05 mt05 bt1px bt-solid bt-gray-10 ">
+  <label class="w50 f1 lh-single m0 mt0 right pr2">Last name</label>
+
+  
+  <input class="f2" type="text" name="last_name" />
+  
+</div>
+
+      
+<div class="row f-center pt05 mt05 bt1px bt-solid bt-gray-10 ">
+  <label class="w50 f1 lh-single m0 mt0 right pr2">User ID</label>
+
+  
+  <input class="f2" type="text" name="user_id" />
+  
+</div>
+
+      
+<div class="row f-start pt05 mt05 bt1px bt-solid bt-gray-10 ">
+  <label class="w50 f1 lh-single m0 pt105 right pr2">Description</label>
+
+  
+  <textarea class="f2" name="description" placeholder="Enter description here..."></textarea>
+  
+</div>
+
+    </fieldset>
+    <fieldset>
+      <legend>Select only one</legend>
+      <div>
+        <input id="math" type="checkbox" name="maths" value="on">
+        <label for="math">Math</label>
+      </div>
+      <div>
+        <input id="physics" type="checkbox" name="physics" value="on">
+        <label for="physics">Physics</label>
+      </div>
+    </fieldset>
+    <fieldset>
+      <legend>Select all that apply</legend>
+      <div>
+        <input id="chemistry" type="radio" name="subject" value="maths">
+        <label for="chemistry">Chemistry</label>
+      </div>
+      <div>
+        <input id="earth-science" type="radio" name="subject" value="physics">
+        <label for="earth-science">Earth Science</label>
+      </div>
+    </fieldset>
+    <div>
+      <label>Pick from the following</label>
+      <select name="dropdown">
+        <option value="Maths" selected>Maths</option>
+        <option value="Physics">Physics</option>
+      </select>
+  </div>
+    <input type="file" name="fileupload" accept="image/*" />
+    <input type="submit" name="submit" value="Submit" />
+    <input type="reset" name="reset"  value="Reset" />
+    <input type="button" name="ok" value="OK"  />
+
+    <fieldset>
+        <legend>Billing Address</legend>
+        <label for="billAddress">Address</label><input type="text" id="billAddress" name="billAddress" />
+        <label for="billCity">City</label><input type="text" id="billCity" name="billCity" />
+        <label for="billProvince">Province</label><input type="text" id="billProvince" name="billProvince" />
+        <label for="billPC" >Postal Code</label><input type="text" id="billPC" name="billPC" />
+    </fieldset>
+    <div>
+      <label>Where are you from?</label>
+      <select>
+        <optgroup label="USA">
+            <option>Alabama</option>
+            <option>Alaska</option>
+            <option>Arizona</option>
+        </optgroup>
+        <optgroup label="Canada">
+            <option>Alberta</option>
+            <option>British Columbia</option>
+            <option>Manitoba</option>
+        </optgroup>
+      </select>
+    </div>
+  </form>
+</div>
+
+</body>
+
+</html>
