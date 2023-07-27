@@ -30,10 +30,10 @@ The purpose of the document is to provide an overview of the types of usability 
 3. Pre-Production usability testing
 4. Post Production usability testing
 
-We will use the same three metrics for overall usability with which we can gauge our overall success at each increment toward completion milestones in our [roadmap](https://app.mural.co/t/gsa6/m/gsa6/1493828126408/2c1fd30717381a20f4bf251e57a1c344f9e2c3ba), providing an overview. Discovery refers to development testing to drive design. Pre-Production usability testing represents final acceptance testing prior to implementation to meet state technological procedure. Post production usability data collection to assure that we’ve met incremental goals, and to gather information toward design of the next increment.
+We use the same three metrics for overall usability with which we can gauge our overall success at each increment toward completion milestones in our [roadmap](https://app.mural.co/t/gsa6/m/gsa6/1493828126408/2c1fd30717381a20f4bf251e57a1c344f9e2c3ba), providing an overview. Discovery refers to development testing to drive design. Pre-Production usability testing represents final acceptance testing prior to implementation to meet state technological procedure. Post production usability data collection to assure that we’ve met incremental goals, and to gather information toward design of the next increment.
 
 ## Overview Metrics
-When developing our product [roadmap](https://app.mural.co/t/dhssalaska0106/m/dhssalaska0106/1576183680860/c1682951c77a41f29cb684cff893ff837f70b084), the ability to gather information to help us quantify our progress was needed. Metrics provide clarity, and tangible standards by which we can focus our efforts.  We will update the metrics monthly toward a milestone in our [roadmap](https://app.mural.co/t/dhssalaska0106/m/dhssalaska0106/1576183680860/c1682951c77a41f29cb684cff893ff837f70b084). 
+When developing our product [roadmap](https://app.mural.co/t/dhssalaska0106/m/dhssalaska0106/1576183680860/c1682951c77a41f29cb684cff893ff837f70b084), the ability to gather information to help us quantify our progress was needed. Metrics provide clarity, and tangible standards by which we can focus our efforts.  We update our metrics monthly toward a milestone in our [roadmap](https://app.mural.co/t/dhssalaska0106/m/dhssalaska0106/1576183680860/c1682951c77a41f29cb684cff893ff837f70b084). 
 Our ultimate goal is increased productivity as we move DPA workers into a modern eligibility system. For this reason, the following three measures were chosen: 
 
 1. Applications worked Timely
@@ -56,8 +56,14 @@ Our ultimate goal is increased productivity as we move DPA workers into a modern
 
    Our goal is 9 applications per day, per worker. 
    
-   These three ‘overall’ metrics will be measured separately through program information analyst’s regularly scheduled divisional reports, and through coordination with case management consultants working with the division as noted above, and shared with stakeholders through the updated metrics on the [roadmap](https://app.mural.co/t/dhssalaska0106/m/dhssalaska0106/1576183680860/c1682951c77a41f29cb684cff893ff837f70b084).
+   These three ‘overall’ metrics are measured separately through program information analyst’s regularly scheduled divisional reports, and through coordination with case management consultants working with the division as noted above, and shared with stakeholders through the updated metrics on the [roadmap](https://app.mural.co/t/dhssalaska0106/m/dhssalaska0106/1576183680860/c1682951c77a41f29cb684cff893ff837f70b084).
 
+   In addition, we collect metrics specific to increasing our automation capabilities, and reducing paperwork for both our beneficiaries and our eligibility workers:
+* Renewals Using Electronic Data Sources Increase: We count the total number of renewals due and performed in the previous month, and express the total Ex-parte renewals as a percentage of all renewals performed.
+* Number of Timely Renewals Increase: We use the total number of renewals set to expire during the previous month and count those that were timely recertified,  and express the percentage of renewals that were performed timely.
+* Number of Auto Generated Prepopulated Renewal Forms Decrease: We compare renewal packets to all notices sent and express the total number of renewal packets mailed as a percentage of all notices mailed
+* Number of Manually Generated Notices Decreases: We compare manually generated notices and present the metric as a percentage of all ARIES notices
+   
 ## Discovery or User Research during each Sprint
 For each feature implemented, agile methodology implements user testing as a critical first step of each development phase. Each sprint, or period of design and development work, is dependent on user input to drive the design of the feature. 
 This user research is to discover whether the work completed in the previous sprint meets the user needs. We discover what works, what needs to be changed, and what may be added to make it better, according to the users who will use the feature.
@@ -65,13 +71,13 @@ This user research is to discover whether the work completed in the previous spr
  ![UsabilityResearchDiagram](https://github.com/AlaskaDHSS/EIS-Modernization/blob/master/assets/discovercadence.png)
 
 ### User Recruitment
-The Division of Public Assistance (DPA) workers are assigned work according to a tight schedule coordinated by their supervisors. Recruitment through volunteer workers is not possible due to this structure.  Coordination with DPA leadership, regional managers and supervisors is needed to obtain permission to “borrow” the workers, and establish the user group. 
+The Division of Public Assistance (DPA) workers are assigned work according to a tight schedule coordinated by their supervisors. Recruitment through volunteer workers is not possible due to this structure.  We coordinate with DPA's Technology and Process Development, Technology team, to assemble a user group that spans experience levels of eligibility workers from new to seasoned eligibility workers. 
 
-The user group, or Subject Matter Experts (SME), will be in place before the vendor begins working. As soon as practicable after the contract has been awarded, a SME group will be assembled with the help of DPA leadership. 
+The user group, or Subject Matter Experts (SME), will be in place before the vendor begins working. As soon as practicable after the contract has been awarded, a SME group will be assembled with the help of DPA leadership and the Technology team. 
 
 Please note that **Usability Research** is not **User Acceptance Testing**.   Acceptance Testing is completed near the end of the design process. It is generally used for the developers to prove to the client that the project, or feature is complete according to the acceptance criteria, and ready to implement.  Usability Research is about measuring how easy the developed software is for their users. Usability testing is effectively needed to begin at the earliest of the design phase in the software development lifecycle (SDLC). It assists with the design of the feature or increment. 
 
-Acceptance testing will be performed by the Division Operations Systems support team, driven by the PBI's and testing packages within Azure DevOps.
+Acceptance testing will be performed by both the Division Operations Systems support team, and the Technology team, driven by the PBI's and testing packages within Azure DevOps.
 
 Usability Research will be conducted by actual users on DPA's Technology and Process Development team, as coordinated with the Public Assistance Field Service Manager (PAFSM) for that group.
 
