@@ -14,7 +14,7 @@ Our basic principles are those familiar to anybody who has contributed to a prom
 
 ## Product Team
 
-There is a cross functional product team for the Alaska DHSS modernization project (ARIES) comprised of business, policy, security, procurement and technical specialists who are working together to move the entire enterprise forward towards its goals. In addition to this high level team, each of our procurements will be managed by a more immediate set of people who will be working with the product owner and product managers on the Alaska DHSS product team to deliver on the prioritized backlog for that particular procurement. This product team will be comprised of the following roles
+There is a cross functional product team for the Alaska DOH modernization project (ARIES) comprised of business, policy, security, procurement and technical specialists who are working together to move the entire enterprise forward towards its goals. In addition to this high level team, each of our procurements will be managed by a more immediate set of people who will be working with the product owner and product managers on the Alaska DOH product team to deliver on the prioritized backlog for that particular procurement. This product team will be comprised of the following roles
 
 * Product owner - Alaska
 * Product manager(s) - Alaska
@@ -77,10 +77,9 @@ Acceptance of work happens through the sprint as work is completed. The procedur
 2. Development team creates pull request to staging - See [Pull Request Process](/azure-devops/GitBranchingStrategy.md)
 3. The product team has verified the functionality against acceptance criteria in a deployed instance for a feature level pull request
 4. Code review takes place - See [Code Review Process](code-review.md)
-5. Pull request merged to staging DHSS code reviewer
-6. User testing happens - See "for product team to accept the user story and ship it" in _Definition of Done_ above, and [Testing Strategy](#testing-strategy)
+5. Pull request merged to staging DOH product team to accept the user story and ship it" in _Definition of Done_ above, and [Testing Strategy](#testing-strategy)
 7. Product team creates pull request to master
-8. DHSS product owner and network services deployment team merges pull request to master
+8. DOH product owner and network services deployment team merges pull request to master
 
 ## Processes
 
