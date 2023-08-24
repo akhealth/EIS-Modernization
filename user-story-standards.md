@@ -66,10 +66,10 @@ The title consists of a one line, short descriptive text that should describe an
 
 ### Description
 
-The description illustrates the motivation behind the story. This illustration will illuminate what exactly the requirement is, as well as providing    guidance to the developers. The Description should be written in the following format:  
-    * ‘As a’… <- Identifies Who? The End User, User Role or Persona
-    * ‘I want to’… <- Identifies the What? The desired function
-    * ‘So that’ or ‘Because’… <- Identifies the Why? The end result
+The description illustrates the motivation behind the story. This illustration will illuminate what exactly the requirement is, as well as providing guidance to the developers. The Description should be written in the following format:  
+* ‘As a’… <- Identifies Who? The End User, User Role or Persona
+* ‘I want to’… <- Identifies the What? The desired function
+* ‘So that’ or ‘Because’… <- Identifies the Why? The end result
 
 ### Scenarios
 
@@ -118,47 +118,47 @@ Scenarios:
 #### Steps:
 Scenario 1: Search subject is associated with a Medicaid case in ARIES, and the "Category" is visible in Person Details.
 
-Given I'm a user
--And I am viewing a person detail page
--And the search subject is associated with an ARIES case
--When ARIES case information is displayed
--Then I will see the "Category" for the ARIES case that the person is involved with.
+* Given I'm a user
+* And I am viewing a person detail page
+* And the search subject is associated with an ARIES case
+* When ARIES case information is displayed
+* Then I will see the "Category" for the ARIES case that the person is involved with.
 
 Scenario 2: Search subject is associated with an APA case in EIS and the "Category" is visible in Person Details.
 
-Given I'm a user
--And I am viewing a person detail page
--And the search subject is associated with an EIS case
--And that EIS case type is Adult Public Assistance
--When EIS case information is displayed
--Then I will see the "Category" for the EIS case that the person is involved with
+* Given I'm a user
+* And I am viewing a person detail page
+* And the search subject is associated with an EIS case
+* And that EIS case type is Adult Public Assistance
+* When EIS case information is displayed
+* Then I will see the "Category" for the EIS case that the person is involved with
 
 Scenario 3: Search subject is associated with a Medicaid case in EIS, and the "Category" is visible in Person Details.
 
-Given I'm a user
--And I am viewing a person detail page
--And the search subject is associated with an EIS case
--And that EIS case type is Medicaid
--When EIS case information is displayed
--Then I will see the "Category" for the EIS case that the person is involved with.
+* Given I'm a user
+* And I am viewing a person detail page
+* And the search subject is associated with an EIS case
+* And that EIS case type is Medicaid
+* When EIS case information is displayed
+* Then I will see the "Category" for the EIS case that the person is involved with.
 
 Scenario 4: Search subject is associated with an ATAP case in EIS, and the "Category" label is not visible in Person Details.
 
-Given I'm a user
--And I am viewing a person detail page
--And the search subject is associated with an EIS case
--And that EIS case type is ATAP 
--When EIS case information is displayed
--Then I will NOT see a "Category" label for the EIS case that the person is involved with.
+* Given I'm a user
+* And I am viewing a person detail page
+* And the search subject is associated with an EIS case
+* And that EIS case type is ATAP 
+* When EIS case information is displayed
+* Then I will NOT see a "Category" label for the EIS case that the person is involved with.
 
 5. Search subject is associated with a Food Stamps case in EIS, and the "Category" label is not visible in Person Details.
 
-Given I'm a user
--And I am viewing a person detail page
--And the search subject is associated with an EIS case
--And that EIS case type is Food Stamps (SNAP)
--When EIS case information is displayed
--Then I will NOT see a "Category" label for the EIS case that the person is involved with.
+* Given I'm a user
+* And I am viewing a person detail page
+* And the search subject is associated with an EIS case
+* And that EIS case type is Food Stamps (SNAP)
+* When EIS case information is displayed
+* Then I will NOT see a "Category" label for the EIS case that the person is involved with.
 
 ### Example 2
 
@@ -169,12 +169,12 @@ Description: As a user, I want to know that that a person is not found in either
 Scenario: A user navigates to the search page, enters search criteria, and returns "not found".
 
 #### Steps
-Given I'm a user
--And I have navigated to the Search page
--And I can see a way to enter search criteria
--And I can see a method to submit the information
-When I enter search criteria
-Then I see a message indicating that the client is not found
+* Given I'm a user
+* And I have navigated to the Search page
+* And I can see a way to enter search criteria
+* And I can see a method to submit the information
+* When I enter search criteria
+* Then I see a message indicating that the client is not found
 
 ### Example 3
 
@@ -185,11 +185,11 @@ Description: As a user, I need to see the source of an application in ARIES so t
 Scenario:  Search subject is associated with an Application in ARIES, and the source of the application can be viewed in the Person Details page.
 
 #### Steps
-Given I'm a user
-  -And I am viewing a person detail page
-  -And that person is associated with an Application
-When ARIES Application information is displayed
-Then I will see the see the source of the application
+* Given I'm a user
+* And I am viewing a person detail page
+* And that person is associated with an Application
+* When ARIES Application information is displayed
+* Then I will see the see the source of the application
 
 #### Sizing
 Each user’s story will be ‘sized’ so that the estimation of the feature or epic can be as accurate as possible for completion of the work. Methods of sizing will be chosen at the beginning of an increment, or contract.
@@ -211,17 +211,17 @@ Description: As a user, I want to find the name of a person using a Social Secur
 Scenario: A user can enter a Social Security Number, and return one name along with the SSN 
 
 Steps: 
-Given I am logged in as a user
-When I navigate to the search page
-Then I see a search page
--And I see a search field to enter Social Security Number
--And I see a method to submit the data
-When I enter a SSN
-Then I see a First and Last Name
--And I see the SSN
+* Given I am logged in as a user
+* When I navigate to the search page
+* Then I see a search page
+* And I see a search field to enter Social Security Number
+* And I see a method to submit the data
+* When I enter a SSN
+* Then I see a First and Last Name
+* And I see the SSN
 
 #### Acceptance Criteria:
--There is a search page
--There is a method to enter SSN
--There is a method to submit a search
--A First and Last name is returned when a SSN is submitted 
+* There is a search page
+* There is a method to enter SSN
+* There is a method to submit a search
+* A First and Last name is returned when a SSN is submitted 
