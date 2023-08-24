@@ -182,7 +182,7 @@ Each feature, or ability, in the newly developed application is in the form of a
 
 Within each story, there are steps to achieve the scenario’s goal. These steps are used to both develop the code, and to test the functionality. For all of the stories developed for the feature, test stories are written using the scenarios.
 
-See details in [User Story Standards](https://alaskadhss.visualstudio.com/Dpa/_wiki/wikis/Dpa.wiki?wikiVersion=GBwikiMaster&pagePath=%2FWelcome%20to%20the%20EIS%20M%20Project%2FUser%20Story%20Standards&pageId=61).
+See details in [User Story Standards](https://github.com/akhealth/EIS-Modernization/blob/master/user-story-standards.md).
 
 ### Documentation in Azure DevOps
 Each user story describing a feature will be linked to tests for each scenario within that story. 
