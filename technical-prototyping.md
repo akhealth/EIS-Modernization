@@ -10,6 +10,7 @@ Unlike most kinds of prototypes, technical prototypes are not focused on user ex
 - [Unified search](technical-prototyping-unified-search.md)
 - [FFM automation](technical-prototyping-ffm-automated-registration.md)
 - [Automated Renewals](https://github.com/AlaskaDHSS/RFP-ARIES-AutomatedRenewals/blob/main/Attachment%2007%20Automated%20Renewals%20Technical%20Prototype%20Findings.md)
+- [Modular Experience and API Framework](https://github.com/akhealth/ProtoModExp#readme)
 
 ## When we prototype
 
