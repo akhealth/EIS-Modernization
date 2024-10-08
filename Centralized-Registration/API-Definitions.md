@@ -17,19 +17,31 @@ Due to the format of the Engage Portal JSON output, there are currently no versi
 Depending on security requirements and limitations of the various systems this API will interface with, it is recommended to consider implementing resource field constraints. This can assist in debugging as well as provide more clarification to developers and users when they run into unexpected behaviour.
 
 `authorized` - True/false whether the requesting user is authorized to view the coorisponding resource
+
 `writable` - True/false whether the field is writable
+
 `canAdd` - True/False whether the field can have additional items added (i.e. adding a new household member)
+
 `canRemove` - True/false whether the field can have items removed (i.e. removing a household member)
+
 ### API Definitions
 #### High Level Overview:
 `GET /v1/cases`
+
 **Examples**
+
 `GET /v1/cases?limit=10`
+
 `GET /v1/cases?batchId=8675309`
+
 `GET /v1/cases?batchId=8675309&limit=10`
+
 **Description:** Get all cases the user is authorized to view, response is a comma seperated array
+
 **Required Parameters:** `limit` - the number of cases to return, the default is 5
+
 **Response:**
+
 ````
 HTTP/1.1 200-OK
 Content-Type: application/json
@@ -40,10 +52,16 @@ Content-Type: application/json
 
 }
 ````
+
+
 `GET /v1/cases/{caseId}`
+
 **Description:** Get case by caseId
+
 **Required Parameters:** `caseId` - The ID of a case
+
 **Response:**
+
 ````
 HTTP/1.1 200-OK
 Content-Type: application/json
@@ -53,10 +71,15 @@ Content-Type: application/json
     <JSON Object of Case information>
 }
 ````
+
 `POST /v1/cases`
+
 **Description:** Create a new case
+
 **Request Body:** `NewCase` JSON object
+
 **Response:**
+
 ````
 HTTP/1.1 201-Created
 Content-Type: application/json
@@ -66,11 +89,17 @@ Content-Type: application/json
 
 }
 ````
+
 `PUT /v1/cases/{caseId}`
+
 **Description:** Update a case
+
 **Required Parameters:** `caseId` - the case ID to be updated
+
 **Request Body:** `Case` fields to be updated
+
 **Response:**
+
 ````
 HTTP/1.1 200-OK
 Content-Type: application/json
