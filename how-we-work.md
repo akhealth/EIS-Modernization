@@ -64,7 +64,7 @@ So that we can work more efficiently and be confident in the quality of the work
   * The delivered functionality should be 508 compliant
   * Security requirements must be met
   * All documentation must be up to date (diagrams, training documentation, API documentation, help text, etc)
-  * The delivered functionality should be compatible with the latest versions of IE, Firefox, Chrome and Safari
+  * The delivered functionality should be compatible with the latest versions of Edge, Firefox, Chrome and Safari
 
 * for product team to accept the user story and ship it
   * The product team has verified the functionality in staging
