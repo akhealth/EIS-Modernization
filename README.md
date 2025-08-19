@@ -127,7 +127,7 @@ We will know we are successful if we can increase worker productivity and if ben
 
 Alaska team
 * [Alaska organizational chart](https://app.mural.co/t/dhssalaska0106/m/dhssalaska0106/1681250908368/41b7502a14f34e48d7af905c343ff0746054ef11?sender=tracymack7142) (includes product team members)
-* [Alaska Department of Health organizational chart](https://health.alaska.gov/Commissioner/Documents/orgchart.pdf)) (official departmental org chart)
+* [Alaska Department of Health organizational chart](https://health.alaska.gov/media/irchaabd/orgchart.pdf) (official departmental org chart)
 
 EIS-M project management
 * This repo - This repository serves as the overarching umbrella repo for the EIS-M project. Please note that each solicitation will have its own GitHub repository
