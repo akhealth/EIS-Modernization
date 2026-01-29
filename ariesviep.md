@@ -38,9 +38,9 @@ To perform this work, DPA uses several technical systems. The core eligibility p
 Integrated Eligibility Platform (IEP)
 DPA is developing a modern, Integrated Eligibility Platform (IEP) that enables staff to more efficiently issue correct and timely benefits to Alaskans who need help meeting their basic needs. While the IEP encompasses several systems, each with a specific purpose, the ARIES system is the cornerstone. DPA intends to leverage and extend the ARIES system to develop a fully Integrated Eligibility Platform (IEP), that supports eligibility determination and benefit administration for all public assistance programs, as well as integration/interoperability across the systems within the integrated eligibility platform.
 
-![IEP Architecture](media/iep_architecture.png)
+![IEP Architecture](media./iep_architecture.png)
 
-![IEP System](media/iep_system.png)
+![IEP System](media./IEP_system.png)
 
 Utilizing agile development methods and modular procurements, DPA has the goal of implementing an eligibility system that not only meets state and federal standards, but is user friendly for clients, eligibility staff, and technical staff.
 The State has been working with its federal partners and stakeholders to implement a continuously updated roadmap with the end- goal of a fully IEP that supports a variety of administrative services, including eligibility determination and benefit administration for all DPA public assistance programs. The roadmap is a holistic and hierarchical view of the Eligibility & Enrollment (E&E) Modernization projects.
@@ -89,7 +89,7 @@ This specialized instance of ECOS handles applicant eligibility screening, appli
 
 **Quality Assurance:** DPA's Case Review System refers to the internal case review and quality control process (and associated tools or modules) used by the Alaska Department of Health's Division of Public Assistance (DPA) to evaluate the accuracy, completeness, and compliance of public assistance case determinations, eligibility decisions, benefit calculations, and documentation for programs such as SNAP, Medicaid (via ARIES), ATAP, and others.
 
-![IEP Current State](media/iep_currentstate.png)
+![IEP Current State](media./IEP_currentstate.png)
 
 
 
