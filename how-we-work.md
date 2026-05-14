@@ -29,11 +29,13 @@ This team will participate in all scrum ceremonies in service of prioritizing, d
 
 ## Meetings
 
-There are two basic meeting rhythms: daily standups and agile sprint rituals. The sprint duration will be determined by the development team's leadership in consideration of the work to be done, and the resources available. The duration of a sprint is typically two weeks, resulting in semi-weekly agile sprint rituals.
+There are three basic meeting rhythms: daily standups, agile sprint rituals, and the scrum of scrums. The sprint duration will be determined by the development team's leadership in consideration of the work to be done, and the resources available. The duration of a sprint is typically 2-4 weeks,  agile sprint rituals are performed at the beginning and end of the sprint. The ‘Scrum of Scrums’ is generally held monthly to provide cross squad visibility and ensure alignment across vendors and projects; however, the frequency may vary based upon need.
 
 We hold regular, tight 15-minute standups, at a frequency decided by the team.
 
-As each sprint ritual begins, we conduct backlog grooming (prioritizing work in the backlog) and sprint planning (define the work to be done over the next sprint). Each sprint ends with a sprint review (demonstrate work done, and accept or reject that work) and a sprint retro. In the sprint retro, we review how the sprint went as far as people, relationships, processes and tools, identifying what went well and ways that we can improve quality and effectiveness. These are all held back-to-back, on the same day.
+As each sprint ritual begins, we conduct backlog grooming (prioritizing work in the backlog) and sprint planning (define the work to be done over the next sprint). Each sprint ends with a sprint review (demonstrate work done and accept or reject that work) and a sprint retrospective (retro). In the sprint retro, we review how the sprint went as far as people, relationships, processes and tools, identifying what went well and ways that we can improve quality and effectiveness.
+
+The Scrum of Scrums (SoS) is a technique for scaling Agile to large projects, where representatives (ambassadors) from multiple Scrum teams meet regularly — to coordinate work, manage dependencies, and remove obstacles. This "meta Scrum" ensures alignment across teams, typically lasting 15 to 60 minutes. The frequency of the SoS meetings may vary based upon the need; during phases of the project where cross vendor dependencies are higher the SoS frequency increases.
 
 All meetings are held via video teleconference. A telephone bridge is maintained as a backup method of connecting, but participants are encouraged strongly to join via desktop webcam.
 
@@ -97,7 +99,7 @@ We practice testing at three levels: unit tests, integration tests, and feature 
 
 * **Feature** - New features must have functional definitions of the thing that they are to perform, and a description of human-performable actions to verify that they perform that thing.
 
-For more information about how to create and maintain unit, integration and feature tests, see [18F’s “Automated Testing Playbook”](https://automated-testing-playbook.18f.gov/).
+For more information about how to create and maintain unit, integration and feature tests, see [18F’s “Automated Testing Playbook”](https://github.com/18F/automated-testing-playbook).
 
 ### Pull Request Process
 Documented in our [Git Branching Strategy](/azure-devops/GitBranchingStrategy.md).
