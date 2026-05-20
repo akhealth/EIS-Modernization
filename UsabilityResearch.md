@@ -70,34 +70,29 @@ This user research is to discover whether the work completed in the previous spr
 
  ![UsabilityResearchDiagram](https://github.com/AlaskaDHSS/EIS-Modernization/blob/master/assets/discovercadence.png)
 
-### User Recruitment
-The Division of Public Assistance (DPA) workers are assigned work according to a tight schedule coordinated by their supervisors. Recruitment through volunteer workers is not possible due to this structure.  We coordinate with DPA's Technology and Process Development, Technology team, to assemble a user group that spans experience levels of eligibility workers from new to seasoned eligibility workers. 
-
-The user group, or Subject Matter Experts (SME), will be in place before the vendor begins working. As soon as practicable after the contract has been awarded, a SME group will be assembled with the help of DPA leadership and the Technology team. 
-
+### Usability and User Acceptance Testing
 Please note that **Usability Research** is not **User Acceptance Testing**.   Acceptance Testing is completed near the end of the design process. It is generally used for the developers to prove to the client that the project, or feature is complete according to the acceptance criteria, and ready to implement.  Usability Research is about measuring how easy the developed software is for their users. Usability testing is effectively needed to begin at the earliest of the design phase in the software development lifecycle (SDLC). It assists with the design of the feature or increment. 
 
 Acceptance testing will be performed by both the Division Operations Systems support team, and the Technology team, driven by the PBI's and testing packages within Azure DevOps.
 
 Usability Research will be conducted by actual users on DPA's Technology and Process Development team, as coordinated with the Public Assistance Field Service Manager (PAFSM) for that group.
 
-#### SME Assignment
+#### User Recruitment
+The Division of Public Assistance (DPA) has a specific group of users within the Eligibility Modernization team, comprised of eligibility workers engaged also in direct client service as well as assistance to other workers engaged in direct beneficiary service.
 
-1. DPA director, or designee, sends SME request to Technology and Process Development team PAFSM:
-   
-    a. Description of the contract
-    b. How many users are needed
-    c. What job roles are needed for the contract
-    d. What level of expertise is optimal for the SME group
-    e. Time commitment needed
-    f. Response deadline
-2. PAFSM responds with list of employee names
-3. Project Management Office (PMO) sends welcome letter:
-    a. Introduces contract purpose
-    b. SME participation parameters
-        i. Method of research data collection
-        ii. Meeting expectations
-    c. Next Steps
+This group, called the Eligibility Technology and Testing Team, is embedded into the design process as members in our work squads throughout design to function as users for usability research. These Subject Matter Experts (SME) are users that we have embedded to facilitate our effort to have users at the core of our work.
+
+If additional stakeholders or users are needed to complete the research for development, we will work with this SME group's leadership, workforce managers, to coordinate the additional eligibility workers to complete this work.
+
+Both Usability Research and UAT will be conducted by actual users on DPA's Technology Process Development team, as coordinated with the Public Assistance Field Service manager (PAFSM) for the team and augmented if necessary with additional users for both usability and user acceptance testing.
+
+When a project team is at the point in design of needing usability test subjects, the project lead, or the contractor with the project lead's awareness, sends a request to the PAFSM that provides:
+-A description of the purpose of the session
+-How many users are needed
+-What specific job roles are needed
+-What level of expertise is optimal for the SME participants
+-Time commitment needed
+-Response deadline
 
 Each communication with the user group:
 - Is approved by DPA leadership
