@@ -1,8 +1,8 @@
 # Usability Research
 
-Version 1.3
+Version 1.4
 
-July 26, 2022
+May 20, 2026
 
 ## Table of Contents
 - [Usability Research](#usability-research)
